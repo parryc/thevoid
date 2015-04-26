@@ -1,0 +1,11 @@
+<div id="search-results">
+  <ol>
+    {{#each results}}
+    <li class="result">
+      <span class="name">{{name}}</span><br/>
+      <span class="abv">{{abv}}</span>% – <span class="style">{{style style}}</span><br/>
+      <span class="country">{{brewery_country}}</span>
+    </li>
+    {{/each}}
+  </ol>
+</div>

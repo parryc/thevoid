@@ -1,0 +1,19 @@
+<div class="row">
+  <table style="margin: 0 auto;">
+    <thead></thead>
+    <tbody>
+      {{#each results}}
+        <tr>
+          <td style="font-size: 1.7em;">
+            <span class="beer-name">{{brewery}} {{name}}</span><br/>
+            <span class="badge {{badge rating}} rating"></span>
+            <span class="flag-icon flag-icon-{{country_iso}} flag-icon-squared"></span>
+            {{#isStrong abv}}
+              <i class="strong-beer fa fa-exclamation-circle"></i> <span class="strong-beer-label">High ABV</span>
+            {{/isStrong}}
+          </td>
+        </tr>
+      {{/each}}
+    </tbody>
+  </table>
+</div>

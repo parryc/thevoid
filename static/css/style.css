@@ -1,0 +1,124 @@
+/* Skeleton Overrides
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+tr:nth-child(even) {
+  background-color: rgba(255, 110, 110, .1)
+}
+
+td {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+.centered {
+  text-align: center;
+}
+
+.title {
+  font-size: 8rem;
+}
+
+.record-button {
+  margin-top: -45px;
+  margin-left: -5px;
+  margin-right: -5px;
+}
+
+.return {
+  text-decoration: none;
+  color: inherit !important;
+}
+
+.add {
+  position: fixed;
+  bottom: 15px;
+  left: 15px;
+}
+
+.inline {
+  display: inline;
+}
+
+.inline-form {
+  display: inline-block;
+}
+
+.query-container {
+  width: 300px;
+  margin: 0 auto;
+}
+
+.query-info {
+  float: left;
+  margin-left: 15px;
+}
+
+/* Badge Ratings */
+
+.badge {
+  border-radius: 10px;
+  border: 2px solid black;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  display: inline-block;
+  width: 45px;
+  font-size: .6em;
+  text-align: center;
+  text-shadow: 1px 0px;
+  vertical-align: 2px;
+}
+
+.great:before {
+  content: 'great';
+}
+
+.great {
+  background-color: rgba(255, 110, 110, 1);
+  font-style: 'bold';
+}
+
+.good:before {
+  content: 'good';
+}
+
+.good {
+  background-color: rgba(255, 110, 110, .7);
+}
+
+.ok:before {
+  content: 'ok';
+}
+
+.ok {
+  background-color: rgba(255, 110, 110, .5);
+}
+
+.meh:before {
+  content: 'meh';
+}
+
+.meh {
+  background-color: rgba(255, 110, 110, .3);
+}
+
+.bad:before {
+  content: 'bad';
+}
+
+.bad {
+  background-color: white;
+}
+
+.strong-beer {
+  vertical-align: -4px;
+  font-size: 1.33333333em !important;
+}
+
+.strong-beer-label {
+  font-size: .75em;
+  font-style: italic;
+}
+
+.flag-icon {
+  border-radius: 30px;
+  border: 2px solid black;
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{t}}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="csrf-token" content="{{ csrf_token() }}">
+  {% assets "css_lib" %}
+    <link rel="stylesheet" href="{{ ASSET_URL }}" />
+  {% endassets %}
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  {% block page_css %}{% endblock %}
+</head>
+<body class="sticky-header">
+{% macro render_field(field, placeholder=None, show_label=None, size="col-md-3", form_css="form-control") %}
+  {% if field.errors %}
+    <div class="has-error inline-form {{size}}">
+  {% elif field.flags.error %}
+    <div class="has-error inline-form {{size}}">
+  {% else %}
+    <div class="inline-form {{size}}">
+  {% endif %}
+  {% if show_label %}
+    <label>{{field.label}}</label>
+  {% endif %}
+    {% set css_class = form_css + ' ' + kwargs.pop('class', '') %}
+    {{ field(class=css_class, placeholder=placeholder, **kwargs) }}
+  </div>
+{% endmacro %}
+
+<section>
+    <div class="container">
+      <div class="row">
+        {% with errors = get_flashed_messages(category_filter=["error"]) %}
+          {% if errors %}
+            <div>
+              {% for error in errors %}
+                {{ error }}<br>
+              {% endfor %}
+            </div>
+          {% endif %}
+        {% endwith %}
+
+        {% if form is defined and form.errors %}
+          <div>
+            {% for field, error in form.errors.items() %}
+              {% for e in error %}
+                {{ e }}<br>
+              {% endfor %}
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% with messages = get_flashed_messages() %}
+          {% if messages %}
+            <ul class=flashes>
+            {% for message in messages %}
+              <li>{{ message }}</li>
+            {% endfor %}
+            </ul>
+          {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+      </div>
+    </div>  
+</section>
+  {% assets "js_lib" %}
+    <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+  {% endassets %}
+  {% block page_js %}{% endblock %}
+</body>
+</html>

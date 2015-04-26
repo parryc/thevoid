@@ -1,0 +1,13 @@
+{% extends '/base.html' %}
+{% block page_js %}
+  {% assets "query" %}
+    <script type="text/javascript" src="{{ ASSET_URL }}"></script>
+  {% endassets %}
+{% endblock %}
+{% block content %}
+<div class="row centered">
+  <input id="query" type="text" placeholder="Search..."/>
+</div>
+
+<div id="query-results" class="row centered"></div>
+{% endblock %}
