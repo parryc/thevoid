@@ -1,0 +1,38 @@
+search.db/
+
+# Webassets cache
+.webassets-cache/
+app/static/.webassets-cache/
+
+# That random OS X file
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+.env/
+env/
+bin/
+build/
+develop-eggs/
+dist/
+eggs/
+# lib/
+.env/lib
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt

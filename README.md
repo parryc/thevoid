@@ -1,9 +1,6 @@
-# Version v1.0alpha
+# THE VOID
 
-# Installation
-
-Still in alpha - I cannot guarantee anything will work. Especially I rewrote this shit in Python.
-
+Just throw everything up on github. Cause it's hip. Hiphub. Githip. Hiphip.
 # Follow along at home!
 
 ## Pre-requisites
@@ -18,27 +15,6 @@ cd /path/to/directory
 virtualenv --no-site-packages --distribute .env && source .env/bin/activate && pip install -r requirements.txt
 . .env/bin/activate
 ```
-
-Setup database (after installing Postgres)
-
-```
-createdb beer
-python manage.py db init
-```
-If migrations already exist, use ```python manage.py db upgrade``` instead of ```python manage.py db init```. 
-
-
-## Database migration
-````
-python manage.py db migrate
-python manage.py db upgrade
-````
-
-## THE FUTURE
-
-* ALL OF THE D3. SO MUCH I'LL BE USING D4.
-* ALSO, MORE BEER.
-* More mobile friendly 
 
 ## License
 
