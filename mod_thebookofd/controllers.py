@@ -14,7 +14,7 @@ prod = 'thebookofd.eu'
 ##########
 
 
-@mod_thebookofd.route('/', methods=['GET'], host=prod)
+@mod_thebookofd.route('/', methods=['GET'], host='thebookofd.eu')
 def index():
     return render_template('thebookofd/index.html')
 
