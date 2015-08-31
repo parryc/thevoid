@@ -20,30 +20,30 @@ prod = 'parryc.com'
 # catch the static paths and send the correct static file
 # /------
 
-@mod_parryc.route('/favicon.ico', host=localhost)
+@mod_parryc.route('/favicon.ico', host=prod)
 def favicon():
   return send_from_directory(os.path.join(app.root_path, 'static'),
                              'favicon.ico', mimetype='image/vnd.microsoft.icon')
-@mod_parryc.route('/css/<css>', host=localhost)
+@mod_parryc.route('/css/<css>', host=prod)
 def css(css):
   return send_from_directory(os.path.join(app.root_path, 'static/gen'), css)
 
-@mod_parryc.route('/images/<image>', host=localhost)
+@mod_parryc.route('/images/<image>', host=prod)
 def images(image):
   return send_from_directory(os.path.join(app.root_path, 'static/images'), image)
 
 
-@mod_parryc.route('/', methods=['GET'], host=localhost)
+@mod_parryc.route('/', methods=['GET'], host=prod)
 def index():
   return render_template('parryc/index.html')
 
-@mod_parryc.route('/categories/<category>', methods=['GET'], host=localhost)
-@mod_parryc.route('/categories/<category>/', methods=['GET'], host=localhost)
+@mod_parryc.route('/categories/<category>', methods=['GET'], host=prod)
+@mod_parryc.route('/categories/<category>/', methods=['GET'], host=prod)
 def category(category):
   page = 'parryc/categories/%s/index.html' % category
   return render_template(page)
 
-@mod_parryc.route('/<title>', methods=['GET'], host=localhost)
+@mod_parryc.route('/<title>', methods=['GET'], host=prod)
 def page(title):
   page = 'parryc/%s/index.html' % title
   return render_template(page)
