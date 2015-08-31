@@ -1,29 +1,28 @@
 #!/usr/bin/env python
 # coding: utf-8
-from flask import Flask, render_template, request
+from flask import Flask, render_template, request, send_from_directory
 from flask.ext.assets import Environment, Bundle
 # from flask.ext.sqlalchemy import SQLAlchemy
 # from flask.ext.marshmallow import Marshmallow
 from flask_wtf.csrf import CsrfProtect
-
-# import flask.ext.whooshalchemy as whooshalchemy
 import os
 
 app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
-app.url_map.host_matching = True
+# app.url_map.host_matching = True
 # db = SQLAlchemy(app)
 assets = Environment(app)
 # ma = Marshmallow(app)
 csrf = CsrfProtect()
 #add csrf protection across the board
 csrf.init_app(app)
+# clear the automatically added route for static
+# https://github.com/mitsuhiko/flask/issues/1559
 
-
-# @app.route('/')
-# def index():
-#   return render_template('index.html')
-
+# enable host matching and re-add the static route with the desired host
+app.add_url_rule(app.static_url_path + '/<path:filename>',
+                 endpoint='static',
+                 view_func=app.send_static_file)
 @app.errorhandler(404)
 def not_found(error):
   print request.host
@@ -35,7 +34,6 @@ bundles = {
                ,'css/lib/skeleton.css'
                ,'css/style.css'
                ,'css/fonts/ptsans/fonts.css'
-               ,'css/lib/flag-icon.min.css'
                ,filters='cssmin',output='gen/packed.css'),
 
   # jQuery migrate is used to support older jQuery libraries that have been upgraded to 1.10
@@ -45,19 +43,14 @@ bundles = {
                ,'js/lib/handlebars-runtime.js'
                ,'js/init.js'
                ,filters='jsmin',output='gen/packed.js'
-          ),
-  'search' : Bundle('js/search.js'
-               ,'js/search-results.js' 
-               ,filters='jsmin',output='gen/search.js'),
-  'query' : Bundle('js/query.js'
-               ,'js/query-results.js' 
-               ,filters='jsmin',output='gen/query.js')
+          )
   }
 assets.register(bundles)  
 
 
 # Import a module / component using its blueprint handler variable
-
+from mod_parryc.controllers import mod_parryc
+app.register_blueprint(mod_parryc)
 from mod_leflan.controllers import mod_leflan
 app.register_blueprint(mod_leflan)
 from mod_thebookofd.controllers import mod_thebookofd

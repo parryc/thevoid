@@ -1,0 +1,143 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Parry Cadwallader" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no">
+    <link rel="stylesheet" type="text/css" href="/css/packed.css">
+    <title>parryblog | Transition</title>
+  </head>
+  <body>
+    <div id="front-page">
+      <article>
+          <h1>Parry (<em>n</em>)</h1>
+          A red-haired Minnesotan, commonly found in Berkeley. <br/>
+          Known to <a href="http://record.beer">drink beer</a>, <a class="show-writing" href="http://leflan.eu/r/learns/languages">learn languages</a>, <a href="http://www.github.com/parryc">program</a>, take pictures, <a id="writes" href="/#writing">write</a>, and <a class="show-writing" href="/categories/travel">travel</a>.
+          <br/>
+          <br/>
+          <em><span id="example-sentence">&#8275; once fought a bear to a draw. </span></em>
+          <br/>
+          <div class="center">
+            <img id="front-image" src="/images/face-black-and-white.png"/>
+          </div>
+      </article>
+    </div>
+    <div id="all-content">
+      <h1 class="page-title large-page-title">Transition</h1>
+<h1 class="page-title tiny-page-title">
+	
+		Transition
+	
+</h1>
+<div class="category-list">
+
+  <a href="/categories/travel" class="category">travel</a>
+
+  <a href="/categories/uk" class="category">uk</a>
+
+</div>
+<article>
+    <p><em>Or, How I Learned to Stop Worrying and Sleeping on a Chair Next to a Gaggle of Africans in Heathrow for 5 Hours</em></p>
+
+<p>My time in Londontown has come to an end and the last few days have passed in a blur (or…haze, depending). There have been crazy hobos, bent on stealing one’s kidneys, and there have been crazy undergrads, bent on stealing delicious muffins from string theory conferences. This trip has opened my eyes to many new things (e.g. that Jimothy really likes Smirnoff Ice) and closed them to many others (e.g. I will never, ever, have a good British accent).</p>
+
+<p>To wrap up, I present to you the last bit of pictures from the trip. This opting out of writing more is definitely not because most of the last few days were trying to get Jimothy to drink more. That would have been a horrible thing for a group of friends to do. It was spent at museums (3 hour complete traversal of the British Museum? Probably a record…for better or worse). And uh… looking at statues. (Or, in one particularly great moment, when getting Jimothy to pose in front of a statue, an entire bus of Asian tourists pulled up in front of us and all started taking pictures of him).
+<!-- more --></p>
+<figure>
+	<img src="/images/oxford.jpg" />
+	<figcaption>
+		Oxford is pretty.
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/radcliff-camera.jpg" />
+	<figcaption>
+		Radcliff Camera is a "reading room," but I'm pretty sure that's British for "giant camera." 
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/pitt-museum.jpg" />
+	<figcaption>
+		Giant tree, tiny museum. Also, the first public museum in the world.
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/nhm-london.jpg" />
+	<figcaption>
+		Natural History Museum, London
+	</figcaption>
+</figure>
+<figure>
+	<img src="/images/rosetta-stone.jpg" />
+	<figcaption>
+		The Rosetta Stone *swoooooon*
+	</figcaption>
+</figure>
+
+</article>
+<a href="/#writing"><img src="/images/logo.png" id="stamp"/></a>
+
+    </div>
+  </body>
+  <script type="text/javascript">
+      var colors = ["#FFFAF1","rgb(111,176,235)","#222222"],
+          size = 25,
+          yStart = window.innerHeight/size,
+          dictSentences = [
+            "&#8275; once fought a bear to a draw. ",
+            "&#8275; is never gonna give you up. ",
+            "Once upon a midnight dreary, &#8275; pondered weak and weary.",
+            "&#8275; spent 6 months in a leaky boat",
+            "Danger, &#8275;, danger!",
+            "You can lead a &#8275; to a computer, but you can't make him code."
+          ],
+          generateBlocks = function() {
+            var old = document.getElementsByClassName('footer-block');
+            for(i=old.length-1;i>=0; --i) {
+              old[i].parentNode.removeChild(old[i]);
+            }
+            for (var x = window.innerWidth/size+1; x >= 0; x--){    
+              for (var y = yStart+1; y >= yStart-4; y--) {
+                var square = document.createElement('div');
+                square.className = "footer-block";
+                square.style.height = "25px";
+                square.style.width = "25px";
+                square.style.position = "fixed";
+                square.style.top = (size*y)+"px";
+                square.style.left = (size*(x-1))+"px";
+                square.style['z-index'] = 2;
+                square.style.opacity = 1-(yStart-y)/4;
+
+                square.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                document.getElementsByTagName('body')[0].appendChild(square);
+              } 
+            }
+          };
+
+      sentence = document.getElementById('example-sentence');
+      sentence.innerHTML = dictSentences[Math.floor(Math.random() * dictSentences.length)]; 
+      // Hide all posts.
+      posts = document.getElementById('all-content');
+      if(posts.style.display != 'none') {
+        posts.style.display = 'none';
+      }
+
+      writes = document.getElementById('writes');
+      writes.onclick = function() {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      if(window.location.pathname !== '/' || window.location.hash === '#writing') {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      window.onresize = function() {
+        yStart = window.innerHeight/size;
+        generateBlocks();
+      }
+      generateBlocks();
+  </script>
+</html>

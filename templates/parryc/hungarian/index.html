@@ -1,0 +1,158 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Parry Cadwallader" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no">
+    <link rel="stylesheet" type="text/css" href="/css/packed.css">
+    <title>parryblog | Hungarian</title>
+  </head>
+  <body>
+    <div id="front-page">
+      <article>
+          <h1>Parry (<em>n</em>)</h1>
+          A red-haired Minnesotan, commonly found in Berkeley. <br/>
+          Known to <a href="http://record.beer">drink beer</a>, <a class="show-writing" href="http://leflan.eu/r/learns/languages">learn languages</a>, <a href="http://www.github.com/parryc">program</a>, take pictures, <a id="writes" href="/#writing">write</a>, and <a class="show-writing" href="/categories/travel">travel</a>.
+          <br/>
+          <br/>
+          <em><span id="example-sentence">&#8275; once fought a bear to a draw. </span></em>
+          <br/>
+          <div class="center">
+            <img id="front-image" src="/images/face-black-and-white.png"/>
+          </div>
+      </article>
+    </div>
+    <div id="all-content">
+      <h1 class="page-title large-page-title">Hungarian</h1>
+<h1 class="page-title tiny-page-title">
+	
+		Hungarian
+	
+</h1>
+<div class="category-list">
+
+  <a href="/categories/creations" class="category">creations</a>
+
+  <a href="/categories/languages" class="category">languages</a>
+
+</div>
+<article>
+    <p>Hungarian is a pretty cool language. It’s aggluntinating, which means you add person, tense, and all other sorts of markers directly to the stem of the verb. I’ll be using this page, and others, to chronicle my quest to learn Hungarian. Below, you’ll find two tools I’ve created to help me on my way: an inflector and an analyzer.  The inflector takes the root form (also called a lemma or dictionary form) of a verb and inflects it correctly. It assumes the word you’re inputting is Hungarian and applies rules according to the word’s character. The inflector does the opposite - put in a word you think is a Hungarian verb, click inflect, and hope it gives you something useful. Because of certain problems in naïvely doing morphological inflections, there will occasionally be ambiguous results.</p>
+
+<!-- more -->
+
+<h2 id="the-inflector">The Inflector</h2>
+
+<div class="center">
+	<select id="person" class="wide whitespace-vert">
+		<option value="1sg">1st person singular</option>
+		<option value="2sg">2nd person singular</option>
+		<option value="3sg">3rd person singular</option>
+		<option value="1pl">1st person plural</option>
+		<option value="2pl">2nd person plural</option>
+		<option value="3pl">3rd person plural</option>
+	</select>
+	<br />
+	<select id="tense" class="wide whitespace-vert">
+		<option value="">Present</option>
+		<option value="PST">Past</option>
+		<option value="COND">Conditional</option>
+		<option value="FUT">Future</option>
+		<option value="SUBJ">Subjunctive</option>
+	</select>
+	<br />
+	<div class="inflect">
+		<input id="word" type="text" placeholder="Verb" value="ért" class="wide whitespace-vert" />
+		<span id="answer">Inflection</span>
+	</div>
+	<button id="inflect">Inflect</button>
+</div>
+
+<h2 id="the-analyzer">The Analyzer</h2>
+
+<div class="center">
+	<div class="analyze">
+		<input id="unknown" type="text" placeholder="Verb" value="főzöl" class="wide whitespace-vert" />
+		<br />
+		<span id="analysis">Analysis</span>
+	</div>
+	<button id="analyze">Analyze</button>
+</div>
+
+<blockquote>With insurmountable help from <em>Hungarian: an Essential Grammar</em> by Carol H. Rounds</blockquote>
+
+</article>
+<a href="/#writing"><img src="/images/logo.png" id="stamp"/></a>
+
+	<script src="/js/aistritheoir.js" type="text/javascript"></script>
+
+	<script src="/js/analyzer.js" type="text/javascript"></script>
+
+	<script src="/js/hungarian.js" type="text/javascript"></script>
+
+	<script src="/js/hungarian-page.js" type="text/javascript"></script>
+
+    </div>
+  </body>
+  <script type="text/javascript">
+      var colors = ["#FFFAF1","rgb(111,176,235)","#222222"],
+          size = 25,
+          yStart = window.innerHeight/size,
+          dictSentences = [
+            "&#8275; once fought a bear to a draw. ",
+            "&#8275; is never gonna give you up. ",
+            "Once upon a midnight dreary, &#8275; pondered weak and weary.",
+            "&#8275; spent 6 months in a leaky boat",
+            "Danger, &#8275;, danger!",
+            "You can lead a &#8275; to a computer, but you can't make him code."
+          ],
+          generateBlocks = function() {
+            var old = document.getElementsByClassName('footer-block');
+            for(i=old.length-1;i>=0; --i) {
+              old[i].parentNode.removeChild(old[i]);
+            }
+            for (var x = window.innerWidth/size+1; x >= 0; x--){    
+              for (var y = yStart+1; y >= yStart-4; y--) {
+                var square = document.createElement('div');
+                square.className = "footer-block";
+                square.style.height = "25px";
+                square.style.width = "25px";
+                square.style.position = "fixed";
+                square.style.top = (size*y)+"px";
+                square.style.left = (size*(x-1))+"px";
+                square.style['z-index'] = 2;
+                square.style.opacity = 1-(yStart-y)/4;
+
+                square.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                document.getElementsByTagName('body')[0].appendChild(square);
+              } 
+            }
+          };
+
+      sentence = document.getElementById('example-sentence');
+      sentence.innerHTML = dictSentences[Math.floor(Math.random() * dictSentences.length)]; 
+      // Hide all posts.
+      posts = document.getElementById('all-content');
+      if(posts.style.display != 'none') {
+        posts.style.display = 'none';
+      }
+
+      writes = document.getElementById('writes');
+      writes.onclick = function() {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      if(window.location.pathname !== '/' || window.location.hash === '#writing') {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      window.onresize = function() {
+        yStart = window.innerHeight/size;
+        generateBlocks();
+      }
+      generateBlocks();
+  </script>
+</html>

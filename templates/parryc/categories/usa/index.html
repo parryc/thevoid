@@ -1,0 +1,125 @@
+<!DOCTYPE HTML>
+
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="author" content="Parry Cadwallader" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" user-scalable="no">
+    <link rel="stylesheet" type="text/css" href="/css/packed.css">
+    <title>parryblog | usa</title>
+  </head>
+  <body>
+    <div id="front-page">
+      <article>
+          <h1>Parry (<em>n</em>)</h1>
+          A red-haired Minnesotan, commonly found in Berkeley. <br/>
+          Known to <a href="http://record.beer">drink beer</a>, <a class="show-writing" href="http://leflan.eu/r/learns/languages">learn languages</a>, <a href="http://www.github.com/parryc">program</a>, take pictures, <a id="writes" href="/#writing">write</a>, and <a class="show-writing" href="/categories/travel">travel</a>.
+          <br/>
+          <br/>
+          <em><span id="example-sentence">&#8275; once fought a bear to a draw. </span></em>
+          <br/>
+          <div class="center">
+            <img id="front-image" src="/images/face-black-and-white.png"/>
+          </div>
+      </article>
+    </div>
+    <div id="all-content">
+      <h1 class="page-title large-page-title">usa</h1>
+<h1 class="page-title tiny-page-title">
+	
+		usa
+	
+</h1>
+<div class="category-list">
+
+</div>
+<article>
+    
+	<div class="category-post-block">
+		<span class="category-post gamma"><a href="/on-goals">On Goals</a></span>
+	    <small><span class="month">JUN</span> <span class="day">17</span> <span class="year">2013</span> </small>
+	    <div class="categories"><a class='category' href='/categories/canada/'>canada</a>, <a class='category' href='/categories/travel/'>travel</a>, <a class='category' href='/categories/usa/'>usa</a></div>
+	    <a href="/on-goals" class="excerpt-link">
+	    	<p><em>This post is written while away from my computer on my phone. Photos etc, to be added when I return</em></p>
+
+<p>I have a new goal. For the longest time I thought that graduating from school, getting a job, finding a girl etc wouldn’t be too bad. But no longer. I want to be a crazy homeless person who sells found items to other crazy people.</p>
+
+	    </a>
+	</div>
+
+	<div class="category-post-block">
+		<span class="category-post gamma"><a href="/hideki-matsui-fanclub-tour">Hideki Matsui Fanclub Tour</a></span>
+	    <small><span class="month">AUG</span> <span class="day">10</span> <span class="year">2011</span> </small>
+	    <div class="categories"><a class='category' href='/categories/japan/'>japan</a>, <a class='category' href='/categories/travel/'>travel</a>, <a class='category' href='/categories/usa/'>usa</a></div>
+	    <a href="/hideki-matsui-fanclub-tour" class="excerpt-link">
+	    	<p>For those who weren’t aware, I have an undying passion for baseball. More passion than a box of passion fruit, and that’s a lot of passion. When I started to think about how I was going to get from China to the States (Google suggested kayaking), I realized I could accomplish my one true dream: The Hideki Matsui Cross-Pacific Fanclub Tour (tHMCPFT for those in the know). With a special pass, one has access to all of Matsui’s special haunts in Tokyo and Seattle, behind the scenes baseball games, introductory classes on game fixing, and free pizza. Nothing better. Actually, none of this is true, but I did go to Tokyo and Seattle over the past week. This is mostly just going to be pictures. Enjoy.</p>
+
+	    </a>
+	</div>
+
+</article>
+<a href="/#writing"><img src="/images/logo.png" id="stamp"/></a>
+
+    </div>
+  </body>
+  <script type="text/javascript">
+      var colors = ["#FFFAF1","rgb(111,176,235)","#222222"],
+          size = 25,
+          yStart = window.innerHeight/size,
+          dictSentences = [
+            "&#8275; once fought a bear to a draw. ",
+            "&#8275; is never gonna give you up. ",
+            "Once upon a midnight dreary, &#8275; pondered weak and weary.",
+            "&#8275; spent 6 months in a leaky boat",
+            "Danger, &#8275;, danger!",
+            "You can lead a &#8275; to a computer, but you can't make him code."
+          ],
+          generateBlocks = function() {
+            var old = document.getElementsByClassName('footer-block');
+            for(i=old.length-1;i>=0; --i) {
+              old[i].parentNode.removeChild(old[i]);
+            }
+            for (var x = window.innerWidth/size+1; x >= 0; x--){    
+              for (var y = yStart+1; y >= yStart-4; y--) {
+                var square = document.createElement('div');
+                square.className = "footer-block";
+                square.style.height = "25px";
+                square.style.width = "25px";
+                square.style.position = "fixed";
+                square.style.top = (size*y)+"px";
+                square.style.left = (size*(x-1))+"px";
+                square.style['z-index'] = 2;
+                square.style.opacity = 1-(yStart-y)/4;
+
+                square.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+                document.getElementsByTagName('body')[0].appendChild(square);
+              } 
+            }
+          };
+
+      sentence = document.getElementById('example-sentence');
+      sentence.innerHTML = dictSentences[Math.floor(Math.random() * dictSentences.length)]; 
+      // Hide all posts.
+      posts = document.getElementById('all-content');
+      if(posts.style.display != 'none') {
+        posts.style.display = 'none';
+      }
+
+      writes = document.getElementById('writes');
+      writes.onclick = function() {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      if(window.location.pathname !== '/' || window.location.hash === '#writing') {
+        document.getElementById('front-page').style.display = 'none';
+        document.getElementById('all-content').style.display = 'block';
+      }
+
+      window.onresize = function() {
+        yStart = window.innerHeight/size;
+        generateBlocks();
+      }
+      generateBlocks();
+  </script>
+</html>

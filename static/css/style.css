@@ -1,124 +1,352 @@
-/* Skeleton Overrides
-–––––––––––––––––––––––––––––––––––––––––––––––––– */
-tr:nth-child(even) {
-  background-color: rgba(255, 110, 110, .1)
+/* parryc.com
+------------------------*/
+
+a {
+  text-decoration: none !important;
 }
 
-td {
-  padding-left: 20px !important;
-  padding-right: 20px !important;
+body {
+  font-size: 22px;
+  line-height: 1.4;
+  font-family: "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-.centered {
-  text-align: center;
+p a, footer a {
+  color: rgb(111,176,235);
 }
 
-.title {
-  font-size: 8rem;
+article {
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 75px;
 }
 
-.record-button {
-  margin-top: -45px;
-  margin-left: -5px;
-  margin-right: -5px;
-}
-
-.return {
-  text-decoration: none;
-  color: inherit !important;
-}
-
-.add {
+aside {
   position: fixed;
-  bottom: 15px;
-  left: 15px;
+  z-index: 10;
+  top: 0;
+  left: 0;
+  width: 33%;
+  height: 100%;
+  max-width: 500px;
 }
 
-.inline {
-  display: inline;
+body,aside {
+  padding: 15px 15px 15px 10px;
 }
 
-.inline-form {
+button {
+  background: #EEE;
+  font-family: Monaco, "Liberation Mono", Courier, monospace;
+  color: rgb(111,176,235);
+  padding: 5px;
+  border: 3px solid;
+  border-radius: 25px;
+}
+
+button:hover {
+  color: inherit;
+  border-color: inherit;
+  text-shadow: 1px 1px 0 black;
+}
+
+blockquote:before {
+  content: "❧ ";
+  
+}
+
+select {
+  font-family: Monaco, "Liberation Mono", Courier, monospace;
+  background: #EEE;
+  color: rgb(111,176,235);
+  padding: 5px;
+  border: 3px solid;
+  border-radius: 0;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.categories {
+  margin-top: 5px;
+}
+
+.category-list {
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 2%;
+}
+
+.category-post {
+  margin-right: 15px;
+}
+
+.category-post a {
+  font-size: 1.3em;
+  color: black;
+}
+
+.category-post a:hover {
+  text-decoration: underline;
+}
+
+.category-post-block {
+  margin-bottom: 25px;
+}
+
+/* Heh... maybe took most of this from Github's keyboard shortcuts. Love the look. */
+.category {
   display: inline-block;
+  margin-bottom: 5px;
+  padding: 3px 6px;
+  min-width: 10px;
+  text-align: center;
+  font-family: Monaco, "Liberation Mono", Courier, monospace;
+  background: #EEE;
+  color: rgb(111,176,235);
+  border-radius: 2px;
+  text-shadow: 1px 1px 0 black;
+  word-break: break-all;
 }
 
-.query-container {
-  width: 300px;
+.center {
   margin: 0 auto;
 }
 
-.query-info {
-  float: left;
-  margin-left: 15px;
+.content {
+  position: absolute;
+  left: 33%;
+  margin-left: 20px;
+  width: 60%;
 }
 
-/* Badge Ratings */
+/* Bootstrap v3 clearfix */
+.clearfix:before,
+.clearfix:after {
+  display: table;
+  content: " ";
+}
 
-.badge {
-  border-radius: 10px;
-  border: 2px solid black;
-  padding-top: 1px;
-  padding-bottom: 1px;
-  display: inline-block;
-  width: 45px;
-  font-size: .6em;
+.clearfix:after {
+  clear: both;
+}
+
+.center {
   text-align: center;
-  text-shadow: 1px 0px;
-  vertical-align: 2px;
 }
 
-.great:before {
-  content: 'great';
+.date, .date-small {
+  font-weight: bold;
+  margin-top: 3px;
 }
 
-.great {
-  background-color: rgba(255, 110, 110, 1);
-  font-style: 'bold';
+
+.excerpt-link {
+  color: inherit;
 }
 
-.good:before {
-  content: 'good';
+.excerpt-link:hover {
+  color: inherit;
 }
 
-.good {
-  background-color: rgba(255, 110, 110, .7);
+.inflect {
+  width: 306px;
+  margin: 0 auto;
+  text-align: left;
 }
 
-.ok:before {
-  content: 'ok';
+.left {
+  text-align: left;
 }
 
-.ok {
-  background-color: rgba(255, 110, 110, .5);
+#front-page a {
+  padding-left: 3px;
+  padding-right: 3px;
+  color: rgb(111,176,235);
+  border-bottom: 3px solid black;
 }
 
-.meh:before {
-  content: 'meh';
+#front-page a:hover {
+  color: white;
+  background: black;
 }
 
-.meh {
-  background-color: rgba(255, 110, 110, .3);
+.page-title {
+  width: 75%;
+  margin: 0 auto 1% auto;
 }
 
-.bad:before {
-  content: 'bad';
+.post {
+  margin-bottom: 4%;
 }
 
-.bad {
-  background-color: white;
+.post-excerpt {
+  padding-top: 15px;
 }
 
-.strong-beer {
-  vertical-align: -4px;
-  font-size: 1.33333333em !important;
+.post-excerpt .horiz {
+  width: 50%;
 }
 
-.strong-beer-label {
-  font-size: .75em;
-  font-style: italic;
+.post-excerpt .vert {
+  height: 50%;
 }
 
-.flag-icon {
-  border-radius: 30px;
-  border: 2px solid black;
+.post-title {
+  font-size: 3em;
+  font-weight: bold;
+  line-height: 1em;
+  /*bottom: 14px;*/
 }
+
+.pull-right {
+  float: right;
+}
+
+.title-small {
+  font-size: 1.5em;
+  margin-bottom: 6%;
+  margin-top: 5%;
+  color: black;
+}
+
+.whitespace-vert {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.whitespace-horz {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.wide {
+  width: 300px;
+}
+
+.wide-half {
+  width: 150px;
+}
+
+#answer {
+  padding: 10px;
+}
+
+#about {
+  position: absolute; 
+  bottom: 90px;
+}
+
+#front-page {
+  margin-top: 50px;
+}
+
+#front-image {
+  padding-top: 50px;
+}
+
+#logo {
+  margin: 0 auto;
+  display: block;
+}
+
+#stamp {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 25px;
+}
+
+#stats {
+  display: none;
+}
+
+@media(min-width: 500px){
+  .date-small {
+    display: none;
+  }
+  .tiny-post-title, .tiny-page-title {
+    display: none;
+  }
+}
+
+@media(min-width: 640px){
+  .title-small {
+    display: none;
+  }
+}
+
+
+@media(max-width: 980px){
+  .post-title {
+    font-size: 2em;
+    bottom: 0;
+    width: 175px;
+  }
+  .category-post {
+    font-size: 2em;
+  }
+  .post {
+    padding-bottom: 50px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 980px) and (min-width: 768px) {
+  .row-fluid .span4 {
+    width: 40%;
+  }
+}
+
+@media(max-width: 640px){
+  blockquote {
+    margin-right: 0;
+    margin-left: -15px;
+  }
+
+  .category {
+    font-size: .75em;
+  }
+  .title-large {
+    display: none;
+  }
+  #about {
+    bottom: 15px;
+  }
+}
+
+@media(max-width: 499px){
+  article {
+    margin-bottom: 0;
+  }
+
+  select {
+    font-size: .85em;
+  }
+
+  .large-post-title, .large-page-title, .footer-block, .date {
+    display: none;
+  }
+
+  .category {
+    font-size: .65em;
+  }
+
+  .inflect {
+    width: 250px;
+  }
+
+  .wide {
+    width: 240px;
+  }
+
+  #front-page {
+    margin-top: 0;
+    overflow: hidden;
+  }
+
+  #front-image {
+    padding-top: 15px;
+  }
+}
+
+

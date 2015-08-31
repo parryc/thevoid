@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>logo</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M100,200 C155.228478,200 200,155.228478 200,100 C200,44.7715223 155.228478,0 100,0 C44.7715223,0 0,44.7715223 0,100 C0,155.228478 44.7715223,200 100,200 Z M100,200" id="Oval 1" fill-opacity="0.720588235" fill="#3892E3"></path>
+        <text id="PC" fill="#000000" font-family="Knewave" font-size="118" font-weight="normal" x="30" y="138.700275">
+            <tspan>PC</tspan>
+        </text>
+    </g>
+</svg>
