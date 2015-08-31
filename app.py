@@ -4,7 +4,7 @@ from flask import Flask, render_template, request, send_from_directory
 from flask.ext.assets import Environment, Bundle
 # from flask.ext.sqlalchemy import SQLAlchemy
 # from flask.ext.marshmallow import Marshmallow
-from flask_wtf.csrf import CsrfProtect
+# from flask_wtf.csrf import CsrfProtect
 import os
 
 app = Flask(__name__)
@@ -13,9 +13,9 @@ app.config.from_object('config.DevelopmentConfig')
 # db = SQLAlchemy(app)
 assets = Environment(app)
 # ma = Marshmallow(app)
-csrf = CsrfProtect()
+# csrf = CsrfProtect()
 #add csrf protection across the board
-csrf.init_app(app)
+# csrf.init_app(app)
 # clear the automatically added route for static
 # https://github.com/mitsuhiko/flask/issues/1559
 
@@ -25,7 +25,7 @@ app.add_url_rule(app.static_url_path + '/<path:filename>',
                  view_func=app.send_static_file)
 @app.errorhandler(404)
 def not_found(error):
-  print request.host
+  # print request.host
   return render_template('404.html'), 404
 
 # Define static asset bundles to be minimized and deployed
