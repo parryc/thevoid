@@ -2,8 +2,6 @@
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
-from app import csrf, app
-from flask_wtf.csrf import CsrfProtect
 import os
 
 mod_parryc = Blueprint('parryc', __name__)
