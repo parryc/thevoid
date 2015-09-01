@@ -10,7 +10,7 @@ for filename in os.listdir(folder):
   # print text
   _m = re.search(r'title: (.+)',text)
   title = '#' + _m.group(1)
-  print title
+  # print title
   _m = re.search(r'categories:\s*\n- (.+)\n(- (.+)\n)?(- (.+)\n)?(- (.+)\n)?',text)
   if _m:
     categories = _m.groups()
@@ -18,6 +18,9 @@ for filename in os.listdir(folder):
     for category in categories:
       if category and '-' not in category:
         category_text += '<tag>%s</tag> ' % category
-    print category_text
+    # print category_text
   date = filename[0:10]
-  print date
+  # print date
+
+  final_text = '%s\n%s \\ %s' % (title, category_text, date)
+  print final_text 
