@@ -4,12 +4,16 @@ categories:
 - china
 title: Happy Fourth!
 -->
+#Happy Fourth!
+<tag>travel</tag> <tag>china</tag> \\ 2010-07-04
+
 In honor of our great nation's independence, me, Annie, and some other quite American Chinese people decided to celebrate with a bbq. China, however, had different plans. Plans which included a torrential downpour.
 
 *Oh hey, look, Americans heartily grilling (or rather, cursing when the coals won't light). Let's give them...ACID RAIN. I hope you like sulfuric acid flavored burgers! Mwhahaha!*
 
 We were at Hansen Gu's house, he's a pretty chill dude. And by house, I mean a real house. Like, yard, dog, multiple stories, chandeliers, automatic mahjongg table. You know, average Chinese house. On that note, anyone down for halfsies (preferably quarteries or eighties...) for an automatic mahjongg table? Heck, anyone down for a game of mahjongg period? Do any of you know how to play? Why do I know how to play?
 <!-- more -->
+
 Overall, a very nice fourth, in the torrential downpour and delicious grilled meat sort of way. Actually, the past few days have been very nice in the torrential downpour sort of way. One day was particularly nasty in terms of storms disrupting my standard daily schedule. Chinese houses do not normally have a drier as it's usually enough just to hang your clothing outside to dry. Me, trying to adapt to the culture, did the exact same thing. Though hedging my bets I only hung a shirt and a pair of boxers out there. Lo' and behold - storm comes, I come home, I look outside....no more clothing. After a little bit of searching, a nice pair of boxers chillin' 3 floors below on an air conditioner and my brand new Monkey King shirt lying in a puddle of mud on the ground floor. Lickity split I run downstairs to ask if I can get into the guy's backyard (it's walled off). No one.
 
 I am then informed that no one lives there.
@@ -33,3 +37,4 @@ But yeah, all in all, these past few days have been quite chill. Plans for the n
 * World's tallest statue of Chopin
 * Library!
 * Spending more money than planned
+

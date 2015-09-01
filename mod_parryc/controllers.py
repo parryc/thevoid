@@ -9,7 +9,7 @@ import codecs
 
 mod_parryc = Blueprint('parryc', __name__)
 
-prod = False
+prod = True
 if prod:
   host = 'parryc.com'
 else:
@@ -43,20 +43,19 @@ def image(image):
 
 @mod_parryc.route('/', methods=['GET'], host=host)
 def index():
-  return render_template('parryc/index.html')
-
-@mod_parryc.route('/categories/<category>', methods=['GET'], host=host)
-@mod_parryc.route('/categories/<category>/', methods=['GET'], host=host)
-def category(category):
-  page = 'parryc/categories/%s/index.html' % category
-  return render_template(page)
+  page = 'parryc/index.md'
+  html = get_html(page)
+  return render_template('parryc/post.html',html=html)
 
 @mod_parryc.route('/<title>', methods=['GET'], host=host)
 def page(title):
   page = 'parryc/%s.md' % title
+  html = get_html(page)
+  return render_template('parryc/post.html',html=html)
+
+def get_html(page):
   filepath = os.path.join(app.root_path, 'templates', page)
   input_file = codecs.open(filepath, mode="r", encoding="utf-8")
   text = input_file.read()
-  html = markdown.markdown(text)
-  return render_template('parryc/post.html',html=html)
+  return markdown.markdown(text)
 

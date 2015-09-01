@@ -6,10 +6,14 @@ title: Land of Opportunity
 tinyTitle: Land of Oppor-tunity
 date: 2012-05-02
 -->
+#Land of Opportunity
+<tag>travel</tag> <tag>china</tag> \\ 2012-05-02
+
 Every semester CET plans a rip-roaring adventure to some city other than Harbin, most likely in order to convince students that not all of China is cold.  The way they go about accomplishing this goal is actually quite clever: by going south. 12 hours south via train, to be precise.  Now you may be thinking "the title says land of opportunity, I was unaware NAME-OF-YOUR-COUNTRY (to appeal to a wider audience) was south of China."  And you would be right, unless you're from North Korea.  But you're not. (If you are, please comment otherwise).
 
 Yes, that's right, CET Spring Semester 2012 "Road" Trip was to Dandong, a large Chinese city on the North Korean border.  Now, clearly none of the activities involved crossing the border (unfortunately), but a lot of them involved looking at North Korea, which is surprisingly fun.  For instance, we got to look at North Koreans farm while we stood on a portion of the Great Wall.  We were literally a stone's throw away. (If me throwing a stone into N. Korean broke any international laws, then I was figuratively a stone's throw away). I now have the entire life of a North Korean cow documented. It mostly involves eating and drinking.
 <!-- more -->
+
 While the pictures will probably do more justice to my words than attempting to describe the picturesque Dongbei countryside and North Korean wonderland, there is one thing that pictures will never be able to accurately portray (mostly because I don't have any): 
 
 I danced with a North Korean. 
@@ -35,3 +39,4 @@ For those interested, the pictures are of the Great Wall, a view of N. Korea fro
 <figure>
 	<img src="/images/harbin-nk5.jpg" />
 </figure>
+

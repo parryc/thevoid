@@ -6,10 +6,14 @@ title: Hungarian
 date: 2013-10-29
 js: [aistritheoir, analyzer, hungarian, hungarian-page]
 -->
+#Hungarian
+<tag>creations</tag> <tag>languages</tag> \\ 2013-10-29
+
 
 Hungarian is a pretty cool language. It's aggluntinating, which means you add person, tense, and all other sorts of markers directly to the stem of the verb. I'll be using this page, and others, to chronicle my quest to learn Hungarian. Below, you'll find two tools I've created to help me on my way: an inflector and an analyzer.  The inflector takes the root form (also called a lemma or dictionary form) of a verb and inflects it correctly. It assumes the word you're inputting is Hungarian and applies rules according to the word's character. The inflector does the opposite - put in a word you think is a Hungarian verb, click inflect, and hope it gives you something useful. Because of certain problems in naïvely doing morphological inflections, there will occasionally be ambiguous results.
 
 <!-- more -->
+
 
 ##The Inflector##
 
@@ -51,3 +55,4 @@ Hungarian is a pretty cool language. It's aggluntinating, which means you add pe
 
 
 <blockquote>With insurmountable help from <em>Hungarian: an Essential Grammar</em> by Carol H. Rounds</blockquote>
+

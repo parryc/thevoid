@@ -5,10 +5,14 @@ categories:
 title: Spring-ish Break
 date: 2012-04-16
 -->
+#Spring-ish Break
+<tag>travel</tag> <tag>china</tag> \\ 2012-04-16
+
 There are sandstorms in Harbin. Which means that you should probably keep any and all eating utensils by an open window. I can guarantee that they will stay clean. At least most of the time, which you know, is really all that matters. I mean, when you think of it, you're not even eating most of the time.
 
 But this aside, I got back from a "whirlwind" "adventure" in "Zhejiang provence." I say "whirlwind" because there weren't any whirlwinds, "adventure" because I already knew where everything was, and "Zhejiang provence" cause I thought adding quotes made it looked "better." On my escape from the salty North (seriously, pretty sure I saw a road-side stall that was selling potatoes, salt, and pineapples - you don't need much else to make a traditional "Dongbei" dish), I got a chance to visit some old friends, make some new ones, and eat a lot of tasty food. But the most important thing is just that: "things."
 <!-- more -->
+
 I should explain "things." Things are what make a trip to China interesting. They're the things that make you stop in your tracks and think "wait...wtf?" As a student, Harbin, sadly, has few, if any, "things." Shanghai, a bustling metropolis has a lot of things.
 
 A few:
@@ -22,3 +26,4 @@ A few:
 * I spent almost 2 hours looking for a house that has no entrance. It has a visible roof, but no actual way to get under said roof. The house actually has an gate that leads to some "preservation offices"...however, Shanghai's method of preservation is to put a wall around whatever they want to preserve and then slowly sell off parts of it to developers. I guess history can't be soiled if it is COMPLETELY DESTROYED. Which is actually some of the better logic I've heard from public servants in China.
 
 There aren't really a lot of pictures and I'm kind of sleepy so... no pictures, this time, sorry.
+

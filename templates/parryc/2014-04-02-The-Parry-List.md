@@ -4,6 +4,9 @@ categories:
 title: The Parry List
 date: 2014-04-02
 -->
+#The Parry List
+<tag>languages</tag> \\ 2014-04-02
+
 
 The [Swadesh List](http://en.wikipedia.org/wiki/Swadesh_list) is a list of base words that can be used for historical compartive linguistics.  It allows one to very quickly get up and running when delving into two different languages' pasts. Sounds nice, doesn't it? Not very useful for modern languages, though. Knowing how to say "hair", "moon", "earth" etc. is of little use when trying to order a beer in a pub in Bangkok or Moscow.  My goal here is to develop a list of phrases that once learned in the target language will allow you to get up and running as quickly as possible. Obviously, if a decent level of proficiency is desired, this can be used as a jumping off point months in advance of a journey.  However, it's also meant to be used on a plane or bus hours or minutes before getting to your destination by turning and asking your neighbor.
 
@@ -11,6 +14,7 @@ The end goal is to have a list of sentences that include common words that are h
 
 Without further ado...
 <!-- more -->
+
 #The List#
 
 ##I'm Stupid, Help Me##
@@ -47,3 +51,5 @@ Restaurants are definitely one of the more difficult places to go when traveling
 * What would you like to _order_? What would you like to _eat_? What would you like to _drink_?
 * I would like _x_ to drink/eat?
 * Check please.
+
+

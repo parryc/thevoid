@@ -5,10 +5,14 @@ tinyTitle: A Foreplay-list
 title: A Foreplaylist
 date: 2012-11-08
 -->
+#A Foreplaylist
+<tag>humor</tag> \\ 2012-11-08
+
 There are a lot of ways to spice up your sex life. Some people use chocolate underwear and candy bras. Some people go to exotic locations. Some use real spices. None of these are bad. If anything, they are quite a good way of getting out of repetitive sex. I, however, am a great supporter of the people that hearken back to days of yore, when in order to drown out the sounds of the cattle lowing, they turned on the radio and humped along with FDR’s fireside chat.
 
 Now, I understand that most of you don’t have giant wooden radio sets that can aid you in foreplay and thus understandably have no access to new music. To assist you, I have listed some of my favorite songs to help the mood along.
 <!-- more -->
+
 ###The Basics:###
 
 Obviously, you can tweak the ordering to suit your specific situation, but the following can be used to make a night go from, “Ok, so, looks like I’m going to give you an awkward hug goodbye” to “Do you want bacon with your eggs?”
@@ -58,3 +62,4 @@ If this song comes up, get out of there. Now. If you’re thinking to yourself, 
 If you’re hearing this as a guy it is at best emasculating and at worst you're not so subtly being told you lack the ability to fight the Huns. As a woman, it’s a harsh way of finding out you’re not the preferred gender for nighttime fun.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

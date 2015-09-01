@@ -3,10 +3,12 @@ categories:
 - travel
 - kazakhstan
 - the netherlands
-title: Kazakhstan 2&#58; Revenge of the Mambyets
-title: Kazakh-stan 2&#58; Revenge of the Mambyets
+title: Kazakhstan 2&; Revenge of the Mambyets
 date: 2011-01-17
 -->
+#Kazakhstan 2&; Revenge of the Mambyets
+<tag>travel</tag> <tag>kazakhstan</tag> <tag>the netherlands</tag> \\ 2011-01-17
+
 Hello reader of my blog! Yes you! It's that time of the year again: Parry goes traveling! However, as this was over winter break, it was only Amsterdam for one day and then Almaty for a week. (Hmm. AA. I wonder if that's indicative of anything......no, of course not.)
 
 As Amsterdam was more of a layover consisting of me walking in circles for 6 hours and then passing out on my hotel bed at 8pm from jet lag, we'll skip that.
@@ -15,6 +17,7 @@ Kazakhstan though, Kazakhstan is the place to be. Let me start by explaining my 
 
 You have been warned.
 <!-- more -->
+
 Now, you might ask, what have I been doing for this break? A better question is "What did you enjoy most about this break?" A more appropriate question might be "What do you remember about this break?" A more embarrassing question might be "Do you remember talking to that Korean girl at the karaoke club?"
 
 In order the answers are chilling; chilling; all of it, of course; and apparently not all of it.
@@ -36,3 +39,4 @@ One last thing of interest is a Kazakh tradition called Tamade (not to be confus
 Needless to say, it went off with out Hitch, I mean, a hitch. If Will Smith came, then damn, that would have been an (even more) awesome party. After the party we went out to karaoke. We sang. We danced. I made a fool of myself. You can ask others for details.
 
 Thus, in a tiny, digital nutshell, this was a week in Kazakhstan. Hopefully some little tibits about this awesome country came through. It's also 2:15am and I leave in 7 hours, so here's to hoping most of it made sense.
+

@@ -5,10 +5,14 @@ title: The Sex Columnfesto
 tinyTitle: The Sex Column-festo
 date: 2012-11-08
 -->
+#The Sex Columnfesto
+<tag>humor</tag> \\ 2012-10-25
+
 Earlier last week, while in stacks … researching … for my column, I discovered a tattered paperback. It was old, but it felt like it was imbued with great power. I flipped it over and stumbled back in shock: I had found a copy of the fabled *Cummunist Manifesto*. All sex columnists have heard of this most holy of sex books, fabled to expound on everything from clever sex position puns to Sun style guidelines when talking about STIs. Unfortunately, most of it seems to be an amalgamation of drunken Tumblr posts, but there are a few gems that could help free us from the bourgeois, capitalist parkas that hide the sexy undergarments of collectivized society. 
 
 In order to spare you all the burden of regrettable your / you’re typos, I have compiled the best sections written by Karl “Big Poppa” Marx ’83 and Friedrich “Oogles” Engels ’84 and reprinted it below.
 <!-- more -->
+
 <br/><br/><br/><br/>
 A spectre is haunting Cornell, the spectre of cummunism! All the powers of the old Ivy League have entered into an unholy alliance to exorcise this spectre. Friends, put on your oversized beards and join me in my quest to overthrow the repressive sexual system we live in. The bourgeois status quo we exist in is decadent and not in the Sader-Masoch-drinking-absinthe-rollicking-good-time sort of way. Today, nay, now as you read this, throw off your bourgeois, capitalist chains (and your clothing!) and join me in our quest for sex for everyone.
 
@@ -27,3 +31,4 @@ These men and women who have written before us have stoked the fires in our hear
 STUDENTS OF THE WORLD HAVE SEX!
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

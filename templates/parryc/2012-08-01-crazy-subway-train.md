@@ -5,12 +5,16 @@ categories:
 title: Crazy (Subway) Train
 date: 2012-08-01
 -->
+#Crazy (Subway) Train
+<tag>travel</tag> <tag>china</tag> \\ 2012-08-01
+
 In the spirit of the Olympics, I have attempted to set a new record for "Longest Time Without Writing a Blog Post" – naw, just kidding. I'm just lazy. However, I have been using this time to "observe" (but don't tell my boss, I've been telling him I've been programming).
 
 As a commuter I spend a lot of time on the subway. I've mastered its tricks, its trades, and its stock exchange. I can do the Sleep-Until-Your-Stop, the No-Holds-Stand, the Doze-Off-Standing, and the Read-A-Book-In-Someone-Else's-Hands. If there was a way to monetize these skills, I'd be rollin' in the dough. (and subsequently wouldn't have to ride the subway – you can see where I'm going with this.)
 
 Independent of marketable skills, the Shanghai Metro has brought out my muse better than any Beatrice ever has. What I present to you below is my first work from what is likely to be part of my opus (in stores and Amazon soon!) comprised solely of unconnected ramblings written while sitting.
 <!-- more -->
+
 "Things I Think About While Thinking About Thinks on the Subway"
 
 So while the topic was actually chosen while not on the subway, this is being written as you read (yes, I'm talking to you chinese man reading over my shoulder) on the subway. It's legit. Don't worry.
@@ -81,3 +85,4 @@ And now for some pictures! Pictures are worth a thousand words, right? That mean
 		The Pearl Tower (though it reminds me of somethign else...)
 	</figcaption>
 </figure>
+

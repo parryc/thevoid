@@ -4,11 +4,15 @@ categories:
 - travel
 - kazakhstan
 -->
+#True History
+<tag>travel</tag> <tag>kazakhstan</tag> \\ 2013-07-24
+
 I have once again had the wonderful privilege of visiting Almaty, Kazakhstan for the fourth time.  This time around, I have learned that if I am a certain combination of crazy, wealthy, and presidential, I can actually change that number arbitrarily and everyone will agree. Kazakhs have a great ability to change other's perception of history. For example, their radio stations. If you've listened to their oldies station you would be convinced that not only did they invent electronica, they used it exclusively to remix Abba songs. 
 <br/><br/>
 *If I change your mind, I'm the first in line.  Baby I'm not free, independence for me.*
 
-But this is not actually too surprising, because the Kazakh people have actually created history as we know it.  You don't believe me? Below I have translated the abridged version of **The History of the Kazakh People According to the Crazy Guy on the Train Who Was Pretty Sure I Was From Virginia or Nevada**<!-- more --><sup><a href="#fn-item1" id="fn-return1">1</a></sup>
+But this is not actually too surprising, because the Kazakh people have actually created history as we know it.  You don't believe me? Below I have translated the abridged version of **The History of the Kazakh People According to the Crazy Guy on the Train Who Was Pretty Sure I Was From Virginia or Nevada**<!-- more -->
+<sup><a href="#fn-item1" id="fn-return1">1</a></sup>
 
 <figure>
 <blockquote>
@@ -31,3 +35,4 @@ Ok, that kind of sounds like I didn't like Astana.  That would be wrong. It's ju
 <li id="fn-item1">Just so I'm clear, this actually happened.<a href="#fn-return1">↩</a></li>
 </ol>
 </footer>
+

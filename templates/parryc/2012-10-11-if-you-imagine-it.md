@@ -4,8 +4,12 @@ categories:
 title: If You Imagine It, They Will Come
 date: 2012-10-11
 -->
+#If You Imagine It, They Will Come
+<tag>humor</tag> \\ 2012-10-11
+
 When I was a child, I loved to play pretend, running around as a knight saving the princess from the evil dragon. Over the years I kept my imagination alive: What better place to unsheathe my manly sword than in bed? While it’s no longer saving any girl from a fire-breathing dragon, it's certainly saving her from a boring night. I know trying to generate ideas for role-playing without inspiration can be difficult, so I've included some of my favorite themes below.
 <!-- more -->
+
 
 ###Batman###
 
@@ -52,3 +56,4 @@ The only one of these suggestions that I can safely say is kid tested, mother ap
 Remember, fair reader, that communication is still the name of the game. I don't recommend that you jump out of the closet ready to role-play as the kidnappers from the movie Taken if your partner isn't aware of what you’re doing. Unless, you know, you guys are into that.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

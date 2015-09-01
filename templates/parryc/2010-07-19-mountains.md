@@ -5,6 +5,9 @@ categories:
 title: MOUNTAINS
 tinyTitle: MOUN-TAINS
 -->
+#MOUNTAINS
+<tag>travel</tag> <tag>kazakhstan</tag> \\ 2010-07-19
+
 Almaty, Kazakhstan.
 
 Mountains.
@@ -18,6 +21,7 @@ Ok, entry over.
 Seriously, though, Kazakhstan is an awesome place. Located within spitting distance of the Tian Shan Mountains, the scenery and nature in this place is quite extraordinary. While still hot, maybe 80-90 degrees, it's not nearly as humid as Shanghai. This means that your clothing will actually dry. I like this about a city. I've spent the last few days hiking around the mountains surrounding Almaty and hanging out with Ilyas, Nuraziz, and their friends. There was one night where we were out quite late and decided to just go chill on a mountain and watch the sunrise. When I mean mountain, I really mean mountain, we were 2500m above sea level? We were [here](http://en.wikipedia.org/wiki/Chimbulak).
 
 <!-- more -->
+
 
 Besides mountains, I've also been gorging myself on Kazakh food. So good. Horse sausages, lamb kabobs, chicken stuffed bread, stuffed peppers - nom nom nom nom nom. I'm going to come home like 20 pounds heavier. Oh jeez...
 
@@ -36,3 +40,4 @@ I should also probably dispel any myths people have about "-stans." Or rather, I
 Another interesting facet of Kazakhstan is the demographics. Quick, name 5 of the top minorities in Kazakhstan! Did you say Russian and Kazakh? Good, you've been paying attention. Did you say German or Korean? You cheated, I know you did. Imagine my surprise when Ilyas told me about a guy I was going to meet: He's Korean and studied in Beijing, I think you'll like him. Oh, so why did he move from Korea to here? He didn't move - he was born here. Huh? Koreans in Kazakhstan? They exist at about the same percentage that they do in China. China, however, is a massive economic power and borders Korea. Kazakhstan is a former Soviet country in the middle of central asia. It's interesting how that works.
 
 Overall, it's been pretty awesome here. Tiring, for sure, but quite awesome.
+

@@ -3,9 +3,13 @@ title: One Hundred and Sexty-One Ideas
 categories: 
 - humor
 -->
+#One Hundred and Sexty-One Ideas
+<tag>humor</tag> \\ 2013-04-11
+
 
 In the spirit of AH-I’M-ALMOST-GRADUATING-AND-NOT-READY-TO-BE-A-REAL-PERSON nostalgia, I thought it’d be a good time to share some of the sexual highlights of my time at Cornell. Originally, when I set out to be the sex artist that I am today, I thought it would be sufficient to do everything on the 161 list and then add “and then have sex afterwards” to each one of them.  Now, this isn’t that bad of an idea and for most, it’s probably sufficient. For the few who want to herald the new wave of sexual artistry though — the Picassos of positions, the Rembrandts of romance and the Mondrians of making love — that just simply isn’t enough. It’s for you special few that I write this column, based on my own search for higher meaning in random sex at Cornell.
 <!-- more -->
+
 ###Light something on fire, throw it off the gorge, and then have sex afterwards.###
 
  Pro tip: Throw a flaming pair of underwear into the gorge.  Turn to your partner, but don’t say anything about your loins being on fire. He or she would have expected that. Now you’re mysterious, witty and a bad-ass rule breaker. That’s like killing 9 birds with a flaming pair of underwear. 
@@ -39,3 +43,4 @@ Sleep with someone from each college. Ostensibly not that hard, but each college
 Ok, that’s enough.  The true master doesn’t reveal all of his secrets. You cannot be told how to paint triptychs with your tongue tricks: the road to sublime sexual artistry takes Monet-years of practice. Indeed, my stopping early in the list is definitely for this reason and not because I don’t want to explore the intricacies of trying to have sex in a tree on every quad.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

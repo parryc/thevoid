@@ -5,10 +5,12 @@ categories:
 title: It's Not Sweat, I Just Have Watery Clothing
 date: 2011-07-06
 -->
+#It's Not Sweat, I Just Have Watery Clothing
+<tag>travel</tag> <tag>china</tag> \\ 2011-07-06
+
 Because I am a stage and everything's a play - or some quote like that - this post is presented in Vingette-o-vision. Also known as me having been much too lazy to pack a bunch of unrelated events from the past month into something coherent and connected. Here goes.
 
-###Act 1. Scene 1. Happy Birthday to me, la la la~~~###
-*Parry enters the scene as a 19 year old*
+ year old*
 <br/>
 *Parry bows*
 <br/>
@@ -22,6 +24,7 @@ Because I am a stage and everything's a play - or some quote like that - this po
 <br/>
 *Parry leaves*
 <!-- more -->
+
 ###Act 1. Scene 2. Horror.###
 
 The day was clear and the air was clean. The train came on time and our commuter wasn't even tired at work. There was nothing that could go wrong with today. Nothing!
@@ -114,3 +117,4 @@ Of course, no offense to fat men on treadmills in their underwear. Unless that w
 </figure>
 
 If you go far enough away from...everything...you get pretty things. Well, I don't mean to say there aren't pretty things in the city center. I mean, hell, on average I see .5 attractive commuters each day! (JK China, stay cute).
+

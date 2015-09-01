@@ -3,8 +3,12 @@ title: Sex Between the Lines
 categories:
 - humor
 -->
+#Sex Between the Lines
+<tag>humor</tag> \\ 2013-03-28
+
 Spring break is over, and it’s time to start gearing up for midterms. You’re stuck in the library studying, and a fun night looks further away than an A in orgo. Don’t worry, I’ve got your back. This week, I’m here to tell you how to woo the library hottie, that ravishing reference book reader, the one you put your heart on reserve for. I may be stating the obvious when I say that the library is not normally conducive to picking up a quick fling, but after many trials and too many tribulations, I have hit upon a set of reasonably sure-fire tips for going from checking out to checking out. 
 <!-- more -->
+
 The first step is to establish that you can read. It’s likely that that’s the case, but I know some tribal leaders in Papua New Guinea who read my column to their illiterate tribesmen (Bilong me hangamapim bot stap pulap maleo!), so I’m just erring on the side of caution. You probably won’t need to prove this, but it’s best to be prepared. Second, be in a library. The Hotel School library doesn’t count, ‘cause seriously, I bet you didn’t even know the Hotel School had a library until just now (Nestlé Library — holla at me Toll House!) Once you’ve accomplished these two tasks, it’s time to get down to business.
 
 The most important thing is to base your approach on the type of book your target is reading. 
@@ -30,3 +34,4 @@ Keep going up and checking out suggestive books like Sleep With Me by Hanif Kure
 After that, it’s all you. I can get you into the door, but I can’t make your date dinner, sweet talk him/her and then go upstairs and ravage his/her body for you (though, in certain situations, I totally will.)
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

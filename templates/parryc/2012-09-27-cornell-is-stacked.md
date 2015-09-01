@@ -4,10 +4,14 @@ categories:
 title: Cornell Is Stacked
 date: 2012-09-27
 -->
+#Cornell Is Stacked
+<tag>humor</tag> \\ 2012-09-27
+
 “Never have I ever had sex in the stacks.”
 
 One by one, the people in the circle put down a finger and start giggling as they notice it's just me and my girlfriend with our fingers still up. This was definitely a first for me. Even if people were lying during a drinking game (like that could happen), I didn't want to be the only one left out. That thought stuck with me the entire night: How could I achieve my goal of writing publicly available, non-slash fiction erotica if I didn't have anything to base it on? I resolved right then (or, perhaps, three or four shots later) that I needed to expand my sexual horizons.  
 <!-- more -->
+
 After the party had disbanded and my girlfriend and I were in bed, I turned to her and said "We need to have sex in the stacks. But not just your run of the mill back-corner-of-Olin quickie — we gotta do the TOUR DE CORNELL!" 
 
 “Can’t we just pretend that your room is the stacks? There's enough books here as it is …”
@@ -57,3 +61,4 @@ Keeping all these tips in mind can be hard, but if you persevere, you and your p
 Just make sure not to have sex near the modern Chinese lit books. I need those for my thesis. 
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

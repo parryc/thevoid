@@ -4,10 +4,14 @@ tinyTitle: Putting the Sex Back Into Trad-itional
 categories: 
 - humor
 -->
+#Putting the Sex Back Into Traditional
+<tag>humor</tag> \\ 2013-03-07
+
 It is time to return to our sexual roots. We need to throw out the avant garde sex.  You and your partner should no longer sit fully clothed in a darkened room emailing sex terms to each other. Stop making Tumblrs filled with .gifs of sex poses you want to do and sending them to your sex friend as foreplay (but please send links to me).  Ramp up the sexual touching from eye-fucking to I’m-fucking. 
 
 “But wait,” you say, “I am already ingrained in a repetitive cycle of sensuous whispering and then falling asleep.  I can’t stop!”
 <!-- more -->
+
 Now, I don’t want you to go cold turkey.  Things need to be handled slowly. The first thing that must be done is to ask your partner if he or she wants to have sex. If yes, great, now you know where things stand. If no, well, try again next week. Should it continue that way, your best bet is to find a more sexually-active partner (I’m free for consultations). 
 
 Once you’ve established that sex is a possibility, it’s time to actually have sex. For those of you just starting with traditional sex, it helps to have a series of prescribed moves. Don’t think of this like chess (chess-sexing is for another column) where you have an opening, middle and end game. Think of this more like preparation for getting in the mood, just like one buys ice cream and gets dumped before watching a sad movie. 
@@ -35,3 +39,4 @@ Just remember, the most important thing in your switch from avant garde to tradi
 Note: If you’re having “traditional sex” as I outlined above, re-read this column, but reverse everything I said and you’ll read about how I want you to have avant garde sex. It’s two columns for the price of one!
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

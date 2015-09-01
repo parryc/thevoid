@@ -4,10 +4,14 @@ categories:
 title: Sugar, Spice, and Everything Nice
 date: 2012-08-30
 -->
+#Sugar, Spice, and Everything Nice
+<tag>humor</tag> \\ 2012-08-30
+
 I spent the summer in Shanghai, an occasionally hellish and always muggy city in the south of China. One evening while I was out walking, the daughter of the adorable chef couple that lived below me came out of her parent’s apartment. She was back from school up north, about to go to Australia for grad school . . . and the absolute definition of the word sexy. 
 
 As I start jogging over to say hi, I begin to flex my chest and ruffle my hair, getting ready to start the conversation and promptly trip on a crack in sidewalk. But I don’t lose my cool, no, my stare was holding, even if with my ripped jeans skin was showing, there was a hot night wind blowing, and I look up and say “Where you going, baby?” She just looks down and says “out,” with a slight grin.  
 <!-- more -->
+
 Did I just blow my chance? Would I be writing this if I did? No. Not at all. Even though I had thought up a thousand and one ways to get time with her, everything from transporting ourselves to hyperspace to simply just getting drunk and walking downstairs, I decided to play it cool. And by cool, I mean, passively; I didn't do anything except wait.
 
 Then one day in July, the couple below me came upstairs to inform me they're leaving for their 30 year wedding anniversary and suggested I have dinner with their daughter the coming weekend because we'll both be alone. And because Chinese isn’t my native tongue, I accidentally translated our conversation as “please sleep with our daughter.” 
@@ -29,3 +33,4 @@ As our bodies started to capitulate to the capsaicin, she whispers to me “it�
 So remember folks, the next time you’re at a loss for how to spice up your night, sometimes it helps to be literal.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

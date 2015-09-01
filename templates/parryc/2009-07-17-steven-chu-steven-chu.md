@@ -4,12 +4,16 @@ categories:
 - china
 title: STEVEN CHU STEVEN CHU!!
 -->
+#STEVEN CHU STEVEN CHU!!
+<tag>travel</tag> <tag>china</tag> \\ 2009-07-17
+
 Beijing was spent with
 
 ####STEVEN CHU####
 
 Ok ok, maybe I hyperbole…but only a little. Let us back up, shall we?
 <!-- more -->
+
 The day after we arrived we ventured out into the mist that is Beijing proper. The sky was grey with cloud and visibility was 2 blocks if you were lucky. Our journey started at Wangfujing, Nanjing Lu’s little Beijing brother. The malls there were packed with every imaginable American brand name you could think of. Did you know that Adidas made sweatervests (300RMB) or that Levi’s made shoes (220RMB)? Wangfujing is quite close to Tiananmen Square so we visited it and waved to Mao’s smiling visage on the Forbidden City. Another building we saw was the National Center for the Performing Arts. It’s a DOME surrounded by a MOAT. A MOAT.
 
 ###Day the next###
@@ -25,3 +29,4 @@ We spent a good hour at the Capital Archery Sports Club. The sister does all the
 ###Today###
 
 After another day of wandering around shopping we’re now in Jilin. They have a “7 day policy” so we’re going to be semi-restricted to the house for the next 7 days since we’re new arrivals to the provence, for better or worse.
+

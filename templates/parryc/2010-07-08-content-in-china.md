@@ -4,10 +4,14 @@ categories:
 - china
 title: Content in China
 -->
+#Content in China
+<tag>travel</tag> <tag>china</tag> \\ 2010-07-08
+
 There are few things that can relax a man who's away from home. Common ones in China include blind massages, massages by people with working eyes, massages with sad endings, massages with normal, non-sexual endings. You get the drift. I, however, not knowing the word for massage am worried as to the results when I try finding a massage parlor. I do, luckily, sort of kind of know how to use a map. And maps include directions to....wait for it....
 
 ####WORLD'S TALLEST STATUE OF CHOPIN####
 <!-- more -->
+
 What could make a man more content with his lot than the ability to stand in a subway for 45 minutes walk around in 200% humidity (China surpasses us in everything - including its ability to OVERCOME NUMBERS.) to see Chopin?
 
 Nothing!
@@ -42,3 +46,4 @@ To balance my muscular jock, athletic side I decided to be a good student and ch
 Today I also went to the Shanghai Jewish Refugee museum. Interesting and surprisingly small for such an interesting part of Shanghai's history. I also visited 下海庙 (Xiahai Temple) which was pretty nifty.
 
 As a closing remark gotta throw out a Hup Holland (荷兰加油!) to the couple talking about my Nederlands jersey on the subway and to the random white guy who pointed to my jersey and yelled "GOOD!"
+

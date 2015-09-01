@@ -4,10 +4,14 @@ categories:
 title: An American Columnist in London
 date: 2012-09-13
 -->
+#An American Columnist in London
+<tag>humor</tag> \\ 2012-09-13
+
 Sometime last year I convinced a friend of mine from back home to travel with me to London to visit a friend studying there over winter break. Ostensibly, the reason for going to London was to visit said London-going friend, but I knew in my heart of hearts that we were going because I had read online that the average bust size of a British woman was a 32D. 
 
 We decided to go right before New Year’s Eve, to catch the British festivities. After landing at Heathrow, we had to take the Tube into the city. As we sat down on the underground, I noticed the end station for this particular line was called Cockfosters. Clearly this city was going to be well suited to my goals.
 <!-- more -->
+
 The next few days leading up to New Year’s Eve were spent doing the normal touristy things: taking pictures with Big Ben as our own Big Ben, trying to break into Buckingham Palace, asking the waitresses for “Bangers and mash, hold the mash.”  (In case you were wondering, they will actually just bring you bangers.) All of this without a single glance from a British beauty.  Needless to say as the 31st rolled around, my sexual forecast was worse than the London weather.
 
 So I decided to forget about some commonwealth copulation and just tell myself that England isn’t anything like Love Actually. We decided to go to the London Eye — the giant Ferris Wheel overlooking the Thames — to see the fireworks. We were pushing it close so there weren't a lot a people on the subway. However, you only ever need one. I’d just seen a face. I can’t forget the time or place. I knew she was the girl for me and I had a sudden desire to let the whole world see we met. 
@@ -43,3 +47,4 @@ Something (else) turns on in me and a poem I had memorized for my Chinese litera
 She give me a look, bends down, rummages around in her purse and takes out the slip of paper with my number that I had put in there earlier in the night. She pats my cheek, tells me I’ve been a good chap, but it was never meant to be, and puts the paper in my vest pocket. I’m lead to the door and with a final “Cheerio!” I wander back out into the night. Even though I thought we were having a good time, something between us must have clashed. I guess London won't be calling anytime soon.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

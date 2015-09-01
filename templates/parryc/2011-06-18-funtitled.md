@@ -5,12 +5,16 @@ categories:
 title: FUNtitled
 date: 2011-06-18
 -->
+#FUNtitled
+<tag>travel</tag> <tag>china</tag> \\ 2011-06-18
+
 Some of you may be thinking "Wow, Parry must be having a really awesome time, as he hasn't updated his blog in DAYS." For those of you who I am actively trying to impress, yes, my times are all awesome. For those of you who realize that most of what I do is mundane - I've been at work. For those of you who stumbled upon this by accident, go with the first one: I'm awesome.
 
 Anywho, as much as I've tried to make programming as adventuresome as possible, there's only so many ways to make it so. Most of those ways are obscure and hard to find and I have unfortunately haven't found any of them. I think instead I'm going to go into archaeology - I'm not afraid of snakes and I've been told I look quite rugged, or at least like a rug, which has to count for something.
 
 One thing that has made the days a little different is the fact that most of the company (and by most, I mean all. Because there are only 4 people other than the interns.) is involved in Ultimate frisbee. Last weekend was the Shanghai Invitational Ultimate tournament, of which I was the TD. What's a TD you ask? My first guess was that I was a touchdown, a man who just by existing scored 6 points for my home team. Considering most of what I did consisted of running around with a megaphone and airhorn and trying to explain the concept of a waiver in Chinese, I don't think my position was point based. I will assume that it means that I was the Tournament Director. Which is kind of cool.
 <!-- more -->
+
 As the TD, I (sort of) held a position of (pseudo-)power. People knew (variations of) my name. I also got to write up the brackets on a giant chalkboard. That was also pretty cool.
 
 Keeping with the theme of people in China loving (not hating) me, contrary to popular fantasy, your biggest fans in China are not the hordes of Chinese women. In fact, those people, don't exist. Believe me, everyday I look for them.
@@ -22,3 +26,4 @@ Also, there's bamboo liquor. Ingredients: Fragrant Baijiu (e.g. Mao Tai) left to
 Now if that doesn't sound like a garden of delight, I don't know what does. And don't worry about where I got the ingredient list from.
 
 Ganbei! :D
+

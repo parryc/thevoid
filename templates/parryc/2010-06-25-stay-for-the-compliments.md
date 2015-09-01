@@ -5,6 +5,9 @@ categories:
 title: Stay for the Compliments
 tinyTitle: Stay for the Comp-liments
 -->
+#Stay for the Compliments
+<tag>travel</tag> <tag>china</tag> \\ 2010-06-25
+
 China is a land of many different things and what not. (My government and culture classes have been paying off, as you can tell) One thing thing they are full of, that on the surface you might not expect, is compliments. Case in point:
 <br/><br/>
 (After getting completely lost while trying to find People's Square and ending up on the Bund two girls come up to me to ask for a picture)
@@ -13,6 +16,7 @@ Chinese girl 1: You are...very cute.
 
 Girl 2: Yes! Like...Korean pop star!
 <!-- more -->
+
 Me: (clarifying) Oh uhhh....haha....thanks...like...[Rain](http://en.wikipedia.org/wiki/Rain_(entertainer))?
 
 Girl 1: No no no, not like Rain.
@@ -48,3 +52,4 @@ I feel like this explains so much...
 * *Picture 1* Man fishing for lobsters outside of Century Park.
 * *Picture 2* Me and Kevin Cao after we accidentally ordered hotpot at a Korean BBQ. Everyone was giving us "wtf" looks. However, a gal was wearing a shirt that said (excuse my french): "No F\*cking '69 Anytime Anywhere." So you'd think she'd be getting those looks. That's China for you.
 * *Picture 3* Shanghai at night! This was right before going to *another* ex-pat bar to watch the USA-Algeria game. I wore my sweater vest and pink tie...a dude smiled seductively at me. Apparently that is an outfit reserved for a college campus, or maybe I'm just weird in general. For the sake of my self-esteem, I'm going to think China (and its ex-pats?) is just not ready for the sweater vest.
+

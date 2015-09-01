@@ -5,8 +5,10 @@ categories:
 title: Fowl Problems
 date: 2012-06-27
 -->
-# Fowl Problems
-<tag>travel</tag> <tag>china</tag> // 2012-06-27
+#Fowl Problems
+<tag>travel</tag> <tag>china</tag> \\ 2012-06-27
+
+
 
 I'm ashamed to admit that I have a problem. Well, I'm probably ashamed. I'm pretty sure shame is outlawed in China - and you know how good I am at avoiding breaking laws (hence why I no longer mail anything).
 
@@ -16,6 +18,7 @@ I don't know what the food I eat at restaurants looks like raw. I order somethin
 
 So I walk to butcher's area of the supermarket and look at what they have to offer. Various organs (I think), various limbs (I think), various... things that I'm not entirely sure are meat, but are there anyways. Some pre-cut meat things that have pig stickers on them. I'm pretty sure that these are pork. But it's China and the labels don't actually say pork anywhere on them...so, maybe only 80% sure.
 <!-- more -->
+
 I ask the butcher: "So... chicken." He stares at me blankly. Knowing me and my horrible control over Chinese tones, I just said "prostitute massage" (妓揉 for those who care). Though, if that were the case I would have expected a more shocked expression....hm, perhaps the butcher's store is just a front for something...
 
 Anyways. I back track, I add a verb and a subject: You have...chicken?
@@ -48,3 +51,4 @@ But anyways, enough about language, here's a picture of a Hilary Clinton nutcrac
 <figure>
 	<img src="/images/shanghai-fowl4.jpg" />
 </figure>
+

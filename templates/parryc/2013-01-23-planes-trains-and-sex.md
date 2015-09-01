@@ -3,12 +3,16 @@ title: Planes, Trains, and Sex on Wheels
 categories: 
 - humor
 -->
+#Planes, Trains, and Sex on Wheels
+<tag>humor</tag> \\ 2013-01-23
+
 There is a problem with today’s sexually active youth. We aren’t adventurous enough. I don’t mean this in the Kama Sutra, let's-try-having-sex-while-upside-down-balancing-on-one-hand sort of adventurous, but rather the let’s have sex on top of a moving train sort of adventurous.
 
 Now some of you might be thinking: “But Jimothy! You haven’t even done that and you’ve done everything.” That’s where you'd be wrong. Because I have, and the experience derailed all of my expectations on what sex could be like. However, it took a lot of preparation and no small amount of luck. As a result, I am legally obligated to not recommend that readers try it, even though I totally do.
 
 However, I know that not all of you have access to trains, so I’ve compiled a list, in order of difficulty, of vehicles that you should probably try to have sex in or on. If I haven’t listed your preposition of choice it's because either a) it’s not exciting or b) I can’t comprehend how you could actually do it.
 <!-- more -->
+
 
 ###Car (In: Novice, On: Intermediate)###
 
@@ -39,3 +43,4 @@ If you’re interested in either of the above canoodling scenarios, drop me a li
 People who can get it on in a spaceship do not read school newspapers.  They’re off doing things more awesome than we mortals can comprehend.  Because seriously: zero-gravity boobs. Wuuuut.
 <br/><br/><br/>
 *Written under the pseudonym Jimothy Singh for the Cornell Daily Sun*
+

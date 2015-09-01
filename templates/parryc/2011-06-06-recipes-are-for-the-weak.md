@@ -5,10 +5,14 @@ categories:
 title: Recipes Are For the Weak
 date: 2011-06-06
 -->
+#Recipes Are For the Weak
+<tag>travel</tag> <tag>china</tag> \\ 2011-06-06
+
 You know what they say about China&#58; Everything's bigger in China.  Their cards, their hair, their capacity for love, and as I'm sure you were guessing, their Dragon Boats.  Now, what exactly is a Dragon Boat?  Is it a boat with the fearsome prowess of the mighty dragon? Is a boat that can fly?  Is it a boat that looks like it has a replica castle on it that is manned by a bunch of men who look like purple ninjas?
 <br/><br/>
 If you guessed the last one…well you cheated. I know you did. 
 <!-- more -->
+
 <br/><br/>
 See this is an American Dragon Boat:
 
@@ -52,3 +56,4 @@ All of this coming soon to a table near you!  Or maybe your table, if you're (un
 		Yuxiang Qiezi (鱼香茄子), the best eggplant dish in China.
 	</figcaption>
 </figure>
+

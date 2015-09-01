@@ -6,8 +6,12 @@ categories:
 title: Hideki Matsui Fanclub Tour
 date: 2011-08-10
 -->
+#Hideki Matsui Fanclub Tour
+<tag>travel</tag> <tag>japan</tag> <tag>usa</tag> \\ 2011-08-10
+
 For those who weren't aware, I have an undying passion for baseball. More passion than a box of passion fruit, and that's a lot of passion. When I started to think about how I was going to get from China to the States (Google suggested kayaking), I realized I could accomplish my one true dream: The Hideki Matsui Cross-Pacific Fanclub Tour (tHMCPFT for those in the know). With a special pass, one has access to all of Matsui's special haunts in Tokyo and Seattle, behind the scenes baseball games, introductory classes on game fixing, and free pizza. Nothing better. Actually, none of this is true, but I did go to Tokyo and Seattle over the past week. This is mostly just going to be pictures. Enjoy.
 <!-- more -->
+
 ##Tokyo##
 
 <figure>
@@ -105,3 +109,4 @@ A wall made of gum (guess which one is my gum).
 	<img src="/images/hideki-matsui-fanclub-tour/24.jpg" />
 </figure>
 Did I mention that we had all you can eat Korean BBQ? 
+
