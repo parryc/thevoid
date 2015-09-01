@@ -2,27 +2,20 @@
 # coding: utf-8
 from flask import Flask, render_template, request, send_from_directory
 from flask.ext.assets import Environment, Bundle
-# from flask.ext.sqlalchemy import SQLAlchemy
-# from flask.ext.marshmallow import Marshmallow
-# from flask_wtf.csrf import CsrfProtect
 import os
 
 app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
-# app.url_map.host_matching = True
-# db = SQLAlchemy(app)
+app.url_map.host_matching = True
 assets = Environment(app)
-# ma = Marshmallow(app)
-# csrf = CsrfProtect()
-#add csrf protection across the board
-# csrf.init_app(app)
+
 # clear the automatically added route for static
 # https://github.com/mitsuhiko/flask/issues/1559
-
 # enable host matching and re-add the static route with the desired host
 app.add_url_rule(app.static_url_path + '/<path:filename>',
                  endpoint='static',
                  view_func=app.send_static_file)
+
 @app.errorhandler(404)
 def not_found(error):
   # print request.host
@@ -35,6 +28,10 @@ bundles = {
                ,'css/style.css'
                ,'css/fonts/ptsans/fonts.css'
                ,filters='cssmin',output='gen/packed.css'),
+  'parryc_css': Bundle('css/marx.min.css'
+               ,'css/style.css'
+               ,'css/fonts/ptsans/fonts.css'
+               ,filters='cssmin',output='gen/parryc.css'),
 
   # jQuery migrate is used to support older jQuery libraries that have been upgraded to 1.10
   'js_lib' : Bundle('js/lib/jquery-1.10.2.min.js'

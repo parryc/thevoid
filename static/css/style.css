@@ -1,352 +1,51 @@
-/* parryc.com
-------------------------*/
-
-a {
-  text-decoration: none !important;
-}
-
 body {
   font-size: 22px;
   line-height: 1.4;
   font-family: "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-p a, footer a {
-  color: rgb(111,176,235);
+a {
+  color: rgb(255,110,110);;
 }
 
 article {
   width: 75%;
-  margin: 0 auto;
-  margin-bottom: 75px;
+  max-width: calc(75% - 1rem);
 }
 
 aside {
-  position: fixed;
-  z-index: 10;
-  top: 0;
-  left: 0;
-  width: 33%;
-  height: 100%;
-  max-width: 500px;
+  width: 25%;
+  max-width: calc(25% - 1rem);
+  padding-top: 25px;
 }
 
-body,aside {
-  padding: 15px 15px 15px 10px;
-}
-
-button {
-  background: #EEE;
-  font-family: Monaco, "Liberation Mono", Courier, monospace;
-  color: rgb(111,176,235);
-  padding: 5px;
-  border: 3px solid;
-  border-radius: 25px;
-}
-
-button:hover {
-  color: inherit;
-  border-color: inherit;
-  text-shadow: 1px 1px 0 black;
-}
-
-blockquote:before {
-  content: "❧ ";
-  
-}
-
-select {
-  font-family: Monaco, "Liberation Mono", Courier, monospace;
-  background: #EEE;
-  color: rgb(111,176,235);
-  padding: 5px;
-  border: 3px solid;
-  border-radius: 0;
-  -webkit-appearance: none;
-  -moz-appearance: none;
-}
-
-.categories {
-  margin-top: 5px;
-}
-
-.category-list {
-  width: 75%;
-  margin: 0 auto;
-  margin-bottom: 2%;
-}
-
-.category-post {
-  margin-right: 15px;
-}
-
-.category-post a {
-  font-size: 1.3em;
-  color: black;
-}
-
-.category-post a:hover {
-  text-decoration: underline;
-}
-
-.category-post-block {
-  margin-bottom: 25px;
-}
-
-/* Heh... maybe took most of this from Github's keyboard shortcuts. Love the look. */
-.category {
-  display: inline-block;
-  margin-bottom: 5px;
-  padding: 3px 6px;
-  min-width: 10px;
-  text-align: center;
-  font-family: Monaco, "Liberation Mono", Courier, monospace;
-  background: #EEE;
-  color: rgb(111,176,235);
-  border-radius: 2px;
-  text-shadow: 1px 1px 0 black;
-  word-break: break-all;
-}
-
-.center {
-  margin: 0 auto;
-}
-
-.content {
-  position: absolute;
-  left: 33%;
-  margin-left: 20px;
-  width: 60%;
-}
-
-/* Bootstrap v3 clearfix */
-.clearfix:before,
-.clearfix:after {
-  display: table;
-  content: " ";
-}
-
-.clearfix:after {
-  clear: both;
-}
-
-.center {
-  text-align: center;
-}
-
-.date, .date-small {
-  font-weight: bold;
-  margin-top: 3px;
-}
-
-
-.excerpt-link {
-  color: inherit;
-}
-
-.excerpt-link:hover {
-  color: inherit;
-}
-
-.inflect {
-  width: 306px;
-  margin: 0 auto;
-  text-align: left;
-}
-
-.left {
-  text-align: left;
-}
-
-#front-page a {
-  padding-left: 3px;
-  padding-right: 3px;
-  color: rgb(111,176,235);
-  border-bottom: 3px solid black;
-}
-
-#front-page a:hover {
+h1 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  background-color: rgb(255,110,110);
   color: white;
-  background: black;
+  border-bottom: none;
 }
 
-.page-title {
-  width: 75%;
-  margin: 0 auto 1% auto;
+section {
+  padding-top: 10px;
+  margin-bottom: -5px;
 }
 
-.post {
-  margin-bottom: 4%;
+tag:before {
+  content: '#';
+  color: rgb(255,110,110);
 }
 
-.post-excerpt {
-  padding-top: 15px;
-}
-
-.post-excerpt .horiz {
-  width: 50%;
-}
-
-.post-excerpt .vert {
-  height: 50%;
-}
-
-.post-title {
-  font-size: 3em;
-  font-weight: bold;
-  line-height: 1em;
-  /*bottom: 14px;*/
-}
-
-.pull-right {
-  float: right;
-}
-
-.title-small {
-  font-size: 1.5em;
-  margin-bottom: 6%;
-  margin-top: 5%;
-  color: black;
-}
-
-.whitespace-vert {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.whitespace-horz {
-  margin-top: 10px;
-  margin-bottom: 10px;
-}
-
-.wide {
-  width: 300px;
-}
-
-.wide-half {
-  width: 150px;
-}
-
-#answer {
-  padding: 10px;
-}
-
-#about {
-  position: absolute; 
-  bottom: 90px;
-}
-
-#front-page {
-  margin-top: 50px;
-}
-
-#front-image {
-  padding-top: 50px;
-}
-
-#logo {
-  margin: 0 auto;
-  display: block;
-}
-
-#stamp {
-  position: fixed;
-  top: 10px;
-  left: 10px;
-  width: 25px;
-}
-
-#stats {
-  display: none;
-}
-
-@media(min-width: 500px){
-  .date-small {
-    display: none;
-  }
-  .tiny-post-title, .tiny-page-title {
-    display: none;
-  }
-}
-
-@media(min-width: 640px){
-  .title-small {
-    display: none;
-  }
-}
-
-
-@media(max-width: 980px){
-  .post-title {
-    font-size: 2em;
-    bottom: 0;
-    width: 175px;
-  }
-  .category-post {
-    font-size: 2em;
-  }
-  .post {
-    padding-bottom: 50px;
-    margin-bottom: 0;
-  }
-}
-
-@media (max-width: 980px) and (min-width: 768px) {
-  .row-fluid .span4 {
-    width: 40%;
-  }
-}
-
-@media(max-width: 640px){
-  blockquote {
-    margin-right: 0;
-    margin-left: -15px;
-  }
-
-  .category {
-    font-size: .75em;
-  }
-  .title-large {
-    display: none;
-  }
-  #about {
-    bottom: 15px;
-  }
-}
-
-@media(max-width: 499px){
+@media screen and (max-width: 40rem) {
   article {
-    margin-bottom: 0;
+    width: inherit;
+    max-width: inherit;
   }
 
-  select {
-    font-size: .85em;
-  }
-
-  .large-post-title, .large-page-title, .footer-block, .date {
-    display: none;
-  }
-
-  .category {
-    font-size: .65em;
-  }
-
-  .inflect {
-    width: 250px;
-  }
-
-  .wide {
-    width: 240px;
-  }
-
-  #front-page {
-    margin-top: 0;
-    overflow: hidden;
-  }
-
-  #front-image {
-    padding-top: 15px;
+  aside {
+    width: inherit;
+    max-width: inherit;
   }
 }
-
-

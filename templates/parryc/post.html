@@ -1,0 +1,11 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/parryc.css" />
+  {% assets "parryc_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block content  %}
+  {{html|safe}}
+{% endblock %}
