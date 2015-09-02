@@ -6,6 +6,9 @@
     <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
   {% endassets %}
 {% endblock %}
+{% block header %}
+parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
+{% endblock %}
 {% block content  %}
   {{html|safe}}
 {% endblock %}

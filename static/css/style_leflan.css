@@ -1,0 +1,54 @@
+h1,h2,h3,h4,h5,h6,body {
+  font-family: "Source Code Pro","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-size: 22px;
+  line-height: 1.4;
+}
+
+a {
+  color: rgb(255,110,110);;
+}
+
+article {
+  width: 75%;
+  max-width: calc(75% - 1rem);
+}
+
+aside {
+  width: 25%;
+  max-width: calc(25% - 1rem);
+  padding-top: 25px;
+}
+
+h1 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  background-color: rgb(255,110,110);
+  color: white;
+  border-bottom: none;
+}
+
+section {
+  padding-top: 10px;
+  margin-bottom: -5px;
+}
+
+tag:before {
+  content: '#';
+  color: rgb(255,110,110);
+}
+
+@media screen and (max-width: 40rem) {
+  article {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  aside {
+    width: inherit;
+    max-width: inherit;
+  }
+}

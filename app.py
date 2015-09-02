@@ -23,24 +23,14 @@ def not_found(error):
 
 # Define static asset bundles to be minimized and deployed
 bundles = {
-  'css_lib': Bundle('css/lib/normalize.css'
-               ,'css/lib/skeleton.css'
-               ,'css/style.css'
-               ,'css/fonts/ptsans/fonts.css'
-               ,filters='cssmin',output='gen/packed.css'),
   'parryc_css': Bundle('css/marx.min.css'
-               ,'css/style.css'
+               ,'css/style_parryc.css'
                ,'css/fonts/ptsans/fonts.css'
                ,filters='cssmin',output='gen/parryc.css'),
-
-  # jQuery migrate is used to support older jQuery libraries that have been upgraded to 1.10
-  'js_lib' : Bundle('js/lib/jquery-1.10.2.min.js'
-               ,'js/lib/jquery-migrate-1.2.1.min.js'
-               ,'js/lib/jquery-debounce-1.0.5.js'
-               ,'js/lib/handlebars-runtime.js'
-               ,'js/init.js'
-               ,filters='jsmin',output='gen/packed.js'
-          )
+  'leflan_css': Bundle('css/marx.min.css'
+               ,'css/style_leflan.css'
+               ,'css/fonts/source-code-pro/source-code-pro.css'
+               ,filters='cssmin',output='gen/leflan.css')
   }
 assets.register(bundles)  
 
