@@ -36,6 +36,10 @@ section {
   margin-bottom: -5px;
 }
 
+td {
+  text-align: left;
+}
+
 tag:before {
   content: '#';
   color: rgb(255,110,110);
