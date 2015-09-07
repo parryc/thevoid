@@ -9,7 +9,7 @@ import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
 
-prod = False
+prod = True
 if prod:
   host = 'leflan.eu'
 else:
