@@ -11,6 +11,7 @@ app/static/.webassets-cache/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+mod_leflan/controllers.pyc
 
 # C extensions
 *.so

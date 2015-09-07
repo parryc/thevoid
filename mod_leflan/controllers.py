@@ -9,7 +9,7 @@ import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
 
-prod = True
+prod = False
 if prod:
   host = 'leflan.eu'
 else:
@@ -81,7 +81,7 @@ def book(book):
   return render_template('leflan/post.html',html=html,title=_title(book))
 
 def get_html(page):
-  filepath = os.path.join(app.root_path, 'templates', page)
+  filepath = os.path.join(app.root_path, 'templates', page).encode('utf-8')
   input_file = codecs.open(filepath, mode="r", encoding="utf-8")
   text = input_file.read()
   return markdown.markdown(text,
