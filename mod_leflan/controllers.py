@@ -9,7 +9,7 @@ import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
 
-prod = True
+prod = False
 if prod:
   host = 'leflan.eu'
 else:
@@ -87,7 +87,8 @@ def get_html(page):
   return markdown.markdown(text,
           extensions=['markdown.extensions.nl2br'
                      ,'markdown.extensions.toc'
-                     ,'markdown.extensions.tables'])
+                     ,'markdown.extensions.tables'
+                     ,'markdown.extensions.def_list'])
 
 def _title(page):
   return page.replace('-',' ')
