@@ -8,6 +8,8 @@ class Config(object):
     SQLALCHEMY_DATABASE_URI = 'postgresql://localhost/beer'
     _dir = os.path.dirname(__file__)
     WHOOSH_BASE = os.path.join(_dir, 'search.db')
+    LEFLAN_TEST = True
+    PARRYC_TEST = False
     # SQLALCHEMY_DATABASE_URI = 'postgresql://hosting-db:r3c0rdB33R!!@localhost/beer'
 
 

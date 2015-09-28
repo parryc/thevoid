@@ -9,8 +9,8 @@ import codecs
 
 mod_parryc = Blueprint('parryc', __name__)
 
-prod = True
-if prod:
+testing = app.config['PARRYC_TEST']
+if not testing:
   host = 'parryc.com'
 else:
   host = 'localhost:5000'

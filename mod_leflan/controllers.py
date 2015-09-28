@@ -9,8 +9,8 @@ import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
 
-prod = False
-if prod:
+testing = app.config['LEFLAN_TEST']
+if not testing:
   host = 'leflan.eu'
 else:
   host = 'localhost:5000'
