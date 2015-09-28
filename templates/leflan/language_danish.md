@@ -3,6 +3,12 @@
 # Verbs
 
 ## Infinitives
+at prøve - to try
+at tro - to believe
+*irregular pres: jeg tror*
+at elske - to love
+at køre - to drive
+at flyve - to fly
 at dreje - to turn
 _at dreje til venstre - turn to the left_
 _at dreje til højre - turn to the right_
@@ -55,6 +61,7 @@ Han   | flytter | i dag
 
 
 # Phrases
+har ... tilbage - still have ...
 Jeg vil gerne have... - I would like...
 hun skal ud - she will (go) out
 skal (+ {noun}) + {prep} - general meaning of "to go/do" the preposition
@@ -69,13 +76,19 @@ Det bliver rart med... - It's nice to ahve...
 _Til vinter bliver det rart med et stort badekar_
 
 # Time
+her gang - this time
 om en time - in an hour
 på lørdag - on Saturday
 i overmorgen - the day after tomorrow
 til sommer - in summer
 først {time phrase} - not until {time phrase}
+lang tid - long, as in time
+_Hvor lang tid tager det? - How long does it take?
 
 # Adverbs
+langt - long/far
+_see: lang tid, for time_
+hele vejen - the whole way
 endelig - finally
 snart - soon
 rundt - around
@@ -109,10 +122,22 @@ uimodståesog - irresistible
 
 # Prepositions
 ind i - into
+i bil - by car
+med tog - by train
 
 # Spelling
 ## Consonant doubling
 A vowel is short if it is only follwed by two consonants, ex. _hund_.  However, Danish does not double the consonant if the letter is the same, ex. _kat_ *_katt_. (c.f. Swedish/Norwegian do so). In the second case, when definite the consonant is doubled, ex. _katten_.<sup>Duolingo</sup>
+
+# Numbers
+* 30 - tredive
+* 40 - fyrre
+* 50 - halvtreds
+* 60 - tres
+* 70 - halvfjerds
+* 80 - firs
+* 90 - halvfems
+* 100 - hundrede
 
 # Misc.
 Ja, bestemt - sure!

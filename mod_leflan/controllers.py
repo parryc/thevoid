@@ -9,7 +9,7 @@ import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
 
-prod = True
+prod = False
 if prod:
   host = 'leflan.eu'
 else:
@@ -108,7 +108,7 @@ def _add_filelist(category, html, show_tags=False):
       page_name = _parts[1].replace('.md','').replace('-',' ')
       tag       = _parts[0]
       if not category or tag in verb_to_tag[category]:
-        url       = _url(tag,page_name).replace(' ','-')
+        url = _url(tag,page_name).replace(' ','-')
         if show_tags:
           html += u'<li><a href="%s">%s</a> <tag>%s</tag></li>' % (url, page_name, tag)
         else:

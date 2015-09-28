@@ -11,6 +11,11 @@ a {
   color: rgb(255,110,110);;
 }
 
+abbr {
+  font-variant: 'small-caps';
+  font-size: 0.8em;
+}
+
 article {
   width: 75%;
   max-width: calc(75% - 1rem);
@@ -47,7 +52,7 @@ pt:after {
 
 pt {
   font-style: italic;
-  padding-left: 15px;
+  padding-left: 0.8em;
 }
 
 section {
