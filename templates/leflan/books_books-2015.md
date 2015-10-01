@@ -15,3 +15,5 @@
 * _A Chinese "Miao" Album_ - David M. Deal and Laura Hostetler
 * _From the Mouth of the Whale_ - Sjón
 * _The Water Knife_ - Paolo Bacigalupi
+* _To Hold the Bridge_ - Garth Nix
+* _A Confusion of Princes_ - Garth Nix
