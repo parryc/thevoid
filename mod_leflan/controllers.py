@@ -9,13 +9,16 @@ import markdown
 import codecs
 
 mod_leflan = Blueprint('leflan.eu', __name__)
-repo = Repo(os.getcwd())
 
 testing = app.config['LEFLAN_TEST']
 if not testing:
-  host = 'leflan.eu'
+  host   = 'leflan.eu'
+  repo   = Repo('~/vcs/git/default.git')
+  folder = os.path.join('templates','leflan')
 else:
-  host = 'localhost:5000'
+  host   = 'localhost:5000'
+  repo   = Repo(os.getcwd())
+  folder = os.path.join(os.getcwd(),'templates','leflan')
 
 ############################
 # The Flaneur's dictionary #
@@ -100,15 +103,11 @@ def _url(tag,page):
 
 def _add_filelist(category, html, show_tags=False):
   html += '<p><ul>'
-  folder = os.path.join(os.getcwd(),'templates','leflan')
   for filename in sorted(os.listdir(folder),\
                   key=lambda _file:\
                       repo.git.log('-n 1','--format=%ci','--',os.path.join(folder,_file)),\
                   reverse=True):
-  # for filename in sorted(os.listdir(folder),\
-  #                 key=lambda _file:\
-  #                     os.path.getmtime(os.path.join(folder,_file)),\
-  #                 reverse=True):
+
     _parts = unicode(filename,'utf-8').split('_')
     if len(_parts) == 2 and 'md' in filename:
       page_name = _parts[1].replace('.md','').replace('-',' ')
