@@ -17,3 +17,5 @@
 * _The Water Knife_ - Paolo Bacigalupi
 * _To Hold the Bridge_ - Garth Nix
 * _A Confusion of Princes_ - Garth Nix
+* _Newt's Emerald_ - Garth Nix
+* _Iscariot_ - S.M. Vidaurri

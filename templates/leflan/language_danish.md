@@ -46,6 +46,11 @@ at synes - to think
 at se - to see
 _at se på - to look at_
 
+### Gøre (to do)
+pres. | past. | pres/past/fut perfect 
+------|-------|--------------------------
+gør   | gjorde| har/havde/vil have gjort
+
 ## Syntax
 The verb is _always_ in the second semantic position (e.g. time phrases take up only one semantic unit).
 For example:
@@ -61,6 +66,8 @@ Han   | flytter | i dag
 
 
 # Phrases
+_Hvad i alverden? - What on earth?_
+_Hvorfor dog det? - Why on earth?_
 har ... tilbage - still have ...
 Jeg vil gerne have... - I would like...
 hun skal ud - she will (go) out
