@@ -14,7 +14,7 @@ _Alt imedens..._
 _Jeg var nået til dette resultat_
 : I had not reached this result
 
-_»Havd i alverden har De dog gjort ved Dem selv, Watson?«_
+_»Hvad i alverden har De dog gjort ved Dem selv, Watson?«_
 : What on earth have you done with yourself, Watson?
 
 
