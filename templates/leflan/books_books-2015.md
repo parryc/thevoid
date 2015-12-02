@@ -19,3 +19,4 @@
 * _A Confusion of Princes_ - Garth Nix
 * _Newt's Emerald_ - Garth Nix
 * _Iscariot_ - S.M. Vidaurri
+* _Exhibiting Dilemmas: Issues of Representation at the Smithsonian_ - Amy Henderson & Adrienne L. Kaeppler
