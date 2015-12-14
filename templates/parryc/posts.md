@@ -1,7 +1,5 @@
 # posts
 
-* [2014-04-02 // The Parry List](2014-04-02-The-Parry-List)
-* [2013-10-29 // Hungarian](2013-10-29-hungarian)
 * [2013-07-24 // True History](2013-07-24-true-history)
 * [2013-07-02 // The few, the proud, the Americans](2013-07-02-whiteness)
 * [2013-06-17 // On Goals](2013-06-17-on-goals)

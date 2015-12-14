@@ -27,7 +27,7 @@ aside {
   padding-top: 25px;
 }
 
-dt:before {
+dt:before, note:before {
   content: '❧';
   padding-right: 5px;
 }

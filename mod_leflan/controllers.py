@@ -93,7 +93,9 @@ def get_html(page):
           extensions=['markdown.extensions.nl2br'
                      ,'markdown.extensions.toc'
                      ,'markdown.extensions.tables'
-                     ,'markdown.extensions.def_list'])
+                     ,'markdown.extensions.def_list'
+                     ,'markdown.extensions.abbr'
+                     ,'markdown.extensions.footnotes'])
 
 def _title(page):
   return page.replace('-',' ')
