@@ -25,13 +25,37 @@ Most nouns are composed with this form: <abbr>NOUN</abbr> + DEF + GEN
 _síminn minn_
 An exception being family, e.g. _mamma þín_
 
+## Feminine nouns
 
-## Weak feminine nouns
+### Strong feminine nouns
+Doesn't end in -a
+
+NUM[^1] | ACC | DAT | GEN
+----|-----|-----|-----
+-∅  | -∅  |  -∅ | -ar
+-ir | -ir | -um | -a
+
+ö -> a
+_höfn, höfn, höfn, hafnar_
+
+
+### Weak feminine nouns
 NUM | ACC | DAT | GEN
 ----|-----|-----|-----
 -a  | -u  |  -u | -u
 
-## Weak masculine nouns
+### Demonstrative feminine nouns
+
+Type     | NUM   | ACC     | DAT      | GEN
+---------|-------|---------|----------|-----
+_suffix_ | -(i)n | -(i)na  |  -(i)nni | -(i)nnar
+_weak_   | konan | konuna  | kununni  | konunnar
+_strong_ | borgin| borgina | borginnin| borgiarinnar 
+
+
+## Masculine nouns
+
+### Weak masculine nouns
 Usually -i
 
 NUM | ACC | DAT | GEN
@@ -49,8 +73,13 @@ _Sound change after C + ja_
   t/k/p/s/d + ja = T
   r/f/g + ja = Ð
 
-ákveða - to decide
+_búin(n) að gera eitthvað_ - finished doing something
+: Maðurinn búinn að hitta Erlu
+  Kona búin að lesa bókina
+  Barnið búið að borða
 
+að ákveða - to decide
+að labla - to walk
 ## Exceptions
 
 ### að vera (PRS)
@@ -117,7 +146,7 @@ singular     | plural
 
 ## Strong Verbs
 
-## að fara
+### að fara
 singular     | plural
 -------------|----------
 ég fer       | við förum
@@ -169,7 +198,14 @@ M     | F     | N
 svo - then
 somuleiðis - likewise
 áður en - before
+út - out
+níður - down
+upp - up
 
+inn - in
+: add -i if no movement
+: _ég er inni_ - I'm inside
+: _ég ætla að fara inn_ - I'm going to go inside
 # Prepositions
 
 ## ACC
@@ -199,6 +235,7 @@ Klukken er _korter yfir þrjú_. - It is a quarter after three.
 # References
 - S. Einarsson. _Icelandic_. The John Hopkins University Press, 1945.
 - H. Jónsdottir. _Teach Yourself Icelandic_. McGraw-Hill, 2004.
+- S. Hólmarsson, C. Sanders, and J. Tucker. _Íslensk-ensk oðabók_. Forlagið. 2009.
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
@@ -211,3 +248,6 @@ Klukken er _korter yfir þrjú_. - It is a quarter after three.
 *[C]: Consonant
 *[V]: Vowel
 *[DEF]: Definitive
+
+<!-- Footnotes -->
+[^1]: From _Einarsson_, this is the class 2 strong feminine noun, but I don't see any need to go into that detail quite yet.

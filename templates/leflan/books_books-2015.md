@@ -20,3 +20,6 @@
 * _Newt's Emerald_ - Garth Nix
 * _Iscariot_ - S.M. Vidaurri
 * _Exhibiting Dilemmas: Issues of Representation at the Smithsonian_ - Amy Henderson & Adrienne L. Kaeppler
+* _The Great Sermon Handicap_ - P.G. Wodehouse
+* _The Wandering Muse_ - Sjón
+* _The Blue Fox_ - Sjón
