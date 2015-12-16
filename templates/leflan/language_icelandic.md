@@ -30,7 +30,7 @@ An exception being family, e.g. _mamma þín_
 ### Strong feminine nouns
 Doesn't end in -a
 
-NUM[^1] | ACC | DAT | GEN
+NOM[^1] | ACC | DAT | GEN
 ----|-----|-----|-----
 -∅  | -∅  |  -∅ | -ar
 -ir | -ir | -um | -a
@@ -40,13 +40,13 @@ _höfn, höfn, höfn, hafnar_
 
 
 ### Weak feminine nouns
-NUM | ACC | DAT | GEN
+NOM | ACC | DAT | GEN
 ----|-----|-----|-----
 -a  | -u  |  -u | -u
 
 ### Demonstrative feminine nouns
 
-Type     | NUM   | ACC     | DAT      | GEN
+Type     | NOM   | ACC     | DAT      | GEN
 ---------|-------|---------|----------|-----
 _suffix_ | -(i)n | -(i)na  |  -(i)nni | -(i)nnar
 _weak_   | konan | konuna  | kununni  | konunnar
@@ -58,10 +58,9 @@ _strong_ | borgin| borgina | borginnin| borgiarinnar
 ### Weak masculine nouns
 Usually -i
 
-NUM | ACC | DAT | GEN
+NOM | ACC | DAT | GEN
 ----|-----|-----|-----
 -i  | -a  |  -a | -a
-
 
 
 # Verbs
@@ -73,72 +72,61 @@ _Sound change after C + ja_
   t/k/p/s/d + ja = T
   r/f/g + ja = Ð
 
-_búin(n) að gera eitthvað_ - finished doing something
+_búin(n) að {gera eitthvað}_ - finished doing something
 : Maðurinn búinn að hitta Erlu
   Kona búin að lesa bókina
   Barnið búið að borða
 
 að ákveða - to decide
 að labla - to walk
-## Exceptions
 
-### að vera (PRS)
-singular     | plural
+## Irregular
+
+### að vera - _to be_
+
+PRS
+: singular     | plural
 -------------|----------
 ég er        | við erum
 þú ert       | þið eruð
 3p. er       | 3p. eru
 
-### að vera (PST)
-singular     | plural
+PST
+: singular   | plural
 -------------|----------
 ég var       | við vorum
 þú varst     | þið voruð
 3p. var      | 3p. voru
 
-### að fara (PRS)
-singular     | plural
--------------|----------
-ég fer       | við förum
-þú ferð      | þið farið
-3p. fer      | 3p. fara
+## Weak
 
-### að fara (PRS)
-singular     | plural
--------------|----------
-ég fór       | við fórum
-þú fórst     | þið fóruð
-3p. fór      | 3p. fóru
+### að tala - _to say_ - Class 1
 
-## Group 1 - weak
-að tala - to say
-
-### að tala (PRS)
-singular     | plural
+PRS
+: singular     | plural
 -------------|----------
 ég tala      | við tölum
 þú talar     | þið tolið
 3p. talar    | 3p. tala
 
-### að tala (PST)
-singular    | plural
+PST
+: singular    | plural
 ------------|------------
 ég talaðu   | við töluðum
 þú talaðír  | þið töluðuð
 3p. talaði  | 3p. töluðu
 
-## Group 2 - weak
-að þekki - to know
+### að þekki - _to know_ - Class 2
 
-### að þekki (PRS)
-singular     | plural
+PRS
+: singular   | plural
 -------------|----------
 ég þekki     | við þekkjum
 þú þekkír    | þið þekkið
 3p. þekkír   | 3p. þekkja
 
-### að þekki (PST)
-singular     | plural
+PST
+: singular   | plural
 -------------|----------
 ég þekkti    | við þekktum
 þú þekktír   | þið þekktuð
@@ -146,12 +134,23 @@ singular     | plural
 
 ## Strong Verbs
 
-### að fara
-singular     | plural
+There are as many classes of strong verbs as there are types of old shift vowels.[^2]
+
+### að fara - _to go_ - Class 6
+
+PRS
+: singular   | plural
 -------------|----------
 ég fer       | við förum
 þú ferð      | þið farið
 3p. fer      | 3p. fara
+
+PST
+: singular   | plural
+-------------|----------
+ég fór       | við fórum
+þú fórst     | þið fóruð
+3p. fór      | 3p. fóru
 
 # Questions
 hvað - what
@@ -251,3 +250,4 @@ Klukken er _korter yfir þrjú_. - It is a quarter after three.
 
 <!-- Footnotes -->
 [^1]: From _Einarsson_, this is the class 2 strong feminine noun, but I don't see any need to go into that detail quite yet.
+[^2]: _Einarsson_, pg 75.

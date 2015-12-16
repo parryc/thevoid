@@ -77,6 +77,7 @@ tag {
   font-style: italic;
 }
 
+
 @media screen and (max-width: 40rem) {
   article {
     width: inherit;
@@ -92,5 +93,15 @@ tag {
     overflow-x: scroll;
     max-width: inherit !important;
     display: block;
+  }
+
+  dd>table {
+    display:none;
+  }
+
+  dt:hover+dd>table {
+    margin-top: .75em;
+    margin-left: -1em;
+    display:table;
   }
 }
