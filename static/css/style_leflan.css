@@ -77,6 +77,55 @@ tag {
   font-style: italic;
 }
 
+.footnote > ol {
+  margin-left: 1em;
+}
+
+/*************
+Typesetting for Lithuanian pitch accents
+
+When adding pitch accent marks, the tittle must still be there
+as well as having the actual accent mark look nice. Most fonts,
+since I can't imagine they know much about Lithuanian pitch accent
+typography, render these groups of combining marks quite poorly.
+
+The usage of these is _mažai<grave></grave>s_ which would be rendered
+as _mažai`s_, but with the ` over the dot of the i.
+**************/
+
+accute:before {
+  content: '´';
+}
+
+accute {
+  position: relative;
+  left: -.57em;
+  top: -.2em;
+  margin-right: -.57em;
+}
+
+grave:before {
+  content: '`';
+}
+
+grave {
+  position: relative;
+  left: -.57em;
+  top: -.2em;
+  margin-right: -.57em;
+}
+
+tilde:before {
+  content: '˜';
+}
+
+tilde {
+  position: relative;
+  left: -.57em;
+  top: -.25em;
+  margin-right: -.57em;
+}
+
 
 @media screen and (max-width: 40rem) {
   article {
