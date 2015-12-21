@@ -2,12 +2,7 @@
 
 # Nouns
 
-## Definite suffixes
-M    | F    | N 
------|------|------
--inn | -in  | -ið
-
-## Pronouns
+## Personal Pronouns
 
 Number | NOM          | ACC           | DAT             | GEN
 -------|--------------|---------------|-----------------|------------------------
@@ -25,7 +20,15 @@ Most nouns are composed with this form: <abbr>NOUN</abbr> + DEF + GEN
 _síminn minn_
 An exception being family, e.g. _mamma þín_
 
-## Feminine nouns
+## Reflexive Pronouns
+
+Same as personal pronouns, except the 3rd person (s/p) is 
+
+ACC | DAT | GEN
+----|-----|------
+sig | sér | sín
+
+## Feminine
 
 ### Strong
 Doesn't end in -a
@@ -67,6 +70,7 @@ Do not end in -i, will end -ur, -l, -n, -r, or -∅
 NOM | ACC | DAT   | GEN
 ----|-----|-------|-----
 ∅   | ∅   |  -(i) | -s
+-ar | -a  |  -um  | -a
 
 The DAT has an -i ending when the stem ends in two consonants but those consonants are not _kk_, _gg_, or _ng_.
 
@@ -76,13 +80,15 @@ Usually -i
 
 NOM | ACC | DAT | GEN
 ----|-----|-----|-----
--i  | -a  |  -a | -a
+-i  | -a  | -a  | -a
+-ar | -a  | -um | -a
 
 ### Demonstrative
 
 Type     | NOM       | ACC       | DAT        | GEN
 ---------|-----------|-----------|------------|-----
-_suffix_ | -(i)nn    | -(i)nn    |  -num      | -(i)ns
+_suffix_ | -(i)nn    | -(i)nn    | -num       | -(i)ns
+         | -nin      | -(i)na    | -num       | -nna
 _weak_   | kennarinn | kennarann | kennaranum | kennarans
 _strong_ | hundurinn | hundinn   | hundinum   | hundsins 
 
@@ -129,6 +135,9 @@ _búin(n) að {gera eitthvað}_ - finished doing something
 
 Most objects of verbs are in ACC.
 : When there is a double object it is DAT + ACC, e.g _Ég sendi honum tölvupost_.
+
+_að fá REFL.DAT eitthvað_ - to get oneself something
+: Hann fekk sér epli - He got himself an apple
 
 að ná í - to pick up
 að ákveða - to decide
@@ -248,6 +257,17 @@ PST
 þú áttir     | þið áttuð
 3p. átt      | 3p. áttu
 
+### að skulu - _shall; will_
+að skulu has no past tense
+
+PRS
+: singular | plural
+-----------|----------
+ég skal    | við skulum
+þú skalt   | þið skuluð
+3p. skal   | 3p. skulu
+
+
 ## Weak
 
 ### að tala - _to say_ - Class 1
@@ -307,6 +327,39 @@ PST
 ég kom       | við komum
 þú komst     | þið komuð
 3p. kom      | 3p. komu
+
+### að fá - _to get_ - Class ?
+Past participle - fengið
+
+PRS
+: singular   | plural
+-------------|----------
+ég fæ        | við fáum
+þú færð      | þið fáið
+3p. fær      | 3p. fá
+
+PST
+: singular   | plural
+-------------|----------
+ég fékk      | við fengum
+þú fékkst    | þið fenguð
+3p. fékk     | 3p. fengu
+
+### að verða - _to have to; to become_ - Class ?
+
+PRS
+: singular   | plural
+-------------|----------
+ég verð      | við verðum
+þú verður    | þið verðið
+3p. verður   | 3p. verða
+
+PST
+: singular   | plural
+-------------|----------
+ég varð      | við urðum
+þú varðst    | þið urðuð
+3p. varð     | 3p. urðu
 
 ### að geta - _to be able to_ - Class ?
 Past participle - getað
@@ -368,6 +421,36 @@ Other cases - stemp + ðu/du/ddu/tu
 Identical with present tense, 2p.
 Exception: að vera - verið þið
 
+## Impersonal
+
+The subject of an impersonal verb is either DAT or ACC, there is only one declension.
+
+ex. _að finnast_ (to think/feel), DAT subject
+: singular - finnst; plural - fannst
+: Mér finnst fiskbollur góður
+: Mér finnst leíðinlegt að fara í skólann
+
+## Reciprocal
+
+Most verbs ending in -st (but not _að finnast_ above) are reciprocal verbs. They indicate that the subjects are doing the same thing to each other, or are involved in the action together. 
+
+Við sjáumst á morgan - We are seeing each other tomorrow
+Þær hittust í miðbænum - They met each other in the city center
+
+## Perfect
+
+### Present Perfect
+
+að hefa (PRS) + past participle
+: ég hef talað - I have spoken
+
+The present perfect is used much less often in Icelandic than in English. In most cases where the present perfect would be used in English, the phrase _að vera buín(n) að gera eittkvað_ is used. When the present perfect is used, it is normally paired with time adverbs such as _aldrei_, _aldrei áður_, _aft_, _einnhvern tíma_[^3]
+
+### Past Perfect
+
+að hefa (PST) + past participle
+: ég hafði talað - I had spoken
+
 # Questions
 hvað - what
 hver - who
@@ -416,6 +499,11 @@ somuleiðis - likewise
 út - out
 níður - down
 upp - up
+aldrei - never
+aldrei áður - never before
+oft - often
+oft áður - often before
+einnhvern tíma - ever
 
 inn - in
 : add -i if no movement
@@ -458,6 +546,8 @@ Klukken er _korter yfir þrjú_. - It is a quarter after three.
 - H. Jónsdottir. _Teach Yourself Icelandic_. McGraw-Hill, 2004.
 - S. Hólmarsson, C. Sanders, and J. Tucker. _Íslensk-ensk oðabók_. Forlagið. 2009.
 
+Most of the examples found above are taken from _Jónsdottir_.
+
 <!-- Abbreviations -->
 *[NOM]: Nominative
 *[ACC]: Accusative
@@ -469,7 +559,9 @@ Klukken er _korter yfir þrjú_. - It is a quarter after three.
 *[C]: Consonant
 *[V]: Vowel
 *[DEF]: Definitive
+*[REFL]: Reflexive
 
 <!-- Footnotes -->
 [^1]: From _Einarsson_, this is the class 2 strong feminine noun, but I don't see any need to go into that detail quite yet.
 [^2]: _Einarsson_, pg 75.
+[^3]: _Jónsdottir_, pg 130.
