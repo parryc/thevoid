@@ -20,6 +20,19 @@ Most nouns are composed with this form: <abbr>NOUN</abbr> + DEF + GEN
 _síminn minn_
 An exception being family, e.g. _mamma þín_
 
+## Posessive Pronouns
+
+Gender   | NOM   | ACC   | DAT    | GEN
+---------|-------|-------|--------|-------
+_m_      | minn  | minn  | mínum  | míns
+         | mínir | mína  | mínum  | mínna
+_f_      | mín   | mína  | minni  | minnar
+         | mínar | mínar | mínum  | mínna
+_n_      | mitt  | mitt  | mínu   | míns
+         | mín   | mín   | mínum  | minna
+
+1st person and 2nd person singular are both declined the same way. All other person and numbers use the GEN pronoun, which does not decline.
+
 ## Reflexive Pronouns
 
 Same as personal pronouns, except the 3rd person (s/p) is 
@@ -102,22 +115,42 @@ _auga_, _hjarta_, _eyra_, _lunga_
 
 NOM | ACC | DAT | GEN
 ----|-----|-----|-----
--∅  | -∅  |  -∅ | -∅
+-∅  | -∅  | -∅  | -∅
+-u  | -u  | -um | -na
 
 ### Strong
 not -a, often monosyllable
 
 NOM | ACC | DAT | GEN
 ----|-----|-----|-----
--∅  | -∅  |  -i | -s
+-∅  | -∅  | -i  | -s
+-∅  | -∅  | -um | -a
+
+_a_ in stem turns to _ö_
 
 ### Demonstrative
 
 Type     | NOM   | ACC   | DAT    | GEN
 ---------|-------|-------|--------|----------
 _suffix_ | -(i)ð | -(i)ð | -(i)nu | -(i)ns
+         | -(i)n | -(i)n | -num   | -nna
 _weak_   | augað | augað | auganu | augans
 _strong_ | húsið | húsið | húsinu | hússins 
+
+## Someone, something, some
+
+einhver - someone; some
+eitthvað - something; some
+
+Gender   | NOM       | ACC       | DAT         | GEN
+---------|-----------|-----------|-------------|----------
+_m_      | einhver   | einhvern  | einhverjum  | einhvers
+         | einverjir | einhverja | einhverjum  | einhverra
+_f_      | einhver   | einhverja | einhverri   | einhvers
+         | einverjir | einhverja | einhverjum  | einhverra
+_n_      | eitthvað  | eitthvað  | einhverju   | einhvers
+         | einhver   | einhver   | einhverjum  | einhverra
+
 
 # Verbs
 _Ég er að lesa_ - I'm reading
@@ -138,6 +171,9 @@ Most objects of verbs are in ACC.
 
 _að fá REFL.DAT eitthvað_ - to get oneself something
 : Hann fekk sér epli - He got himself an apple
+
+_að gefa DAT ACC_ - to give something to someone
+: Ég ætla að gefa henni (DAT) bók (ACC).
 
 að ná í - to pick up
 að ákveða - to decide
@@ -267,6 +303,22 @@ PRS
 þú skalt   | þið skuluð
 3p. skal   | 3p. skulu
 
+### að þurfa - _to need_
+Past participle - þurft
+
+PRS
+: singular   | plural
+-------------|----------
+ég þarf      | við þurfum
+þú þarft     | þið þurfið
+3p. þarf     | 3p. þurfa
+
+PST
+: singular   | plural
+-------------|----------
+ég þurfti    | við þurftum
+þú þurftir   | þið þurftuð
+3p. þurfti   | 3p. þurftu
 
 ## Weak
 
@@ -425,10 +477,14 @@ Exception: að vera - verið þið
 
 The subject of an impersonal verb is either DAT or ACC, there is only one declension.
 
-ex. _að finnast_ (to think/feel), DAT subject
+_að finnast_ (to think/feel), DAT subject
 : singular - finnst; plural - fannst
 : Mér finnst fiskbollur góður
 : Mér finnst leíðinlegt að fara í skólann
+
+_að langa_ (to want), ACC subject
+: singular - langar; plural - langaði
+: past participle - langað
 
 ## Reciprocal
 
@@ -472,6 +528,8 @@ M          | F        | N
 alvarlegur |alvarleg  | avlarlegt
 grannur    |grönn     | grannt
 
+Most adjectives fall under this group.
+
 C + _t/d/ð_ => (_n._) drop duplicated C
 : ljóshært+t => *rt*t => rt
 
@@ -492,6 +550,18 @@ M     | F     | N
 ------|-------|------
 -inn  | -in   | -ið
 
+## Past Participle as Adjective
+
+Type              | M    |  F   |  N
+------------------|------|------|-------
+Group 1 weak verbs| -ur  | -uð  | -∅
+Group 2 weak verbs| -ur  | -∅   | -t
+Strong verbs      | -inn | -in  | -ið
+
+Group 2 weak verbs feminine adjectives are based off of the form in the past tense. For instance:
+
+_gleymt_ (PST _gleymd_) - gleymdur, gleymd, gleymt
+_þekkt_ (PST _þekkti_) - þekktur, þekkt, þekkt
 # Adverbs
 svo - then
 somuleiðis - likewise
