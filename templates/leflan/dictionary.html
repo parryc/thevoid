@@ -1,0 +1,52 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/leflan.css" />
+  {% assets "leflan_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+  <em>le_flaneur</em> • <a href="/r">recent</a> • <a href="/r/learns">learns</a> • <a href="/r/reads">reads</a>
+{% endblock %}
+{% block content  %}
+  <h1>{{title}}</h1>
+  {% for e in dictionary %}
+  <div class="entry">
+    <div class="headword-info"><span class="headword">{{e.headword}}</span> (<span class="pos">{{e.pos}}</span>)
+    <div class="entry-info">
+      {{e.sense}}
+      <div class="declensions">
+        <table>
+          <thead>
+            {% if e.type == 'n' %}
+              <th>num.</th>
+            {% endif %}
+            {% for d in e.declensions %}
+              <th><abbr>{{d.name}}</abbr></th>
+            {% endfor %}
+          </thead>
+          <tbody>
+            <tr>
+              {% if e.type == 'n' %}
+                <td><em>s.</em></td>
+                {% for d in e.declensions %}
+                  <td>{{d.s}}</td>
+                {% endfor %}
+              {% endif %}
+            </tr>
+            <tr>
+              {% if e.type == 'n' %}
+                <td><em>p.</em></td>
+                {% for d in e.declensions %}
+                  <td>{{d.p}}</td>
+                {% endfor %}
+              {% endif %}
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  {% endfor %}
+{% endblock %}

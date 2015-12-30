@@ -622,7 +622,7 @@ Most of the examples found above are taken from _Jónsdottir_.
 *[NOM]: Nominative
 *[ACC]: Accusative
 *[DAT]: Dative
-*[GEN]: Genetive
+*[GEN]: Genitive
 *[PRS]: Present
 *[PST]: Past/Preterite
 *[INF]: Infinite

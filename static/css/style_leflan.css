@@ -64,6 +64,10 @@ sup {
   font-size: .5em;
 }
 
+table {
+  white-space: nowrap;
+}
+
 td {
   text-align: left;
 }
@@ -124,6 +128,17 @@ tilde {
   left: -.57em;
   top: -.25em;
   margin-right: -.57em;
+}
+
+
+/******************
+Dictionary entries
+******************/
+
+.declensions table {
+  overflow-x: scroll;
+  width: 130% !important;
+  display: block;
 }
 
 
