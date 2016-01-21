@@ -13,40 +13,43 @@
   <h1>{{title}}</h1>
   {% for e in dictionary %}
   <div class="entry">
-    <div class="headword-info"><span class="headword">{{e.headword}}</span> (<span class="pos">{{e.pos}}</span>)
-    <div class="entry-info">
-      {{e.sense}}
-      <div class="declensions">
-        <table>
-          <thead>
+    <div class="headword-info"><span class="headword">{{e.headword}}</span> (<span class="pos">{{e.pos}}</span>) {{e.sense}}
+    {% for ex in e.examples %}
+      {{loop.index|circle_num}} <em>{{ex.example}}</em> {{ex.translation}}
+    {% endfor %}
+
+    {% if e.declensions %}
+    <div class="declensions">
+      <table>
+        <thead>
+          {% if e.type == 'n' %}
+            <th>num.</th>
+          {% endif %}
+          {% for d in e.declensions %}
+            <th><abbr>{{d.name}}</abbr></th>
+          {% endfor %}
+        </thead>
+        <tbody>
+          <tr>
             {% if e.type == 'n' %}
-              <th>num.</th>
+              <td><em>s.</em></td>
+              {% for d in e.declensions %}
+                <td>{{d.s}}</td>
+              {% endfor %}
             {% endif %}
-            {% for d in e.declensions %}
-              <th><abbr>{{d.name}}</abbr></th>
-            {% endfor %}
-          </thead>
-          <tbody>
-            <tr>
-              {% if e.type == 'n' %}
-                <td><em>s.</em></td>
-                {% for d in e.declensions %}
-                  <td>{{d.s}}</td>
-                {% endfor %}
-              {% endif %}
-            </tr>
-            <tr>
-              {% if e.type == 'n' %}
-                <td><em>p.</em></td>
-                {% for d in e.declensions %}
-                  <td>{{d.p}}</td>
-                {% endfor %}
-              {% endif %}
-            </tr>
-          </tbody>
-        </table>
-      </div>
+          </tr>
+          <tr>
+            {% if e.type == 'n' %}
+              <td><em>p.</em></td>
+              {% for d in e.declensions %}
+                <td>{{d.p}}</td>
+              {% endfor %}
+            {% endif %}
+          </tr>
+        </tbody>
+      </table>
     </div>
+    {% endif %}
   </div>
   {% endfor %}
 {% endblock %}

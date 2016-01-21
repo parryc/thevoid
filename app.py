@@ -9,6 +9,11 @@ app.config.from_object('config.DevelopmentConfig')
 app.url_map.host_matching = True
 assets = Environment(app)
 
+def circle_num_from_jinja_loop(num):
+  return u'①②③④⑤⑥⑦⑧⑨⑩'[num-1]
+
+app.jinja_env.filters['circle_num'] = circle_num_from_jinja_loop
+
 # clear the automatically added route for static
 # https://github.com/mitsuhiko/flask/issues/1559
 # enable host matching and re-add the static route with the desired host

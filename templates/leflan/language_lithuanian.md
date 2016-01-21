@@ -17,7 +17,6 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 <sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
 
-
 <!-- Abbreviations -->
 *[NOM]: Nominative
 *[ACC]: Accusative

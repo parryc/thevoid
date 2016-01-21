@@ -136,11 +136,25 @@ Dictionary entries
 ******************/
 
 .declensions table {
-  overflow-x: scroll;
-  width: 130% !important;
-  display: block;
+  display: none;
 }
 
+.declensions table {
+  overflow-x: scroll;
+  width: 130% !important;
+}
+
+.headword {
+  font-weight: bold;
+}
+
+.pos {
+  font-style: italic;
+}
+
+.headword-info:hover+.declensions>table {
+  display: block;
+}
 
 @media screen and (max-width: 40rem) {
   article {

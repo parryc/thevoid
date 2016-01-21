@@ -139,9 +139,12 @@ def dictionary(language):
     data     = row.split('|')
     if len(data) < 3:
       continue
+
+    # Dictionary schema
     headword = data[0].strip()
     sense    = data[1].strip()
     pos      = data[2].strip()
+    tag      = data[3].strip()
 
     # find correct ending
     _ending_idx = -1
@@ -171,10 +174,23 @@ def dictionary(language):
         entry = _clean_entry(entry,language)
         declensions.append(entry)
 
-    #if language == 'lithuanian':
+    # Senses appear as
+    # translation␞sentence,translation␞repeat...
+    sense_parts = sense.split(u'␞')
+    sense = sense_parts[0]
+    if len(sense_parts) > 1:
+      examples = [ {'example':example.split(u';')[0],
+                    'translation':example.split(u';')[1]}
+                  for example in sense_parts[1:]]
+    else:
+      examples = []
+
+    declensions = _set_declensions(declensions,pos,language)
+
     dictionary.append({
       'headword'   :headword,
       'sense'      :sense,
+      'examples'   :examples,
       'pos'        :pos,
       'type'       :_type,
       'declensions':declensions
@@ -267,4 +283,10 @@ def _clean_entry(entry,language):
     entry['s'] = entry['s'].replace(u'iy',u'y')
 
   return entry
+
+def _set_declensions(declensions,pos,language):
+  if language == 'lithuanian' and pos == 'a':
+    return []
+
+  return declensions
 

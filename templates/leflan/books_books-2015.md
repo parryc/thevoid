@@ -23,3 +23,5 @@
 * _The Great Sermon Handicap_ - P.G. Wodehouse
 * _The Wandering Muse_ - Sjón
 * _The Blue Fox_ - Sjón
+* _Ametora: How Japan Saved American Style_ - W. David Marx
+* _Haa Tuwunáagu Yís: For Our Healing Spirit, Tlingit Oratory_ - Nora Marks Dauenhauer and Richard Dauenhauer 
