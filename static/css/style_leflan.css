@@ -135,24 +135,30 @@ tilde {
 Dictionary entries
 ******************/
 
-.declensions table {
+/*.declensions table {
   display: none;
-}
+}*/
 
 .declensions table {
   overflow-x: scroll;
   width: 130% !important;
+  display: none;
 }
 
 .headword {
   font-weight: bold;
+  cursor: help;
 }
 
 .pos {
   font-style: italic;
 }
 
-.headword-info:hover+.declensions>table {
+.headword-info>.declensions table {
+  color: none;
+}
+
+.headword-info:hover>.declensions table {
   display: block;
 }
 
@@ -181,5 +187,10 @@ Dictionary entries
     margin-top: .75em;
     margin-left: -1em;
     display:table;
+  }
+
+  .headword-info:hover>.declensions table {
+    display: block;
+    max-width: calc(100% - 1rem) !important;
   }
 }
