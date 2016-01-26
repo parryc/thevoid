@@ -20,9 +20,10 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 
 Transitive verbs are usually followed by the ACC. However, if the verb is negative, it is followed by the GEN.
 
-ex. _rašyti laišką_ vs. _nerašyti laiško_ [365, pg19]
+ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
 ## Conjugation 1
+
 <!-- BEGIN: Verb-1 -->
 <!-- ENDING: a, ia -->
 <!-- PRE: ∅, i -->
@@ -39,6 +40,11 @@ person | _s._  | _p._
 ## Reflexive Verbs
 Have the ending _-is_
 
+## Bibliography
+* <source id="365">Virginija Stumbrienė, L. Vilkienė, and W. Roebuck. _365 Lithuanian Verbs_. Tyto Alba, 2008.</source>
+
+## Dictionary
+[le flaneur's lithuanian dictionary](lithuanian/dict)
 <!-- Abbreviations -->
 *[NOM]: Nominative
 *[ACC]: Accusative

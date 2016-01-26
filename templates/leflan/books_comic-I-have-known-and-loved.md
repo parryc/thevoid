@@ -22,10 +22,11 @@
 * _The Last Broadcast_
 * _Sandman: Overture_
 * _Umbral_ (Canceled)
-* _C.O.W.L_
+* _C.O.W.L_ (Canceled)
 * _The Storytellers: Witches_
 * _Feathers_
 * _Abigail and the Abominable Snowman_
+* _Dark Ages_
 
 # Abandoned
 * _Roche Limit_

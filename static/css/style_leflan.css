@@ -27,6 +27,11 @@ aside {
   padding-top: 25px;
 }
 
+cite {
+  vertical-align: super;
+  font-size: .6em;
+}
+
 dt:before, note:before {
   content: '❧';
   padding-right: 5px;

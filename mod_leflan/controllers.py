@@ -159,7 +159,7 @@ def dictionary(language):
   dictionary = []
   for row in input_file_dict:
     data     = row.split('|')
-    if len(data) < 3:
+    if len(data) < 3 or data[0].strip() == u'headword':
       continue
 
     # Dictionary schema
@@ -236,7 +236,6 @@ def dictionary(language):
           entry = _clean_entry(entry,language)
           declensions.append(entry)
 
-    print declensions
     # Senses appear as
     # translation␞sentence,translation␞repeat...
     sense_parts = sense.split(u'␞')
@@ -257,6 +256,8 @@ def dictionary(language):
       'pos'        :pos,
       'declensions':declensions
       })
+
+    dictionary = sorted(dictionary,key=lambda entry: entry['headword'])
 
   return render_template('leflan/dictionary.html',dictionary=dictionary
                          ,title=_title(language))
