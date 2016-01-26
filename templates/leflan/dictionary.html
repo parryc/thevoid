@@ -22,30 +22,55 @@
     <div class="declensions">
       <table>
         <thead>
-          {% if e.type == 'n' %}
+          {% if e.pos == 'n' %}
             <th>num.</th>
+            {% for d in e.declensions %}
+              <th><abbr>{{d.name}}</abbr></th>
+            {% endfor %}
           {% endif %}
-          {% for d in e.declensions %}
-            <th><abbr>{{d.name}}</abbr></th>
-          {% endfor %}
+          {% if e.pos == 'v' %}
+            <th>person</th>
+            <th><em>s</em></th>
+            <th><em>p</em></th>
+          {% endif %}
         </thead>
         <tbody>
           <tr>
-            {% if e.type == 'n' %}
+            {% if e.pos == 'n' %}
               <td><em>s.</em></td>
               {% for d in e.declensions %}
                 <td>{{d.s}}</td>
               {% endfor %}
             {% endif %}
+            {% if e.pos == 'v' %}
+              <td><em>1</em></td>
+              {% for d in e.declensions %}
+                <td>{{d.one}}</td>
+              {% endfor %}
+            {% endif %}
           </tr>
           <tr>
-            {% if e.type == 'n' %}
+            {% if e.pos == 'n' %}
               <td><em>p.</em></td>
               {% for d in e.declensions %}
                 <td>{{d.p}}</td>
               {% endfor %}
             {% endif %}
+            {% if e.pos == 'v' %}
+              <td><em>2</em></td>
+              {% for d in e.declensions %}
+                <td>{{d.two}}</td>
+              {% endfor %}
+            {% endif %}
           </tr>
+          {% if e.pos == 'v' %}
+            <tr>
+              <td><em>3</em></td>
+              {% for d in e.declensions %}
+                <td>{{d.tre}}</td>
+              {% endfor %}
+            </tr>
+          {% endif %}
         </tbody>
       </table>
     </div>

@@ -16,6 +16,28 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 <!-- END: 1 -->
 <sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
+# Verbs
+
+Transitive verbs are usually followed by the ACC. However, if the verb is negative, it is followed by the GEN.
+
+ex. _rašyti laišką_ vs. _nerašyti laiško_ [365, pg19]
+
+## Conjugation 1
+<!-- BEGIN: Verb-1 -->
+<!-- ENDING: a, ia -->
+<!-- PRE: ∅, i -->
+<!-- TYPE: v -->
+person | _s._  | _p._
+-------|-------|------
+1      | -u    | -ame
+2      | -i    | -ate
+3      | -a    | -a
+
+<!-- END: Verb-1 -->
+
+
+## Reflexive Verbs
+Have the ending _-is_
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
