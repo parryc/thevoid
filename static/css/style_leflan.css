@@ -77,6 +77,12 @@ td {
   text-align: left;
 }
 
+/* Don't allow the PDF page splitting to
+   break inside of a table row */
+tr {
+  page-break-inside: avoid !important;
+}
+
 tag:before {
   content: '#';
   color: black;
@@ -197,5 +203,11 @@ Dictionary entries
   .headword-info:hover>.declensions table {
     display: block;
     max-width: calc(100% - 1rem) !important;
+  }
+}
+
+@media print {
+  table {
+    white-space: normal;
   }
 }

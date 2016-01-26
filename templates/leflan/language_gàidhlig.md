@@ -1,3 +1,5 @@
+[TOC]
+
 #Phonology
 
 Slender: **i,e** *fuaimreagan caola* 
