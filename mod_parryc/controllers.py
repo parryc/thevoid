@@ -47,6 +47,10 @@ def index():
   html = get_html(page)
   return render_template('parryc/post.html',html=html)
 
+@mod_parryc.route('/downloads/<doc>', methods=['GET'], host=host)
+def download(doc):
+  return send_from_directory('files', doc)
+
 @mod_parryc.route('/<title>', methods=['GET'], host=host)
 def page(title):
   page = 'parryc/%s.md' % title

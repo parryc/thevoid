@@ -22,7 +22,7 @@ Transitive verbs are usually followed by the ACC. However, if the verb is negati
 
 ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
-## Conjugation 1
+## Conjugation 1 (a ending)
 
 <!-- BEGIN: Verb-1 -->
 <!-- ENDING: a, ia -->
@@ -36,9 +36,38 @@ person | _s._  | _p._
 
 <!-- END: Verb-1 -->
 
+## Conjugation 2 (i ending)
+
+<!-- BEGIN: Verb-2 -->
+<!-- ENDING: i -->
+<!-- PRE: ∅ -->
+<!-- TYPE: v -->
+person | _s._  | _p._
+-------|-------|------
+1      | -iu   | -ime
+2      | -i    | -ite
+3      | -i    | -i
+
+<!-- END: Verb-2 -->
+
+## Conjugation 3 (o ending)
+
+<!-- BEGIN: Verb-3 -->
+<!-- ENDING: o -->
+<!-- PRE: ∅ -->
+<!-- TYPE: v -->
+person | _s._  | _p._
+-------|-------|------
+1      | -au   | -ome
+2      | -ai   | -ote
+3      | -o    | -o
+
+<!-- END: Verb-3 -->
 
 ## Reflexive Verbs
 Have the ending _-is_
+
+# Errata
 
 ## Bibliography
 * <source id="365">Virginija Stumbrienė, L. Vilkienė, and W. Roebuck. _365 Lithuanian Verbs_. Tyto Alba, 2008.</source>

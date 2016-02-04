@@ -14,7 +14,7 @@
   <a href="../{{title}}"><em>back to grammar</em></a><br/><br/>
   {% for e in dictionary %}
   <div class="entry">
-    <div class="headword-info"><span class="headword">{{e.headword}}</span> (<span class="pos">{{e.pos}}</span>) {{e.sense}}
+    <div class="headword-info"><span class="headword">{{e.headword|safe}}</span> (<span class="pos">{{e.pos}}</span>) {{e.sense}}
     {% for ex in e.examples %}
       {{loop.index|circle_num}} <em>{{ex.example}}</em> {{ex.translation}}
     {% endfor %}

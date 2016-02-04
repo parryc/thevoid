@@ -1,6 +1,7 @@
 search.db/
 gen/
 config.py
+files/
 
 # Webassets cache
 .webassets-cache/

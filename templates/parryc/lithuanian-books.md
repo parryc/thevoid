@@ -1,0 +1,16 @@
+# Lithuanian Books
+
+* _Lithuanian Grammar_<br/>V. Ambrazas and E. Geniušienė and A. Girdenis and N. Sližienė and D. Tekorienė and A. Valeckienė and E. Valiulytė, Baltos Lankos (1997) [here](http://parryc.com/downloads/Ambrazas-1997-Lithuanian Grammar-000.pdf)
+* _Lithuanian Pictorial Dictionary_<br/>Z. Babickienė and A. Bareikytė, Baltos Lankos (1996) [here](http://parryc.com/downloads/)
+* _Inverse Dictionary of Lithuanian Nicknames_<br/>A. Butkus, Æsti (2009) [here](http://parryc.com/downloads/)
+* _Beginner's Lithuanian_<br/>L. Dambriūnas and A. Klimas and W. R. Schmalstieg, Hippocrene Books (2006) [here](http://parryc.com/downloads/)
+* _Litauisches Etymologisches Wörterbuch_<br/>E. Fraenkel, Carl Winter (1962) [here](http://parryc.com/downloads/)
+* _A Short Grammar of Lithuanian_<br/>T. Mathiassen, Slavica Publishers, Inc. (1996) [here](http://parryc.com/downloads/)
+* _Anglų-lietuvių kalbų žodynas_<br/>B. Piersarskas, Baltų lankų leidyba (2005) [here](http://parryc.com/downloads/)
+* _Colloquial Lithuanian_<br/>M. Ramonienė and I. Press, Routledge (1996) [here](http://parryc.com/downloads/)
+* _Colloquial Lithuanian_<br/>M. Ramonienė and I. Press, Routledge (2011) [here](http://parryc.com/downloads/)
+* _Accented Lithuanian Texts with Vocabulary_<br/>A. Senn, University of Pennsylvania (1961) [here](http://parryc.com/downloads/)
+* _Lietuvių Kalbos Etimologinis Žodynas_<br/>W. Smoczyński, Orlon (2007) [here](http://parryc.com/downloads/)
+* _Nė dienos be lietuvių kalbos_<br/>V. Stumbrienė and A. Kaškelevičienė, Gimtasis Žodis (2001) [here](http://parryc.com/downloads/)
+* _365 Lithuanian Verbs_<br/>V. Stumbrienė and L. Vilkienė and W. Roebuck, Tyto Alba (2008) [here](http://parryc.com/downloads/)
+* _Nė dienos be lietuvių kalbos_<br/>V. Stumbrienė and A. Kaškelevičienė, Antroji Knyga (2014) [here](http://parryc.com/downloads/)
