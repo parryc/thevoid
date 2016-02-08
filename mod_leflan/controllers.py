@@ -206,35 +206,36 @@ def dictionary(language):
       stem = stem + _pre[ending_idx]
       declensions = []
 
-      for data in table_data:
-        # Nouns
-        if pos == 'n':
-          entry = {
-            'name':data['name'],
-            'type':'n',
-            's'   :stem + data['_s._'][ending_idx],
-            'p'   :stem + data['_p._'][ending_idx]
-          }
-          if '***' in entry['s']:
-            entry['s'] = headword
-          if '***' in entry['p']:
-            entry['p'] = headword
+      if rule_found:
+        for data in table_data:
+          # Nouns
+          if pos == 'n':
+            entry = {
+              'name':data['name'],
+              'type':'n',
+              's'   :stem + data['_s._'][ending_idx],
+              'p'   :stem + data['_p._'][ending_idx]
+            }
+            if '***' in entry['s']:
+              entry['s'] = headword
+            if '***' in entry['p']:
+              entry['p'] = headword
 
-          entry = _clean_entry(entry,language)
-          declensions.append(entry)
+            entry = _clean_entry(entry,language)
+            declensions.append(entry)
 
-        # Verbs
-        if pos == 'v':
-          entry = {
-            'name':data['name'],
-            'type':'v',
-            'one' :stem + data['1'][ending_idx],
-            'two' :stem + data['2'][ending_idx],
-            'tre' :stem + data['3'][ending_idx]
-          }
+          # Verbs
+          if pos == 'v':
+            entry = {
+              'name':data['name'],
+              'type':'v',
+              'one' :stem + data['1'][ending_idx],
+              'two' :stem + data['2'][ending_idx],
+              'tre' :stem + data['3'][ending_idx]
+            }
 
-          entry = _clean_entry(entry,language)
-          declensions.append(entry)
+            entry = _clean_entry(entry,language)
+            declensions.append(entry)
 
     # Senses appear as
     # translation␞sentence,translation␞repeat...
@@ -349,7 +350,7 @@ def _clean_entry(entry,language):
   return entry
 
 def _set_declensions(declensions,pos,language):
-  if language == 'lithuanian' and pos == 'a':
+  if language == 'lithuanian' and (pos == 'a' or pos == 'adv'):
     return []
 
   return declensions

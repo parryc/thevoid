@@ -108,33 +108,33 @@ The usage of these is _mažai<grave></grave>s_ which would be rendered
 as _mažai`s_, but with the ` over the dot of the i.
 **************/
 
-accute:before {
+ac:before {
   content: '´';
 }
 
-accute {
+ac {
   position: relative;
   left: -.57em;
   top: -.2em;
   margin-right: -.57em;
 }
 
-grave:before {
+gr:before {
   content: '`';
 }
 
-grave {
+gr {
   position: relative;
   left: -.57em;
   top: -.2em;
   margin-right: -.57em;
 }
 
-tilde:before {
+ti:before {
   content: '˜';
 }
 
-tilde {
+ti {
   position: relative;
   left: -.57em;
   top: -.25em;
