@@ -36,6 +36,8 @@ Transitive verbs are usually followed by the ACC. However, if the verb is negati
 
 ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
+Verbs of two syllables (ex. _dirbti_) are always 1st conjugation.
+
 ## Conjugation 1 (a ending)
 
 <!-- BEGIN: Verb-1 -->
@@ -90,7 +92,7 @@ PRS
 : singular | plural
 -----------|----------
 aš esu     | mes esame
-tu esi     | jūs estate
+tu esi     | jūs esate
 3p. yra    | 3p. yra
 
 # Prepositions
@@ -126,9 +128,43 @@ V + už - take/grab už N.
 
 # Adjectives
 
-Adjectives match noun's case
+Adjectives match noun's case.
+
+Use a neuter adjective for impersonal statements.
+
+# Adverbs
+
+## Of Motion
+
+Motion            | Positional
+------------------|------------
+laukań (outward)  | laukè (outside)
+aukštyñ (upwards) | aukšta (up; in a high place)
+žemyn (downwards) | žemai<ti></ti> (down; in a low place)
+tolỹn (farther on; into the distance) | toli<gr></gr> (far; at a distance)
+namõ (homewards)  | namiẽ (at home)
+
+Aš einù laukañ vs. Aš esu laukè
+I am going outside vs. I am outside
+
+# Conjunctions
+
+> The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of hte main clause<cite>[DBK, pg305](#DBK)</cite>
+
+_bèt_ is more emphatic than _õ_
+
+Like a lot of European langauges, Lithuanian puts a comma before a clause. This _does not_ indicate a pause or anything like in English.
+
+Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
 # Errata
+
+## Interjections
+
+eik velniop - go to hell!
+_(niop is an older form of 'home')_
+eik, eik - wow!
+eik tu sau - no kidding!
 
 ## Language notes
 

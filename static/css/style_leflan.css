@@ -27,6 +27,10 @@ aside {
   padding-top: 25px;
 }
 
+blockquote {
+  border-left: .4rem solid rgba(255, 110, 110, 0.65);
+}
+
 cite {
   vertical-align: super;
   font-size: .6em;
