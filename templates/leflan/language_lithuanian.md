@@ -80,9 +80,6 @@ person | _s._  | _p._
 
 <!-- END: Verb-3 -->
 
-## Reflexive Verbs
-Have the ending _-is_
-
 ## Irregular
 
 ### buti - _to be_
@@ -94,6 +91,20 @@ PRS
 aš esu     | mes esame
 tu esi     | jūs esate
 3p. yra    | 3p. yra
+
+## Reflexive Verbs
+Have the ending _-is_
+
+## Future Tense
+
+[stem] + _s_
+
+ex. li+s = will rain
+
+## Verbal Prefixes
+
+_su_ - all together (PERF)
+_pu_ - 'somewhat', e.g. _pa_kalba, spoke a little
 
 # Prepositions
 
@@ -149,7 +160,7 @@ I am going outside vs. I am outside
 
 # Conjunctions
 
-> The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of hte main clause<cite>[DBK, pg305](#DBK)</cite>
+> The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of the main clause<cite>[DBK, pg305](#DBK)</cite>
 
 _bèt_ is more emphatic than _õ_
 
@@ -157,7 +168,48 @@ Like a lot of European langauges, Lithuanian puts a comma before a clause. This 
 
 Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
+# Pronunciation
+
+Colloquial speech will leave _i_ off at the end of verb ex. sužvejot*i* vs. sužvejot 
+
+Palatalized /_t_/ always becomes 'č' before a back vowel
+
+Nouns in the ACC singular end in a nasal vowel, which will never be accented.  NOM.PL, if ends in a vowel (-as etc.) will never be accented.  Ending of NOM.S -as/ias never accented, whereas NOM.S -ys is always accented.<cite>[HJ](#HJ)</cite>
+
+# Sentences
+
+Use _negi_ to emphasize/indicate surprise of a sentence
+: Nègi nežinai? _You don't know??_
+
+benè - is it really.../could it be...?
+jùk - but (interchangeable with gi<gr></gr>)
+
+## Conditional sentences
+
+Conditional sentences use the same tense in both clauses
+
+Jei rytoj lis, reikos skėčio
+: If tomorrow rain+FUT, need+FUT umbrellas
+
+## Passive Voice<cite>[DBK, pg268](#DBK)</cite>
+
+Uses _būti_ as auxiliary verb
+
+àš esù mùšamas - I am being beaten
+: I PRS PRS.PT
+
+àš esù mùštas - I am beaten
+: I PRS PST.PT
+
+àš buvaũ mùšamas - I was being beaten
+: I PST PRS.PT
+
+àš buvaũ mùštas - I was beaten
+: I PST PST.PT
+
 # Errata
+
+Can use a man's first name in the plural to refer to the man's family.
 
 ## Interjections
 
@@ -165,6 +217,7 @@ eik velniop - go to hell!
 _(niop is an older form of 'home')_
 eik, eik - wow!
 eik tu sau - no kidding!
+màt tavè dievai<ti></ti> - math the gods take you!
 
 ## Language notes
 
@@ -186,8 +239,8 @@ Nandinkas
 
 ## Bibliography
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
+* <source id="HJ">Henry Jason. Personal communication. 2016.</source>
 * <source id="365">Virginija Stumbrienė, L. Vilkienė, and W. Roebuck. _365 Lithuanian Verbs_. Tyto Alba, 2008.</source>
-
 
 ## Dictionary
 [le flaneur's lithuanian dictionary](lithuanian/dict)
@@ -201,8 +254,12 @@ Nandinkas
 *[VOC]: Vocative
 *[PRS]: Present
 *[PST]: Past/Preterite
+*[FUT]: Future
 *[INF]: Infinite
 *[C]: Consonant
 *[V]: Vowel
 *[DEF]: Definitive
 *[REFL]: Reflexive
+*[PT]: Participle
+*[S]: Singular
+*[PL]: Plural
