@@ -2,7 +2,7 @@
 
 # Nouns
 
-## Declension 1
+## -as, -is, -ys
 
 <!-- BEGIN: 1 -->
 <!-- ENDING: as, is, ys -->
@@ -36,49 +36,44 @@ Transitive verbs are usually followed by the ACC. However, if the verb is negati
 
 ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
-Verbs of two syllables (ex. _dirbti_) are always 1st conjugation.
+The last verb before noun determines case
+: _Aš noriu skaityti ACC_, rather than GEN, which _norėti_ requires.
 
-## Conjugation 1 (a ending)
+## Conjugation Present tense
 
-<!-- BEGIN: Verb-1 -->
-<!-- ENDING: a, ia -->
-<!-- PRE: ∅, i -->
-<!-- TYPE: v -->
-person | _s._  | _p._
--------|-------|------
-1      | -u    | -ame
-2      | -i    | -ate
-3      | -a    | -a
+There are three types of classes for verbs in the present tense. Which class a verb belongs to is dictated by the final vowel in the 3rd person. It is either _A_, _I_, or _O_, which can be remembered with the word _alio_.
 
-<!-- END: Verb-1 -->
+If you don't know the 3rd person, there are a few hard and fast rules: 
 
-## Conjugation 2 (i ending)
+* Verbs of two syllables (ex. _dirbti_) are always 1st conjugation.
+* Verbs ending in _uoti_/_auti_ are 1st conjugation and ending _uoja_ or _auja_ in 3rd person
+* Verbs ending in _ėti_ are 2nd conjugation.
+* Verbs ending in _yti_ are 3rd conjugation.
 
-<!-- BEGIN: Verb-2 -->
-<!-- ENDING: i -->
-<!-- PRE: ∅ -->
-<!-- TYPE: v -->
-person | _s._  | _p._
--------|-------|------
-1      | -iu   | -ime
-2      | -i    | -ite
-3      | -i    | -i
+Knowing the 3rd person conjugation gives you the stem, just remove the final vowel. 
 
-<!-- END: Verb-2 -->
+Ex. _gyveña_ => stem:_gyven_, vowel:_a_
 
-## Conjugation 3 (o ending)
+The plurals & 3rd person verbs are the same for all conjugations: 
 
-<!-- BEGIN: Verb-3 -->
-<!-- ENDING: o -->
-<!-- PRE: ∅ -->
-<!-- TYPE: v -->
-person | _s._  | _p._
--------|-------|------
-1      | -au   | -ome
-2      | -ai   | -ote
-3      | -o    | -o
+1st person, pluarl: V + _me_ (ex., -ame)
+2nd person, plural: V + _te_ (ex., -ate)
+3rd person: V
 
-<!-- END: Verb-3 -->
+### A verbs
+
+1st person, singular: stem + _u_
+2nd person, singular: stem + _i_
+
+### I verbs
+
+1st person, singular: stem + _iu_
+2nd person, singular: stem + _i_
+
+### O verbs
+
+1st person, singular: stem + _au_
+2nd person, singular: stem + _ai_
 
 ## Irregular
 
@@ -158,6 +153,22 @@ namõ (homewards)  | namiẽ (at home)
 Aš einù laukañ vs. Aš esu laukè
 I am going outside vs. I am outside
 
+# Questions
+
+Questions without question words must start with _Ar_
+: Ar tu gyveni Berkelyje?
+
+Kaip - how
+: Expects adverbial response
+: Kaip žmones kalba...? - Žmones kalba angliškai
+
+Kok - Which
+: When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
+: Kokiomis kalbomis tu kalbi? - Which languages do you speak?
+: kalbomis is in INST
+
+Kur - where
+: Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
 # Conjunctions
 
 > The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of the main clause<cite>[DBK, pg305](#DBK)</cite>
@@ -175,6 +186,17 @@ Colloquial speech will leave _i_ off at the end of verb ex. sužvejot*i* vs. su�
 Palatalized /_t_/ always becomes 'č' before a back vowel
 
 Nouns in the ACC singular end in a nasal vowel, which will never be accented.  NOM.PL, if ends in a vowel (-as etc.) will never be accented.  Ending of NOM.S -as/ias never accented, whereas NOM.S -ys is always accented.<cite>[HJ](#HJ)</cite>
+
+## Pitch Accent
+
+_au_ is tricky. 
+: _aũ_/_au_ = /oː/
+: _áu_ = /au/
+: the "real" phonology is obviously much more IPA-tastic, but this is close enough. The main thing to know is that rising (~) and accentless are pronounced the same.
+
+e
+: _ẽ_ = /æ/
+: _e_ = /ɛ/ 
 
 # Sentences
 
@@ -207,6 +229,12 @@ Uses _būti_ as auxiliary verb
 àš buvaũ mùštas - I was beaten
 : I PST PST.PT
 
+## Fixed Phrases
+
+{DAT pronoun} patinka + NOM
+: Man patinka... - I like... 
+: Can also use _mėgti_ - to like
+
 # Errata
 
 Can use a man's first name in the plural to refer to the man's family.
@@ -218,6 +246,10 @@ _(niop is an older form of 'home')_
 eik, eik - wow!
 eik tu sau - no kidding!
 màt tavè dievai<ti></ti> - math the gods take you!
+puiku! - great
+prašo - please
+nėra už ką - you're welcome, don't mention it
+prašom - you're welcome
 
 ## Language notes
 
