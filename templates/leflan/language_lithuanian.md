@@ -16,6 +16,11 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 <!-- END: 1 -->
 <sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
+## -uo
+num. | NOM | GEN | ACC | LOC
+-----|-----|-----|-----|------
+_s._ | *** | -ens| -enį| -enyje
+
 ## Days of the week
 
 Cardinal number + _dienis_
@@ -28,6 +33,11 @@ Cardinal number + _dienis_
 * Šeštà
 * Septinskà
 
+## Pronouns
+
+_savo_ is used when the possessive pronoun is the same as the subject
+: Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
+
 # Verbs
 
 The third person form of the verb determines which conjugation is used. Ex., if the verb ends in an _a_ it is the 1st conjugation.
@@ -38,6 +48,14 @@ ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
 The last verb before noun determines case
 : _Aš noriu skaityti ACC_, rather than GEN, which _norėti_ requires.
+
+If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to the stem. If a pure dipthong, must be followed by a consonant other than _ti_
+: baigti - baigia
+: laukti - laukia
+: *not* griauti
+: gerti - gertia
+
+* _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
 
 ## Conjugation Present tense
 
@@ -113,8 +131,11 @@ Most prepositions require the GEN.
 * añt - on; expressing feelings towards smth
 * àrti - close to
 * iš - out of; from; since (movement from in to out)
+* põ - after
+* prie - next to
+    * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vanenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
 * nuõ - from (outside of - no movement)
-* skersai<ti></ti> - across
+* skersai̇̃ - across
 * įstižai - diagonal
 
 V + už - take/grab už N.
@@ -123,9 +144,9 @@ V + už - take/grab už N.
 ## Prepositions in ACC
 
 * apiẽ/apliñk - around by (_aplink_ is physical only)
-* į<ti></ti> - in (location); into
-* pas - to; at (to a person, directional)
-* per<ti></ti> - through; across; during; throughout; over (over the fence)
+* į̇̃ - in (location/place); into
+* pas - to a person
+* per̃ - through; across; during; throughout; over (over the fence)
 * põ - round about; through (through the fence)
 
 ## Prepositions in INS
@@ -140,18 +161,26 @@ Use a neuter adjective for impersonal statements.
 
 # Adverbs
 
+* trupuitį - a little
+* biški - a little (coll., from German _einbishen_)
+
 ## Of Motion
 
 Motion            | Positional
 ------------------|------------
 laukań (outward)  | laukè (outside)
 aukštyñ (upwards) | aukšta (up; in a high place)
-žemyn (downwards) | žemai<ti></ti> (down; in a low place)
-tolỹn (farther on; into the distance) | toli<gr></gr> (far; at a distance)
+žemyn (downwards) | žemai̇̃ (down; in a low place)
+tolỹn (farther on; into the distance) | toli̇̀ (far; at a distance)
 namõ (homewards)  | namiẽ (at home)
 
 Aš einù laukañ vs. Aš esu laukè
 I am going outside vs. I am outside
+
+## Time
+
+Singular time nouns are in the ACC.
+: vasãra - Vasãrą aš... - In summer I... 
 
 # Questions
 
@@ -162,13 +191,25 @@ Kaip - how
 : Expects adverbial response
 : Kaip žmones kalba...? - Žmones kalba angliškai
 
-Kok - Which
+Ko - of what
+: requires GEN
+
+Kok - which
 : When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
 : Kokiomis kalbomis tu kalbi? - Which languages do you speak?
 : kalbomis is in INST
 
 Kur - where
 : Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
+
+Kurie - which
+
+O - emphatic question particle
+: O koks tavo vardas? - What is your name?
+
+Kodel - why
+: kadagi - because
+
 # Conjunctions
 
 > The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of the main clause<cite>[DBK, pg305](#DBK)</cite>
@@ -181,11 +222,17 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
 # Pronunciation
 
-Colloquial speech will leave _i_ off at the end of verb ex. sužvejot*i* vs. sužvejot 
-
-Palatalized /_t_/ always becomes 'č' before a back vowel
-
 Nouns in the ACC singular end in a nasal vowel, which will never be accented.  NOM.PL, if ends in a vowel (-as etc.) will never be accented.  Ending of NOM.S -as/ias never accented, whereas NOM.S -ys is always accented.<cite>[HJ](#HJ)</cite>
+
+* Palatalized /_t_/ always becomes 'č' before a back vowel
+* C<em>e</em>C : /e/
+* _ai_$ : /ei/
+* ^u : /ɔ/, in load words, such as _universitete_
+
+## Colloquial speech
+
+* Will leave _i_ off at the end of verb ex. sužvejot*i* vs. sužvejot 
+* _tai yra_ can be ellided to _tyra_
 
 ## Pitch Accent
 
@@ -203,8 +250,12 @@ e
 Use _negi_ to emphasize/indicate surprise of a sentence
 : Nègi nežinai? _You don't know??_
 
+When _ir_ follows a verb at the beginning of a sentence, it functions as "also"
+: Suprasta ir - S/he also understands...
+
 benè - is it really.../could it be...?
-jùk - but (interchangeable with gi<gr></gr>)
+jùk - but (interchangeable with gi̇)
+
 
 ## Conditional sentences
 
@@ -245,15 +296,25 @@ eik velniop - go to hell!
 _(niop is an older form of 'home')_
 eik, eik - wow!
 eik tu sau - no kidding!
-màt tavè dievai<ti></ti> - math the gods take you!
+màt tavè dievai̇̃ - may the gods take you!
 puiku! - great
 prašo - please
 nėra už ką - you're welcome, don't mention it
 prašom - you're welcome
 
+## Possession 
+
+Possessor is in GEN, the possessed in NOM
+: Jonas, knyga - Jono knyga
+
+Multiple possession is in GEN for all possessors
+
 ## Language notes
 
 _Lietuva_ is the sanem root as rain (_lietus_)
+báltas - white; bal̃tas - Baltic tribe
+
+Compound words usually have rising stress in the joining vowel (when it's _not_ a dipthong), eg. antrãdienis vs. savàitgalis
 
 ## Grammatical terminology
 
