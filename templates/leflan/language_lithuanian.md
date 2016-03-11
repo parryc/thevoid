@@ -38,6 +38,20 @@ Cardinal number + _dienis_
 _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
+## Professions
+
++inikas/ė
+: = 者
+
++tojas/a
+: =  者, derived from 3rd person present
+: valgyti - valgytojas
+: mokyti - mokytojas
+
++ėjas/a
+: = 者, derived from 3rd person past
+: duoti - davo - davėjas
+
 # Verbs
 
 The third person form of the verb determines which conjugation is used. Ex., if the verb ends in an _a_ it is the 1st conjugation.
@@ -181,6 +195,9 @@ I am going outside vs. I am outside
 
 Singular time nouns are in the ACC.
 : vasãra - Vasãrą aš... - In summer I... 
+
+...Except for _rytoj_ and _vakar_
+: DAT - _ryte_ and _vakare_
 
 # Questions
 
@@ -330,6 +347,14 @@ Kilminkas
 Nandinkas
 : Dative
 
+Šauksmininko
+: Vocative
+
+Moteriškoji giminė
+: Female gender (_m._)
+
+Vyriškoji giminė
+: Masculine gender (_v._)
 ## Bibliography
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
 * <source id="HJ">Henry Jason. Personal communication. 2016.</source>
