@@ -4,16 +4,11 @@
 
 ## -as, -is, -ys
 
-<!-- BEGIN: 1 -->
-<!-- ENDING: as, is, ys -->
-<!-- PRE: ∅, i, i -->
-<!-- TYPE: n -->
 num. | NOM | GEN | DAT    | ACC                | INS | LOC                        | VOC
 -----|-----|-----|--------|--------------------|-----|----------------------------|-------
 _s._ | *** | -o  | -ui    | -ą/į/į<sup>*</sup> | -u  | -e/y(je)/y(je)<sup>*</sup> | -e/∅/y
 _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                      | -ai
 
-<!-- END: 1 -->
 <sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
 ## -uo
@@ -51,6 +46,12 @@ _savo_ is used when the possessive pronoun is the same as the subject
 +ėjas/a
 : = 者, derived from 3rd person past
 : duoti - davo - davėjas
+
+## Definite Articles
+   | m. | f. 
+---|----|------
+s. | ši | šis
+pl.| ?  | ?
 
 # Verbs
 
@@ -110,7 +111,7 @@ The plurals & 3rd person verbs are the same for all conjugations:
 ## Irregular
 
 ### buti - _to be_
-_yra, buvo_
+_yra, buvo_, normally followed by the NOM, ex. _Aš yra gydydojas_
 
 PRS
 : singular | plural
@@ -131,7 +132,10 @@ ex. li+s = will rain
 ## Verbal Prefixes
 
 _su_ - all together (PERF)
-_pu_ - 'somewhat', e.g. _pa_kalba, spoke a little
+_pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
+_pra_ - past (pratetis)
+_at_ - to come (future), e.g. *at*eiga, to come
+_si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
 
 # Prepositions
 
@@ -169,7 +173,7 @@ V + už - take/grab už N.
 
 # Adjectives
 
-Adjectives match noun's case.
+Adjectives match noun's case, gender, and number.
 
 Use a neuter adjective for impersonal statements.
 
@@ -177,6 +181,10 @@ Use a neuter adjective for impersonal statements.
 
 * trupuitį - a little
 * biški - a little (coll., from German _einbishen_)
+* kartu - together
+* vėl - again
+* gal - maybe
+* dar - still
 
 ## Of Motion
 
@@ -198,6 +206,16 @@ Singular time nouns are in the ACC.
 
 ...Except for _rytoj_ and _vakar_
 : DAT - _ryte_ and _vakare_
+
+## Formation
+
+Adjective ending | Adverbial ending
+-----------------|--------------------
+us               | iai
+as               | ai
+is               | no adverb
+
+_is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
 
 # Questions
 
@@ -227,6 +245,10 @@ O - emphatic question particle
 Kodel - why
 : kadagi - because
 
+Kiek - how much
+: Always requires a quantity
+
+
 # Conjunctions
 
 > The clause introduced by *bèt* also denotes in some clauses something which is unexpected in view of the meaning of the main clause<cite>[DBK, pg305](#DBK)</cite>
@@ -239,9 +261,8 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
 # Pronunciation
 
-Nouns in the ACC singular end in a nasal vowel, which will never be accented.  NOM.PL, if ends in a vowel (-as etc.) will never be accented.  Ending of NOM.S -as/ias never accented, whereas NOM.S -ys is always accented.<cite>[HJ](#HJ)</cite>
-
 * Palatalized /_t_/ always becomes 'č' before a back vowel
+* Palatalized /_d_/ always becomes 'dž' before a back vowel
 * C<em>e</em>C : /e/
 * _ai_$ : /ei/
 * ^u : /ɔ/, in load words, such as _universitete_
@@ -261,6 +282,20 @@ _au_ is tricky.
 e
 : _ẽ_ = /æ/
 : _e_ = /ɛ/ 
+
+### Tips<cite>[HJ](#HJ)</cite>
+
+1. All ACC.S cases end in V nosine, ex. _kãtę_
+2. GEN.S ending with "o" never accents finaly syllable, ex. _brólio_, _nãmo_
+3. NOM.P ending with "s" never has accent on last syllable, ex. _sū́nūs_, _kãtes_
+4. All NOM.S ending in "ys" are accented, ex. _arklỹs_
+5. All NOM.S ending in "(i)as" are never accented.
+6. DAT.S final syllable is never accented.
+7. VOC ending in just "e" is not accented.
+
+### Syllable structure
+
+Contrary to most methods, Lithuanians count syllables from the end of the word. There are two things to keep in mind: 1. the ending counts as 1 syllable, even if it's pronounced as two (e.g. _yje_). 2. the last syllable of the stem is the most important. (Why? We'll find out later!)
 
 # Sentences
 
@@ -325,6 +360,11 @@ Possessor is in GEN, the possessed in NOM
 : Jonas, knyga - Jono knyga
 
 Multiple possession is in GEN for all possessors
+
+## Numbers
+
+Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
+: dvidešimt, trisdešimt
 
 ## Language notes
 

@@ -4,3 +4,5 @@
 * _Lituanus 62:1_
 * _The Tattoo Murder Case_ - Akimitsu Takagi
 * _All She Was Worth_ - Miyuki Miyabe
+* _The Liminal War_ - Ayize Jama-Everett
+* _The Well of Ascension_ - Brandon Sanderson
