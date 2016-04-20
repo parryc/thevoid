@@ -48,10 +48,18 @@ _savo_ is used when the possessive pronoun is the same as the subject
 : duoti - davo - davėjas
 
 ## Definite Articles
+
+## This
    | m. | f. 
 ---|----|------
 s. | ši | šis
-pl.| ?  | ?
+pl.| šie| šios
+
+## That
+   | m.  | f. 
+---|-----|------
+s. | tas | ta
+pl.| tie | tos
 
 # Verbs
 
