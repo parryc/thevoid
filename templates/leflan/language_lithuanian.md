@@ -2,7 +2,9 @@
 
 # Nouns
 
-## -as, -is, -ys
+## Declensions paradigms 
+
+### -as, -is, -ys
 
 num. | NOM | GEN | DAT    | ACC                | INS | LOC                        | VOC
 -----|-----|-----|--------|--------------------|-----|----------------------------|-------
@@ -13,7 +15,7 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 
 _is_ and _ys_ retain their palatalization, e.g. medis > mediai.
 
-## -us
+### -us
 
 num. | NOM | GEN |  ACC   | LOC
 -----|-----|-----|--------|------
@@ -21,21 +23,21 @@ _s._ | *** | -aus| -ų     | -uje
 _p._ | -ūs | -ų  | -us    | -uose
 
 
-## -a
+### -a
 
 num. | NOM | GEN |  ACC   | LOC
 -----|-----|-----|--------|------
 _s._ | *** | -os | -ą     | -oje
 _p._ | -os | -ų  | -as    | -ose
 
-## -ė
+### -ė
 
 num. | NOM | GEN |  ACC   | LOC
 -----|-----|-----|--------|------
 _s._ | *** | -ės | -ę     | -ėje
 _p._ | -ės | -ių | -es    | -ėse
 
-## -uo
+### -uo
 num. | NOM | GEN | ACC | LOC
 -----|-----|-----|-----|------
 _s._ | *** | -s  | -į  | -yje
@@ -76,17 +78,17 @@ _savo_ is used when the possessive pronoun is the same as the subject
 
 ## Definite Articles
 
-## This
-   | m. | f. 
----|----|------
-s. | ši | šis
-pl.| šie| šios
+### This
+num. | m. | f. 
+-----|----|------
+s.   | ši | šis
+pl.  | šie| šios
 
-## That
-   | m.  | f. 
----|-----|------
-s. | tas | ta
-pl.| tie | tos
+### That
+num. | m.  | f. 
+-----|-----|------
+s.   | tas | ta
+pl.  | tie | tos
 
 # Verbs
 
