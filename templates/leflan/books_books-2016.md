@@ -6,3 +6,4 @@
 * _All She Was Worth_ - Miyuki Miyabe
 * _The Liminal War_ - Ayize Jama-Everett
 * _The Well of Ascension_ - Brandon Sanderson
+* _Rashōmon and 17 Other Stories_ - Ryūnosuke Akutagawa, translated by Jay Rubin

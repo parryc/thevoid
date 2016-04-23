@@ -11,10 +11,37 @@ _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                   
 
 <sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
+_is_ and _ys_ retain their palatalization, e.g. medis > mediai.
+
+## -us
+
+num. | NOM | GEN |  ACC   | LOC
+-----|-----|-----|--------|------
+_s._ | *** | -aus| -ų     | -uje
+_p._ | -ūs | -ų  | -us    | -uose
+
+
+## -a
+
+num. | NOM | GEN |  ACC   | LOC
+-----|-----|-----|--------|------
+_s._ | *** | -os | -ą     | -oje
+_p._ | -os | -ų  | -as    | -ose
+
+## -ė
+
+num. | NOM | GEN |  ACC   | LOC
+-----|-----|-----|--------|------
+_s._ | *** | -ės | -ę     | -ėje
+_p._ | -ės | -ių | -es    | -ėse
+
 ## -uo
 num. | NOM | GEN | ACC | LOC
 -----|-----|-----|-----|------
-_s._ | *** | -ens| -enį| -enyje
+_s._ | *** | -s  | -į  | -yje
+_p._ | -ys | -ų  | -is | -yse
+
+Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens.
 
 ## Days of the week
 
@@ -185,6 +212,16 @@ Adjectives match noun's case, gender, and number.
 
 Use a neuter adjective for impersonal statements.
 
+## Formation
+
+Adjective ending | Adverbial ending
+-----------------|--------------------
+us               | iai
+as               | ai
+is               | no adverb
+
+_is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
+
 # Adverbs
 
 * trupuitį - a little
@@ -215,16 +252,6 @@ Singular time nouns are in the ACC.
 ...Except for _rytoj_ and _vakar_
 : DAT - _ryte_ and _vakare_
 
-## Formation
-
-Adjective ending | Adverbial ending
------------------|--------------------
-us               | iai
-as               | ai
-is               | no adverb
-
-_is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
-
 # Questions
 
 Questions without question words must start with _Ar_
@@ -233,6 +260,10 @@ Questions without question words must start with _Ar_
 Kaip - how
 : Expects adverbial response
 : Kaip žmones kalba...? - Žmones kalba angliškai
+
+koks/kokie; kokia/kokios - how
+: Expects an adjective
+: Koks yra tavo brolis? - Mano brolis yra linksmas
 
 Ko - of what
 : requires GEN
@@ -293,10 +324,10 @@ e
 
 ### Tips<cite>[HJ](#HJ)</cite>
 
-1. All ACC.S cases end in V nosine, ex. _kãtę_
+1. All ACC.S cases end in V nosine, ex. _kãtę_, and are never accented
 2. GEN.S ending with "o" never accents finaly syllable, ex. _brólio_, _nãmo_
 3. NOM.P ending with "s" never has accent on last syllable, ex. _sū́nūs_, _kãtes_
-4. All NOM.S ending in "ys" are accented, ex. _arklỹs_
+4. All NOM.S ending in "ys" are always accented, ex. _arklỹs_
 5. All NOM.S ending in "(i)as" are never accented.
 6. DAT.S final syllable is never accented.
 7. VOC ending in just "e" is not accented.
@@ -371,8 +402,32 @@ Multiple possession is in GEN for all possessors
 
 ## Numbers
 
+Numbers match the object in both case and gender.
+
 Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
 : dvidešimt, trisdešimt
+
+### Nominative
+
+_m._   | _f._
+-------|------
+vienas | vienas
+du     | dvi
+trys   | trys
+-i     | -ios
+
+e.g. keturi/keturios
+
+### Accusative
+
+_m._   | _f._
+-------|------
+vieną  | vieną
+du     | dvi
+tris   | tris
+-is    | -ias
+
+e.g. keturis/keturias
 
 ## Language notes
 
@@ -403,6 +458,7 @@ Moteriškoji giminė
 
 Vyriškoji giminė
 : Masculine gender (_v._)
+
 ## Bibliography
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
 * <source id="HJ">Henry Jason. Personal communication. 2016.</source>
