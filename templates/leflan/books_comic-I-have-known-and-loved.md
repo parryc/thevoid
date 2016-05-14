@@ -8,8 +8,8 @@
 * _Black Science_
 * _Low_
 * _The Wicked and The Divine_
-* _Toil & Trouble_
 * _Shutter_
+* _Poe Dameron_
 
 # In statis
 * _Rocket Girl_
@@ -27,6 +27,7 @@
 * _Feathers_
 * _Abigail and the Abominable Snowman_
 * _Dark Ages_
+* _Toil & Trouble_
 
 # Abandoned
 * _Roche Limit_

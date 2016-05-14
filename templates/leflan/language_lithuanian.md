@@ -2,7 +2,7 @@
 
 # Nouns
 
-## Declensions paradigms 
+## Declension paradigms 
 
 ### -as, -is, -ys
 
@@ -17,31 +17,33 @@ _is_ and _ys_ retain their palatalization, e.g. medis > mediai.
 
 ### -us
 
-num. | NOM | GEN |  ACC   | LOC
------|-----|-----|--------|------
-_s._ | *** | -aus| -ų     | -uje
-_p._ | -ūs | -ų  | -us    | -uose
+num. | NOM | GEN | DAT | ACC | INS  | LOC
+-----|-----|-----|-----|-----|------|------
+_s._ | *** | -aus| -ui | -ų  | -imi | -uje
+_p._ | -ūs | -ų  | -ums| -us | -umis| -uose
 
 
 ### -a
 
-num. | NOM | GEN |  ACC   | LOC
------|-----|-----|--------|------
-_s._ | *** | -os | -ą     | -oje
-_p._ | -os | -ų  | -as    | -ose
+num. | NOM | GEN | DAT | ACC | INS | LOC
+-----|-----|-----|-----|-----|-----|-----
+_s._ | *** | -os | -ai | -ą  | -a  | -oje
+_p._ | -os | -ų  | -oms| -as |-omis| -ose
 
 ### -ė
 
-num. | NOM | GEN |  ACC   | LOC
------|-----|-----|--------|------
-_s._ | *** | -ės | -ę     | -ėje
-_p._ | -ės | -ių | -es    | -ėse
+num. | NOM | GEN | DAT | ACC | INS | LOC
+-----|-----|-----|-----|-----|-----|-----
+_s._ | *** | -ės | -ei | -ę  | -a  | -ėje
+_p._ | -ės | -ių | -ėms| -es |-ėmis| -ėse
+
+Some words ending in _-ė_ will add _er_ before the ending, such as duktė.
 
 ### -uo
-num. | NOM | GEN | ACC | LOC
------|-----|-----|-----|------
-_s._ | *** | -s  | -į  | -yje
-_p._ | -ys | -ų  | -is | -yse
+num. | NOM | GEN | DAT | ACC | INS | LOC
+-----|-----|-----|-----|-----|-----|-----
+_s._ | *** | -s  | -ui | -į  | -iu | -yje
+_p._ | -ys | -ų  | -ims| -is |-imis| -yse
 
 Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens.
 
