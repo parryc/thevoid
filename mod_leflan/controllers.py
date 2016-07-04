@@ -14,7 +14,7 @@ mod_leflan = Blueprint('leflan.eu', __name__)
 testing = (app.config['LEFLAN_TEST'] or app.config['PARRYC_TEST'])
 if not testing:
   host   = 'leflan.eu'
-  repo   = Repo('~/vcs/git/default.git')
+  repo   = Repo('/srv/data/vcs/git/default.git')
   folder = os.path.join('templates','leflan')
 else:
   host   = 'localhost:5000'
