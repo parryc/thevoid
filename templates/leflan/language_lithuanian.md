@@ -64,6 +64,7 @@ Cardinal number + _dienis_
 _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
+
 ## Professions
 
 +inikas/ė
@@ -96,7 +97,7 @@ pl.  | tie | tos
 
 The third person form of the verb determines which conjugation is used. Ex., if the verb ends in an _a_ it is the 1st conjugation.
 
-Transitive verbs are usually followed by the ACC. However, if the verb is negative, it is followed by the GEN.
+Transitive verbs are usually followed by the ACC. However, if the verb is negative, it is followed by the GEN. Impersonal verbs do not change object case in the negative (e.g. _patinka_)
 
 ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
@@ -159,14 +160,38 @@ aš esu     | mes esame
 tu esi     | jūs esate
 3p. yra    | 3p. yra
 
+Imperative: būk!
+
 ## Reflexive Verbs
 Have the ending _-is_
 
 ## Future Tense
 
-[stem] + _s_
+[stem] + _s_ + ending
 
-ex. li+s = will rain
+ singular  | plural
+-----------|----------
+aš -iu     | mes -ime
+tu -i      | jūs -ite
+3p. ∅      | 3p. ∅
+
+ex. li+s = (it) will rain, valgysiu = (I) will eat
+
+Verbs with _ū_ or _y_ in the stem are likely irregular (cf. lyti > lis, būti > bus).
+
+Depending on the ending of the stem, some combinations of s, z, š, or ž merge together
+: s + s = s
+: z + s = s
+: š + s = š
+: ž + s = š
+
+## Imparative
+
+[stem] + _k_
+: Add _-ite_ or _-ime_ for 1p. or 2p.
+: g+k becomes k, ex. raugti > raugk > rauk!
+
+ex. valgy+k = eat!, valgy+k+ime = let's eat!
 
 ## Verbal Prefixes
 
@@ -209,6 +234,7 @@ V + už - take/grab už N.
 ## Prepositions in INS
 
 * põ - under
+* su - with
 
 # Adjectives
 
@@ -298,6 +324,9 @@ Kiek - how much
 
 _bèt_ is more emphatic than _õ_
 
+_ar_ can be used to mean "whether"
+: Aš nežinau, ar jiems patinka medus
+
 Like a lot of European langauges, Lithuanian puts a comma before a clause. This _does not_ indicate a pause or anything like in English.
 
 Aš nežinójau, kàd jis čià - _I didn't know that he is here_
@@ -317,6 +346,11 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
 ## Pitch Accent
 
+There are three types of accentuation marks:
+: ` = accent is on a short vowel that is _always_ short
+: ´ = accent is on a long vowel that in this case can be short (_a_ or _e_)
+: ˜ = accent is on a long vowel that is _always_ long or consonant in a mixed dipthong
+
 _au_ is tricky. 
 : _aũ_/_au_ = /oː/
 : _áu_ = /au/
@@ -326,6 +360,23 @@ e
 : _ẽ_ = /æ/
 : _e_ = /ɛ/ 
 
+ei
+: _ei̇̃_ = /eɪ/
+: _éi_ = /æɪ/
+
+eC (mixed dipthong)
+: _él_ = /æl/
+: _el̃_ = /ɛl/
+
+### Accent shifting<cite>[HJ](#HJ-5-7)</cite> for nouns
+
+There are two types of accents, _tvirtapradė_ and _tvirtagalė_, and four accentuation patterns, which I will call ①, ②, ③, & ④. 
+
+_Tvirtapradė_ ("firm beginning") means that the accent is on the first part of a dipthong. Patterns ① and ③ deal with tvirtapradė accentuation.
+
+_Tvirtagalė_ ("firm ending") means that the accent is on the second part of a dipthong. Patterns ② and ④ deal with tvirtagalė accentuation.
+
+
 ### Tips<cite>[HJ](#HJ)</cite>
 
 1. All ACC.S cases end in V nosine, ex. _kãtę_, and are never accented
@@ -334,7 +385,7 @@ e
 4. All NOM.S ending in "ys" are always accented, ex. _arklỹs_
 5. All NOM.S ending in "(i)as" are never accented.
 6. DAT.S final syllable is never accented.
-7. VOC ending in just "e" is not accented.
+7. VOC ending in just "e/a/i" is not accented.
 
 ### Syllable structure
 
@@ -396,6 +447,7 @@ puiku! - great
 prašo - please
 nėra už ką - you're welcome, don't mention it
 prašom - you're welcome
+velnią minint - speak of the devil
 
 ## Possession 
 
@@ -465,6 +517,7 @@ Vyriškoji giminė
 
 ## Bibliography
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
+* <source id="HJ-5-7">Henry Jason. Class lecture. 2016 May 7.</source>
 * <source id="HJ">Henry Jason. Personal communication. 2016.</source>
 * <source id="365">Virginija Stumbrienė, L. Vilkienė, and W. Roebuck. _365 Lithuanian Verbs_. Tyto Alba, 2008.</source>
 

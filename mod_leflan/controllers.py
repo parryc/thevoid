@@ -42,6 +42,11 @@ verb_to_tag = {
 def favicon():
   return send_from_directory(os.path.join(app.root_path, 'static'),
                              'favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+@mod_leflan.route('/robots.txt', host=host)
+def robots():
+  return render_template('robots.txt')
+
 @mod_leflan.route('/css/<path:css>', host=host)
 def css(css):
   if 'fonts' in css:
