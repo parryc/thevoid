@@ -11,6 +11,10 @@ a {
   color: rgb(255,110,110);;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 abbr {
   font-variant: small-caps;
   font-size: 0.8em;
@@ -160,9 +164,30 @@ Dictionary entries
   display: none;
 }
 
+.dictionary-tag {
+  font-size: .6em;
+  vertical-align: middle;
+  display: inline-block;
+  padding: 3px;
+  background-color: #f9bbbb;
+  border-radius: 5px;
+  border: 1px solid #ff6e6e;
+}
+
+.filter, #show-all {
+  font-style: italic;
+  cursor: pointer;
+  color: #ff6e6e/*960d0d*/;
+  padding: 5px;
+}
+
+.filter:hover, #show-all:hover {
+  text-decoration: underline;
+}
+
 .headword {
   font-weight: bold;
-  cursor: help;
+  /*cursor: help;*/
 }
 
 .pos {

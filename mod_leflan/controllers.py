@@ -87,6 +87,52 @@ def language(language):
 
 @mod_leflan.route('/r/learns/<language>/dict', methods=['GET'], host=host)
 def dictionary(language):
+  page_dict       = 'leflan/%s.dict' % language
+  filepath        = os.path.join(app.root_path, 'templates', page_dict).encode('utf-8')
+  input_file_dict = codecs.open(filepath, mode="r", encoding="utf-8")
+  dictionary      = []
+  tag_list        = set()
+
+  for row in input_file_dict:
+    data    = row.split('\t')
+    senses  = []
+    _senses = data[1].split(u';')
+
+    try:
+      tags = data[2].split('\t')
+      for tag in tags:
+        tag_list.add(tag.strip())
+    except IndexError, e:
+      tags = []
+
+
+    for _sense in _senses:
+      _parts = _sense.split(u'␞')
+      try:
+        senses.append({
+         'meaning':_parts[0]
+        ,'example':_parts[1]
+        })
+      except IndexError, e:
+        senses.append({
+         'meaning':_parts[0]
+        ,'example':''
+        })
+
+    entry = {
+      'headword':data[0]
+     ,'senses'  :senses
+     ,'tags'    :tags
+    } 
+    dictionary.append(entry)
+
+  dictionary = sorted(dictionary,key=lambda entry: entry['headword'])
+
+  return render_template('leflan/dictionary.html',dictionary=dictionary
+                         ,title=_title(language),tag_list=tag_list)
+
+@mod_leflan.route('/r/learns/<language>/dict_dnu', methods=['GET'], host=host)
+def dictionary_dnu(language):
   # Parse grammar file
   page_lang = 'leflan/language_%s.md' % language
   filepath = os.path.join(app.root_path, 'templates', page_lang).encode('utf-8')

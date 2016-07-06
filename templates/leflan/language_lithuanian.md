@@ -151,7 +151,7 @@ The plurals & 3rd person verbs are the same for all conjugations:
 ## Irregular
 
 ### buti - _to be_
-_yra, buvo_, normally followed by the NOM, ex. _Aš yra gydydojas_
+_yra, buvo_, normally followed by the NOM, ex. _Aš yra gydytojas_
 
 PRS
 : singular | plural

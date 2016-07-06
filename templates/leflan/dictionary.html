@@ -6,76 +6,58 @@
     <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
   {% endassets %}
 {% endblock %}
+{% block page_js %}
+  <script type="text/javascript">
+    var showAll = function() {
+      var els = document.querySelectorAll('.entry');
+      els.forEach(function(e,idx) {
+        e.style.display = 'block';
+      });
+      return true;
+    }
+
+    var showOnly = function(_class) {
+      var els = document.querySelectorAll('.entry');
+      var sel = document.querySelectorAll('.entry .'+_class);
+      els.forEach(function(e,idx){
+        e.style.display = 'none';
+      })
+      sel.forEach(function(e,idx){
+        e.parentNode.style.display = 'block';
+      })
+    }
+
+    var filters = document.querySelectorAll('.filter');
+    filters.forEach(function(e,idx) {
+      e.addEventListener('click', function(){
+        showOnly(e.innerText);
+      });
+    })
+
+    var all = document.getElementById('show-all');
+    all.addEventListener('click', showAll);
+
+  </script>
+{% endblock %}
 {% block header %}
   <em>le_flaneur</em> • <a href="/r">recent</a> • <a href="/r/learns">learns</a> • <a href="/r/reads">reads</a>
 {% endblock %}
 {% block content  %}
   <h1>{{title}} dictionary</h1>
-  <a href="../{{title}}"><em>back to grammar</em></a><br/><br/>
+  <a href="../{{title}}"><em>back to grammar</em></a><br/><br/>❧tags: <span id="show-all">all</span>
+  {% for tag in tag_list %}
+    <span class="filter">{{tag}}</span>
+  {% endfor %}
+  <br/><br/>
   {% for e in dictionary %}
   <div class="entry">
-    <div class="headword-info"><span class="headword">{{e.headword|safe}}</span> {% if e.pos %}(<span class="pos">{{e.pos}}</span>){% endif %} {{e.sense}}
-    {% for ex in e.examples %}
-      {{loop.index|circle_num}} <em>{{ex.example}}</em> {{ex.translation}}
+    <span class="headword">{{e.headword|safe}}</span> {% if e.pos %}(<span class="pos">{{e.pos}}</span>){% endif %}
+    {% for sense in e.senses %}
+      {{loop.index|circle_num}} <em>{{sense.meaning}}</em> {{sense.example}}
     {% endfor %}
-
-    {% if e.declensions %}
-    <div class="declensions">
-      <table>
-        <thead>
-          {% if e.pos == 'n' %}
-            <th>num.</th>
-            {% for d in e.declensions %}
-              <th><abbr>{{d.name}}</abbr></th>
-            {% endfor %}
-          {% endif %}
-          {% if e.pos == 'v' %}
-            <th>person</th>
-            <th><em>s</em></th>
-            <th><em>p</em></th>
-          {% endif %}
-        </thead>
-        <tbody>
-          <tr>
-            {% if e.pos == 'n' %}
-              <td><em>s.</em></td>
-              {% for d in e.declensions %}
-                <td>{{d.s}}</td>
-              {% endfor %}
-            {% endif %}
-            {% if e.pos == 'v' %}
-              <td><em>1</em></td>
-              {% for d in e.declensions %}
-                <td>{{d.one}}</td>
-              {% endfor %}
-            {% endif %}
-          </tr>
-          <tr>
-            {% if e.pos == 'n' %}
-              <td><em>p.</em></td>
-              {% for d in e.declensions %}
-                <td>{{d.p}}</td>
-              {% endfor %}
-            {% endif %}
-            {% if e.pos == 'v' %}
-              <td><em>2</em></td>
-              {% for d in e.declensions %}
-                <td>{{d.two}}</td>
-              {% endfor %}
-            {% endif %}
-          </tr>
-          {% if e.pos == 'v' %}
-            <tr>
-              <td><em>3</em></td>
-              {% for d in e.declensions %}
-                <td>{{d.tre}}</td>
-              {% endfor %}
-            </tr>
-          {% endif %}
-        </tbody>
-      </table>
-    </div>
-    {% endif %}
+    {% for tag in e.tags %}
+      <tag class="dictionary-tag {{tag}}">{{tag}}</tag>
+    {% endfor %}
   </div>
   {% endfor %}
 {% endblock %}
