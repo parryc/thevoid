@@ -9,4 +9,6 @@
 * _Rashōmon and 17 Other Stories_ - Ryūnosuke Akutagawa, translated by Jay Rubin
 * _The Hero of Ages_ - Brandon Sanderson
 * _Guards! Guards!_ - Terry Pratchett
-* _The Outsorcere's Apprentice_ - Tom Holt
+* _The Outsorcerer's Apprentice_ - Tom Holt
+* _The Secret History of the Mongols_ translated by Prof. Urgunge Onon
+* _Louisiana Place Names of Indian Origin: A Collection of Words_ - William A. Read

@@ -212,6 +212,7 @@ Most prepositions require the GEN.
 * anót - according to
 * añt - on; expressing feelings towards smth
 * àrti - close to
+* dėl - due to
 * iš - out of; from; since (movement from in to out)
 * põ - after
 * prie - next to
@@ -228,7 +229,7 @@ V + už - take/grab už N.
 * apiẽ/apliñk - around by (_aplink_ is physical only)
 * į̇̃ - in (location/place); into
 * pas - to a person
-* per̃ - through; across; during; throughout; over (over the fence)
+* per̃ - through; across; during; throughout; over (over the fence); during
 * põ - round about; through (through the fence)
 
 ## Prepositions in INS
