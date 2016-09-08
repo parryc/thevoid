@@ -12,3 +12,5 @@
 * _The Outsorcerer's Apprentice_ - Tom Holt
 * _The Secret History of the Mongols_ translated by Prof. Urgunge Onon
 * _Louisiana Place Names of Indian Origin: A Collection of Words_ - William A. Read
+* _Cutting for Stone_ - Abraham Verghese
+* _The Remains of the Day_ - Kazuo Ishiguro
