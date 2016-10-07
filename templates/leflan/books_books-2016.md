@@ -14,3 +14,6 @@
 * _Louisiana Place Names of Indian Origin: A Collection of Words_ - William A. Read
 * _Cutting for Stone_ - Abraham Verghese
 * _The Remains of the Day_ - Kazuo Ishiguro
+* _Stories of Your Life and Others_ - Ted Chiang
+* _The Name of the Wind_ - Patrick Rothfuss
+* _Three Messages and a Warning: Contemporary Mexican Short Stories of the Fantastic_ edited by Jiménez Mayo and Chris N. Brown

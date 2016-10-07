@@ -45,27 +45,65 @@ num. | NOM | GEN | DAT | ACC | INS | LOC
 _s._ | *** | -s  | -ui | -į  | -iu | -yje
 _p._ | -ys | -ų  | -ims| -is |-imis| -yse
 
-Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens.
-
-## Days of the week
-
-Cardinal number + _dienis_
-
-* Primà (Monday)
-* Antrà
-* Trečià
-* Katvirtà
-* Penkà
-* Šeštà
-* Septinskà
+Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens. Others will add _er_, like _-ė_, such as sesuõ or duktė̃, ex. seser̃s.
 
 ## Pronouns
 
 _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
+## Definite Articles
 
-## Professions
+### This
+num. | m. | f. 
+-----|----|------
+s.   | šis| ši
+pl.  | šie| šios
+
+### That
+num. | m.  | f. 
+-----|-----|------
+s.   | tas | ta
+pl.  | tie | tos
+
+## Common Nouns Types
+
+### Numbers and Quantities
+
+Numbers match the object in both case and gender.
+
+Teens or numbers ending in 0 (10, 100, etc.) are followed by GEN. Numbers ending in 1-9 are followed by NOM. Numbers ending in 1 are always followed by the singular.
+
+* Dvidešimt viena gėlė (NOM.sg)
+* Dvidešimt gėlių (GEN.pl)
+* Dvidešimt trys gėlės (NOM.pl)
+
+Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
+: dvidešimt, trisdešimt
+
+Quantities are expressed by the quantity word + NOUN.GEN
+: indẽlis grietı̇̀nės, gabaĺiukas pı̇̀cos
+
+### Days of the week
+
+Cardinal number + _dienis_
+
+* Primà (Monday)
+* Antrà
+* Trečià
+* Ketvirtà
+* Penktà
+* Šeštà
+* Septinskà
+
+### Seasons
+
+saũsis   | vasãris   | kóvas
+balañdis | gegužė̃    | biržẽlis
+lı̇́epa    | rugpjū́tis | rugsė́jis
+spãlis   | lãpkritis | grúodis
+
+### Professions
 
 +inikas/ė
 : = 者
@@ -78,20 +116,6 @@ _savo_ is used when the possessive pronoun is the same as the subject
 +ėjas/a
 : = 者, derived from 3rd person past
 : duoti - davo - davėjas
-
-## Definite Articles
-
-### This
-num. | m. | f. 
------|----|------
-s.   | ši | šis
-pl.  | šie| šios
-
-### That
-num. | m.  | f. 
------|-----|------
-s.   | tas | ta
-pl.  | tie | tos
 
 # Verbs
 
@@ -195,11 +219,12 @@ ex. valgy+k = eat!, valgy+k+ime = let's eat!
 
 ## Verbal Prefixes
 
-_su_ - all together (PERF)
-_pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
-_pra_ - past (pratetis)
 _at_ - to come (future), e.g. *at*eiga, to come
+_į_ - outward prefix, e.g. *į*sakyti, to command
+_pra_ - past (pratetis)
+_pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
+_su_ - all together (PERF)
 
 # Prepositions
 
@@ -241,7 +266,7 @@ V + už - take/grab už N.
 
 Adjectives match noun's case, gender, and number.
 
-Use a neuter adjective for impersonal statements.
+Use a neuter adjective for impersonal statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
 
 ## Formation
 
@@ -348,9 +373,9 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 ## Pitch Accent
 
 There are three types of accentuation marks:
-: ` = accent is on a short vowel that is _always_ short
-: ´ = accent is on a long vowel that in this case can be short (_a_ or _e_)
-: ˜ = accent is on a long vowel that is _always_ long or consonant in a mixed dipthong
+: ` = accent is on a short vowel that is _always_ short (stressed)
+: ´ = accent is on a long vowel that in this case can be short (_a_ or _e_) (falling)
+: ˜ = accent is on a long vowel that is _always_ long or consonant in a mixed dipthong (rising)
 
 _au_ is tricky. 
 : _aũ_/_au_ = /oː/
@@ -399,6 +424,10 @@ Use _negi_ to emphasize/indicate surprise of a sentence
 
 When _ir_ follows a verb at the beginning of a sentence, it functions as "also"
 : Suprasta ir - S/he also understands...
+
+Expressing age
+: NOM yra NUM.GEN, _Mano sesė yra 22-ių_
+: DAT yra NUM.NOM, _Mano sesei yra 22 metai_
 
 benè - is it really.../could it be...?
 jùk - but (interchangeable with gi̇)
@@ -456,13 +485,6 @@ Possessor is in GEN, the possessed in NOM
 : Jonas, knyga - Jono knyga
 
 Multiple possession is in GEN for all possessors
-
-## Numbers
-
-Numbers match the object in both case and gender.
-
-Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
-: dvidešimt, trisdešimt
 
 ### Nominative
 
