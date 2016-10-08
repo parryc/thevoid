@@ -98,6 +98,9 @@ Cardinal number + _dienis_
 
 ### Seasons
 
+
+1-4      | 5-8       | 9-12
+---------|-----------|----------
 saũsis   | vasãris   | kóvas
 balañdis | gegužė̃    | biržẽlis
 lı̇́epa    | rugpjū́tis | rugsė́jis
