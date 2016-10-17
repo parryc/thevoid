@@ -18,7 +18,7 @@
 
     var showOnly = function(_class) {
       var els = document.querySelectorAll('.entry');
-      var sel = document.querySelectorAll('.entry .'+_class);
+      var sel = document.querySelectorAll('.entry tag.'+_class);
       els.forEach(function(e,idx){
         e.style.display = 'none';
       })
@@ -51,7 +51,7 @@
   <br/><br/>
   {% for e in dictionary %}
   <div class="entry">
-    <span class="headword">{{e.headword|safe}}</span> {% if e.pos %}(<span class="pos">{{e.pos}}</span>){% endif %}
+    <span class="headword">{{e.headword|safe}}</span> {% if e.extra %}(<span class="extra">{{e.extra}}</span>){% endif %}
     {% for sense in e.senses %}
       {{loop.index|circle_num}} <em>{{sense.meaning}}</em> {{sense.example}}
     {% endfor %}

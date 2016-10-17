@@ -1,48 +1,53 @@
-headword | definition | pos | gender | tag | root
-brolis | brother | n | m
-stalas | table | n | m
-arklys | horse | n | m | animal
-gerai | good␞Mes gerai pasivaikščiojome;We had a good long walk␞Šiandien labai karšta;It's good and hot today | a |
-kalbėti | to talk | v |||kalba
-dirbti|to work|v|||dirba
-turė<ac></ac>ti|to have|v|||turi
-gyventi|to be from|v|||gyvena
-diena|day|n|
-biržẽlis|June; birch|n|
-gi<gr></gr>lmines|relatives|n|
-elniẽna|venison|n|
-draũgas|friend|n|
-ten|there||
-švę́sti|to celebrate|v|
-daug|a lot|adv|
-miegóti|to sleep␞Aš miegojau gerai;I slept well|v|
-keliauti|to travel␞Aš keliavaũ į Minnesotą su savo meginàs;I traveled to Minnsota with my girlfriend|v|||keliauja
-mėnuo|month|n|
-keliñtas?|which number?||
-šešiõlikta|16th||
-miégas|sleep␞Kaip tavo miégas?;How is your sleep?|n|
-méile|love|n||
-myléiti|to love|v|||myli
-mielas|dear|n||
-valgyti|to eat|v|||valgo
-antgamtiškos|preternatural, posessing magical powers␞Žmones myli kates todėl, kat katės yra antgamtiškos;People love cats because they are preternatural|adj|
-žaltys|grass snake (from Ẽgle žalčiu karaliẽne, a folk tale)|n|
-kei<ti></ti>stas|strange|adj|
-kitòniškas|odd duck|n|
-protingas|smart|adj|
-palydóvas|compainion|n|
-kelei<ti></ti>vis|companion|n|
-taksas|dachsund|n|
-nepriklaũsimas|independent|adj
-inteligeñtiškas|intelligensia|n|
-atmušti|to parry|v|
-pavyzdžiui|for example (seen as 'pvz.')||
-atspėti|to guess|v|||atspeja
-snáusti|to doze; to snooze|v|||snáudžia
-būdingas|characteristic|adj
-dingti|to disappear|v|||dingsta
-korys|honeycomb|n
-angi<gr></gr>|adder|n|f
-šaipso|so-so|adj
-malonù susipažiñti|nice to meet you|
-genys|woodpecker|n|
+brolis	brother
+stalas	table
+arklys	horse
+gerai	good␞Mes gerai pasivaikščiojome;We had a good long walk␞Šiandien labai karšta;It's good and hot today
+kalbėti	to talk	verb	kalba
+dirbti	to work	verb	dirba
+turėti	to have	verb	turi
+gyventi	to be from	verb	gyvena
+diena	day
+biržẽlis	June; birch
+gilmines	relatives
+elniẽna	venison
+draũgas	friend
+ten	there
+švę́sti	to celebrate
+daug	a lot
+miegóti	to sleep␞Aš miegojau gerai;I slept well
+keliauti	to travel␞Aš keliavaũ į Minnesotą su savo meginàs;I traveled to Minnsota with my girlfriend	verb	keliauja
+mėnuo	month
+keliñtas?	which number?
+šešiõlikta	16th
+miégas	sleep␞Kaip tavo miégas?;How is your sleep?
+méile	love
+myléiti	to love	verb	myli
+mielas	dear
+valgyti	to eat	verb	valgo
+antgamtiškos	preternatural, posessing magical powers␞Žmones myli kates todėl, kat katės yra antgamtiškos;People love cats because they are preternatural
+žaltys	grass snake (from Ẽgle žalčiu karaliẽne, a folk tale)
+keistas	strange
+kitòniškas	odd duck
+protingas	smart
+palydóvas	compainion
+keleivis	companion
+taksas	dachsund
+nepriklaũsimas	independent
+inteligeñtiškas	intelligensia
+atmušti	to parry
+pavyzdžiui	for example (seen as 'pvz.')
+atspėti	to guess	verb	atspeja
+snáusti	to doze; to snooze	verb	snáudžia
+būdingas	characteristic
+dingti	to disappear	verb	dingsta
+korys	honeycomb
+angi	adder
+šaipso	so-so
+malonù susipažiñti	nice to meet you
+genys	woodpecker
+naktibalda	one who roves about at night;night-bird
+nenuorama	mischief-maker;unruly child
+ugnı̇̀s	fire
+rekalı̇̀nga	necessary
+sukurti	to create	verb	sukuria
+dẽgti	to burn	verb	dega

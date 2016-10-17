@@ -4,7 +4,7 @@
 
 ## Declension paradigms 
 
-### -as, -is, -ys
+### -as, -is (m.), -ys
 
 num. | NOM | GEN | DAT    | ACC                | INS | LOC                        | VOC
 -----|-----|-----|--------|--------------------|-----|----------------------------|-------
@@ -47,10 +47,39 @@ _p._ | -ys | -ų  | -ims| -is |-imis| -yse
 
 Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens. Others will add _er_, like _-ė_, such as sesuõ or duktė̃, ex. seser̃s.
 
+### -is (f.)
+num. | NOM | GEN | DAT | ACC | INS  | LOC
+-----|-----|-----|-----|-----|------|------
+_s._ | *** | -ies| -iai| -į  | -imi | -yje
+_p._ | -ys | -ų  | -ims| -is | -imis| -yse
+
+While most _-is_ nouns are masculine, some are feminine, ex. ugnis
+
 ## Pronouns
 
 _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
+
+### Nominative
+s.    | pl.
+------|------
+aš    |mes
+tu    |jūs
+jis/ji|jie/jos
+
+### Genitive
+s.    | pl.
+------|------
+mano  |mūsų
+tavo  |jūsų
+jo/jos|jų
+
+### Dative
+s.     | pl.
+-------|------
+man    |mums
+jau    |jums
+jam/jai|jiems/joms
 
 ## Definite Articles
 
@@ -99,12 +128,11 @@ Cardinal number + _dienis_
 ### Seasons
 
 
-1-4      | 5-8       | 9-12
----------|-----------|----------
-saũsis   | vasãris   | kóvas
-balañdis | gegužė̃    | biržẽlis
-lı̇́epa    | rugpjū́tis | rugsė́jis
-spãlis   | lãpkritis | grúodis
+1-3      | 4-6       | 7-9       | 10-12
+---------|-----------|-----------|-----------
+saũsis   | balañdis  | lı̇́epa     | spãlis
+vasãris  | gegužė    | rugpjūtis | lãpkritis
+kóvas    | biržẽlis  | rugsėjis  | grúodis
 
 ### Professions
 
@@ -188,6 +216,22 @@ tu esi     | jūs esate
 3p. yra    | 3p. yra
 
 Imperative: būk!
+
+### Negatives
+
+PRS - būti
+: singular | plural
+-----------|----------
+aš nesu    | mes nesame
+tu nesi    | jūs nesate
+3p. nėra   | 3p. nėra
+
+PRS - eiti
+: singular | plural
+-----------|----------
+aš neinu   | mes neiname
+tu neini   | jūs neinate
+3p. neina  | 3p. neina
 
 ## Reflexive Verbs
 Have the ending _-is_
@@ -520,17 +564,23 @@ Compound words usually have rising stress in the joining vowel (when it's _not_ 
 
 ## Grammatical terminology
 
-Vardinkas
+Vardininkas
 : Nominative
 
-Galinkas
-: Accusative
-
-Kilminkas
+Kilmininkas
 : Genitive
 
-Nandinkas
+Naudininkas
 : Dative
+
+Galininkas
+: Accusative
+
+Įnagininkas
+: Instrumental
+
+Vietininkas
+: Locative
 
 Šauksmininko
 : Vocative

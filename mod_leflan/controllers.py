@@ -99,11 +99,17 @@ def dictionary(language):
     _senses = data[1].split(u';')
 
     try:
-      tags = data[2].split('\t')
+      tags = data[2].split(',')
       for tag in tags:
-        tag_list.add(tag.strip())
+        if len(tag.strip()) > 0:
+          tag_list.add(tag.strip())
     except IndexError, e:
       tags = []
+
+    try:
+      extra = data[3].strip()
+    except IndexError, e:
+      extra = ''
 
 
     for _sense in _senses:
@@ -123,6 +129,7 @@ def dictionary(language):
       'headword':data[0]
      ,'senses'  :senses
      ,'tags'    :tags
+     ,'extra'   :extra
     } 
     dictionary.append(entry)
 
