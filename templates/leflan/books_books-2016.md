@@ -17,3 +17,4 @@
 * _Stories of Your Life and Others_ - Ted Chiang
 * _The Name of the Wind_ - Patrick Rothfuss
 * _Three Messages and a Warning: Contemporary Mexican Short Stories of the Fantastic_ edited by Jiménez Mayo and Chris N. Brown
+* _Goldenhand_ - Garth Nix

@@ -18,7 +18,7 @@
 
     var showOnly = function(_class) {
       var els = document.querySelectorAll('.entry');
-      var sel = document.querySelectorAll('.entry tag.'+_class);
+      var sel = document.querySelectorAll('.entry tag[data-tag="'+_class+'"]');
       els.forEach(function(e,idx){
         e.style.display = 'none';
       })
@@ -56,7 +56,7 @@
       {{loop.index|circle_num}} <em>{{sense.meaning}}</em> {{sense.example}}
     {% endfor %}
     {% for tag in e.tags %}
-      <tag class="dictionary-tag {{tag}}">{{tag}}</tag>
+      <tag class="dictionary-tag" data-tag="{{tag}}">{{tag}}</tag>
     {% endfor %}
   </div>
   {% endfor %}
