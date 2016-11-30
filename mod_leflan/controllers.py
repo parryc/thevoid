@@ -94,9 +94,20 @@ def dictionary(language):
   tag_list        = set()
 
   for row in input_file_dict:
-    data    = row.split('\t')
-    senses  = []
-    _senses = data[1].split(u';')
+    try:
+      data    = row.split('\t')
+      senses  = []
+      _senses = data[1].split(u';')
+    except:
+      entry = {
+        'headword':unicode(row)
+       ,'senses'  :[]
+       ,'tags'    :['error']
+       ,'extra'   :''
+      }
+      tag_list.add('error')
+      dictionary.append(entry)
+      continue
 
     try:
       tags = data[2].split(',')
@@ -113,16 +124,19 @@ def dictionary(language):
 
 
     for _sense in _senses:
-      _parts = _sense.split(u'␞')
+      _parts    = _sense.split(u'␞')
+
       try:
         senses.append({
          'meaning':_parts[0]
         ,'example':_parts[1]
+        ,'english':_parts[2]
         })
       except IndexError, e:
         senses.append({
          'meaning':_parts[0]
         ,'example':''
+        ,'english':''
         })
 
     entry = {

@@ -27,10 +27,19 @@
       })
     }
 
+    // Attach filtering to the tag list at the top
     var filters = document.querySelectorAll('.filter');
     filters.forEach(function(e,idx) {
       e.addEventListener('click', function(){
         showOnly(e.innerText);
+      });
+    })
+
+    // Attach filtering to the tag itself
+    var tags = document.querySelectorAll('.dictionary-tag');
+    tags.forEach(function(e,idx) {
+      e.addEventListener('click', function(){
+        showOnly(e.attributes['data-tag'].value);
       });
     })
 
@@ -53,7 +62,7 @@
   <div class="entry">
     <span class="headword">{{e.headword|safe}}</span> {% if e.extra %}(<span class="extra">{{e.extra}}</span>){% endif %}
     {% for sense in e.senses %}
-      {{loop.index|circle_num}} <em>{{sense.meaning}}</em> {{sense.example}}
+      {{loop.index|circle_num}} {{sense.meaning}} {%if sense.example %}<em>{{sense.example}}</em>/{{sense.english}}{% endif %}
     {% endfor %}
     {% for tag in e.tags %}
       <tag class="dictionary-tag" data-tag="{{tag}}">{{tag}}</tag>

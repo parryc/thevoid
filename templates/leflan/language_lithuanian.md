@@ -101,11 +101,12 @@ pl.  | tie | tos
 
 Numbers match the object in both case and gender.
 
-Teens or numbers ending in 0 (10, 100, etc.) are followed by GEN. Numbers ending in 1-9 are followed by NOM. Numbers ending in 1 are always followed by the singular.
+Teens or numbers ending in 0 (10, 100, etc.) are followed by GEN. Numbers ending in 1-9 are "used as adjectives and agree with the quantified noun in gender, case, and number"<cite>[Ambrazas §3.4](#Ambrazas)</cite>. Numbers ending in 1 are always followed by the singular.
 
 * Dvidešimt viena gėlė (NOM.sg)
 * Dvidešimt gėlių (GEN.pl)
 * Dvidešimt trys gėlės (NOM.pl)
+* Aš matau vieną katę (GEN.sg) (_because katė is in ACC., so is viena_)
 
 Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
 : dvidešimt, trisdešimt
@@ -125,7 +126,7 @@ Cardinal number + _dienis_
 * Šeštà
 * Septinskà
 
-### Seasons
+### Months
 
 
 1-3      | 4-6       | 7-9       | 10-12
@@ -167,7 +168,7 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 
 * _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
 
-## Conjugation Present tense
+## Present Tense
 
 There are three types of classes for verbs in the present tense. Which class a verb belongs to is dictated by the final vowel in the 3rd person. It is either _A_, _I_, or _O_, which can be remembered with the word _alio_.
 
@@ -256,6 +257,32 @@ Depending on the ending of the stem, some combinations of s, z, š, or ž merge 
 : š + s = š
 : ž + s = š
 
+## Past Tense
+
+There are 5 main endings in the past tense, based on the infinitive:
+
+1. -auti/uoti – -avo
+2. -oti – -ojo
+3. -ėti – -ėjo
+4. -yti – -ė
+5. default -ė
+
+This means that a verb like _kalbėti_ will be _kalbėjo_ in the 3rd person.
+
+Verbs ending in _o_ in 3rd person past
+:singular  | plural
+-----------|----------
+aš -au     | mes -ome
+tu -ai     | jūs -ote
+3p. ∅      | 3p. ∅
+
+Verbs ending in _ė_ in 3rd person past
+:singular  | plural
+-----------|----------
+aš -au     | mes -ėme
+tu -ei     | jūs -ėte
+3p. ∅      | 3p. ∅
+
 ## Imparative
 
 [stem] + _k_
@@ -272,6 +299,27 @@ _pra_ - past (pratetis)
 _pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
 _su_ - all together (PERF)
+
+## Moods
+
+There are four moods in Lithuanian: 
+
+1. Indicative
+2. Subjunctive
+3. Imparative
+4. Oblique
+
+## Subjunctive
+
+The subjunctive consists of two forms: simple and compound. The simple form indicates actions "which under certain circumstances would be possible or desirable in the present or in the future." The compound perfect form conveys "a possible or imaginary action in the past or a state resulting from such action".<cite>[Ambrazas §5.47](#Ambrazas)</cite> 
+
+### Conjugation
+
+: singular | plural
+-----------|----------
+aš -iau    | mes -tu(mė)me
+tu -tum(ei)| jūs -tu(mė)te
+3p. -tų    | 3p. -tų
 
 # Prepositions
 
@@ -370,6 +418,7 @@ koks/kokie; kokia/kokios - how
 
 Ko - of what
 : requires GEN
+: Also used when asking a negative question - _Ko nėra...?_
 
 Kok - which
 : When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
@@ -592,6 +641,7 @@ Vyriškoji giminė
 : Masculine gender (_v._)
 
 ## Bibliography
+* <source id="Ambrazas">Vytautas Ambrazas and E. Geniušienė and A. Girdenis and N. Sližienė and D. Tekorienė and A. Valeckienė and E. Valiulytė. _Lithuanian Grammar_. Baltos Lankos, 1997</source>
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
 * <source id="HJ-5-7">Henry Jason. Class lecture. 2016 May 7.</source>
 * <source id="HJ">Henry Jason. Personal communication. 2016.</source>

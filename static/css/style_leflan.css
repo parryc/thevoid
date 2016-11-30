@@ -165,13 +165,14 @@ Dictionary entries
 }
 
 .dictionary-tag {
-  font-size: .6em;
+  font-size: .65em;
   vertical-align: middle;
   display: inline-block;
-  padding: 3px;
+  cursor: pointer;
+  padding: 0 2px 0 2px;
   background-color: #f9bbbb;
   border-radius: 5px;
-  border: 1px solid #ff6e6e;
+  border: 1px solid rgba(0, 0, 0, 0.12);
 }
 
 .filter, #show-all {

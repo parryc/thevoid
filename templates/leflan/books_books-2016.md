@@ -18,3 +18,6 @@
 * _The Name of the Wind_ - Patrick Rothfuss
 * _Three Messages and a Warning: Contemporary Mexican Short Stories of the Fantastic_ edited by Jiménez Mayo and Chris N. Brown
 * _Goldenhand_ - Garth Nix
+* _The Paper Menagerie and Other Stories_ - Ken Liu
+* _The Screaming Staircase_ - Jonathan Stroud
+* _A Wise Man's Fear_ - Patrick Rothfuss
