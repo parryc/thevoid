@@ -114,6 +114,29 @@ Numbers above 10 are formed by adding the feminine ACC form of the tens place to
 Quantities are expressed by the quantity word + NOUN.GEN
 : indẽlis grietı̇̀nės, gabaĺiukas pı̇̀cos
 
+
+#### Nominative
+
+_m._   | _f._
+-------|------
+vienas | vienas
+du     | dvi
+trys   | trys
+-i     | -ios
+
+e.g. keturi/keturios
+
+#### Accusative
+
+_m._   | _f._
+-------|------
+vieną  | vieną
+du     | dvi
+tris   | tris
+-is    | -ias
+
+e.g. keturis/keturias
+
 ### Days of the week
 
 Cardinal number + _dienis_
@@ -165,6 +188,9 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 : laukti - laukia
 : *not* griauti
 : gerti - gertia
+
+Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount.
+: aš valgau obuolių - I ate some apples vs. aš valgau obuolį - I ate an apple 
 
 * _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
 
@@ -270,26 +296,18 @@ There are 5 main endings in the past tense, based on the infinitive:
 This means that a verb like _kalbėti_ will be _kalbėjo_ in the 3rd person.
 
 Verbs ending in _o_ in 3rd person past
-:singular  | plural
+: singular | plural
 -----------|----------
 aš -au     | mes -ome
 tu -ai     | jūs -ote
 3p. ∅      | 3p. ∅
 
 Verbs ending in _ė_ in 3rd person past
-:singular  | plural
+: singular | plural
 -----------|----------
 aš -au     | mes -ėme
 tu -ei     | jūs -ėte
 3p. ∅      | 3p. ∅
-
-## Imparative
-
-[stem] + _k_
-: Add _-ite_ or _-ime_ for 1p. or 2p.
-: g+k becomes k, ex. raugti > raugk > rauk!
-
-ex. valgy+k = eat!, valgy+k+ime = let's eat!
 
 ## Verbal Prefixes
 
@@ -309,17 +327,25 @@ There are four moods in Lithuanian:
 3. Imparative
 4. Oblique
 
-## Subjunctive
+### Subjunctive
 
 The subjunctive consists of two forms: simple and compound. The simple form indicates actions "which under certain circumstances would be possible or desirable in the present or in the future." The compound perfect form conveys "a possible or imaginary action in the past or a state resulting from such action".<cite>[Ambrazas §5.47](#Ambrazas)</cite> 
 
-### Conjugation
+#### Conjugation
 
 : singular | plural
 -----------|----------
 aš -iau    | mes -tu(mė)me
 tu -tum(ei)| jūs -tu(mė)te
 3p. -tų    | 3p. -tų
+
+### Imparative
+
+[stem] + _k_
+: Add _-ite_ or _-ime_ for 1p. or 2p.
+: g+k becomes k, ex. raugti > raugk > rauk!
+
+ex. valgy+k = eat!, valgy+k+ime = let's eat!
 
 # Prepositions
 
@@ -332,6 +358,7 @@ Most prepositions require the GEN.
 * anót - according to
 * añt - on; expressing feelings towards smth
 * àrti - close to
+* bè - without
 * dėl - due to
 * iš - out of; from; since (movement from in to out)
 * põ - after
@@ -362,6 +389,16 @@ V + už - take/grab už N.
 Adjectives match noun's case, gender, and number.
 
 Use a neuter adjective for impersonal statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
+
+## Declension
+
+sg.m | sg.f | pl.m | pl.f
+-----|------|------|-------
+-as  | -a   | -i   | -os
+-us  | -i   | -ūs  | -ios
+-is  | -ė   | -iai | -ės
+
+ex. laimingas vyras, laiminga moteris, laimingi vaikiai, mergaitės. 
 
 ## Formation
 
@@ -408,36 +445,41 @@ Singular time nouns are in the ACC.
 Questions without question words must start with _Ar_
 : Ar tu gyveni Berkelyje?
 
-Kaip - how
+kaip - how
 : Expects adverbial response
 : Kaip žmones kalba...? - Žmones kalba angliškai
+
+kiek - how much
+: Always requires a quantity
+
+kieno - whose
+: requires [GEN pronoun](#genitive)
+: Kieno sūnus yra tas berniukas?
 
 koks/kokie; kokia/kokios - how
 : Expects an adjective
 : Koks yra tavo brolis? - Mano brolis yra linksmas
 
-Ko - of what
+ko - of what
 : requires GEN
 : Also used when asking a negative question - _Ko nėra...?_
 
-Kok - which
+kok - which
 : When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
 : Kokiomis kalbomis tu kalbi? - Which languages do you speak?
 : kalbomis is in INST
 
-Kur - where
+kur - where
 : Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
 
-Kurie - which
+kurie - which
 
-O - emphatic question particle
-: O koks tavo vardas? - What is your name?
-
-Kodel - why
+kodel - why
 : kadagi - because
 
-Kiek - how much
-: Always requires a quantity
+o - emphatic question particle
+: O koks tavo vardas? - What is your name?
+
 
 
 # Conjunctions
@@ -562,6 +604,12 @@ Uses _būti_ as auxiliary verb
 
 Can use a man's first name in the plural to refer to the man's family.
 
+## Spelling
+
+_d_ or _t_ when pallatalized and followed by a vowel become _dž_ and _č_ respectively.
+
+Ex. _medis_ > _medžio_, _viešbutis_ > _viešbučio_
+
 ## Interjections
 
 eik velniop - go to hell!
@@ -581,28 +629,6 @@ Possessor is in GEN, the possessed in NOM
 : Jonas, knyga - Jono knyga
 
 Multiple possession is in GEN for all possessors
-
-### Nominative
-
-_m._   | _f._
--------|------
-vienas | vienas
-du     | dvi
-trys   | trys
--i     | -ios
-
-e.g. keturi/keturios
-
-### Accusative
-
-_m._   | _f._
--------|------
-vieną  | vieną
-du     | dvi
-tris   | tris
--is    | -ias
-
-e.g. keturis/keturias
 
 ## Language notes
 
@@ -668,3 +694,4 @@ Vyriškoji giminė
 *[PT]: Participle
 *[S]: Singular
 *[PL]: Plural
+*[NOUN]: Noun

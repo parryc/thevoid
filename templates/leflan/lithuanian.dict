@@ -23,7 +23,7 @@ miégas	sleep␞Kaip tavo miégas?;How is your sleep?
 méile	love
 myléiti	to love	verb	myli
 mielas	dear
-valgyti	to eat	verb	valgo
+valgyti	to eat	verb,ką/ko	valgo
 antgamtiškos	preternatural, posessing magical powers␞Žmones myli kates todėl, kat katės yra antgamtiškos␞People love cats because they are preternatural
 žaltys	grass snake (from Ẽgle žalčiu karaliẽne, a folk tale)
 keistas	strange
@@ -62,3 +62,44 @@ vėluoti	to be late + į/pas	verb	vėluoja
 pjauti	to cut (with a knife)	verb	pjauja
 gaminti	to make	verb	gamina
 skubėti	to hurry	verb	skuba
+žiūrėti	to look at;to watch	verb,ką	žiūri
+norėti	to want	verb,ko	nori
+mėgsti	to like (stronger than <em>man patinka</em>)	verb,ką	mėgsta
+nuobodus	boring
+įdomus	interesting
+laimingas	happy
+nelaimingas	unhappy
+aiškus	clear (as in explanation)
+neaiškus	unclear (as in understanding)
+šiltas	warm
+šaltas	cold
+karštas	hot
+patikti	to like␞Man patinka...␞I like...	verb,impersomal,kam?/kas?	patinka
+gerti	to drink	verb,ką/ko	geria
+ragauti	to taste	verb,ką or ko	ragauja
+pusryčiauti	to breakfast	verb	ragauja
+pietauti	to lunch, usually between 1 and 2	verb	pusryčiauja
+vakarieniauti	to dinner	verb	vakarieniauja
+duoti	to give	verb,ką or ko	duoda
+manyti	to think	verb	mano
+daryti	to do;to make	verb,ką	daro
+laukti	to wait;to wait for someone␞Aš laukiu jų␞I'm waiting for them	verb,ko	laukia
+kainuoti	to cost	verb,kas/ką	kainuoja
+pirkti	to buy	verb,ką or ko	perka
+parduoti	to sell	verb,ką or ko	parduoda
+reikėti	to need␞man reikia obuolių␞I need apples	verb,kam/ko	keikia
+sakyti	to say␞Kiek pasakyti X lietuviškai␞How do you say X in Lithuanian?	verb,ką	sako
+užsisakyti	to order (food etc.)	verb,ką or ko	užsisako
+girdėti	to hear (cf. klausyti)	verb,ką	girdi
+klausyti	to listen	verb	klauso
+tūkstantis	1000
+šimtas	100
+raudonas	red
+baltas	white
+juodas	black
+geltonas	yellow
+žalias	green
+mėlynas	blue
+rudas	brown
+pilkas	grey
+pusė	half

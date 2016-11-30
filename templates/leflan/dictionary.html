@@ -62,7 +62,7 @@
   <div class="entry">
     <span class="headword">{{e.headword|safe}}</span> {% if e.extra %}(<span class="extra">{{e.extra}}</span>){% endif %}
     {% for sense in e.senses %}
-      {{loop.index|circle_num}} {{sense.meaning}} {%if sense.example %}<em>{{sense.example}}</em>/{{sense.english}}{% endif %}
+      {{loop.index|circle_num}} {{sense.meaning|safe}} {%if sense.example %}<em>{{sense.example}}</em>/{{sense.english}}{% endif %}
     {% endfor %}
     {% for tag in e.tags %}
       <tag class="dictionary-tag" data-tag="{{tag}}">{{tag}}</tag>
