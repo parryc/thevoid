@@ -21,3 +21,4 @@
 * _The Paper Menagerie and Other Stories_ - Ken Liu
 * _The Screaming Staircase_ - Jonathan Stroud
 * _A Wise Man's Fear_ - Patrick Rothfuss
+* _The Slow Regard of Silent Things_ - Patrick Rothfuss

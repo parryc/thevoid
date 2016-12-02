@@ -313,7 +313,10 @@ tu -ei     | jūs -ėte
 
 _at_ - to come (future), e.g. *at*eiga, to come
 _į_ - outward prefix, e.g. *į*sakyti, to command
+_pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
+_per_ - across (for verbs of movement)
 _pra_ - past (pratetis)
+_pro_ - through (for verbs of movement)
 _pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
 _su_ - all together (PERF)
@@ -327,9 +330,13 @@ There are four moods in Lithuanian:
 3. Imparative
 4. Oblique
 
+Both clauses tend to use the same mood. Ex. _jei_ SUBJ, _tai_ SUBJ.
+
 ### Subjunctive
 
 The subjunctive consists of two forms: simple and compound. The simple form indicates actions "which under certain circumstances would be possible or desirable in the present or in the future." The compound perfect form conveys "a possible or imaginary action in the past or a state resulting from such action".<cite>[Ambrazas §5.47](#Ambrazas)</cite> 
+
+This mood is predominantly used in polite speech, such as _norėčiau_, "I would like".
 
 #### Conjugation
 
@@ -338,6 +345,8 @@ The subjunctive consists of two forms: simple and compound. The simple form indi
 aš -iau    | mes -tu(mė)me
 tu -tum(ei)| jūs -tu(mė)te
 3p. -tų    | 3p. -tų
+
+The final _e_ for 1pl and 2pl is usually dropped in speech.
 
 ### Imparative
 
@@ -360,13 +369,15 @@ Most prepositions require the GEN.
 * àrti - close to
 * bè - without
 * dėl - due to
+* įstižai - diagonal
 * iš - out of; from; since (movement from in to out)
+* nuõ - from (outside of - no movement)
 * põ - after
 * prie - next to
     * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vanenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
-* nuõ - from (outside of - no movement)
 * skersai̇̃ - across
-* įstižai - diagonal
+* tarp - between
+* vidury - in the middle of
 
 V + už - take/grab už N.
 : Ji pàšmė manè ùž rañkos - _She took me by the hand_
@@ -376,8 +387,10 @@ V + už - take/grab už N.
 * apiẽ/apliñk - around by (_aplink_ is physical only)
 * į̇̃ - in (location/place); into
 * pas - to a person
-* per̃ - through; across; during; throughout; over (over the fence); during
+* per̃ - through; across; during; throughout; over (over the fence); for the duration of
 * põ - round about; through (through the fence)
+* prieš - opposite of, across from
+    * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
 
 ## Prepositions in INS
 
@@ -388,7 +401,12 @@ V + už - take/grab už N.
 
 Adjectives match noun's case, gender, and number.
 
-Use a neuter adjective for impersonal statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
+Use a neuter adjective for impersonal or state of being statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
+
+* Man yra gera - I feel good
+* Jam yra liūdna - He feels sad
+* Man yra linksma - I feel happy
+* Yra karšta lauke - It is hot outside
 
 ## Declension
 
@@ -410,6 +428,11 @@ is               | no adverb
 
 _is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
 
+## Comparison
+
+Comparative ends in _-iau_, superlative ends in _-iausia_
+: gera > geriau > geriausia
+
 # Adverbs
 
 * trupuitį - a little
@@ -418,6 +441,13 @@ _is_ does not form an adverb because it was dervied from a noun originally. For 
 * vėl - again
 * gal - maybe
 * dar - still
+* kol - while
+* kol kas - so far (kol kas jam klasė labai patinka - so far he likes the class)
+
+## Comparison
+
+Comparative ends in _-iau_, superlative ends in _-iausia_
+: gerai > geriau > geriausiai
 
 ## Of Motion
 
@@ -440,6 +470,8 @@ Singular time nouns are in the ACC.
 ...Except for _rytoj_ and _vakar_
 : DAT - _ryte_ and _vakare_
 
+Repetitive time uses INS.
+
 # Questions
 
 Questions without question words must start with _Ar_
@@ -449,11 +481,15 @@ kaip - how
 : Expects adverbial response
 : Kaip žmones kalba...? - Žmones kalba angliškai
 
+kelintas/kelinta
+: Used with ordinal numbers
+: Kiek dabar valandų? Antras valandų
+
 kiek - how much
 : Always requires a quantity
 
 kieno - whose
-: requires [GEN pronoun](#genitive)
+: Requires [GEN pronoun](#genitive)
 : Kieno sūnus yra tas berniukas?
 
 koks/kokie; kokia/kokios - how
@@ -461,13 +497,13 @@ koks/kokie; kokia/kokios - how
 : Koks yra tavo brolis? - Mano brolis yra linksmas
 
 ko - of what
-: requires GEN
+: Requires GEN
 : Also used when asking a negative question - _Ko nėra...?_
 
 kok - which
 : When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
 : Kokiomis kalbomis tu kalbi? - Which languages do you speak?
-: kalbomis is in INST
+: kalbomis is in INS
 
 kur - where
 : Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
@@ -479,8 +515,6 @@ kodel - why
 
 o - emphatic question particle
 : O koks tavo vardas? - What is your name?
-
-
 
 # Conjunctions
 
@@ -570,7 +604,6 @@ Expressing age
 benè - is it really.../could it be...?
 jùk - but (interchangeable with gi̇)
 
-
 ## Conditional sentences
 
 Conditional sentences use the same tense in both clauses
@@ -600,6 +633,44 @@ Uses _būti_ as auxiliary verb
 : Man patinka... - I like... 
 : Can also use _mėgti_ - to like
 
+Man tas pats - 无所谓
+
+## Telling Time
+
+There are two main ways of telling time: listing all of the components (one thirty seven), or describing the time relatively (seven after half of two).
+
+Relative time uses two prepositions, _be_ for before, and _po_ for after. _Be_ is used from :35 to :00 and _po_ is used from :00 to :25. Both take the genitive.
+
+Exact hours (1:00, 2:00...) use oridnal numbers, ex. 1:00 _yra pirma_, 4:00 _yra ketvirta_.
+
+Do not decline minutes when the time expression should be in ACC (such as in an "at ... o'clock" expression. No reason, just cause. Ex. at 4:35 - penkios po pusės penkių 
+
+### Examples
+
+_yra..._
+
+* 4:15 - keturious (valandos) ir penkiolika (minučių)
+* 10:25 - dešimt valandų ir dvidešimt penkios minutės
+* 11:11 - vienolika valandų ir vienolika minučių
+* 2:33 - dvi valandos ir trisdešimt trys minutės
+* 1:35 - _pirma_ valanda ir trisdešimt penkios
+* 10:15 - penkiolika po dešimt; po dešimt penkolika
+* 10:45 - be penkilikos vieniolika 
+* 2:05 - penkios po dvieju
+* 4:47 - be trylikos penkios
+* 2:30 - pusė trijų (quantity word _pusė_ takes GEN)
+* 4:30 - pusė penkių
+* 10:30 - pusė vieniolikos
+* 6:26 - be keturių pusė septynių
+* 7:37 - septynios po pusės aštuonių
+
+_kada sustinkame?_, expecting an "at ... o'clock" reply
+
+* at 9:30 - pusę dešimt
+* at 11:45 - be penkiolikos dvyliktą
+* at 2:00 - antrą (valandą)
+* at 4:25 - be penkių pusę penkių
+* at 4:35 - penkios po pusės penkių
 # Errata
 
 Can use a man's first name in the plural to refer to the man's family.
@@ -612,14 +683,15 @@ Ex. _medis_ > _medžio_, _viešbutis_ > _viešbučio_
 
 ## Interjections
 
+begėdis - shame on him!
 eik velniop - go to hell!
 _(niop is an older form of 'home')_
 eik, eik - wow!
 eik tu sau - no kidding!
 màt tavè dievai̇̃ - may the gods take you!
+nėra už ką - you're welcome, don't mention it
 puiku! - great
 prašo - please
-nėra už ką - you're welcome, don't mention it
 prašom - you're welcome
 velnią minint - speak of the devil
 

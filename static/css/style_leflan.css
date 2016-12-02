@@ -94,6 +94,8 @@ tr {
 tag:before {
   content: '#';
   color: black;
+  /* Shift the :before back up to baseline for middle vertical align*/
+  vertical-align: 0px;
 }
 
 tag {
@@ -179,11 +181,11 @@ Dictionary entries
   font-style: italic;
   cursor: pointer;
   color: #ff6e6e/*960d0d*/;
-  padding: 5px;
+  text-decoration: underline;
 }
 
 .filter:hover, #show-all:hover {
-  text-decoration: underline;
+  text-decoration: line-through;
 }
 
 .headword {

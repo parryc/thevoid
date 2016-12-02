@@ -110,10 +110,11 @@ def dictionary(language):
       continue
 
     try:
-      tags = data[2].split(',')
+      from string import strip
+      tags = map(strip, data[2].split(','))
       for tag in tags:
-        if len(tag.strip()) > 0:
-          tag_list.add(tag.strip())
+        if len(tag) > 0:
+          tag_list.add(tag)
     except IndexError, e:
       tags = []
 
@@ -148,6 +149,7 @@ def dictionary(language):
     dictionary.append(entry)
 
   dictionary = sorted(dictionary,key=lambda entry: entry['headword'])
+  tag_list   = sorted(tag_list)
 
   return render_template('leflan/dictionary.html',dictionary=dictionary
                          ,title=_title(language),tag_list=tag_list)

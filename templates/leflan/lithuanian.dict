@@ -27,14 +27,14 @@ valgyti	to eat	verb,ką/ko	valgo
 antgamtiškos	preternatural, posessing magical powers␞Žmones myli kates todėl, kat katės yra antgamtiškos␞People love cats because they are preternatural
 žaltys	grass snake (from Ẽgle žalčiu karaliẽne, a folk tale)
 keistas	strange
-kitòniškas	odd duck
-protingas	smart
+kitòniškas	odd duck	adjective
+protingas	smart	adjective
 palydóvas	compainion
 keleivis	companion
 taksas	dachsund
 nepriklaũsimas	independent
 inteligeñtiškas	intelligensia
-atmušti	to parry
+atmušti	to parry	verb	atmušta
 pavyzdžiui	for example (seen as 'pvz.')
 atspėti	to guess	verb	atspeja
 snáusti	to doze; to snooze	verb	snáudžia
@@ -51,7 +51,7 @@ ugnı̇̀s	fire
 rekalı̇̀nga	necessary
 sukurti	to create	verb	sukuria
 dẽgti	to burn	verb	dega
-siųsti	to send (an email etc.)	verb,ka?/ko?	siunčia
+siųsti	to send (an email etc.)	verb,ką?/ko?	siunčia
 viskas	everything
 irgi	also
 supranti	to understand	verb	supranta
@@ -65,16 +65,16 @@ skubėti	to hurry	verb	skuba
 žiūrėti	to look at;to watch	verb,ką	žiūri
 norėti	to want	verb,ko	nori
 mėgsti	to like (stronger than <em>man patinka</em>)	verb,ką	mėgsta
-nuobodus	boring
-įdomus	interesting
-laimingas	happy
-nelaimingas	unhappy
-aiškus	clear (as in explanation)
-neaiškus	unclear (as in understanding)
-šiltas	warm
-šaltas	cold
-karštas	hot
-patikti	to like␞Man patinka...␞I like...	verb,impersomal,kam?/kas?	patinka
+nuobodus	boring	adjective
+įdomus	interesting	adjective
+laimingas	happy	adjective
+nelaimingas	unhappy	adjective
+aiškus	clear (as in explanation)	adjective
+neaiškus	unclear (as in understanding)	adjective
+šiltas	warm	adjective
+šaltas	cold	adjective
+karštas	hot	adjective
+patikti	to like␞Man patinka...␞I like...	verb,impersonal,kam?/kas?	patinka
 gerti	to drink	verb,ką/ko	geria
 ragauti	to taste	verb,ką or ko	ragauja
 pusryčiauti	to breakfast	verb	ragauja
@@ -88,18 +88,29 @@ kainuoti	to cost	verb,kas/ką	kainuoja
 pirkti	to buy	verb,ką or ko	perka
 parduoti	to sell	verb,ką or ko	parduoda
 reikėti	to need␞man reikia obuolių␞I need apples	verb,kam/ko	keikia
-sakyti	to say␞Kiek pasakyti X lietuviškai␞How do you say X in Lithuanian?	verb,ką	sako
+sakyti	to say␞Kiap pasakyti X lietuviškai␞How do you say X in Lithuanian?	verb,ką	sako
 užsisakyti	to order (food etc.)	verb,ką or ko	užsisako
 girdėti	to hear (cf. klausyti)	verb,ką	girdi
 klausyti	to listen	verb	klauso
 tūkstantis	1000
 šimtas	100
-raudonas	red
-baltas	white
-juodas	black
-geltonas	yellow
-žalias	green
-mėlynas	blue
-rudas	brown
-pilkas	grey
-pusė	half
+raudonas	red	adjective
+baltas	white	adjective
+juodas	black	adjective
+geltonas	yellow	adjective
+žalias	green	adjective
+mėlynas	blue	adjective
+rudas	brown	adjective
+pilkas	grey	adjective
+pusė	half	adjective
+lygiai	exactly;evently;smoothly	adverb
+ankst	early	adverb
+vėlai	late	adverb
+girti	to praise␞Negirk deinos be vakero␞Do not praise the day without the night	verb	niria
+pradėti	to start (requires an agent)	verb	pradeda
+prasidėti	to start (came into being without an agent)	verb	prasideda
+baigti	to complete;to finish	verb	baigia
+pasibaigti	to finish on its own	verb	pasibaigia
+mirti	to die	verb	miršta
+be niko	plain;with nothing
+žalioji arbata	green tea

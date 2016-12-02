@@ -53,9 +53,9 @@
 {% endblock %}
 {% block content  %}
   <h1>{{title}} dictionary</h1>
-  <a href="../{{title}}"><em>back to grammar</em></a><br/><br/>❧tags: <span id="show-all">all</span>
+  <a href="../{{title}}"><em>back to grammar</em></a><br/><br/>❧tags: <span id="show-all">all</span>,
   {% for tag in tag_list %}
-    <span class="filter">{{tag}}</span>
+    <span class="filter">{{tag}}</span>{% if not loop.last %},{% endif %}
   {% endfor %}
   <br/><br/>
   {% for e in dictionary %}
