@@ -388,7 +388,7 @@ V + už - take/grab už N.
 * į̇̃ - in (location/place); into
 * pas - to a person
 * per̃ - through; across; during; throughout; over (over the fence); for the duration of
-* põ - round about; through (through the fence)
+* põ - round about; through (through the fence); after (time wise)
 * prieš - opposite of, across from
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
 
@@ -656,7 +656,7 @@ _yra..._
 * 1:35 - _pirma_ valanda ir trisdešimt penkios
 * 10:15 - penkiolika po dešimt; po dešimt penkolika
 * 10:45 - be penkilikos vieniolika 
-* 2:05 - penkios po dvieju
+* 2:05 - penkios po dviejų
 * 4:47 - be trylikos penkios
 * 2:30 - pusė trijų (quantity word _pusė_ takes GEN)
 * 4:30 - pusė penkių

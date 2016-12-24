@@ -22,3 +22,8 @@
 * _The Screaming Staircase_ - Jonathan Stroud
 * _A Wise Man's Fear_ - Patrick Rothfuss
 * _The Slow Regard of Silent Things_ - Patrick Rothfuss
+* _The Whispering Skull_ - Jonathan Stroud
+* _The Hollow Boy_ - Jonathan Stroud
+* _The Creeping Shadow_ - Jonathan Stroud
+* _Pocket Atlas of Remote Islands: Fifty Islands I Have Not Visited and Never Will_ - Judith Schalansky
+* _Bouki Fait Gombo_ - Ibrahima Seck
