@@ -10,6 +10,8 @@
 * _The Wicked and The Divine_
 * _Shutter_
 * _Poe Dameron_
+* _Grave Lilies_
+* _Lady Mechanika_
 
 # In statis
 * _Rocket Girl_
@@ -28,6 +30,7 @@
 * _Abigail and the Abominable Snowman_
 * _Dark Ages_
 * _Toil & Trouble_
+* _Pariah_
 
 # Abandoned
 * _Roche Limit_
