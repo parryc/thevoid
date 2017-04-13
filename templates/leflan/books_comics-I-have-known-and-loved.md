@@ -12,6 +12,7 @@
 * _Poe Dameron_
 * _Grave Lilies_
 * _Lady Mechanika_
+* _Sun Bakery_
 
 # In statis
 * _Rocket Girl_
