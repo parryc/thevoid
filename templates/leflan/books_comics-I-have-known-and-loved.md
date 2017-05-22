@@ -18,7 +18,6 @@
 
 # In statis
 * _Rocket Girl_
-* _Brass Sun_
 * _Nonplayer_
 
 # Finished
@@ -34,6 +33,7 @@
 * _Dark Ages_
 * _Toil & Trouble_
 * _Pariah_
+* _Brass Sun_
 
 # Abandoned
 * _Roche Limit_
