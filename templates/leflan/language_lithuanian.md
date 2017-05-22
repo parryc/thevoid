@@ -34,7 +34,7 @@ _p._ | -os | -ų  | -oms| -as |-omis| -ose
 
 num. | NOM | GEN | DAT | ACC | INS | LOC
 -----|-----|-----|-----|-----|-----|-----
-_s._ | *** | -ės | -ei | -ę  | -a  | -ėje
+_s._ | *** | -ės | -ei | -ę  | -e  | -ėje
 _p._ | -ės | -ių | -ėms| -es |-ėmis| -ėse
 
 Some words ending in _-ė_ will add _er_ before the ending, such as duktė.

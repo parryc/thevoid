@@ -13,6 +13,8 @@
 * _Grave Lilies_
 * _Lady Mechanika_
 * _Sun Bakery_
+* _Godshaper_
+* _The Old Ones_
 
 # In statis
 * _Rocket Girl_
