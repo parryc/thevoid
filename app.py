@@ -45,5 +45,3 @@ from mod_parryc.controllers import mod_parryc
 app.register_blueprint(mod_parryc)
 from mod_leflan.controllers import mod_leflan
 app.register_blueprint(mod_leflan)
-from mod_thebookofd.controllers import mod_thebookofd
-app.register_blueprint(mod_thebookofd)

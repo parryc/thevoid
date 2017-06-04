@@ -44,13 +44,13 @@ Words ending in -ия/ие become -ии.
 
 ## Plural
 
-The plural form of masculine nouns
+In the nominative case, most masculine nouns take the ending -ы in the plural form. If a masculine noun ends in -ец the vowel e is dropped before the plural ending is added. If the stem if г/к/х, then the plural is -и. Some masculine plural nouns end in -а. In these cases, the а is always stressed (ex. дома̀).<cite>[Babbel](#Babbel)</cite>
 
-"In the nominative case, most masculine nouns take the ending -ы in the plural form. If a masculine noun ends in -ец the vowel e is dropped before the plural ending is added." <cite>[Babbel](#Babbel)</cite>
+
 
 # Adjectives
 
-"Adjective endings in Russian vary according to gender and case of the noun that follows. Masculine adjectives have three endings in the nominative case: -ый , -ий and -ой. Feminine adjective have two endings in the nominative case: -ая and -яя. Neuter adjectives in the nominative, like feminine adjectives, also have two endings: -ое and -ее." <cite>[Babbel](#Babbel)</cite>
+>Adjective endings in Russian vary according to gender and case of the noun that follows. Masculine adjectives have three endings in the nominative case: -ый , -ий and -ой. Feminine adjective have two endings in the nominative case: -ая and -яя. Neuter adjectives in the nominative, like feminine adjectives, also have two endings: -ое and -ее.<cite>[Babbel](#Babbel)</cite>
 
 Masculine: end in й
 Feminine: end in я
@@ -94,8 +94,6 @@ PST
 была     |были
 было     |были
 
-
-
 #### жить (to live)
 
 PRT
@@ -126,6 +124,16 @@ PREP + 3rd person => +н, ex. у + её = у неё.
 
 У GEN есть NOM
 
+# Question Words
+
+"The basic rule is that if a noun follows, use _какой_, if no noun follows, use _что_"<cite>[Babbel](#Babbel)</cite>
+
+где vs. куда
+: где = "where", куда = "to where" (_куда он едет?_, "(to) Where is he going?")
+
+какой/ая/ое - which/what
+: какой это чвет? - _what color is that?_
+
 # Errata
 
 ## Stress
@@ -139,7 +147,7 @@ It is all random.
 ## Days of the Week
 
 On {day of the week}
-:Proceeded by _в_
+: Proceeded by _в_
 
 * понедельник
 * вторник
@@ -148,6 +156,10 @@ On {day of the week}
 * пятница
 * суббота
 * воскресенье
+
+## Sentences
+
+Put a comma after знать. Ex. Ты знаешь, где...?
 
 # Bibliography
 * <source id="Babbel">Babbel, [https://babbel.com](https://babbel.com)</source>

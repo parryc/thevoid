@@ -5,3 +5,5 @@
 * _The Dream-Quest of Vellitt Boe_ - Kij Johnson
 * _Ex-Formation_ - Kenji Hara
 * _The Gunslinger_ - Stephen King
+* _The Drawing of the Three_ - Stephen King
+
