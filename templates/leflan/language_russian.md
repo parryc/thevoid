@@ -32,7 +32,9 @@ sg.              | pl.
 
 ### Accusative
 
-Non-animate, masculine nouns do not normally change in the accusative. Feminine nouns ending in -а change to -у.
+Non-animate, masculine nouns do not normally change in the accusative. Feminine nouns ending in -а change to -у, -я to -ю.
+
+Phrases like "I want (lit. will be)" take the ACC. Ex. _Я буду рыбу_ (fish.NOM is _рыба_).
 
 ### Prepositional
 
@@ -41,6 +43,11 @@ Vowel is dropped before adding the е.
 Words ending in -ия/ие become -ии.
 
 Его is pronounced like Ево.
+
+### Genitive
+
+Masculine, add -а. Replace -ь/й with я, ex. Игорь > Игоря.
+Feminine, -а becomes -ы., -г/к/х/я becomes и.
 
 ## Plural
 
@@ -76,9 +83,19 @@ sg.      |pl.
 говоришь |говорите
 говорит  |говорят
 
+## Past Tense
+
+The past tense can indicate a variety of different moods. For example "Я жил..." could mean "I lived...", "I was living...", etc.
+
+Past tense is formed by removing _ть_ from the infinitive and adding, in the singular, л, ла, ло, based on the subject of the verb and ли when the subject is plural (regardless of gender).
+
 ### Irregular
 
+любть has an extra л in the 1sg _людлю_, otherwise it is class 2.
+
 #### быть (to be)
+
+Regular past tense (был etc.).
 
 PRT
 : sg.    |pl.
@@ -87,12 +104,13 @@ PRT
 еси      |есте
 есть     |суть
 
-PST
+FUT
 : sg.    |pl.
 ---------|-------- 
-был      |были
-была     |были
-было     |были
+буду     |будем
+бу̀дешь   |будете
+будѐт    |будут
+
 
 #### жить (to live)
 
@@ -110,7 +128,7 @@ Two main types of verbs, those that end in -ть and those which end in -а/ят
 
 ## Reflexives
 
-Ends in -ся ("a contraction of себя"<cite>[Higgenbottam, pg. 22](#Higgenbottam)</cite>). To conjugate a reflexive verb, conjugate normally and add _ся_ or _сь_ (if last letter is a vowel).
+Ends in -ся ("a contraction of себя"<cite>[Higgenbottam, pg. 22](#Higgenbottam)</cite>). To conjugate a reflexive verb, conjugate normally and add _ся_ or _сь_ (if last letter is a vowel). The ending is pronounced short, like "sa".
 
 Ex. я остановлю (I stopped) > я остановлюсь (I stopped myself).
 
@@ -128,11 +146,17 @@ PREP + 3rd person => +н, ex. у + её = у неё.
 
 "The basic rule is that if a noun follows, use _какой_, if no noun follows, use _что_"<cite>[Babbel](#Babbel)</cite>
 
+чей/чья - whose (m/f)
+: _{whose} это {noun}_, where _{whose}_ matches the gender of _{noun}_.
+
 где vs. куда
 : где = "where", куда = "to where" (_куда он едет?_, "(to) Where is he going?")
 
 какой/ая/ое - which/what
 : какой это чвет? - _what color is that?_
+
+когда - when
+
 
 # Errata
 
@@ -156,6 +180,36 @@ On {day of the week}
 * пятница
 * суббота
 * воскресенье
+
+## Numbers
+
+Teens are formed by {number} + надцать. More or less, drop the ь. Ex четырнадцать.
+
+* 20 - двадцать
+* 30 - тридцать
+* 40 - сорок
+* 50 - пятьдесят
+* 60 - шестьдесят
+* 70 - семьдесяе
+* 80 - восемьдесят
+* 90 - девяносто
+* 100 - сто
+
+## Time
+
+When you specify a number of hours, the number is placed before the noun час: _один час_
+When час follows the numbers 2, 3 or 4, it takes the ending -а: _два, три, четыре часа_ (pronounced like _chsa_)
+With the numbers 5 to 20, час takes the ending -ов: _часов_ (pronounced like _chsov_)
+For two-digit numbers from 21 onwards, the form of час changes according to the value of the second digit: двадцать один час, двадцать два часа, двадцать пять часов and so on.<cite>[Babbel](#Babbel)</cite>
+
+Time is given with the preposition _в_.
+
+The word for year changes depending on the number of years:
+* 1: год
+* 2-4: года
+* 5-20 & multiples of ten: лет
+* double digits, ex. 21: the value of the second digit, ex. 21 is год.
+* много (many): лет
 
 ## Sentences
 

@@ -1,0 +1,18 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/parryc.css" />
+  {% assets "parryc_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block content  %}
+  <h1>Welcome to Team Paasperation H!</h1>
+  <ul>
+    <li>Patrick Byrne</li>
+    <li>Parry Cadwallader</li>
+    <li>Nick Fernandez</li>
+    <li>Jeff Haynes</li>
+    <li>Sonal Nuckols</li>
+  </ul>
+{% endblock %}

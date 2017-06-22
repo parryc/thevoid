@@ -6,4 +6,6 @@
 * _Ex-Formation_ - Kenji Hara
 * _The Gunslinger_ - Stephen King
 * _The Drawing of the Three_ - Stephen King
-
+* _Dragons, Dragons_ - D. L. Hubbard
+* _Language Relations Across Bering Strait_ - Michael Fortescue
+* _Out of the Blue: New Short Fiction from Iceland_ - ed. Helen Mitsios

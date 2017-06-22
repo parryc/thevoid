@@ -40,6 +40,18 @@ def image_with_folder(folder, image):
 def image(image):
   return send_from_directory(os.path.join(app.root_path, 'static/images'), image)
 
+# ------
+# PaaS
+# /-----
+
+@mod_parryc.route('/paas', methods=['GET'], host=host)
+def paas_index():
+  return render_template('parryc/paas.html')
+
+@mod_parryc.route('/paas/send-to-timeseries', methods=['GET'], host=host)
+def paas_to_timeseries():
+  response = {'success':True}
+  return jsonify(response)
 
 @mod_parryc.route('/', methods=['GET'], host=host)
 def index():
