@@ -3,9 +3,11 @@
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
 from app import app
+from datetime import date
 import os
 import markdown
 import codecs
+import requests
 
 mod_parryc = Blueprint('parryc', __name__)
 
@@ -48,10 +50,35 @@ def image(image):
 def paas_index():
   return render_template('parryc/paas.html')
 
-@mod_parryc.route('/paas/send-to-timeseries', methods=['GET'], host=host)
+@mod_parryc.route('/paas/send-to-timeseries', methods=['GET','POST'], host=host)
 def paas_to_timeseries():
-  response = {'success':True}
+  test = [date(2017, 6, 1), date(2017, 6, 2), date(2017, 6, 5), date(2017, 6, 8)]
+  def _fill(timeblock):
+    padded = []
+    for idx, t in enumerate(timeblock):
+      if idx + 1 == len(timeblock):
+        padded.append(1)
+      else:
+        _next = timeblock[idx + 1]
+        delta = _next - t
+        if delta.days == 1:
+          padded.append(1)
+        else:
+          padded.append(1)
+          padded.extend([0] * (delta.days - 1))
+    return padded
+
+  if request.method == 'POST':
+    persistent_flow_id = request.json['something_nick_tells_me']
+  response = {'success':_fill(test)}
   return jsonify(response)
+
+@mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
+def paas_lookup(request_id):
+  def _get(request_id):
+    # do something
+    return {'response':[1,3,5,2,1,0,0,1,4,8,8,1]}
+  return jsonify(_get(request_id))
 
 @mod_parryc.route('/', methods=['GET'], host=host)
 def index():
