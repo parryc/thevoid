@@ -85,9 +85,9 @@ def paas_lookup(request_id):
   _hours_to_move = 0
   for idx, el in enumerate(rounded):
     if idx in [0, 6, 7, 13, 14, 20, 21, 27, 28]:
-      weekly_output.append(0)
+      weekly_output.append({'value':0})
     else:
-      weekly_output.append(el)
+      weekly_output.append({'value':el})
   return jsonify({'timeseries_data':weekly_output})
 
 # ----------
