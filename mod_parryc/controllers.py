@@ -3,7 +3,7 @@
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
 from app import app, db
-from datetime import date
+from datetime import date, timedelta
 import os
 import markdown
 import codecs
@@ -90,15 +90,19 @@ def paas_lookup(request_id):
   output_data    = []
   weekly_output  = []
   _hours_to_move = 0
+  # next Sunday
+  current_date = date(2017,6,25)
   days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
   for idx, el in enumerate(rounded):
     if idx % 7 == 0 and idx != 0:
       output_data.append({'row':weekly_output})
       weekly_output = []
     if idx in [0, 6, 7, 13, 14, 20, 21, 27, 28]:
-      weekly_output.append({'value':0, 'day':days[idx % 7]})
+      weekly_output.append({'value':0, 'day':days[idx % 7], 'date':current_date.isoformat()})
     else:
-      weekly_output.append({'value':el, 'day':days[idx % 7]})
+      weekly_output.append({'value':abs(el), 'day':days[idx % 7], 'date':current_date.isoformat()})
+
+    current_date = current_date + timedelta(days=1)
   output_data.append({'row':weekly_output})
   return jsonify({'timeseries_data':output_data})
 
