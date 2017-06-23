@@ -88,7 +88,7 @@ def paas_to_timeseries():
       print('--- ts ---')
       print(_ts_response)
       print('/---------')
-  return _ts_response
+  return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
 def paas_lookup(request_id):
