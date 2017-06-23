@@ -1,42 +1,66 @@
 from app import db, app
-from mod_tags.models import *
-from datetime import datetime
 from helper_db import *
-from sqlalchemy import extract
-import pycountry
 
-class Projects(db.Model):
-    __tablename__ = 'projects'
+class VPS_Requests(db.Model):
+    __tablename__ = 'vps_requests'
 
     id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.Text)
+    request_id = db.Column(db.Text)
+    request_project_size = db.Column(db.Text)
+    timeseries_has_response = db.Column(db.Boolean)
+    timeseries_response = db.Column(db.Text)  # Comma delimited
+    timeseries_interval_count = db.Column(db.Float)
 
-    def __init__(self, name):
-        self.name = name
-
-    def __repr__(self):
-        return '<%r %r>' % (self.id, self.name)
-
-class TS_Requests(db.Model):
-    __tablename__ = 'ts_requests'
-
-    id = db.Column(db.Integer, primary_key=True)
-    name = db.Column(db.Text)
-
-    def __init__(self, name):
-        self.name = name
+    def __init__(self, request_id, request_project_size, timeseries_has_response, timeseries_response,
+                 timeseries_interval_count):
+        self.request_id = request_id
+        self.request_project_size = request_project_size
+        self.timeseries_has_response = timeseries_has_response
+        self.timeseries_response = timeseries_response
+        self.timeseries_interval_count = timeseries_interval_count
 
     def __repr__(self):
-        return '<%r %r>' % (self.id, self.name)
+        return '<%r %r %r>' % (self.id, self.request_id, self.timeseries_has_response)
 
 ##########
 # CREATE #
 ##########
 
-def add_project(name):
-    project_entry = Projects(
-       name           = name
+def add_request(request_id, request_project_size, timeseries_has_response, timeseries_response,
+                timeseries_interval_count):
+    request_entry = VPS_Requests(
+        request_id = request_id
+       ,request_project_size = request_project_size
+       ,timeseries_has_response = timeseries_has_response
+       ,timeseries_response = timeseries_response
+       ,timeseries_interval_count = timeseries_interval_count
        )
     
-    save_project = commit_entry(project_entry)
-    return save_project
+    save_request = commit_entry(request_entry)
+    return save_request
+
+
+##########
+# UPDATE #
+##########
+
+def edit_request(self, request_id, request_project_size, timeseries_has_response, timeseries_response,
+                timeseries_interval_count):
+    request_entry = VPS_Requests(
+        request_id = request_id
+       ,request_type = request_type
+       ,timeseries_has_response = timeseries_has_response
+       ,timeseries_response = timeseries_response
+       ,timeseries_interval_count = timeseries_interval_count
+       )
+    
+    save_request = commit_entry(request_entry)
+    return save_request
+
+
+##########
+#  GET   #
+##########
+
+def get_request(self, request_id):
+    return VPS_Requests.query.filter(VPS_Requests.request_id==request_id).first()
