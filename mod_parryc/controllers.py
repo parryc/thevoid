@@ -76,16 +76,19 @@ def paas_to_timeseries():
       update_result = edit_vps_request(request_id, _ts_response)
   return jsonify(_ts_response)
 
-@mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
+@mod_parryc.route('/paas/retrieve/<request_id>', methods=['GET'], host=host)
 def paas_lookup(request_id):
-  projects = _paas_get_projects_by_size('medium')
-  for project in projects:
-    print(project)
-
-  def _get(request_id):
-    # do something
-    return {'response':[1,3,5,2,1,0,0,1,4,8,8,1]}
-  return jsonify(_get(request_id))
+  timeseries_data = get_vps_request(request_id).timeseries_response.split(',')
+  rounded = [round(float(td)/0.25) * 0.25 for td in timeseries_data]
+  # zero-out weekdays
+  weekly_output  = []
+  _hours_to_move = 0
+  for idx, el in enumerate(rounded):
+    if idx in [0, 6, 7, 13, 14, 20, 21, 27, 28]:
+      weekly_output.append(0)
+    else:
+      weekly_output.append(el)
+  return jsonify({'timeseries_data':weekly_output})
 
 # ----------
 # END PAAS
@@ -153,12 +156,12 @@ def _paas_fill(log_dates):
 def _paas_get_projects_by_size(size):
   low  = 0
   high = 1000
-  if size == 'small':
+  if size == '0': # small
     high = 40
-  if size == 'medium':
+  if size == '1': # medium
     low = 40
     high = 100
-  if size == 'large':
+  if size == '2': # large
     low = 100
   return Subprojects.query.filter(and_(Subprojects.hours_aggregate >= low, Subprojects.hours_aggregate < high)).all()
 
