@@ -9,7 +9,9 @@ import markdown
 import codecs
 import requests
 import json
+import re
 from mod_parryc.models import *
+from sqlalchemy import and_
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
 # import urllib3.contrib.pyopenssl
 # urllib3.contrib.pyopenssl.inject_into_urllib3()
@@ -57,22 +59,6 @@ def paas_index():
 
 @mod_parryc.route('/paas/send-to-timeseries', methods=['GET','POST'], host=host)
 def paas_to_timeseries():
-  test = [date(2017, 6, 1), date(2017, 6, 2), date(2017, 6, 5), date(2017, 6, 8)]
-  def _fill(timeblock):
-    padded = []
-    for idx, t in enumerate(timeblock):
-      if idx + 1 == len(timeblock):
-        padded.append(1)
-      else:
-        _next = timeblock[idx + 1]
-        delta = _next - t
-        if delta.days == 1:
-          padded.append(1)
-        else:
-          padded.append(1)
-          padded.extend([0] * (delta.days - 1))
-    return padded
-
   _ts_response = {}
   if request.method == 'POST':
     # 0 = small
@@ -81,24 +67,21 @@ def paas_to_timeseries():
     #
     request_id = request.json['request_id']
     interval_count = request.json['timeseries_interval_count']
-    save_result = add_vps_request(request_id, request.json['request_project_size'],
-                              False, [], interval_count)
-    print(save_result)
+    project_size = request.json['request_project_size']
+    save_result = add_vps_request(request_id, project_size, False, [], interval_count)
+
     if save_result['status']:
-      hours = get_hours('24 Team Meetings and Status')
-      inline_data = _paas_fill(hours)
-      print(inline_data)
+      inline_data = _paas_projects_to_hours(_paas_get_projects_by_size(project_size))
       _ts_response = _paas_timeseries_request(inline_data, interval_count)
       update_result = edit_vps_request(request_id, _ts_response)
   return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
 def paas_lookup(request_id):
-  print(get_subproject('24 Team Meetings and Status'))
-  hours = get_hours('24 Team Meetings and Status')
-  print(_paas_fill(hours))
-  for hour in hours:
-    print(hour)
+  projects = _paas_get_projects_by_size('medium')
+  for project in projects:
+    print(project)
+
   def _get(request_id):
     # do something
     return {'response':[1,3,5,2,1,0,0,1,4,8,8,1]}
@@ -152,18 +135,40 @@ def _paas_timeseries_request(inline_data, interval_count):
   return ts_response.json()
 
 def _paas_fill(log_dates):
-    # Fill in 0s between dates
-    padded = []
-    for idx, t in enumerate(log_dates):
-      if idx + 1 == len(log_dates):
+  # Fill in 0s between dates
+  padded = []
+  for idx, t in enumerate(log_dates):
+    if idx + 1 == len(log_dates):
+      padded.append(t.hours_logged)
+    else:
+      _next = log_dates[idx + 1]
+      delta = _next.log_date - t.log_date
+      if delta.days == 1:
         padded.append(t.hours_logged)
       else:
-        _next = log_dates[idx + 1]
-        delta = _next.log_date - t.log_date
-        if delta.days == 1:
-          padded.append(t.hours_logged)
-        else:
-          padded.append(t.hours_logged)
-          padded.extend([0] * (delta.days - 1))
-    return ",".join(map(str, padded))
+        padded.append(t.hours_logged)
+        padded.extend([0] * (delta.days - 1))
+  return ",".join(map(str, padded))
 
+def _paas_get_projects_by_size(size):
+  low  = 0
+  high = 1000
+  if size == 'small':
+    high = 40
+  if size == 'medium':
+    low = 40
+    high = 100
+  if size == 'large':
+    low = 100
+  return Subprojects.query.filter(and_(Subprojects.hours_aggregate >= low, Subprojects.hours_aggregate < high)).all()
+
+def _paas_projects_to_hours(projects):
+  inline_data = []
+  for project in projects:
+    hours = get_hours(project.subproject)
+    inline_data.append(_paas_fill(hours))
+  joined = ",".join(inline_data)
+  # compress the data by removing 0s, since timeseries doesn't detect patterns
+  compressed = re.sub(r'(0,){3,}','0,', joined)
+  # remove empty strings
+  return re.sub(',+',',',compressed)
