@@ -168,13 +168,15 @@ def _paas_fill(log_dates):
 def _paas_get_projects_by_size(size):
   low  = 0
   high = 1000
+  bound_1 = 50
+  bound_2 = 100
   if size == '0': # small
-    high = 40
+    high = bound_1
   if size == '1': # medium
-    low = 40
-    high = 100
+    low = bound_1
+    high = bound_2
   if size == '2': # large
-    low = 100
+    low = bound_2
   return Subprojects.query.filter(and_(Subprojects.hours_aggregate >= low, Subprojects.hours_aggregate < high)).all()
 
 def _paas_projects_to_hours(projects):
