@@ -67,10 +67,11 @@ def add_vps_request(request_id, request_project_size, timeseries_has_response, t
 # UPDATE #
 ##########
 
-def edit_vps_request(request_id, timeseries_json):
+def edit_vps_request(request_id, timeseries_json, interval_count):
     _request = get_vps_request(request_id)
     _request.timeseries_response = timeseries_json['df_output']['inline_data']
     _request.timeseries_has_response = True
+    _request.timeseries_interval_count = interval_count
 
     save_request = commit_entry(_request)
     return save_request

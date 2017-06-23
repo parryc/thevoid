@@ -68,12 +68,18 @@ def paas_to_timeseries():
     request_id = request.json['request_id']
     interval_count = request.json['timeseries_interval_count']
     project_size = request.json['request_project_size']
-    save_result = add_vps_request(request_id, project_size, False, [], interval_count)
+
+    updating_request = get_vps_request(request_id)
+    if not get_vps_request(request_id):
+      save_result = add_vps_request(request_id, project_size, False, [], interval_count)
+    else:
+      # pass through next condition
+      save_result = {'status':True}
 
     if save_result['status']:
       inline_data = _paas_projects_to_hours(_paas_get_projects_by_size(project_size))
       _ts_response = _paas_timeseries_request(inline_data, interval_count)
-      update_result = edit_vps_request(request_id, _ts_response)
+      update_result = edit_vps_request(request_id, _ts_response, interval_count)
   return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<request_id>', methods=['GET'], host=host)
