@@ -26,7 +26,7 @@ class VPS_Requests(db.Model):
 # CREATE #
 ##########
 
-def add_request(request_id, request_project_size, timeseries_has_response, timeseries_response,
+def add_vps_request(request_id, request_project_size, timeseries_has_response, timeseries_response,
                 timeseries_interval_count):
     request_entry = VPS_Requests(
         request_id = request_id
@@ -35,7 +35,7 @@ def add_request(request_id, request_project_size, timeseries_has_response, times
        ,timeseries_response = timeseries_response
        ,timeseries_interval_count = timeseries_interval_count
        )
-    
+
     save_request = commit_entry(request_entry)
     return save_request
 
@@ -44,17 +44,12 @@ def add_request(request_id, request_project_size, timeseries_has_response, times
 # UPDATE #
 ##########
 
-def edit_request(self, request_id, request_project_size, timeseries_has_response, timeseries_response,
-                timeseries_interval_count):
-    request_entry = VPS_Requests(
-        request_id = request_id
-       ,request_type = request_type
-       ,timeseries_has_response = timeseries_has_response
-       ,timeseries_response = timeseries_response
-       ,timeseries_interval_count = timeseries_interval_count
-       )
-    
-    save_request = commit_entry(request_entry)
+def edit_vps_request(request_id, timeseries_json):
+    _request = get_vps_request(request_id)
+    _request.timeseries_response = timeseries_json['df_output']['inline_data']
+    _request.timeseries_has_response = True
+
+    save_request = commit_entry(_request)
     return save_request
 
 
@@ -62,5 +57,5 @@ def edit_request(self, request_id, request_project_size, timeseries_has_response
 #  GET   #
 ##########
 
-def get_request(self, request_id):
+def get_vps_request(request_id):
     return VPS_Requests.query.filter(VPS_Requests.request_id==request_id).first()

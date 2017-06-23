@@ -5,6 +5,7 @@ from app import db
 
 def commit_entry(entry):
   try:
+    db.session.add(entry)
     db.session.commit()
     return {'status':True,'message':'Success','entry':entry}
   except Exception as e:

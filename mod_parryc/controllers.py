@@ -2,7 +2,7 @@
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
-from app import app
+from app import app, db
 from datetime import date
 import os
 import markdown
@@ -79,12 +79,15 @@ def paas_to_timeseries():
     # 1 = medium
     # 2 = large
     #
-    save_result = add_request(request.json['request_id'], request.json['request_project_size'],
-                              False, [], request.json['timeseries_interval_count'])
+    request_id = request.json['request_id']
+    interval_count = request.json['timeseries_interval_count']
+    save_result = add_vps_request(request_id, request.json['request_project_size'],
+                              False, [], interval_count)
     print(save_result)
     if save_result['status']:
       # get the data
-      _ts_response = _paas_timeseries_request("0,0,0,1,1,0,0,0,1,1,0,0,0,1,1", request.json['timeseries_interval_count'])
+      _ts_response = _paas_timeseries_request("0,0,0,1,1,0,0,0,1,1,0,0,0,1,1", interval_count)
+      update_result = edit_vps_request(request_id, _ts_response)
   return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
