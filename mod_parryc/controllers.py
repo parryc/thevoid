@@ -85,9 +85,6 @@ def paas_to_timeseries():
     if save_result['status']:
       # get the data
       _ts_response = _paas_timeseries_request("0,0,0,1,1,0,0,0,1,1,0,0,0,1,1", request.json['timeseries_interval_count'])
-      print('--- ts ---')
-      print(_ts_response)
-      print('/---------')
   return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
@@ -142,5 +139,5 @@ def _paas_timeseries_request(inline_data, interval_count):
   print(json.dumps(request_json))
   print('----/json---')
   print(ts_response.text)
-  return ts_response.text
+  return ts_response.json()
 
