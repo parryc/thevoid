@@ -1,5 +1,6 @@
 from app import db, app
 from helper_db import *
+from sqlalchemy import PrimaryKeyConstraint
 
 class VPS_Requests(db.Model):
     __tablename__ = 'vps_requests'
@@ -21,6 +22,28 @@ class VPS_Requests(db.Model):
 
     def __repr__(self):
         return '<%r %r %r>' % (self.id, self.request_id, self.timeseries_has_response)
+
+class Subprojects(db.Model):
+    __tablename__ = 'subproject_hours_aggregates'
+
+    subproject = db.Column(db.Text, primary_key=True)
+    hours_aggregate = db.Column(db.Float)
+
+    def __repr__(self):
+        return '<%r %r>' % (self.subproject, self.hours_aggregate)
+
+class Hours(db.Model):
+    __tablename__ = 'hours_transactions'
+    __table_args__ = (
+        PrimaryKeyConstraint('log_date', 'integration'),
+    )
+
+    log_date = db.Column(db.Date)
+    integration = db.Column(db.Text)
+    hours_logged = db.Column(db.Float)
+
+    def __repr__(self):
+        return '<%s %s %s>' % (self.integration, self.log_date, self.hours_logged)
 
 ##########
 # CREATE #
@@ -59,3 +82,9 @@ def edit_vps_request(request_id, timeseries_json):
 
 def get_vps_request(request_id):
     return VPS_Requests.query.filter(VPS_Requests.request_id==request_id).first()
+
+def get_subproject(subproject):
+    return Subprojects.query.filter(Subprojects.subproject==subproject).first()
+
+def get_hours(subproject):
+    return Hours.query.filter(Hours.integration==subproject).all()

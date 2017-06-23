@@ -85,13 +85,20 @@ def paas_to_timeseries():
                               False, [], interval_count)
     print(save_result)
     if save_result['status']:
-      # get the data
-      _ts_response = _paas_timeseries_request("0,0,0,1,1,0,0,0,1,1,0,0,0,1,1", interval_count)
+      hours = get_hours('24 Team Meetings and Status')
+      inline_data = _paas_fill(hours)
+      print(inline_data)
+      _ts_response = _paas_timeseries_request(inline_data, interval_count)
       update_result = edit_vps_request(request_id, _ts_response)
   return jsonify(_ts_response)
 
 @mod_parryc.route('/paas/retrieve/<int:request_id>', methods=['GET'], host=host)
 def paas_lookup(request_id):
+  print(get_subproject('24 Team Meetings and Status'))
+  hours = get_hours('24 Team Meetings and Status')
+  print(_paas_fill(hours))
+  for hour in hours:
+    print(hour)
   def _get(request_id):
     # do something
     return {'response':[1,3,5,2,1,0,0,1,4,8,8,1]}
@@ -143,4 +150,20 @@ def _paas_timeseries_request(inline_data, interval_count):
   print('----/json---')
   print(ts_response.text)
   return ts_response.json()
+
+def _paas_fill(log_dates):
+    # Fill in 0s between dates
+    padded = []
+    for idx, t in enumerate(log_dates):
+      if idx + 1 == len(log_dates):
+        padded.append(t.hours_logged)
+      else:
+        _next = log_dates[idx + 1]
+        delta = _next.log_date - t.log_date
+        if delta.days == 1:
+          padded.append(t.hours_logged)
+        else:
+          padded.append(t.hours_logged)
+          padded.extend([0] * (delta.days - 1))
+    return ",".join(map(str, padded))
 
