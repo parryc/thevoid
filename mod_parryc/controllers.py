@@ -61,6 +61,7 @@ def paas_index():
 def paas_to_timeseries():
   _ts_response = {}
   inline_data  = None
+  project_size = 0
   if request.method == 'POST':
     # 0 = small
     # 1 = medium
@@ -74,7 +75,7 @@ def paas_to_timeseries():
       inline_data = request.json['request_inline_data']
 
     updating_request = get_vps_request(request_id)
-    if not get_vps_request(request_id):
+    if not updating_request:
       save_result = add_vps_request(request_id, project_size, False, [], interval_count)
     else:
       # pass through next condition
