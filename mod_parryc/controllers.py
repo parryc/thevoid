@@ -87,14 +87,20 @@ def paas_lookup(request_id):
   timeseries_data = get_vps_request(request_id).timeseries_response.split(',')
   rounded = [round(float(td)/0.25) * 0.25 for td in timeseries_data]
   # zero-out weekdays
+  output_data    = []
   weekly_output  = []
   _hours_to_move = 0
+  days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
   for idx, el in enumerate(rounded):
+    if idx % 7 == 0 and idx != 0:
+      output_data.append({'row':weekly_output})
+      weekly_output = []
     if idx in [0, 6, 7, 13, 14, 20, 21, 27, 28]:
-      weekly_output.append({'value':0})
+      weekly_output.append({'value':0, 'day':days[idx % 7]})
     else:
-      weekly_output.append({'value':el})
-  return jsonify({'timeseries_data':weekly_output})
+      weekly_output.append({'value':el, 'day':days[idx % 7]})
+  output_data.append({'row':weekly_output})
+  return jsonify({'timeseries_data':output_data})
 
 # ----------
 # END PAAS
@@ -137,10 +143,6 @@ def _paas_timeseries_request(inline_data, interval_count):
     }
   }
   ts_response = requests.post(endpoint, json=request_json)
-  print('----json---')
-  print(json.dumps(request_json))
-  print('----/json---')
-  print(ts_response.text)
   return ts_response.json()
 
 def _paas_fill(log_dates):
