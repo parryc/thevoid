@@ -18,20 +18,20 @@ class BracketTableProcessor(BlockProcessor):
   def run(self, parent, blocks):
     """ Parse a table block and build table. """
     block = blocks.pop(0).split('\n')
-    header = block[0].strip()
+    header = block[0].strip()[1:-1]
     rows = block[1:-1]
     rowspan = len(rows)
     longest = max(rows, key=lambda x: len(x.split('|')))
-    print(longest)
-    table = etree.SubElement(parent, 'table')
-    thead = etree.SubElement(table, 'thead')
-    tbody = etree.SubElement(table, 'tbody')
-    for row in rows:
-      self._build_row(row, tbody, longest)
+    tbody_wrapper = self._build_table(parent)
+    tr_wrapper = etree.SubElement(tbody_wrapper, 'tr')
+    parent_text = etree.SubElement(tr_wrapper, 'td')
+    parent_bracket = etree.SubElement(tr_wrapper, 'td')
 
-    table_bracket = etree.SubElement(parent, 'table')
-    thead_bracket = etree.SubElement(table_bracket, 'thead')
-    tbody_bracket = etree.SubElement(table_bracket, 'tbody')
+    tbody_rows = self._build_table(parent_text)
+    for row in rows:
+      self._build_row(row, tbody_rows, longest)
+
+    tbody_bracket = self._build_table(parent_bracket)
     tr = etree.SubElement(tbody_bracket, 'tr')
     td_bracket = etree.SubElement(tr,'td')
     td_bracket.set('rowspan', str(rowspan))
@@ -54,6 +54,12 @@ class BracketTableProcessor(BlockProcessor):
         c.text = cells[i].strip()
       except IndexError:
         c.text = ""
+
+  def _build_table(self, parent):
+    table = etree.SubElement(parent, 'table')
+    thead = etree.SubElement(table, 'thead')
+    tbody = etree.SubElement(table, 'tbody')
+    return tbody
 
 class BracketTable(Extension):
   def extendMarkdown(self, md, md_globals):
