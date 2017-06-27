@@ -9,3 +9,4 @@
 * _Dragons, Dragons_ - D. L. Hubbard
 * _Language Relations Across Bering Strait_ - Michael Fortescue
 * _Out of the Blue: New Short Fiction from Iceland_ - ed. Helen Mitsios
+* _Anishinaabe Syndicated_ - Jim Northrup
