@@ -24,8 +24,9 @@ class BracketTableProcessor(BlockProcessor):
     longest = max(rows, key=lambda x: len(x.split('|')))
     tbody_wrapper = self._build_table(parent, _class='bracket_table')
     tr_wrapper = etree.SubElement(tbody_wrapper, 'tr')
-    parent_text = etree.SubElement(tr_wrapper, 'td')
+
     parent_bracket = etree.SubElement(tr_wrapper, 'td')
+    parent_text = etree.SubElement(tr_wrapper, 'td')
 
     tbody_rows = self._build_table(parent_text)
     for row in rows:
@@ -33,17 +34,17 @@ class BracketTableProcessor(BlockProcessor):
 
     tbody_bracket = self._build_table(parent_bracket)
     tr = etree.SubElement(tbody_bracket, 'tr')
-    td_bracket = etree.SubElement(tr,'td')
-    td_bracket.set('rowspan', str(rowspan))
-    span_bracket = etree.SubElement(td_bracket, 'span')
-    span_bracket.text = '}'
-    span_bracket.set('class', 'bracket_table bracket')
-    span_bracket.set('style', 'font-size: %sem;' % (rowspan + 2))
     td_right = etree.SubElement(tr,'td')
     td_right.set('rowspan', str(rowspan))
     span_text = etree.SubElement(td_right, 'span')
     span_text.text = header
     span_text.set('class', 'bracket_table bracket_text')
+    td_bracket = etree.SubElement(tr,'td')
+    td_bracket.set('rowspan', str(rowspan))
+    span_bracket = etree.SubElement(td_bracket, 'span')
+    span_bracket.text = '{'
+    span_bracket.set('class', 'bracket_table bracket')
+    span_bracket.set('style', 'font-size: %sem;' % (rowspan + 2))
 
   def _build_row(self, row, parent, longest):
     """ Given a row of text, build table cells. """
