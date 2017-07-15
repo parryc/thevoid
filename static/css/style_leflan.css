@@ -107,6 +107,28 @@ tag {
 }
 
 /*************
+Bracket Table
+*************/
+
+.bracket_table tbody tr td {
+  border: none !important;
+}
+
+.bracket_table td {
+  padding: 0rem 1.6rem;
+}
+
+.bracket_table .bracket {
+  margin-left: -50px;
+  margin-top: -15px;
+  display: block;
+}
+
+.bracket_table .bracket_text {
+  margin-left: -40px;
+}
+
+/*************
 Typesetting for Lithuanian pitch accents
 
 When adding pitch accent marks, the tittle must still be there

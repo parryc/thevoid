@@ -4,6 +4,7 @@ from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
 from app import app
 from git import Repo
+from bracket_table import BracketTable
 import os
 import markdown
 import codecs
@@ -353,7 +354,8 @@ def get_html(page):
                      ,'markdown.extensions.tables'
                      ,'markdown.extensions.def_list'
                      ,'markdown.extensions.abbr'
-                     ,'markdown.extensions.footnotes'])
+                     ,'markdown.extensions.footnotes'
+                     ,BracketTable()])
 
 def _title(page):
   return page.replace('-',' ')

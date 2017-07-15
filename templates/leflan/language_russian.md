@@ -28,6 +28,8 @@ sg.              | pl.
 Твой, твоя, твоё | Ваш, ваша, ваше
 Его, её          | Их
 
+Possession, however, is indicated using "У {accusative pronoun} есть...", ex. _У меня есть..._ means _I have..._. This is negated by using нет instead of есть.
+
 ## Cases
 
 ### Accusative
