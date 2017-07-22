@@ -10,3 +10,4 @@
 * _Language Relations Across Bering Strait_ - Michael Fortescue
 * _Out of the Blue: New Short Fiction from Iceland_ - ed. Helen Mitsios
 * _Anishinaabe Syndicated_ - Jim Northrup
+* _The Little Pearl and Other Stories_ - Dulat Issabekov

@@ -5,6 +5,7 @@ h1,h2,h3,h4,h5,h6,body {
 body {
   font-size: 22px;
   line-height: 1.4;
+  counter-reset: leipzig;
 }
 
 a {
@@ -127,6 +128,40 @@ Bracket Table
 
 .bracket_table .bracket_text {
   margin-left: -40px;
+}
+
+/*************
+Leipzig
+*************/
+
+.leipzig-table tbody tr td {
+  border: none !important;
+}
+
+.leipzig-table td {
+  padding: 0rem 1.6rem;
+}
+
+.leipzig-num::before {
+  counter-increment: leipzig;
+  content: "(" counters(leipzig, ".") ")"  
+}
+
+.leipzig-morpheme {
+  text-transform: lowercase;
+  font-variant: small-caps;
+  font-variant-numeric: tabular-nums;
+  -moz-font-feature-settings: "tnum";
+  -webkit-font-feature-settings: "tnum";
+  font-feature-settings: "tnum";
+}
+
+.leipzig-source {
+  font-weight: bold;
+}
+
+.leipzig-translation {
+  font-style: italic;
 }
 
 /*************
