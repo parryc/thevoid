@@ -37,6 +37,7 @@ bundles = {
   'leflan_css': Bundle('css/marx.min.css'
                ,'css/style_leflan.css'
                ,'css/fonts/source-code-pro/source-code-pro.css'
+               ,'css/fonts/cmu/fonts.css'
                ,filters='cssmin',output='gen/leflan.css')
   }
 assets.register(bundles)  
