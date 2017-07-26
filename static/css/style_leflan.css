@@ -140,7 +140,7 @@ Leipzig
 }
 
 .leipzig-table td {
-  padding: 0rem 1.6rem;
+  padding: 0rem 1rem;
 }
 
 .leipzig-num::before {
@@ -158,6 +158,10 @@ Leipzig
 
 .leipzig-source {
   font-weight: bold;
+}
+
+.leipzig-tilde {
+  font-family: monospace;
 }
 
 .leipzig-translation {

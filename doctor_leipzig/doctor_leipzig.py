@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# coding: utf-8
 from __future__ import unicode_literals
 from markdown.extensions import Extension
 from markdown.blockprocessors import BlockProcessor
@@ -5,6 +7,7 @@ from markdown.util import etree
 import re
 
 GROUPER = r'("|\'((?!\s)|^)).+?("|(?=\').*?"|\'((?=\s)|$))|[^\s]+'
+ASSUME_TITLE = True
 
 class LeipzigProcessor(BlockProcessor):
   def test(self, parent, block):
@@ -26,8 +29,8 @@ class LeipzigProcessor(BlockProcessor):
     # fill to full size
     filled = [group + [''] * (max_len - len(group)) for group in groups]
     zipped_rows = zip(filled)
-
     tbody_wrapper = self._build_table(parent, _class='leipzig-table')
+
     for idx, row in enumerate(filled):
       tr_wrapper = etree.SubElement(tbody_wrapper, 'tr')
       tr_wrapper.set('class','leipzig-' + self._get_line_class(idx))
@@ -38,10 +41,19 @@ class LeipzigProcessor(BlockProcessor):
         num_td = etree.SubElement(tr_wrapper, 'td')
         num = etree.SubElement(num_td, 'span')
         num.set('class','leipzig-num')
+        if ASSUME_TITLE:
+          td = etree.SubElement(tr_wrapper, 'td')
+          td.text = ' '.join([self._beautify(item) for item in row])
+          td.set('colspan', str(max_len))
       else:
         etree.SubElement(tr_wrapper, 'td')
 
       for item in row:
+        # If ASSUME_TITLE is on, don't process the first
+        # row of the gloss block
+        if ASSUME_TITLE and idx == 0:
+          continue
+
         if item == '{!}':
           full_span = True
           td_colspan = max_len
@@ -62,7 +74,7 @@ class LeipzigProcessor(BlockProcessor):
 
         if item == '{b}':
           td = etree.SubElement(tr_wrapper, 'td')
-      print(td_colspan)
+
       if td_colspan != 1:
         td.set('colspan', str(td_colspan))
 
@@ -126,6 +138,8 @@ class LeipzigProcessor(BlockProcessor):
     # Set morpheme (for small caps!)
     text = re.sub(r'\{','<span class="leipzig-morpheme">',text)
     text = re.sub(r'\}','</span>',text)
+    # Tildes look bad in Computer Modern
+    text = re.sub(r'~','<span class="leipzig-tilde">~</span>',text)
     return '<span>'+text+'</span>'
 
   def _get_line_class(self, idx):
