@@ -134,6 +134,10 @@ Bracket Table
 Leipzig
 *************/
 
+.leipzig-alt-font {
+  font-family: monospace;
+}
+
 .leipzig-table tbody tr td {
   border: none !important;
   font-family: "CMU", serif;
@@ -158,10 +162,6 @@ Leipzig
 
 .leipzig-source {
   font-weight: bold;
-}
-
-.leipzig-tilde {
-  font-family: monospace;
 }
 
 .leipzig-translation {

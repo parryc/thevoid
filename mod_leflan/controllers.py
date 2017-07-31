@@ -29,10 +29,11 @@ else:
 tag_to_verb = {
   'language':'learns'
  ,'books'   :'reads'
+ ,'through-reading':'learns'
 }
 
 verb_to_tag = {
-  'learns' : ['language']
+  'learns' : ['language','through-reading']
  ,'reads'  : ['books']
 }
 
@@ -64,7 +65,6 @@ def image_with_folder(folder, image):
 def image(image):
   return send_from_directory(os.path.join(app.root_path, 'static/images'), image)
 
-
 @mod_leflan.route('/', methods=['GET'], host=host)
 def index():
   return redirect(url_for('.r'))
@@ -86,6 +86,20 @@ def language(language):
   page = 'leflan/language_%s.md' % language
   html = get_html(page)
   return render_template('leflan/post.html',html=html,title=_title(language))
+
+@mod_leflan.route('/r/learns/<language>/through-reading', methods=['GET'], host=host)
+def through_reading_index(language):
+  page = 'leflan/through-reading_%s/index.md' % language
+  html = get_html(page)
+  title = 'learn %s through reading' % language
+  return render_template('leflan/post.html',html=html,title=_title(title))
+
+@mod_leflan.route('/r/learns/<language>/through-reading/<post>', methods=['GET'], host=host)
+def through_reading_post(language, post):
+  page = 'leflan/through-reading_%s/%s.md' % (language, post)
+  html = get_html(page)
+  title = 'learn %s through reading: %s' % (language, post.replace('_',' '))
+  return render_template('leflan/post.html',html=html,title=_title(title))
 
 @mod_leflan.route('/r/learns/<language>/dict', methods=['GET'], host=host)
 def dictionary(language):
@@ -180,6 +194,8 @@ def _title(page):
   return page.replace('-',' ')
 
 def _url(tag,page):
+  if tag == 'through-reading':
+    return os.path.join('/r',tag_to_verb[tag],page,'through-reading')
   return os.path.join('/r',tag_to_verb[tag],page)
 
 def _add_filelist(category, html, show_tags=False):
@@ -188,13 +204,16 @@ def _add_filelist(category, html, show_tags=False):
                   key=lambda _file:\
                       repo.git.log('-n 1','--format=%ci','--',os.path.join(folder,_file)),\
                   reverse=True):
-
     _parts = unicode(filename,'utf-8').split('_')
-    if len(_parts) == 2 and 'md' in filename:
-      page_name = _parts[1].replace('.md','').replace('-',' ')
+    # only list files which have been tagged
+    if len(_parts) == 2 and _parts[0] != '.DS':
       tag       = _parts[0]
+      page_name = _parts[1].replace('.md','').replace('-',' ')
+
       if not category or tag in verb_to_tag[category]:
         url = _url(tag,page_name).replace(' ','-')
+        if tag == 'through-reading':
+          page_name += ' through reading'
         if show_tags:
           html += u'<li><a href="%s">%s</a> <tag>%s</tag></li>' % (url, page_name, tag)
         else:

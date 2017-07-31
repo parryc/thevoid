@@ -3,11 +3,30 @@
 from __future__ import unicode_literals
 from markdown.extensions import Extension
 from markdown.blockprocessors import BlockProcessor
+from markdown.preprocessors import Preprocessor
 from markdown.util import etree
 import re
 
 GROUPER = r'("|\'((?!\s)|^)).+?("|(?=\').*?"|\'((?=\s)|$))|[^\s]+'
-ASSUME_TITLE = True
+ASSUME_TITLE = False
+
+class LeipzigPreprocessor(Preprocessor):
+  def run(self, lines):
+    """
+      Add a counter to each gloss, without requiring
+      the user to add it themself.
+    """
+    new_lines = []
+    counter = 1
+    for line in lines:
+      if line == '--GLOSS--':
+          line += '|'+str(counter)
+          print(line)
+          counter += 1
+          new_lines.append(line)
+      else:
+          new_lines.append(line)
+    return new_lines
 
 class LeipzigProcessor(BlockProcessor):
   def test(self, parent, block):
@@ -17,12 +36,13 @@ class LeipzigProcessor(BlockProcessor):
     HEADER = '--GLOSS--'
     FOOTER = '--ENDGLOSS--'
     rows = [row.strip() for row in block.split('\n')]
-    return HEADER == rows[0] and rows[-1] == FOOTER
+    return HEADER == rows[0][:9] and rows[-1] == FOOTER
 
   def run(self, parent, blocks):
     """ Parse a table block and build table. """
     block = blocks.pop(0).split('\n')
-    header = block[0].strip()[1:-1]
+    header = block[0].strip()
+    counter = header.split('|')[1]
     rows = block[1:-1]
     groups = [self._create_grouping(row) for row in rows]
     max_len = len(max(groups, key=len))
@@ -40,7 +60,8 @@ class LeipzigProcessor(BlockProcessor):
       if idx == 0:
         num_td = etree.SubElement(tr_wrapper, 'td')
         num = etree.SubElement(num_td, 'span')
-        num.set('class','leipzig-num')
+        num.set('class', 'leipzig-num')
+        num.set('id',  'leipzig-line-'+counter)
         if ASSUME_TITLE:
           td = etree.SubElement(tr_wrapper, 'td')
           td.text = ' '.join([self._beautify(item) for item in row])
@@ -138,8 +159,9 @@ class LeipzigProcessor(BlockProcessor):
     # Set morpheme (for small caps!)
     text = re.sub(r'\{','<span class="leipzig-morpheme">',text)
     text = re.sub(r'\}','</span>',text)
-    # Tildes look bad in Computer Modern
-    text = re.sub(r'~','<span class="leipzig-tilde">~</span>',text)
+    # Tildes and pluses look bad in Computer Modern
+    text = re.sub(r'~','<span class="leipzig-alt-font">~</span>',text)
+    text = re.sub(r'\+','<span class="leipzig-alt-font">+</span>',text)
     return '<span>'+text+'</span>'
 
   def _get_line_class(self, idx):
@@ -154,4 +176,4 @@ class Leipzig(Extension):
     md.parser.blockprocessors.add('doctor_leipzig',
                                    LeipzigProcessor(md.parser),
                                    '<hashheader')
-    
+    md.preprocessors.add('doctor_leipzig', LeipzigPreprocessor(md), '<reference')

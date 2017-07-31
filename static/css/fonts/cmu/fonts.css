@@ -2,21 +2,17 @@
 /* Font PT Serif:  Copyright 2010 ParaType Ltd. All rights reserved.*/
 
 @font-face {font-family: 'CMU'; 
-  src: local('CMU Serif'), url('cmunrm.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunrm.otf') format('opentype');}
 
 @font-face {font-family: 'CMU'; 
-  font-weight: bold; 
-  src: url('cmunbx.otf') format('opentype');}
+  font-weight: bold;
+  src: url('/css/fonts/cmu/cmunbx.otf') format('opentype');}
 
-/* I dont' really like how the old style italic numbers look */
-
-/*
 @font-face {font-family: 'CMU'; 
   font-style: italic;
-  src: local('CMU Serif'), url('cmunti.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunti.otf') format('opentype');}
 
 @font-face {font-family: 'CMU'; 
   font-style: italic;
   font-weight: bold; 
-  src: local('CMU Serif'), url('cmunbi.otf') format('opentype');}
-*/
+  src: url('/css/fonts/cmu/cmunbi.otf') format('opentype');}
