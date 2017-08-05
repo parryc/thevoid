@@ -21,7 +21,6 @@ class LeipzigPreprocessor(Preprocessor):
     for line in lines:
       if line == '--GLOSS--':
           line += '|'+str(counter)
-          print(line)
           counter += 1
           new_lines.append(line)
       else:
@@ -98,27 +97,6 @@ class LeipzigProcessor(BlockProcessor):
 
       if td_colspan != 1:
         td.set('colspan', str(td_colspan))
-
-    # parent_bracket = etree.SubElement(tr_wrapper, 'td')
-    # parent_text = etree.SubElement(tr_wrapper, 'td')
-
-    # tbody_rows = self._build_table(parent_text)
-    # for row in rows:
-    #   self._build_row(row, tbody_rows, longest)
-
-    # tbody_bracket = self._build_table(parent_bracket)
-    # tr = etree.SubElement(tbody_bracket, 'tr')
-    # td_right = etree.SubElement(tr,'td')
-    # td_right.set('rowspan', str(rowspan))
-    # span_text = etree.SubElement(td_right, 'span')
-    # span_text.text = header
-    # span_text.set('class', 'bracket_table bracket_text')
-    # td_bracket = etree.SubElement(tr,'td')
-    # td_bracket.set('rowspan', str(rowspan))
-    # span_bracket = etree.SubElement(td_bracket, 'span')
-    # span_bracket.text = '{'
-    # span_bracket.set('class', 'bracket_table bracket')
-    # span_bracket.set('style', 'font-size: %sem;' % (rowspan + 2))
 
   def _build_row(self, row, parent, longest):
     """ Given a row of text, build table cells. """
