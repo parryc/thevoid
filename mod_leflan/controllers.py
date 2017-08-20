@@ -5,7 +5,7 @@ from flask import Blueprint, render_template, request, jsonify, redirect,\
 from app import app
 from git import Repo
 from bracket_table import BracketTable
-from doctor_leipzig import Leipzig
+# from doctor_leipzig import Leipzig
 import os
 import markdown
 import codecs
@@ -188,7 +188,7 @@ def get_html(page):
                      ,'markdown.extensions.abbr'
                      ,'markdown.extensions.footnotes'
                      ,BracketTable()
-                     ,'doctor_leipzig:Leipzig'])
+                     ,'doctor_leipzig'])
 
 def _title(page):
   return page.replace('-',' ')

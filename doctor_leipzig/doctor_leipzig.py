@@ -143,10 +143,14 @@ class LeipzigProcessor(BlockProcessor):
       return classes[idx]
     return ''
 
-class Leipzig(Extension):
+class DoctorLeipzig(Extension):
   def extendMarkdown(self, md, md_globals):
     # The normal table extension uses '<hashheader', so why not
     md.parser.blockprocessors.add('doctor_leipzig',
                                    LeipzigProcessor(md.parser),
                                    '<hashheader')
     md.preprocessors.add('doctor_leipzig', LeipzigPreprocessor(md), '<reference')
+
+# Enabled string loading of extension
+def makeExtension(*args, **kwargs):
+  return DoctorLeipzig(*args, **kwargs)
