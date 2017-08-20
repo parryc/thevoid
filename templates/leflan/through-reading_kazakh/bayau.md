@@ -60,8 +60,8 @@ Click on a line to be directed to the gloss.
 --GLOSS--
 Ойымда сенің бейнеңді қалаймын, қалай айтаиын
 mind-{1SG.POSS}-{LOC} {2SG.GEN} image-{2SG.POSS}-{ACC} want-{1SG}, how speak-{OPT.SG}
-{!} 'In my dreams I want your image'
-{!} 'In my mind I want your image, how I want to say (it)'
+{!} In my dreams I want your image
+{!} In my mind I want your image, how I want to say (it)
 --ENDGLOSS--
 
 * _ой_:mind/idea
@@ -85,8 +85,8 @@ root|matching vowel|agreement marker
 --GLOSS--
 Бір нәрсені қабылдай алмаймын...
 one thing-{ACC} accept-{CONV} take-{NEG}-{1SG}
-{!} 'Something I can't accept in any way'
-{!} 'Something I cannot accept'
+{!} Something I can't accept in any way
+{!} Something I cannot accept
 --ENDGLOSS--
 
 * _бір нәсені_:something
@@ -100,8 +100,8 @@ one thing-{ACC} accept-{CONV} take-{NEG}-{1SG}
 --GLOSS--
 Сенің баяу қозғалғаның ұнайды
 {2SG-GEN} slowly move-{PST-2SG.POSS} like-{PRS}
-{!} 'I like when you move so slowly'
-{!} 'I like your slow movement'
+{!} I like when you move so slowly
+{!} I like your slow movement
 --ENDGLOSS--
 
 * _баяу_:slow;slowly
@@ -117,8 +117,8 @@ one thing-{ACC} accept-{CONV} take-{NEG}-{1SG}
 --GLOSS--
 Тура қарағаның ұнайды, дәл солай
 directly look-{PST-2SG} like-{3SG}, just so
-{!} 'And you look so directly at me, exactly like that'
-{!} 'I like when you look directly (at me), just so/exactly thus/etc.'
+{!} And you look so directly at me, exactly like that
+{!} I like when you look directly (at me), just so
 --ENDGLOSS--
 
 * _қарау_:to look
@@ -128,8 +128,8 @@ directly look-{PST-2SG} like-{3SG}, just so
 --GLOSS--
 Сенің өте баяу қозғалғаның ұнайды
 {2SG.GEN} so slowly move-{PST-2SG.POSS} like-{3SG}
-{!} 'I like when you move so slowly'
-{!} 'I like your such slow movement'
+{!} I like when you move so slowly
+{!} I like your such slow movement
 --ENDGLOSS--
 
 * This is the same as [gloss 3](#leipzig-line-3) but with the addition of _өте_:very/so
@@ -137,8 +137,8 @@ directly look-{PST-2SG} like-{3SG}, just so
 --GLOSS--
 Кейде шақырғым келеді сені баяу биге, дымға қарамай
 sometimes invite-{ГІ}-{1SG.POSS} {AUX-PRS-3} {2SG.ACC} slow dance-{DAT}, nothing-{DAT} look-{NEG}-{PRS}
-{!} 'Sometimes, no matter what, I want to invite you to a grave dance'
-{!} 'Sometimes, I want to invite you to a slow dance, no matter what'
+{!} Sometimes, no matter what, I want to invite you to a grave dance
+{!} Sometimes, I want to invite you to a slow dance, no matter what
 --ENDGLOSS--
 
 * Yes, the _баяу_ of the title and the _баяу_ of this line are the same. Grave could mean slow, though I'm sure most people read that translation to mean 'a place where one buries the dead'.
@@ -149,8 +149,8 @@ sometimes invite-{ГІ}-{1SG.POSS} {AUX-PRS-3} {2SG.ACC} slow dance-{DAT}, nothi
 --GLOSS--
 Бейнең жеке менің түн-ием,
 image-{2SG.POSS} personal {1SG.GEN} 'night spirit-{1SG.POSS}'
-{!} 'Your image is my personal patron the night'
-{!} 'Your image is my personal 'night spirit''
+{!} Your image is my personal patron of the night
+{!} Your image is my personal night spirit
 --ENDGLOSS--
 
 * _түн-иә_:night spirit
@@ -160,8 +160,8 @@ image-{2SG.POSS} personal {1SG.GEN} 'night spirit-{1SG.POSS}'
 --GLOSS--
 Түн-ием, баура мені, ала кет!
 'night spirit-{1SG.POSS},' 'to draw in-{2SG.IMP}' {1SG.ACC}, take-{CONV} {AUX-3}
-{!} 'Pull me, take me with you!'
-{!} ''Night spirit', draw me in, take (me) away!'
+{!} Pull me, take me with you!
+{!} Night spirit, draw me in, take (me) away!
 --ENDGLOSS--
 
 * _баурау_:(fig.) draw in/attract
@@ -172,8 +172,8 @@ image-{2SG.POSS} personal {1SG.GEN} 'night spirit-{1SG.POSS}'
 --GLOSS--
 Ойланып келдім baby, əңгімем бар baby,
 think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
-{!} 'I have a thought, baby, we need to talk, baby'
-{!} 'I have been thinking, baby, there (should be) a conversation (between us), baby'
+{!} I have a thought, baby, we need to talk, baby
+{!} I have been thinking, baby, there (should be) a conversation (between us), baby
 --ENDGLOSS--
 
 * _(І)п + кел-_:the perdurative aspect
@@ -183,8 +183,8 @@ think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
 --GLOSS--
 Мен алысқа уақытша аттанамын, сезінбе жалғыз қалғандай,
 {1SG.NOM} far temporary depart-{PRS}-{1SG}, feel-{NEG.IMP} alone stay-{PRETEND}
-{!} 'I'm moving away for awhile, don't feel lonely'
-{!} 'I'm leaving for a bit, don't feel as if you are left alone'
+{!} I'm moving away for awhile, don't feel lonely
+{!} I'm leaving for a bit, don't feel as if you are left alone
 --ENDGLOSS--
 
 * _аттану_:to depart
@@ -196,8 +196,8 @@ think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
 --GLOSS--
 Сен арманда, мен де армандаймын,
 {2sg.NOM} dream-{IMP}, {1SG.NOM} and dream-{PRS}-{1SG}
-{!} 'Dream I will too'
-{!} 'You dream, and I will dream too'
+{!} Dream I will too
+{!} You dream, and I will dream too
 --ENDGLOSS--
 
 * _арману_:to dream
@@ -206,8 +206,8 @@ think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
 --GLOSS--
 Шешімін тауып алғандаймын,
 solution-{3SG.POSS}-{ACC} find-{PRETEND}-{1SG} {m}
-{!} 'And it seems I found a solution'
-{!} 'It seems I found the solution'
+{!} And it seems I found a solution
+{!} It seems I found the solution
 --ENDGLOSS--
 
 * _тауып ал-_:to find
@@ -217,8 +217,8 @@ solution-{3SG.POSS}-{ACC} find-{PRETEND}-{1SG} {m}
 --GLOSS--
 шақырамын биге, дайын бол!
 call-{PRS}-{1SG} dance-{DAT}, ready be-{IMP}!
-{!} 'I'll call you to a grave dance, be ready!'
-{!} 'I'll call (you) to a dance, be ready!'
+{!} I'll call you to a grave dance, be ready!
+{!} I'll call (you) to a dance, be ready!
 --ENDGLOSS--
 
 * _шақыру_:to call
@@ -226,8 +226,8 @@ call-{PRS}-{1SG} dance-{DAT}, ready be-{IMP}!
 --GLOSS--
 «Ау?»-деп, түсінбей қалсаң, былайғо:
 huh-say-{CONV}, understand-{NEG}-{CONV} {AUX}-{COND}-{2SG}, 'like so-{EMPH}:'
-{!} 'If you don't understand, like «ha?»'
-{!} 'If you suddenly say «huh?» uncomprehendingly, then:'
+{!} If you don't understand, like "ha?"
+{!} If you suddenly say "huh?" uncomprehendingly, then:
 --ENDGLOSS--
 
 * _деу_:to say
@@ -241,8 +241,8 @@ huh-say-{CONV}, understand-{NEG}-{CONV} {AUX}-{COND}-{2SG}, 'like so-{EMPH}:'
 --GLOSS--
 Бəрі оп-оңай, қиялыммен "'баяуға'" шақырамын, билейміз түнімен тоқтамай.
 all easy, imagination-{POSS.1SG}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}-{1PL} night-{3SG.POSS}-{COM} cease-{NEG}-{CONV}
-{!} 'Look everything is simple. In my fantaises, I'll call you to the «slow», we'll dance all night endlessly'
-{!} 'All is very easy, with my imagination I'll call you to the «slow», we'll dance all night'
+{!} Look everything is simple. In my fantaises, I'll call you to the "slow", we'll dance all night endlessly
+{!} All is very easy, with my imagination I'll call you to the "slow", we'll dance all night
 --ENDGLOSS--
 
 * _оп-оңай_:easy

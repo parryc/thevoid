@@ -77,6 +77,10 @@ class LeipzigProcessor(BlockProcessor):
         if item == '{!}':
           full_span = True
           td_colspan = max_len
+          # if full span, then remerge all items
+          # this avoids the need to have quotes surrounding
+          # the full breadth of the row
+          row[1] = ' '.join(row[1:])
           continue
 
         if item not in ['{m}', '{b}', '{!}']:
@@ -133,7 +137,8 @@ class LeipzigProcessor(BlockProcessor):
     text = re.sub(r'<','&lt;',text)
     text = re.sub(r'>','&gt;',text)
     # remove quotes around long strings
-    text = re.sub(r'(^(\'|"))|((\'|")$)','',text)
+    # 8/20 no longer needed with change in {!}
+    # text = re.sub(r'(^(\'|"))|((\'|")$)','',text)
     # Set morpheme (for small caps!)
     text = re.sub(r'\{','<span class="leipzig-morpheme">',text)
     text = re.sub(r'\}','</span>',text)
