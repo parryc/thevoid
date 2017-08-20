@@ -11,3 +11,6 @@
 * _Out of the Blue: New Short Fiction from Iceland_ - ed. Helen Mitsios
 * _Anishinaabe Syndicated_ - Jim Northrup
 * _The Little Pearl and Other Stories_ - Dulat Issabekov
+* _The Dictator's Handbook_ - Bruce Bueno de Mesquita and Alastair Smith
+* _Warrior Nation: A History of the Red Lake Ojibwe_ - Anton Treuer
+* _Salt, Fat, Acid, Heat_ - Samin Nosrat

@@ -1,4 +1,4 @@
-A line by line translation and inspection of [Bayau/Баяу/Slowly by Ninety One](https://www.youtube.com/watch?v=qAeWCnQ1EUA). Below you will see a series of what are called "glosses", a linguistic term to describe breaking down a sentence into its constituent parts and identify grammatical properties of each word. As the reader you should use this as a guide to see what exactly each word is doing in each sentence. 
+A line by line translation and inspection of [Bayau/Баяу/Slowly by Ninety One](https://www.youtube.com/watch?v=qAeWCnQ1EUA). Below you will see a series of what are called "glosses", a linguistic term to describe breaking down a sentence into its constituent parts and identifying grammatical properties of each word. As the reader you should use this as a guide to see what exactly each word is doing in each sentence. 
 
 The glosses consist of four lines:
 
@@ -29,13 +29,13 @@ Click on a line to be directed to the gloss.
 [Бейнең жеке менің түн-ием,](#leipzig-line-7)
 [Түн-ием, баура мені, ала кет! (x2)](#leipzig-line-8)
  
-Ойланып келдім baby, əңгімем бар baby,
-Мен алысқа уақытша аттанамын, сезінбе жалғыз қалғандай,
-Сен арманда, мен де армандаймын,
-Шешімін тауып алғандаймын,
-шақырамын биге, дайын бол!
-"Ау?»-деп, түсінбей қалсаң, былайғо:
-Бəрі оп-оңай, қиялыммен "баяуға" шақырамын, билейміз түнімен тоқтамай.
+[Ойланып келдім baby, əңгімем бар baby,](#leipzig-line-9)
+[Мен алысқа уақытша аттанамын, сезінбе жалғыз қалғандай,](#leipzig-line-10)
+[Сен арманда, мен де армандаймын,](#leipzig-line-11)
+[Шешімін тауып алғандаймын,](#leipzig-line-12)
+[шақырамын биге, дайын бол!](#leipzig-line-13)
+«Ау?»-деп, түсінбей қалсаң, былайғо:](#leipzig-line-14)
+Бəрі оп-оңай, қиялыммен "баяуға" шақырамын, билейміз түнімен тоқтамай.](#leipzig-line-15)
 
 Оның жүрегі нөлдей, сезім мүлде бөлінбейді,
 Түн сияқты ол: суп-суық, сұп-сұлу, тылсым
@@ -168,3 +168,118 @@ image-{2SG.POSS} personal {1SG.GEN} 'night spirit-{1SG.POSS}'
 * _а_:the [imperative](/r/learns/kazakh#imperative)<cite>RM §1.3.5, 26</cite>
 * _ала кет_ is not attested in any of the grammars/dictionaries I have, but RM mentions on page 114 that '+А кет' is mentioned in Balakaev and Mamanov as marking a limited set of verbs as an 'action that is done carelessly' (or perhaps casually/by-the-by). _Алау_:to take away is not in the list of verbs given in RM. However, there is an entry in KP for _~ып кет_ (_Іп_ being the other common converb), which seems in line with what is happening here.
 * Make sure not to confuse _ала_ as used here with _ала_:multicolored, which is common in idioms!
+
+--GLOSS--
+Ойланып келдім baby, əңгімем бар baby,
+think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
+{!} 'I have a thought, baby, we need to talk, baby'
+{!} 'I have been thinking, baby, there (should be) a conversation (between us), baby'
+--ENDGLOSS--
+
+* _(І)п + кел-_:the perdurative aspect
+  The perdurative describes a persistent/continuous process or state with a conclusion, ex. "been {verb}-ing".<cite>Kakzhanova 2016, 18</cite>
+* Possessive noun + _бар_ is an "existential" sentence, ex. "There is X".<cite>RW 4</cite>
+
+--GLOSS--
+Мен алысқа уақытша аттанамын, сезінбе жалғыз қалғандай,
+{1SG.NOM} far temporary depart-{PRS}-{1SG}, feel-{NEG.IMP} alone stay-{PRETEND}
+{!} 'I'm moving away for awhile, don't feel lonely'
+{!} 'I'm leaving for a bit, don't feel as if you are left alone'
+--ENDGLOSS--
+
+* _аттану_:to depart
+* _сезіну_:to feel
+  _+МА_:negative [imperative](/r/learns/kazakh#imperative)
+* _қалу_:to remain; to stay
+  The ending _ҒАнДАй_ is the pretendative, which is composed of the past participle (_ҒАн_) and a comparative (_ДАй_). It has a similar sense to "as if X", i.e. pretending if the action/clause is occuring.<cite>RM §2.3.10, 26</cite>
+
+--GLOSS--
+Сен арманда, мен де армандаймын,
+{2sg.NOM} dream-{IMP}, {1SG.NOM} and dream-{PRS}-{1SG}
+{!} 'Dream I will too'
+{!} 'You dream, and I will dream too'
+--ENDGLOSS--
+
+* _арману_:to dream
+* The second person [imperative](/r/learns/kazakh#imperative) is unmarked.
+
+--GLOSS--
+Шешімін тауып алғандаймын,
+solution-{3SG.POSS}-{ACC} find-{PRETEND}-{1SG} {m}
+{!} 'And it seems I found a solution'
+{!} 'It seems I found the solution'
+--ENDGLOSS--
+
+* _тауып ал-_:to find
+  RW §1.15.5 has 'to catch', but Сөздік has 'to find'
+* _шешімін_ is the definite form of the noun. Definiteness<cite>RW §2.5.5</cite> can be marked with the 3sg possessive form and the accusative. The accusative has a non-standard form when following the possessive, _+н_.<cite>Language Canvas Lesson 2</cite> As a result, _шешімін_ is 'the solution', rather than 'a solution'.
+
+--GLOSS--
+шақырамын биге, дайын бол!
+call-{PRS}-{1SG} dance-{DAT}, ready be-{IMP}!
+{!} 'I'll call you to a grave dance, be ready!'
+{!} 'I'll call (you) to a dance, be ready!'
+--ENDGLOSS--
+
+* _шақыру_:to call
+
+--GLOSS--
+«Ау?»-деп, түсінбей қалсаң, былайғо:
+huh-say-{CONV}, understand-{NEG}-{CONV} {AUX}-{COND}-{2SG}, 'like so-{EMPH}:'
+{!} 'If you don't understand, like «ha?»'
+{!} 'If you suddenly say «huh?» uncomprehendingly, then:'
+--ENDGLOSS--
+
+* _деу_:to say
+  _деу_ is in converbial form, pared with _қалсаң_ to mean 'suddenly say'. The form _{verb}-{CONV (А)} қал-_ indicates the sudden completion of the verb.<cite>RW 110</cite>
+  _деп_ is also used to indicate direct speech.<cite>RW §1.4</cite>
+* _түсіну_:to understand
+  Adverbs of manner can be formed with CONV (А). Thus _түсінбей_ is literally 'understand-not-ly'.<cite>RW §2.9.4</cite>
+* _қалсаң_ is a combination of _қал_, functioning as an auxiliary verb, plus _сА_, the [conditional](/r/learns/kazakh#conditional), in the 2nd person singular. The has the meaning of 'if', i.e. 'if you suddenly say "huh?"'.
+* _былайғо_ appears more often as _былай ғо_ or _былай ғой_. _Ғо_ is a shortened version of the emphatic particle _ғой_.
+
+--GLOSS--
+Бəрі оп-оңай, қиялыммен "'баяуға'" шақырамын, билейміз түнімен тоқтамай.
+all easy, imagination-{POSS.1SG}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}-{1PL} night-{3SG.POSS}-{COM} cease-{NEG}-{CONV}
+{!} 'Look everything is simple. In my fantaises, I'll call you to the «slow», we'll dance all night endlessly'
+{!} 'All is very easy, with my imagination I'll call you to the «slow», we'll dance all night'
+--ENDGLOSS--
+
+* _оп-оңай_:easy
+  The reduplicative form of _оңай_.  Reduplication (the _оп_ part) is used to intensify the adjective (see [line 17](#leipzig-line-17))<cite>RW §2.6 and OHDM 2.7.2.4</cite>
+* _қиял_:imagination
+  _+мен_ is the [instrumental](/r/learns/kazakh#instrumental)
+* _түнімен_:with the night
+  _түн_:night, with the _і_ indicates the definite form of the noun (the night), plus _мен_ which is functioning as the comitative ('with'). Thus 'with the night'.
+* _тоқтау_:to cease; for a movement or action to come to a halt
+  Similar to the line before, this is a negative manner adverb, literaly 'cease-not-ly', so 'unceasingly'.<cite>RW §2.9.4</cite>
+* _түнімен тоқтамай_ literally translated would be 'with the night unceasingly', but is commonly translated as 'all night' (see example sentences in the [Knowledge Partners dictionary](http://knowledgepartners.kz/dictionary/)).
+
+
+--GLOSS--
+Оның жүрегі нөлдей, сезім мүлде бөлінбейді,
+--ENDGLOSS--
+
+--GLOSS--
+Түн сияқты ол: суп-суық, сұп-сұлу, тылсым
+--ENDGLOSS--
+
+--GLOSS--
+Ми шимайланған сезімдермен-түрлі-түсті бояу, түсініксіздеу дəл сендей,
+--ENDGLOSS--
+
+--GLOSS--
+Сосын, екеуіміз секілді Ай мен Жердей,
+--ENDGLOSS--
+
+--GLOSS--
+Тартылыс бар, бірақ бірдеңе жібермейді.
+--ENDGLOSS--
+
+--GLOSS--
+Дереу жақында, мені сезіну үшін
+--ENDGLOSS--
+
+--GLOSS--
+Тез қол ұшын бер маған, тез!
+--ENDGLOSS--
