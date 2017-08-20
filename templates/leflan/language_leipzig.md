@@ -28,7 +28,7 @@ A remark on the treatment of glosses in data cited from other sources: Glosses a
 Interlinear glosses are left-aligned vertically, word by word, with the example. E.g.
 
 --GLOSS--
-Indonesian (Sneddon 1996:237)
+{!} Indonesian (Sneddon 1996:237)
 Mereka di Jakarta sekarang.
 They in Jakarta now
 {!} 'They are in Jakarta now.'
@@ -40,7 +40,7 @@ They in Jakarta now
 Segmentable morphemes are separated by hyphens, both in the example and in the gloss. There must be exactly the same number of hyphens in the example and in the gloss. E.g.
 
 --GLOSS--
-Lezgian (Haspelmath 1993:207)
+{!} Lezgian (Haspelmath 1993:207)
 Gila abur-u-n ferma hamišaluǧ güǧüna amuq’-da-č.
 now they-{OBL}-{GEN} farm forever behind stay-{FUT}-{NEG}
 {!} 'Now their farm will not stay behind forever.'
@@ -49,7 +49,7 @@ now they-{OBL}-{GEN} farm forever behind stay-{FUT}-{NEG}
 Since hyphens and vertical alignment make the text look unusual, authors may want to add another line at the beginning, containing the unmodified text, or resort to the option described in Rule 4 (and especially 4C). Clitic boundaries are marked by an equals sign, both in the object language and in the gloss.
 
 --GLOSS--
-West Greenlandic (Fortescue 1984:127)
+{!} West Greenlandic (Fortescue 1984:127)
 palasi=lu niuirtur=lu
 priest=and shopkeeper=and
 {!} 'both the priest and the shopkeeper'
@@ -62,7 +62,7 @@ Epenthetic segments occurring at a morpheme boundary should be assigned to eithe
 If morphologically bound elements constitute distinct prosodic or phonological words, a hyphen and a single space may be used together in the object language (but not in the gloss).
 
 --GLOSS--
-Hakha Lai
+{!} Hakha Lai
 a-nii -láay
 {3SG}-laugh-{FUT} {m}
 {!} 's/he will laugh'
@@ -73,7 +73,7 @@ a-nii -láay
 Grammatical morphemes are generally rendered by abbreviated grammatical category labels, printed in upper case letters (usually small capitals). A list of standard abbreviations (which are widely known among linguists) is given at the end of this document. Deviations from these standard abbreviations may of course be necessary in particular cases, e.g. if a category is highly frequent in a language, so that a shorter abbreviation is more convenient, e.g. CPL (instead of COMPL) for "completive", PF (instead of PRF) for "perfect", etc. If a category is very rare, it may be simplest not to abbreviate its label at all. In many cases, either a category label or a word from the metalanguage is acceptable. Thus, both of the two glosses of (5) may be chosen, depending on the purpose of the gloss.
 
 --GLOSS--
-Russian
+{!} Russian
 My s Marko poexa-l-i avtobus-om v Peredelkino. 
 {1PL} {COM} Marko go-{PST}-{PL} bus-{INS} {ALL} Peredelkino
 we with Marko go-{PST-PL} bus-by to Peredelkino
@@ -85,42 +85,42 @@ we with Marko go-{PST-PL} bus-by to Peredelkino
 When a single object-language element is rendered by several metalanguage elements (words or abbreviations), these are separated by periods. E.g.
 
 --GLOSS--
-Turkish
+{!} Turkish
 çık-mak
 come.out-{INF}
 {!} 'to come out'
 --ENDGLOSS--
 
 --GLOSS--
-Latin
+{!} Latin
 insul-arum
 island-{GEN.PL}
 {!} 'of the islands'
 --ENDGLOSS--
 
 --GLOSS--
-French
+{!} French
 aux chevaux
 to.{ART.PL} horse.{PL}
 {!} 'to the horses'
 --ENDGLOSS--
 
 --GLOSS--
-German
+{!} German
 unser-n Väter-n
 our-{DAT.PL} father.{PL-DAT.PL}
 {!} 'to our fathers'
 --ENDGLOSS--
 
 --GLOSS--
-Hittite (Lehmann 1982:211)
+{!} Hittite (Lehmann 1982:211)
 n=an apedani mehuni essandu.
 {CONN}=him that.{DAT.SG} time.{DAT.SG} eat.they.shall
 {!} 'They shall celebrate him on that date. ({CONN} = connective)'
 --ENDGLOSS--
 
 --GLOSS--
-Jaminjung (Schultze-Berndt 2000:92)
+{!} Jaminjung (Schultze-Berndt 2000:92)
 nanggayan guny-bi-yarluga?
 who {2DU.A.3SG.P-FUT}-poke
 {!} 'Who do you two want to spear?'
@@ -132,7 +132,7 @@ The ordering of the two metalanguage elements may be determined by various princ
 If an object-language element is neither formally nor semantically segmentable and only the metalanguage happens to lack a single-word equivalent, the underscore may be used instead of the period.
 
 --GLOSS--
-Turkish (cf. 6)
+{!} Turkish (cf. 6)
 çık-mak
 come_out-{INF}
 {!} 'to come out'
@@ -142,14 +142,14 @@ come_out-{INF}
 If an object-language element is formally unsegmentable but has two or more clearly distinguishable meanings or grammatical properties, the semi-colon may be used. E.g.
 
 --GLOSS--
-Latin (cf. 7)
+{!} Latin (cf. 7)
 insul-arum
 island-{GEN;PL}
 {!} 'of the islands'
 --ENDGLOSS--
 
 --GLOSS--
-French
+{!} French
 aux chevaux
 to;{ART};{PL} horse;{PL}
 {!} 'to the horses'
@@ -159,7 +159,7 @@ to;{ART};{PL} horse;{PL}
 If an object-language element is formally and semantically segmentable, but the author does not want to show the formal segmentation (because it is irrelevant and/or to keep the text intact), the colon may be used. E.g.
 
 --GLOSS--
-Hittite (Lehmann 1982:211) (cf. 10)
+{!} Hittite (Lehmann 1982:211) (cf. 10)
 n=an apedani mehuni essandu.
 {CONN}=him that:{DAT};{SG} time:{DAT};{SG} eat:they:shall
 {!} 'They shall celebrate him on that date.'
@@ -169,21 +169,21 @@ n=an apedani mehuni essandu.
 If a grammatical property in the object-language is signaled by a morphophonological change (ablaut, mutation, tone alternation, etc.), the backslash is used to separate the category label and the rest of the gloss.
 
 --GLOSS--
-German (cf. 9)
+{!} German (cf. 9)
 unser-n Väter-n
 our-{DAT.PL} father\{PL-DAT.PL}
 {!} 'to our fathers (cf. singular Vater)'
 --ENDGLOSS--
 
 --GLOSS--
-Irish
+{!} Irish
 bhris-is
 {PST}\break-{2SG}
 {!} 'you broke (cf. nonpast bris-)'
 --ENDGLOSS--
 
 --GLOSS--
-Kinyarwanda
+{!} Kinyarwanda
 mú-kòrà
 SBJV\1PL-work
 {!} 'that we work (cf. indicative mù-kòrà)'
@@ -193,7 +193,7 @@ SBJV\1PL-work
 If a language has person-number affixes that express the agent-like and the patientlike argument of a transitive verb simultaneously, the symbol ">" may be used in the gloss to indicate that the first is the agent-like argument and the second is the patient-like argument.
 
 --GLOSS--
-Jaminjung (Schultze-Berndt 2000:92) (cf. 11)
+{!} Jaminjung (Schultze-Berndt 2000:92) (cf. 11)
 nanggayan guny-bi-yarluga?
 who {2DU>3SG-FUT}-poke
 {!} 'Who do you two want to spear?'
@@ -205,7 +205,7 @@ Person and number are not separated by a period when they cooccur in this order.
 E.g.
 
 --GLOSS--
-Italian
+{!} Italian
 and-iamo
 go-{PRS.1PL}
 {!} 'we go' 
@@ -216,7 +216,7 @@ go-{PRS.1PL}
 Number and gender markers are very frequent in some languages, especially when combined with person. Several authors therefore use non-capitalized shortened abbreviations without a period. If this option is adopted, then the second gloss is used in (21).
 
 --GLOSS--
-Belhare
+{!} Belhare
 ne-e a-khim-chi n-yuNNa
 {DEM-LOC} {1SG.POSS}-house-{PL} {3NSG}-be.{NPST}
 {DEM-LOC} 1s{POSS}-house-PL 3ns-be.{NPST}
@@ -228,7 +228,7 @@ ne-e a-khim-chi n-yuNNa
 If the morpheme-by-morpheme gloss contains an element that does not correspond to an overt element in the example, it can be enclosed in square brackets. An obvious alternative is to include an overt "Ø" in the object-language text, which is separated by a hyphen like an overt element.
 
 --GLOSS--
-Latin
+{!} Latin
 puer or: puer-Ø
 boy[{NOM.SG}] {b} boy-{NOM.SG}
 'boy' {b} 'boy’
@@ -239,7 +239,7 @@ boy[{NOM.SG}] {b} boy-{NOM.SG}
 Inherent, non-overt categories such as gender may be indicated in the gloss, but a special boundary symbol, the round parenthesis, is used. E.g.
 
 --GLOSS--
-Hunzib (van den Berg 1995:46)
+{!} Hunzib (van den Berg 1995:46)
 oz#-di-g xõxe m-uq'e-r
 boy-{OBL-AD} tree({G4}) {G4}-bend-{PRET}
 {!} 'Because of the boy the tree bent.' 
@@ -251,7 +251,7 @@ boy-{OBL-AD} tree({G4}) {G4}-bend-{PRET}
 Grammatical or lexical elements that consist of two parts which are treated as distinct morphological entities (e.g. bipartite stems such as Lakhota na-xʔu̧ 'hear') may be treated in two different ways: (i) The gloss may simply be repeated:
 
 --GLOSS--
-Lakhota
+{!} Lakhota
 na-wíčha-wa-xʔu̧
 hear-{3PL.UND-1SG.ACT}-hear
 {!} 'I hear them ({UND} = undergoer, {ACT} = actor)'
@@ -260,7 +260,7 @@ hear-{3PL.UND-1SG.ACT}-hear
 (ii) One of the two parts may be represented by a special label such as STEM:
 
 --GLOSS--
-Lakhota
+{!} Lakhota
 na-wíčha-wa-xʔu̧
 hear-{3PL.UND-1SG.ACT}- {STEM}
 {!} 'I hear them'
@@ -269,7 +269,7 @@ hear-{3PL.UND-1SG.ACT}- {STEM}
 Circumfixes are "bipartite affixes" and can be treated in the same way, e.g.
 
 --GLOSS--
-German
+{!} German
 ge-seh-en or: ge-seh-en
 {PTCP}-see-{PTCP} {b} {PTCP}-see-{CIRC}
 'seen' {b} 'seen'
@@ -281,14 +281,14 @@ Infixes are enclosed by angle brackets, and so is the object-language counterpar
 the gloss.
 
 --GLOSS--
-Tagalog
+{!} Tagalog
 b<um>ili '(stem: bili)'
 <{ACTFOC}>buy
 {!} 'buy'
 --ENDGLOSS--
 
 --GLOSS--
-Latin
+{!} Latin
 reli<n>qu-ere '(stem: reliqu-)'
 leave<{PRS}>-{INF}
 'to leave'
@@ -303,21 +303,21 @@ Reduplication is treated similarly to affixation, but with a tilde (instead of a
 ordinary hyphen) connecting the copied element to the stem.
 
 --GLOSS--
-Hebrew
+{!} Hebrew
 yerak~rak-im
 green~{ATT-M.PL}
 {!} 'greenish ones ({ATT} = attenuative)'
 --ENDGLOSS--
 
 --GLOSS--
-Tagalog
+{!} Tagalog
 bi~bili
 IPFV~buy
 {!} 'is buying'
 --ENDGLOSS--
 
 --GLOSS--
-Tagalog
+{!} Tagalog
 b<um>i~bili
 <{ACTFOC}>{IPFV}~buy
 {!} 'is buying ({ACTFOC} = Actor focus)'

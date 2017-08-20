@@ -8,7 +8,6 @@ from markdown.util import etree
 import re
 
 GROUPER = r'("|\'((?!\s)|^)).+?("|(?=\').*?"|\'((?=\s)|$))|[^\s]+'
-ASSUME_TITLE = False
 
 class LeipzigPreprocessor(Preprocessor):
   def run(self, lines):
@@ -61,19 +60,10 @@ class LeipzigProcessor(BlockProcessor):
         num = etree.SubElement(num_td, 'span')
         num.set('class', 'leipzig-num')
         num.set('id',  'leipzig-line-'+counter)
-        if ASSUME_TITLE:
-          td = etree.SubElement(tr_wrapper, 'td')
-          td.text = ' '.join([self._beautify(item) for item in row])
-          td.set('colspan', str(max_len))
       else:
         etree.SubElement(tr_wrapper, 'td')
 
       for item in row:
-        # If ASSUME_TITLE is on, don't process the first
-        # row of the gloss block
-        if ASSUME_TITLE and idx == 0:
-          continue
-
         if item == '{!}':
           full_span = True
           td_colspan = max_len
