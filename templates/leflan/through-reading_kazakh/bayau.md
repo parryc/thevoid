@@ -13,6 +13,23 @@ After each gloss will be more information about my process of parsing the senten
 
 Enjoy!
 
+## References
+
+These resources were invaluable to help figure out and confirm the sometimes subtle meanings and usages of the lyrics. They are ordered by perceived usefulness. Abbreviations used in the glosses are given in bold before the citation.
+
+### Grammars
+
+* **RW** _Kazakh: A Comprehensive Grammar_ by Raihan Muhamedowa, Routledge 2016.
+* **ZB** _Colloquial Kazakh_ by Zaure Batayeva, Routledge 2013.
+* **FK** _Verbal Aspect Problems and the Aspect of the Kazakh Language_ by Fazira Kakzhanova, [presented at ConCALL-2](https://www.youtube.com/watch?v=P_ueGZEmVkg) 2016. ([PDF](http://www.indiana.edu/~concall/images/pdf/P13%20-%20Fazira%20Kakzhanova.pdf))
+* **LC** _Language Canvas: Beginners Kazakh_, [online](https://languagecanvas.com/languages/kazakh/beginning-kazakh/).
+* **AM** _A Learner's Dictionary of Kazakh Idioms_ by Akmaral Mukan, Georgetown University Press 2012.
+
+### Dictionaries
+
+* **KP** _Knowledge Partners Dictionary_, [online](http://knowledgepartners.kz/).
+* **30k** _30000 word KZ-EN/EN-KZ dictionary_, Аруна 2015.
+
 ## Full Text
 
 Click on a line to be directed to the gloss.
@@ -34,17 +51,17 @@ Click on a line to be directed to the gloss.
 [Сен арманда, мен де армандаймын,](#leipzig-line-11)
 [Шешімін тауып алғандаймын,](#leipzig-line-12)
 [шақырамын биге, дайын бол!](#leipzig-line-13)
-«Ау?»-деп, түсінбей қалсаң, былайғо:](#leipzig-line-14)
-Бəрі оп-оңай, қиялыммен "баяуға" шақырамын, билейміз түнімен тоқтамай.](#leipzig-line-15)
+[«Ау?»-деп, түсінбей қалсаң, былайғо:](#leipzig-line-14)
+[Бəрі оп-оңай, қиялыммен "баяуға" шақырамын, билейміз түнімен тоқтамай.](#leipzig-line-15)
 
-Оның жүрегі нөлдей, сезім мүлде бөлінбейді,
-Түн сияқты ол: суп-суық, сұп-сұлу, тылсым
-Ми шимайланған сезімдермен-түрлі-түсті бояу, түсініксіздеу дəл сендей,
-Сосын, екеуіміз секілді Ай мен Жердей,
-Тартылыс бар, бірақ бірдеңе жібермейді.
+[Оның жүрегі нөлдей, сезім мүлде бөлінбейді,](#leipzig-line-16)
+[Түн сияқты ол: суп-суық, сұп-сұлу, тылсым](#leipzig-line-17)
+[Ми шимайланған сезімдермен-түрлі-түсті бояу, түсініксіздеу дəл сендей,](#leipzig-line-18)
+[Сосын, екеуіміз секілді Ай мен Жердей,](#leipzig-line-19)
+[Тартылыс бар, бірақ бірдеңе жібермейді.](#leipzig-line-20)
 
-Дереу жақында, мені сезіну үшін
-Тез қол ұшын бер маған, тез!
+[Дереу жақында, мені сезіну үшін](#leipzig-line-21)
+[Тез қол ұшын бер маған, тез!](#leipzig-line-22)
 
 [Сенің баяу қозғалғаның ұнайды,](#leipzig-line-3)
 [Тура қарағаның ұнайды, дəл солай](#leipzig-line-4)
@@ -144,7 +161,7 @@ sometimes invite-{ГІ}-{1SG.POSS} {AUX-PRS-3} {2SG.ACC} slow dance-{DAT}, nothi
 * Yes, the _баяу_ of the title and the _баяу_ of this line are the same. Grave could mean slow, though I'm sure most people read that translation to mean 'a place where one buries the dead'.
 * _шақыру_:to invite {ACC} to {DAT}
   '{verb}-ГІ-{person.POSS} келеді' is how Kazakh expresses wishes.<cite>RM §2.3.8, 206</cite> Ex, I wish to do {verb}. _Келеді_ is the 3rd person of _келу_:to come, but in this case it is a locked phrase.
-* The exact translation for _дымға қарамай_:'no matter what comes' from [the online Knowledge Partners dictionary](http://knowledgepartners.kz/dictionary/) (sponsored by the US State Department of all people). See _дым_:'(occuring in combination with negative verbs) nothing' and _қарау_:to look, entry 13, 'following nouns and verbal nouns in the dative case and with _қарау_ in the negative form: no matter what; in any case, regardless; in spite of'.
+* The exact translation for _дымға қарамай_:'no matter what comes' from KP. See _дым_:'(occuring in combination with negative verbs) nothing' and _қарау_:to look, entry 13, 'following nouns and verbal nouns in the dative case and with _қарау_ in the negative form: no matter what; in any case, regardless; in spite of'.
 
 --GLOSS--
 Бейнең жеке менің түн-ием,
@@ -177,7 +194,7 @@ think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
 --ENDGLOSS--
 
 * _(І)п + кел-_:the perdurative aspect
-  The perdurative describes a persistent/continuous process or state with a conclusion, ex. "been {verb}-ing".<cite>Kakzhanova 2016, 18</cite>
+  The perdurative describes a persistent/continuous process or state with a conclusion, ex. "been {verb}-ing".<cite>FK, 18</cite>
 * Possessive noun + _бар_ is an "existential" sentence, ex. "There is X".<cite>RW 4</cite>
 
 --GLOSS--
@@ -211,8 +228,8 @@ solution-{3SG.POSS}-{ACC} find-{PRETEND}-{1SG} {m}
 --ENDGLOSS--
 
 * _тауып ал-_:to find
-  RW §1.15.5 has 'to catch', but Сөздік has 'to find'
-* _шешімін_ is the definite form of the noun. Definiteness<cite>RW §2.5.5</cite> can be marked with the 3sg possessive form and the accusative. The accusative has a non-standard form when following the possessive, _+н_.<cite>Language Canvas Lesson 2</cite> As a result, _шешімін_ is 'the solution', rather than 'a solution'.
+  RW §1.15.5 has 'to catch', but 30k has 'to find'
+* _шешімін_ is the definite form of the noun. Definiteness<cite>RW §2.5.5</cite> can be marked with the 3sg possessive form and the accusative. The accusative has a non-standard form when following the possessive, _+н_.<cite>LC Lesson 2</cite> As a result, _шешімін_ is 'the solution', rather than 'a solution'.
 
 --GLOSS--
 шақырамын биге, дайын бол!
@@ -277,7 +294,7 @@ night similar {3SG.NOM}: cold, beautiful, supernatural
 --ENDGLOSS--
 
 * _суп-суық_ and _сұп-сұлу_ are both examples of reduplication as an intensifier
-* Funnily enough, I could not find _тылсым_ in KP or Сөздік, but I did [find it on Wikipedia](https://kk.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BB%D1%81%D1%8B%D0%BC).
+* Funnily enough, I could not find _тылсым_ in KP or 30k, but I did [find it on Wikipedia](https://kk.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BB%D1%81%D1%8B%D0%BC).
 
 --GLOSS--
 Ми шимайланған сезімдермен-түрлі-түсті бояу, түсініксіздеу дəл сендей,
@@ -337,3 +354,6 @@ quickly {m} {m} 'to give a hand' {1SG.DAT}, quickly!
 {!} Hold out your hand, quickly!
 {!} Quickly give me a hand, quickly!
 --ENDGLOSS--
+
+* _қол ұшын бер_:to give a hand, literally 'to give a tip of the hand'
+  _қол ұшын бер_ takes the dative as the person/thing being given a hand to.<cite>AM 27</cite>
