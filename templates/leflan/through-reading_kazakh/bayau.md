@@ -258,28 +258,82 @@ all easy, imagination-{POSS.1SG}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}
 
 --GLOSS--
 Оның жүрегі нөлдей, сезім мүлде бөлінбейді,
+{2SG.GEN} heart-{POSS}-3 zero-{COMP}, feeling totally divide-{NEG}-{PRS}-{3SG}
+{!} Her heart is like zero, indivisible to feelings
+{!} Her heart is like zero, feeling(s) cannot completely divide (her)
 --ENDGLOSS--
+
+* _нөл_:zero
+  _ДАй_ is found with nouns when two things are like each other. Noun1 Noun2+ДАй implies Noun1 is like Noun2.<cite>RW 272, footnote 13</cite>
+* _бөліну_:to divide
+  Note that _сезім_ is in the nominative implying that the feelings are the singer's
+* None of this is gender marked, I'm using "her" here because that is what the provided translation gives and, for better or worse, heterosexual relationships are much more likely to be represented in these types of songs, especially in Kazakhstan.
 
 --GLOSS--
 Түн сияқты ол: суп-суық, сұп-сұлу, тылсым
+night similar {3SG.NOM}: cold, beautiful, supernatural
+{!} It's like a night: cold, beautiful, mysterious,
+{!} She's like night: very cold, very beautiful, supernatural
 --ENDGLOSS--
+
+* _суп-суық_ and _сұп-сұлу_ are both examples of reduplication as an intensifier
+* Funnily enough, I could not find _тылсым_ in KP or Сөздік, but I did [find it on Wikipedia](https://kk.wikipedia.org/wiki/%D0%A2%D1%8B%D0%BB%D1%81%D1%8B%D0%BC).
 
 --GLOSS--
 Ми шимайланған сезімдермен-түрлі-түсті бояу, түсініксіздеу дəл сендей,
+brain scribble-{PRF}-3 feeling-{PL}-{INST}-various-colored paint, confused-{DIMUN} exactly {2SG.NOM}-{COMP}
+{!} The brain in [sic] multicolored doodles of feelings, incomprehensible, like you
+{!} The brain scribbled with feelings, a multicolored paint, a little incomprehensible like you
 --ENDGLOSS--
+
+* _шимайлан_:to scribble
+  The ending _+ҒАн_ represents the perfective, meaning that "past events have a connotation of present meaning".<cite>RW 187</cite> In this case, indicating that the brain has scribbled and is continuing to do so.
+* For _сезімдермен-түрлі-түсті_ I am not sure what the 1st hypen is truly supposed to be doing, but I'm reading it as an m-dash (–) implying that _түрлі-түсті бояу_ should be read as being related to _сезімдер_. This is further reinforced by the fact that _бояу_ is in the nominative, if it were related to _шимайланған_ as _сезімдермен_ is, one would expect it to be marked as such.
+* That said, _түрлі-түсті_ is also in [KP](http://knowledgepartners.kz/dictionary/%D1%82%D2%AF%D1%80%D0%BB%D1%96/) under _түрлі_ as 'multicolored'.
+* _түсініксіз_:incomprehensible
+  _+ДАу_ is the diminuative marker, indicating that something is small
+* The suffix _ДАй_ as seen previously, indicates the comparative, the other noun being the multicolored feeling paint the brain scribbles with.
 
 --GLOSS--
 Сосын, екеуіміз секілді Ай мен Жердей,
+then, both-{1PL.POSS} like moon {CONJ} earth-{DIMUN}
+{!} We are like the moon and earth
+{!} Then, we two are like the moon and earth 
 --ENDGLOSS--
+
+* _екеуі_:both of; two of
+  With the 1st person plural possessive, it means 'we two', 'both of us'.
+* _мен_:and<cite>RW §1.13.9</cite>
+* _жер_:earth
+  _+ДАу_ is the diminuative marker, indicating that something is small
 
 --GLOSS--
 Тартылыс бар, бірақ бірдеңе жібермейді.
+gravitation existent, but something 'let go-{NEG}-{3SG}'
+{!} There is an attraction we can't get close
+{!} There is an attraction, but something will not let go
 --ENDGLOSS--
+
+* _тартылыс_:(fig.) attraction, literally gravitational attraction
+* _бірақ_:but<cite>RW §1.12.2</cite>
+* _жіберу_:to let go; to release
+  Taken to mean that something is not letting this attraction cause us to be together (e.g. as the moon and Earth revolve around another but don't crash into each other).
 
 --GLOSS--
 Дереу жақында, мені сезіну үшін
+quickly 'come close-{IMP},' {1SG.ACC} feel-{VN} for
+{!} Come closer to feel me,
+{!} Quickly come closer, so as to feel me
 --ENDGLOSS--
+
+* _жақындау_:to come close
+* _үшін_:so as, for
+  'Nonfinte purposive clauses are marked by the verbal noun in _+(Ұ)у_, plus the postposition _үшін_'.<cite>RW §1.11</cite>
+  Meaning some variation on 'so as to', 'so that', 'lest'. See also [final clause](https://en.wikipedia.org/wiki/Final_clause) on Wikipedia.
 
 --GLOSS--
 Тез қол ұшын бер маған, тез!
+quickly {m} {m} 'to give a hand' {1SG.DAT}, quickly!
+{!} Hold out your hand, quickly!
+{!} Quickly give me a hand, quickly!
 --ENDGLOSS--

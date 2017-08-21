@@ -7,7 +7,7 @@ from markdown.preprocessors import Preprocessor
 from markdown.util import etree
 import re
 
-GROUPER = r'("|\'((?!\s)|^)).+?("|(?=\').*?"|\'((?=\s)|$))|[^\s]+'
+GROUPER = r'(\'((?!\s)|^)).+?((?=\').*?"|\'((?=\s)|$))|[^\s]+'
 
 class LeipzigPreprocessor(Preprocessor):
   def run(self, lines):
@@ -126,9 +126,9 @@ class LeipzigProcessor(BlockProcessor):
     # escape brackets
     text = re.sub(r'<','&lt;',text)
     text = re.sub(r'>','&gt;',text)
-    # remove quotes around long strings
-    # 8/20 no longer needed with change in {!}
-    # text = re.sub(r'(^(\'|"))|((\'|")$)','',text)
+    # remove single quotes around strings
+    # which are used indicate grouped elements of a gloss
+    text = re.sub(r'(^\')|(\'$)','',text)
     # Set morpheme (for small caps!)
     text = re.sub(r'\{','<span class="leipzig-morpheme">',text)
     text = re.sub(r'\}','</span>',text)
