@@ -4,7 +4,7 @@ from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory
 from app import app
 from git import Repo
-from bracket_table import BracketTable
+from bracket_table.bracket_table import BracketTable
 # from doctor_leipzig import Leipzig
 import os
 import markdown
