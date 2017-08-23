@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
-                  url_for, flash, send_from_directory
+                  url_for, flash, send_from_directory, abort
 from app import app, db
 from datetime import date, timedelta
 import os
@@ -131,12 +131,17 @@ def download(doc):
 def page(title):
   page = 'parryc/%s.md' % title
   html = get_html(page)
+  if html == '<p>404</p>':
+    return abort(404)
   return render_template('parryc/post.html',html=html)
 
 def get_html(page):
   filepath = os.path.join(app.root_path, 'templates', page)
-  input_file = codecs.open(filepath, mode="r", encoding="utf-8")
-  text = input_file.read()
+  try:
+    input_file = codecs.open(filepath, mode="r", encoding="utf-8")
+    text = input_file.read()
+  except:
+    text = '404'
   return markdown.markdown(text)
 
 def _paas_timeseries_request(inline_data, interval_count):
