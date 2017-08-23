@@ -188,7 +188,7 @@ def get_html(page):
                      ,'markdown.extensions.abbr'
                      ,'markdown.extensions.footnotes'
                      ,BracketTable()
-                     ,'doctor_leipzig'])
+                     ,'doctor_leipzig.doctor_leipzig'])
 
 def _title(page):
   return page.replace('-',' ')
