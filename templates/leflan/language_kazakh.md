@@ -2,9 +2,14 @@
 
 ## Nouns
 ### Accusative
+### Dative
 ### Locative
 ### Optative
 ### Possessive
+
+## Pronouns
+
+* `сенің:2sg genitive pronoun`<cite>RM 242</cite>
 
 ## Verbs
 
@@ -24,3 +29,7 @@ a vowel | й
 ю | я
 consonant and last vowel is a front vowel | е
 consonant and last vowel is a back vowel | а
+
+### Verbal Negative
+
+### Converbs

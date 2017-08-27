@@ -1,15 +1,15 @@
 h1,h2,h3,h4,h5,h6,body {
-  font-family: "Source Code Pro","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Code Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 body {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.4;
   counter-reset: leipzig;
 }
 
 a {
-  color: rgb(255,110,110);;
+  color: rgb(255,110,110);
 }
 
 a:hover {
@@ -22,13 +22,13 @@ abbr {
 }
 
 article {
-  width: 75%;
-  max-width: calc(75% - 1rem);
+  width: 80%;
+  max-width: calc(80% - 1rem);
 }
 
 aside {
-  width: 25%;
-  max-width: calc(25% - 1rem);
+  width: 20%;
+  max-width: calc(20% - 1rem);
   padding-top: 25px;
 }
 
@@ -39,6 +39,17 @@ blockquote {
 cite {
   vertical-align: super;
   font-size: .6em;
+}
+
+code {
+  color: #444;
+  background: #efefef;
+  font-family: "Source Code Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: inherit !important;
+  border-radius: 0.35rem;
+  padding: 0.15rem;
 }
 
 dt:before, note:before {
@@ -166,6 +177,24 @@ Leipzig
 
 .leipzig-translation {
   font-style: italic;
+}
+
+/* Make sure scroll bar appears on mobile */
+.leipzig-table::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+.leipzig-table::-webkit-scrollbar-track {
+    background: #000;
+    border: 8px solid transparent;
+    background-clip: content-box;
+}
+
+.leipzig-table::-webkit-scrollbar-thumb {
+    background: rgba(255,110,110,.5);
+    border-top: 7px solid #fff;
+    border-bottom: 7px solid #fff;
 }
 
 /*************
