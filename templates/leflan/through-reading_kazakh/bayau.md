@@ -400,7 +400,7 @@ quickly 'come close-{IMP},' {1SG.ACC} feel-{VN} for
 
 * `жақындау:to come close`
 * `үшін:so as, for`
-  'Nonfinte purposive clauses are marked by the verbal noun in `+(Ұ)у`, plus the postposition `үшін`', meaning some variation on 'so as to', 'so that', 'lest'.<cite>RW §1.11</cite> See also [final clause](https://en.wikipedia.org/wiki/Final`clause) on Wikipedia.
+  'Nonfinte purposive clauses are marked by the verbal noun in `+(Ұ)у`, plus the postposition `үшін`', meaning some variation on 'so as to', 'so that', 'lest'.<cite>RW §1.11</cite> See also [final clause](https://en.wikipedia.org/wiki/Final_clause) on Wikipedia.
 
 ----
 

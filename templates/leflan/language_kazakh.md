@@ -166,7 +166,7 @@ root|negative|matching|agreement
 ||vowel|marker
 {/}
 
-### Converbs
+### Converb
 
 Converbs are markers at the end of the main verb of the clause that indicate items such as aspect and mood will be modified by auxilaries. Converbs and their auxiliaries are prevalent throughout Kazakh - this section will continue to grow as I encounter more. 
 
