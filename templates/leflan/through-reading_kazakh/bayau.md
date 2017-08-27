@@ -34,7 +34,7 @@ These resources were invaluable in helping figure out and confirm the sometimes 
 
 ## Grammar Points
 
-In order to keep the size of this page reasonable, I have moved most of the information on declensions to [another page](/r/learns/kazakh). Commonly seen declensions and conjugations are listed below, singular usage will be inline under the appropriate gloss. Within the notes for each gloss, some of the Kazakh may be written variously in capitals, like `ГАн`. This indicates that `Г` and `А` will change based on the consonants and vowels the word they are attached to (this is called consonant assimilation and vowel harmony, respectively). 
+In order to keep the size of this page reasonable, I have moved most of the information on declensions to [another work-in-progress page](/r/learns/kazakh). Commonly seen declensions and conjugations are listed below, singular usage will be inline under the appropriate gloss. Within the notes for each gloss, some of the Kazakh may be written variously in capitals, like `ГАн`. This indicates that `Г` and `А` will change based on the consonants and vowels the word they are attached to (this is called consonant assimilation and vowel harmony, respectively). 
 
 [accusative](/r/learns/kazakh#accusative) (<abbr>ACC</abbr>)
 : object of a verb
@@ -45,7 +45,7 @@ In order to keep the size of this page reasonable, I have moved most of the info
 [dative](/r/learns/kazakh#dative) (<abbr>DAT</abbr>)
 : the indirect object of the verb, e.g. to whom/what
 
-[genetive](/r/learns/kazakh#genetive) (<abbr>GEN</abbr>)
+[genitive](/r/learns/kazakh#genitive) (<abbr>GEN</abbr>)
 : possessor of something marked with the posessive
 
 [imperative](/r/learns/kazakh#imperative)<cite>RM §1.3.5, 26</cite> (<abbr>IMP</abbr>)

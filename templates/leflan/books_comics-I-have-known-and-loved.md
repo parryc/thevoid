@@ -8,7 +8,6 @@
 * _Black Science_
 * _Low_
 * _The Wicked and The Divine_
-* _Shutter_
 * _Poe Dameron_
 * _Grave Lilies_
 * _Lady Mechanika_
@@ -34,6 +33,7 @@
 * _Toil & Trouble_
 * _Pariah_
 * _Brass Sun_
+* _Shutter_
 
 # Abandoned
 * _Roche Limit_
