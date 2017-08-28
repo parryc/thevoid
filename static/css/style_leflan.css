@@ -180,7 +180,8 @@ Leipzig
 }
 
 /* Make sure scroll bar appears on mobile */
-.leipzig-table::-webkit-scrollbar {
+/* Doesn't work on Android Chrome - just shows a black and white bar, alas */
+/*.leipzig-table::-webkit-scrollbar {
   -webkit-appearance: none;
   width: 7px;
 }
@@ -195,7 +196,7 @@ Leipzig
     background: rgba(255,110,110,.5);
     border-top: 7px solid #fff;
     border-bottom: 7px solid #fff;
-}
+}*/
 
 /*************
 Typesetting for Lithuanian pitch accents
@@ -326,6 +327,10 @@ Dictionary entries
   .headword-info:hover>.declensions table {
     display: block;
     max-width: calc(100% - 1rem) !important;
+  }
+
+  .bracket_table table {
+    overflow-x: visible;
   }
 }
 
