@@ -4,6 +4,10 @@ from flask import Flask, render_template, request, send_from_directory
 from flask.ext.assets import Environment, Bundle
 from flask_sqlalchemy import SQLAlchemy
 import os
+import codecs
+import re
+from whoosh.index import create_in
+from whoosh.fields import *
 
 app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
@@ -42,6 +46,44 @@ bundles = {
   }
 assets.register(bundles)  
 
+######################
+# SETUP WHOOSH INDEX #
+######################
+
+# content is not stored in the index, thought it is indexed, because
+# we have the raw files
+schema = Schema(title=TEXT(stored=True),
+                path=ID(stored=True),
+                summary=TEXT(stored=True),
+                etym=TEXT(stored=True),
+                tag=TEXT(stored=True),
+                content=TEXT)
+ix = create_in('indexdir', schema)
+writer = ix.writer()
+for filename in sorted(os.listdir('templates/words'))[1:10]:
+  filename = filename.decode('UTF-8')
+  path = u'templates/words/{}'.format(filename)
+  with codecs.open(path,'r','utf-8') as in_file:
+    content = in_file.read()
+    etym = re.search(ur'(\[.*?\])',content)
+    if etym:
+      etym = etym.group(0)[1:-1]
+    else:
+      etym = u""
+
+    tag = re.search(ur'(\(.*?\))',content)
+    if tag:
+      tag = tag.group(0)[1:-1]
+    else:
+      tag = u""
+
+    writer.add_document(title=filename[:-4],
+                        path=path,
+                        summary=' '.join(content.split(' ')[0:20]) + '...',
+                        etym=etym,
+                        tag=tag,
+                        content=content)
+writer.commit()
 
 # Import a module / component using its blueprint handler variable
 from mod_parryc.controllers import mod_parryc

@@ -2,7 +2,7 @@
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory, abort
-from app import app, db
+from app import app, db, ix
 from datetime import date, timedelta
 import os
 import markdown
@@ -12,6 +12,7 @@ import json
 import re
 from mod_parryc.models import *
 from sqlalchemy import and_
+from whoosh.qparser import QueryParser
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
 # import urllib3.contrib.pyopenssl
 # urllib3.contrib.pyopenssl.inject_into_urllib3()
@@ -135,13 +136,49 @@ def page(title):
     return abort(404)
   return render_template('parryc/post.html',html=html)
 
-def get_html(page):
+# ---------
+#  KZ Dict
+# ---------
+
+@mod_parryc.route('/kz/<lemma>', methods=['GET'], host=host)
+def dict_lemma(lemma):
+  page = 'words/%s.txt' % lemma
+  html = get_html(page, dictionary_entry=True)
+  if html == '<p>404</p>':
+    return abort(404)
+  return render_template('parryc/post.html',html=html)
+
+@mod_parryc.route('/kz/search/<search>', methods=['GET'], host=host)
+def dict_search(search):
+  hits = []
+  with ix.searcher() as searcher:
+    # Default to prefix search
+    query = QueryParser('content', ix.schema).parse(search)
+    results = searcher.search(query)
+    for result in results:
+      summary = markdown.markdown(_clean_dictionary(result['title'] + '.txt', result['summary']))
+      link = u'<a href="/kz/{0}">{0}</a>'.format(result['title'])
+      summary = re.sub(ur'<code>.*?</code>',link,summary)
+      hits.append({
+        'title':result['title']
+       ,'summary':summary
+        })
+
+  return render_template('parryc/dictionary_search.html',hits=hits)
+
+# ---------
+#  End KZ Dict
+# ---------
+
+def get_html(page, dictionary_entry=False):
   filepath = os.path.join(app.root_path, 'templates', page)
   try:
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     text = input_file.read()
   except:
     text = '404'
+  if dictionary_entry:
+    text = _clean_dictionary(page.split('/')[1], text)
   return markdown.markdown(text)
 
 def _paas_timeseries_request(inline_data, interval_count):
@@ -201,3 +238,38 @@ def _paas_projects_to_hours(projects):
   compressed = re.sub(r'(0,){3,}','0,', joined)
   # remove empty strings
   return re.sub(',+',',',compressed)
+
+def _clean_dictionary(filename, entry):
+  KZ = ur'([а-өА-Ө~«][а-өА-Ө ~–?\.!,«»]+[а-өА-Ө~?\.!,»])'
+
+  # Make sure there is always a space in front of parentheticals
+  entry = re.sub(r'\(',' (',entry)
+  # The regex above doesn't support single word lemmas
+  filename_length = len(re.sub(r'[-1-9]','',filename[:-4]))
+  # Bold Kazakh words/phrases
+  entry = re.sub(KZ,r'**\1**',entry)
+  # Code mark lemma
+  if filename_length == 1:
+    entry = re.sub(r'(.)',r'**`\1`**',entry,1) 
+  else:
+    entry = re.sub(KZ,r'`\1`',entry,1)
+  # Make additional senses more distinct
+  entry = re.sub(r'(\d+)',r'\n\1',entry)
+  # Add another entry in front of the numbers so that Markdown recognizes it 
+  entry = re.sub(r'(\d+)',r'\n\1',entry,1)
+  # Italicize parenthenticals
+  entry = re.sub(r'([\(\[].+?[\)\]])',r'_\1_',entry)
+  # Differentiate sense from examples
+  ## Multiple senses
+  if '1.' in entry:
+    entry = re.sub(r'(\n.*?)(\*\*[а-ө~])',r'\1\n\2',entry)
+  else:
+    entry = re.sub(r'(^.*?)(\*\*[а-ө~])',r'\1\n\2',entry)
+
+  # replace “”
+  entry = re.sub(r'“|”','"',entry)
+  # remove entry ending ;
+  entry = re.sub(r'; ?\n','\n',entry)
+  # Remove extra spaces
+  entry = re.sub(r' +',' ',entry)
+  return entry

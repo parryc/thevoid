@@ -2,6 +2,8 @@ search.db/
 gen/
 config.py
 files/
+templates/words
+indexdir/
 
 # Webassets cache
 .webassets-cache/

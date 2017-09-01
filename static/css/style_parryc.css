@@ -19,6 +19,17 @@ aside {
   padding-top: 25px;
 }
 
+code {
+  color: #444;
+  background: #efefef;
+  font-family: "Source Code Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: inherit !important;
+  border-radius: 0.35rem;
+  padding: 0.15rem;
+}
+
 h1 {
   padding-top: 20px;
   padding-bottom: 10px;
