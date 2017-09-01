@@ -6,6 +6,7 @@ from flask_sqlalchemy import SQLAlchemy
 import os
 import codecs
 import re
+import unicodedata
 from whoosh.index import create_in
 from whoosh.fields import *
 
@@ -60,20 +61,31 @@ schema = Schema(title=TEXT(stored=True),
                 content=TEXT)
 ix = create_in('indexdir', schema)
 writer = ix.writer()
-for filename in sorted(os.listdir('templates/words'))[1:10]:
-  filename = filename.decode('UTF-8')
+tags = set()
+etyms = set()
+for filename in sorted(os.listdir(u'templates/words'))[:1000]:
+  if filename == '.DS_Store':
+    continue
+  # OSX stored decomposed filenames
+  filename = unicodedata.normalize('NFC', filename)
   path = u'templates/words/{}'.format(filename)
   with codecs.open(path,'r','utf-8') as in_file:
     content = in_file.read()
     etym = re.search(ur'(\[.*?\])',content)
     if etym:
       etym = etym.group(0)[1:-1]
+      etyms.add(etym)
     else:
       etym = u""
 
-    tag = re.search(ur'(\(.*?\))',content)
+    # match (word.) to try to get "tags" for definitions
+    # is it worth trying to tag the first а that has (...; colloq.)?
+    # also try to get other inline tags like албасты (myth.) (fig.)
+    tag = re.search(ur'(\([^ ]*?\.\))',content)
     if tag:
-      tag = tag.group(0)[1:-1]
+      # remove ending period
+      tag = tag.group(0)[1:-2]
+      tags.add(tag)
     else:
       tag = u""
 
@@ -84,6 +96,10 @@ for filename in sorted(os.listdir('templates/words'))[1:10]:
                         tag=tag,
                         content=content)
 writer.commit()
+print('000 etyms')
+print(etyms)
+print('111 tags')
+print(tags)
 
 # Import a module / component using its blueprint handler variable
 from mod_parryc.controllers import mod_parryc

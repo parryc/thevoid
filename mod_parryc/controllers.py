@@ -10,6 +10,7 @@ import codecs
 import requests
 import json
 import re
+import unicodedata
 from mod_parryc.models import *
 from sqlalchemy import and_
 from whoosh.qparser import QueryParser
@@ -140,6 +141,13 @@ def page(title):
 #  KZ Dict
 # ---------
 
+@mod_parryc.route('/kz/search', methods=['GET', 'POST'], host=host)
+def dict_search_index():
+  if request.method == 'POST':
+    print(request.form['search'])
+    return redirect(url_for('.dict_search', search=request.form['search']))
+  return render_template('parryc/dictionary_search.html')
+
 @mod_parryc.route('/kz/<lemma>', methods=['GET'], host=host)
 def dict_lemma(lemma):
   page = 'words/%s.txt' % lemma
@@ -156,15 +164,16 @@ def dict_search(search):
     query = QueryParser('content', ix.schema).parse(search)
     results = searcher.search(query)
     for result in results:
+      title = re.sub(ur'-\d','',result['title'])
       summary = markdown.markdown(_clean_dictionary(result['title'] + '.txt', result['summary']))
-      link = u'<a href="/kz/{0}">{0}</a>'.format(result['title'])
+      link = u'<a href="/kz/{0}">{0}</a>'.format(title)
       summary = re.sub(ur'<code>.*?</code>',link,summary)
       hits.append({
-        'title':result['title']
+        'title':title
        ,'summary':summary
         })
 
-  return render_template('parryc/dictionary_search.html',hits=hits)
+  return render_template('parryc/dictionary_results.html',hits=hits)
 
 # ---------
 #  End KZ Dict
@@ -240,19 +249,27 @@ def _paas_projects_to_hours(projects):
   return re.sub(',+',',',compressed)
 
 def _clean_dictionary(filename, entry):
-  KZ = ur'([а-өА-Ө~«][а-өА-Ө ~–?\.!,«»]+[а-өА-Ө~?\.!,»])'
+  KZ = ur'([а-өА-Ө~«-][а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»])'
+  # ай-ай-күні
+  # doesn't seem to want to catch things with a lot of dashes
 
+  # Make sure that it's composed correctly
+  filename = unicodedata.normalize('NFC', filename)
   # Make sure there is always a space in front of parentheticals
   entry = re.sub(r'\(',' (',entry)
   # The regex above doesn't support single word lemmas
-  filename_length = len(re.sub(r'[-1-9]','',filename[:-4]))
+  filename_length = len(re.sub(r'-\d','',filename[:-4]))
+  print(re.sub(r'-\d','',filename[:-4]))
+  print(filename_length)
   # Bold Kazakh words/phrases
   entry = re.sub(KZ,r'**\1**',entry)
   # Code mark lemma
-  if filename_length == 1:
-    entry = re.sub(r'(.)',r'**`\1`**',entry,1) 
+  if filename_length <= 2:
+    len_re = re.compile(u'(.{'+unicode(filename_length)+u'})')
+    entry = re.sub(len_re,r'**`\1`**',entry,1) 
   else:
     entry = re.sub(KZ,r'`\1`',entry,1)
+  print(entry)
   # Make additional senses more distinct
   entry = re.sub(r'(\d+)',r'\n\1',entry)
   # Add another entry in front of the numbers so that Markdown recognizes it 

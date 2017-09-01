@@ -9,14 +9,60 @@
 {% block header %}
 parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
 {% endblock %}
-{% block content  %}
-  <h1>Search Results</h1>
-  {% if hits %}
-    {% for hit in hits %}
-      {{hit.summary|trim|safe}}
-      <hr/>
-    {% endfor %}
-  {% else %}
-    No results
-  {% endif %}
+{% block content %}
+  <h1>Search</h1>
+  <form action="/kz/search" method="post">
+    <input type="text" placeholder="search" name="search"/>
+    <input type="submit">Go!</input>
+  </form>
+
+  <br/>
+  <em>Etymologies</em>
+  <ul>
+    <li>arabic</li> 
+    <li>arabic-farsi</li> 
+    <li>farsi</li>
+  </ul>
+
+  <em>Tags</em>
+  <ul>
+    <li>med</li>
+    <li>bot</li>
+    <li>hist</li>
+    <li>neol</li>
+    <li>pol</li>
+    <li>psych</li>
+    <li>folk</li>
+    <li>agric</li>
+    <li>colloq</li>
+    <li>dial</li>
+    <li>mus</li>
+    <li>min</li>
+    <li>lit</li>
+    <li>fig</li>
+    <li>rel</li>
+    <li>poet</li>
+    <li>math</li>
+    <li>geol</li>
+    <li>ethn</li>
+    <li>phys</li>
+    <li>pej</li>
+    <li>myth</li>
+    <li>leg</li>
+    <li>sth</li>
+    <li>econ</li>
+    <li>socio-pol</li>
+    <li>astron</li>
+    <li>ling</li>
+    <li>arch</li>
+    <li>anat</li>
+    <li>expr</li>
+    <li>phil</li>
+    <li>zool</li>
+    <li>collect</li>
+    <li>tech</li>
+    <li>geog</li>
+    <li>iron</li>
+    <li>obs</li>
+  </ul>
 {% endblock %}
