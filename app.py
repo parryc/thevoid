@@ -9,6 +9,7 @@ import re
 import unicodedata
 from whoosh.index import create_in
 from whoosh.fields import *
+from whoosh.analysis import StandardAnalyzer
 
 app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
@@ -53,7 +54,7 @@ assets.register(bundles)
 
 # content is not stored in the index, thought it is indexed, because
 # we have the raw files
-schema = Schema(title=TEXT(stored=True),
+schema = Schema(title=TEXT(stored=True, analyzer=StandardAnalyzer(minsize=1)),
                 path=ID(stored=True),
                 summary=TEXT(stored=True),
                 etym=TEXT(stored=True),
@@ -63,7 +64,7 @@ ix = create_in('indexdir', schema)
 writer = ix.writer()
 tags = set()
 etyms = set()
-for filename in sorted(os.listdir(u'templates/words'))[:1000]:
+for filename in sorted(os.listdir(u'templates/words')):
   if filename == '.DS_Store':
     continue
   # OSX stored decomposed filenames

@@ -161,7 +161,7 @@ def dict_search(search):
   hits = []
   with ix.searcher() as searcher:
     # Default to prefix search
-    query = QueryParser('content', ix.schema).parse(search)
+    query = QueryParser('title', ix.schema).parse(search)
     results = searcher.search(query)
     for result in results:
       title = re.sub(ur'-\d','',result['title'])
@@ -259,8 +259,6 @@ def _clean_dictionary(filename, entry):
   entry = re.sub(r'\(',' (',entry)
   # The regex above doesn't support single word lemmas
   filename_length = len(re.sub(r'-\d','',filename[:-4]))
-  print(re.sub(r'-\d','',filename[:-4]))
-  print(filename_length)
   # Bold Kazakh words/phrases
   entry = re.sub(KZ,r'**\1**',entry)
   # Code mark lemma
@@ -269,7 +267,6 @@ def _clean_dictionary(filename, entry):
     entry = re.sub(len_re,r'**`\1`**',entry,1) 
   else:
     entry = re.sub(KZ,r'`\1`',entry,1)
-  print(entry)
   # Make additional senses more distinct
   entry = re.sub(r'(\d+)',r'\n\1',entry)
   # Add another entry in front of the numbers so that Markdown recognizes it 

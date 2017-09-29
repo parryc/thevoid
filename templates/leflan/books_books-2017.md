@@ -15,3 +15,6 @@
 * _Warrior Nation: A History of the Red Lake Ojibwe_ - Anton Treuer
 * _Salt, Fat, Acid, Heat_ - Samin Nosrat
 * _So, How Long Have You Been Native?_ - Alexis Bunten
+* _A Day Lasts More Than 100 Years_ - Chingiz Aitmatov
+* _American Indian Languages: Culture and Social Contexts_ - Shirley Silver and Wick R. Miller
+* _Legends of Localization – Book 1: The Legend of Zelda_ - Clyde Mandelin

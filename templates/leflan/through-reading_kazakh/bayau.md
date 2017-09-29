@@ -364,12 +364,12 @@ brain scribble-{PRF}-3 feeling-{PL}-{INST}-various-colored paint, confused-{DIMU
 
 --GLOSS--
 Сосын, екеуіміз секілді Ай мен Жердей,
-then, both-{1PL.POSS} like moon {CONJ} earth-{DIMUN}
+then, two-{COLL}-{1PL.POSS} like moon {CONJ} earth-{DIMUN}
 {!} We are like the moon and earth
 {!} Then, we two are like the moon and earth 
 --ENDGLOSS--
 
-* `екеуі:both of; two of`
+* `екі:two` + the collective suffix `+(А)у`<cite>RW 239</cite>
   With the 1st person plural possessive, it means 'we two', 'both of us'.
 * `мен:and`<cite>RW §1.13.9</cite>
 * `жер:earth`
