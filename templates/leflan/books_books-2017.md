@@ -18,3 +18,6 @@
 * _A Day Lasts More Than 100 Years_ - Chingiz Aitmatov
 * _American Indian Languages: Culture and Social Contexts_ - Shirley Silver and Wick R. Miller
 * _Legends of Localization – Book 1: The Legend of Zelda_ - Clyde Mandelin
+* _The Watchmaker of Filigree Street_ - Natasha Pulley
+* _The Bedlam Stacks_ - Natasha Pulley
+* _The Empty Grave_ - Jonathan Stroud
