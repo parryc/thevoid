@@ -2,7 +2,7 @@
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory, abort
-from app import app, db, ix
+from app import app, db#, ix
 from datetime import date, timedelta
 import os
 import markdown
@@ -13,7 +13,7 @@ import re
 import unicodedata
 from mod_parryc.models import *
 from sqlalchemy import and_
-from whoosh.qparser import QueryParser
+# from whoosh.qparser import QueryParser
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
 # import urllib3.contrib.pyopenssl
 # urllib3.contrib.pyopenssl.inject_into_urllib3()
@@ -164,10 +164,10 @@ def dict_search(search):
     query = QueryParser('title', ix.schema).parse(search)
     results = searcher.search(query)
     for result in results:
-      title = re.sub(ur'-\d','',result['title'])
+      title = re.sub(r'-\d','',result['title'])
       summary = markdown.markdown(_clean_dictionary(result['title'] + '.txt', result['summary']))
-      link = u'<a href="/kz/{0}">{0}</a>'.format(title)
-      summary = re.sub(ur'<code>.*?</code>',link,summary)
+      link = '<a href="/kz/{0}">{0}</a>'.format(title)
+      summary = re.sub(r'<code>.*?</code>',link,summary)
       hits.append({
         'title':title
        ,'summary':summary
@@ -249,7 +249,7 @@ def _paas_projects_to_hours(projects):
   return re.sub(',+',',',compressed)
 
 def _clean_dictionary(filename, entry):
-  KZ = ur'([а-өА-Ө~«-][а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»])'
+  KZ = r'([а-өА-Ө~«-][а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»])'
   # ай-ай-күні
   # doesn't seem to want to catch things with a lot of dashes
 

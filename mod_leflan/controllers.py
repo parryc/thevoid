@@ -131,12 +131,12 @@ def dictionary(language):
       for tag in tags:
         if len(tag) > 0:
           tag_list.add(tag)
-    except IndexError, e:
+    except IndexError:
       tags = []
 
     try:
       extra = data[3].strip()
-    except IndexError, e:
+    except IndexError:
       extra = ''
 
 
@@ -149,7 +149,7 @@ def dictionary(language):
         ,'example':_parts[1]
         ,'english':_parts[2]
         })
-      except IndexError, e:
+      except IndexError:
         senses.append({
          'meaning':_parts[0]
         ,'example':''
@@ -204,7 +204,7 @@ def _add_filelist(category, html, show_tags=False):
                   key=lambda _file:\
                       repo.git.log('-n 1','--format=%ci','--',os.path.join(folder,_file)),\
                   reverse=True):
-    _parts = unicode(filename,'utf-8').split('_')
+    _parts = filename.split('_')
     # only list files which have been tagged
     if len(_parts) == 2 and _parts[0] != '.DS':
       tag       = _parts[0]

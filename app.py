@@ -1,15 +1,15 @@
 #!/usr/bin/env python
 # coding: utf-8
 from flask import Flask, render_template, request, send_from_directory
-from flask.ext.assets import Environment, Bundle
+from flask_assets import Environment, Bundle
 from flask_sqlalchemy import SQLAlchemy
 import os
 import codecs
 import re
 import unicodedata
-from whoosh.index import create_in
-from whoosh.fields import *
-from whoosh.analysis import StandardAnalyzer
+# from whoosh.index import create_in
+# from whoosh.fields import *
+# from whoosh.analysis import StandardAnalyzer
 
 app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
@@ -54,53 +54,53 @@ assets.register(bundles)
 
 # content is not stored in the index, thought it is indexed, because
 # we have the raw files
-schema = Schema(title=TEXT(stored=True, analyzer=StandardAnalyzer(minsize=1)),
-                path=ID(stored=True),
-                summary=TEXT(stored=True),
-                etym=TEXT(stored=True),
-                tag=TEXT(stored=True),
-                content=TEXT)
-ix = create_in('indexdir', schema)
-writer = ix.writer()
-tags = set()
-etyms = set()
-for filename in sorted(os.listdir(u'templates/words')):
-  if filename == '.DS_Store':
-    continue
-  # OSX stored decomposed filenames
-  filename = unicodedata.normalize('NFC', filename)
-  path = u'templates/words/{}'.format(filename)
-  with codecs.open(path,'r','utf-8') as in_file:
-    content = in_file.read()
-    etym = re.search(ur'(\[.*?\])',content)
-    if etym:
-      etym = etym.group(0)[1:-1]
-      etyms.add(etym)
-    else:
-      etym = u""
+# schema = Schema(title=TEXT(stored=True, analyzer=StandardAnalyzer(minsize=1)),
+#                 path=ID(stored=True),
+#                 summary=TEXT(stored=True),
+#                 etym=TEXT(stored=True),
+#                 tag=TEXT(stored=True),
+#                 content=TEXT)
+# ix = create_in('indexdir', schema)
+# writer = ix.writer()
+# tags = set()
+# etyms = set()
+# for filename in sorted(os.listdir(u'templates/words')):
+#   if filename == '.DS_Store':
+#     continue
+#   # OSX stored decomposed filenames
+#   filename = unicodedata.normalize('NFC', filename)
+#   path = u'templates/words/{}'.format(filename)
+#   with codecs.open(path,'r','utf-8') as in_file:
+#     content = in_file.read()
+#     etym = re.search(ur'(\[.*?\])',content)
+#     if etym:
+#       etym = etym.group(0)[1:-1]
+#       etyms.add(etym)
+#     else:
+#       etym = u""
 
-    # match (word.) to try to get "tags" for definitions
-    # is it worth trying to tag the first а that has (...; colloq.)?
-    # also try to get other inline tags like албасты (myth.) (fig.)
-    tag = re.search(ur'(\([^ ]*?\.\))',content)
-    if tag:
-      # remove ending period
-      tag = tag.group(0)[1:-2]
-      tags.add(tag)
-    else:
-      tag = u""
+#     # match (word.) to try to get "tags" for definitions
+#     # is it worth trying to tag the first а that has (...; colloq.)?
+#     # also try to get other inline tags like албасты (myth.) (fig.)
+#     tag = re.search(ur'(\([^ ]*?\.\))',content)
+#     if tag:
+#       # remove ending period
+#       tag = tag.group(0)[1:-2]
+#       tags.add(tag)
+#     else:
+#       tag = u""
 
-    writer.add_document(title=filename[:-4],
-                        path=path,
-                        summary=' '.join(content.split(' ')[0:20]) + '...',
-                        etym=etym,
-                        tag=tag,
-                        content=content)
-writer.commit()
-print('000 etyms')
-print(etyms)
-print('111 tags')
-print(tags)
+#     writer.add_document(title=filename[:-4],
+#                         path=path,
+#                         summary=' '.join(content.split(' ')[0:20]) + '...',
+#                         etym=etym,
+#                         tag=tag,
+#                         content=content)
+# writer.commit()
+# print('000 etyms')
+# print(etyms)
+# print('111 tags')
+# print(tags)
 
 # Import a module / component using its blueprint handler variable
 from mod_parryc.controllers import mod_parryc
