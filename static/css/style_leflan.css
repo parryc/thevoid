@@ -338,4 +338,8 @@ Dictionary entries
   table {
     white-space: normal;
   }
+
+  main {
+    max-width: 100% !important;
+  }
 }
