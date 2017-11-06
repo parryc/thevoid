@@ -5,7 +5,6 @@ click==6.7
 doctor-leipzig==1.1
 Flask==0.12.2
 Flask-Assets==0.12
-Flask-SQLAlchemy==2.3.2
 gitdb2==2.0.3
 GitPython==2.1.7
 idna==2.6
@@ -15,7 +14,6 @@ Markdown==2.6.9
 MarkupSafe==1.0
 requests==2.18.4
 smmap2==2.0.3
-SQLAlchemy==1.1.14
 urllib3==1.22
 webassets==0.12.1
 Werkzeug==0.12.2

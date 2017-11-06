@@ -21,3 +21,4 @@
 * _The Watchmaker of Filigree Street_ - Natasha Pulley
 * _The Bedlam Stacks_ - Natasha Pulley
 * _The Empty Grave_ - Jonathan Stroud
+* _The Fifth Season_ - N.K. Jemison

@@ -2,7 +2,6 @@
 # coding: utf-8
 from flask import Flask, render_template, request, send_from_directory
 from flask_assets import Environment, Bundle
-from flask_sqlalchemy import SQLAlchemy
 import os
 import codecs
 import re
@@ -15,7 +14,6 @@ app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
 app.url_map.host_matching = True
 assets = Environment(app)
-db = SQLAlchemy(app)
 
 def circle_num_from_jinja_loop(num):
   return u'①②③④⑤⑥⑦⑧⑨⑩'[num-1]

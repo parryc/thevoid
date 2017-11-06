@@ -12,11 +12,7 @@
 * _Grave Lilies_
 * _Lady Mechanika_
 * _Sun Bakery_
-* _Godshaper_
 * _The Old Ones_
-
-# In statis
-* _Rocket Girl_
 * _Nonplayer_
 
 # Finished
@@ -34,6 +30,8 @@
 * _Pariah_
 * _Brass Sun_
 * _Shutter_
+* _Godshaper_
+* _Rocket Girl_
 
 # Abandoned
 * _Roche Limit_

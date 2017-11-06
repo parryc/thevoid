@@ -2,7 +2,7 @@
 # coding: utf-8
 from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory, abort
-from app import app, db#, ix
+from app import app #, ix
 from datetime import date, timedelta
 import os
 import markdown
@@ -11,8 +11,6 @@ import requests
 import json
 import re
 import unicodedata
-from mod_parryc.models import *
-from sqlalchemy import and_
 # from whoosh.qparser import QueryParser
 # https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
 # import urllib3.contrib.pyopenssl
@@ -50,74 +48,6 @@ def image_with_folder(folder, image):
 @mod_parryc.route('/images/<image>', host=host)
 def image(image):
   return send_from_directory(os.path.join(app.root_path, 'static/images'), image)
-
-# ------
-# PaaS
-# /-----
-
-@mod_parryc.route('/paas', methods=['GET'], host=host)
-def paas_index():
-  return render_template('parryc/paas.html')
-
-@mod_parryc.route('/paas/send-to-timeseries', methods=['GET','POST'], host=host)
-def paas_to_timeseries():
-  _ts_response = {}
-  inline_data  = None
-  project_size = 0
-  if request.method == 'POST':
-    # 0 = small
-    # 1 = medium
-    # 2 = large
-    #
-    request_id = request.json['request_id']
-    interval_count = request.json['timeseries_interval_count']
-    if 'request_project_size' in request.json:
-      project_size = request.json['request_project_size']
-    if 'request_inline_data' in request.json:
-      inline_data = request.json['request_inline_data']
-
-    updating_request = get_vps_request(request_id)
-    if not updating_request:
-      save_result = add_vps_request(request_id, project_size, False, [], interval_count)
-    else:
-      # pass through next condition
-      save_result = {'status':True}
-
-    if save_result['status']:
-      # If request_inline_data is not set
-      if inline_data is None:
-        inline_data = _paas_projects_to_hours(_paas_get_projects_by_size(project_size))
-      _ts_response = _paas_timeseries_request(inline_data, interval_count)
-      update_result = edit_vps_request(request_id, _ts_response, interval_count)
-  return jsonify(_ts_response)
-
-@mod_parryc.route('/paas/retrieve/<request_id>', methods=['GET'], host=host)
-def paas_lookup(request_id):
-  timeseries_data = get_vps_request(request_id).timeseries_response.split(',')
-  rounded = [round(float(td)/0.25) * 0.25 for td in timeseries_data]
-  # zero-out weekdays
-  output_data    = []
-  weekly_output  = []
-  _hours_to_move = 0
-  # next Sunday
-  current_date = date(2017,6,25)
-  days = ["sunday","monday","tuesday","wednesday","thursday","friday","saturday"]
-  for idx, el in enumerate(rounded):
-    if idx % 7 == 0 and idx != 0:
-      output_data.append({'row':weekly_output})
-      weekly_output = []
-    if idx in [0, 6, 7, 13, 14, 20, 21, 27, 28]:
-      weekly_output.append({'value':0, 'day':days[idx % 7], 'date':current_date.isoformat()})
-    else:
-      weekly_output.append({'value':abs(el), 'day':days[idx % 7], 'date':current_date.isoformat()})
-
-    current_date = current_date + timedelta(days=1)
-  output_data.append({'row':weekly_output})
-  return jsonify({'timeseries_data':output_data})
-
-# ----------
-# END PAAS
-# /---------
 
 @mod_parryc.route('/', methods=['GET'], host=host)
 def index():
