@@ -74,7 +74,6 @@ def page(title):
 @mod_parryc.route('/kz/search', methods=['GET', 'POST'], host=host)
 def dict_search_index():
   if request.method == 'POST':
-    print(request.form['search'])
     return redirect(url_for('.dict_search', search=request.form['search']))
   return render_template('parryc/dictionary_search.html')
 
