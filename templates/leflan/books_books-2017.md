@@ -22,3 +22,5 @@
 * _The Bedlam Stacks_ - Natasha Pulley
 * _The Empty Grave_ - Jonathan Stroud
 * _The Fifth Season_ - N.K. Jemison
+* _Ronia, the Robber's Daughter_ - Astrid Lindgren, trans. Patricia Crampton
+* _The Obelisk Gate_ - N.K. Jemison
