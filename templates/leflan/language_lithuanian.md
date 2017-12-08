@@ -11,7 +11,7 @@ num. | NOM | GEN | DAT    | ACC                | INS | LOC                      
 _s._ | *** | -o  | -ui    | -ą/į/į<sup>*</sup> | -u  | -e/y(je)/y(je)<sup>*</sup> | -e/∅/y
 _p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                      | -ai
 
-<sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_,_arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
+<sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_, _arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
 
 _is_ and _ys_ retain their palatalization, e.g. medis > mediai.
 
@@ -261,7 +261,42 @@ tu neini   | jūs neinate
 3p. neina  | 3p. neina
 
 ## Reflexive Verbs
-Have the ending _-is_
+Have the ending _-is_. In the negative, one must use the _si_ prefix, ex. praustis > nesiprausti)
+
+There are 5 types of reflexive verbs:
+
+1. Hygiene or self-care (prausti:to wash something vs. praustis:to wash oneself)
+2. Active vs. static (nešti:to carry vs. neštis:to hold)
+3. Internal action (sukti:to rotate an object vs. suktis:to rotate oneself, e.g. the earth rotates on its axis)
+4. Speech related (kalbėti:to speak vs. kalbėtis:to speak with each other)
+5. Internal feelings (džiaugtis:to be happy)
+
+
+PRS
+: singular | plural
+-----------|----------
+-osi       | -ės
+-(e)si     | -ės
+-si        | -si
+
+A/I verbs use -esi in the 2sg., O verbs do not, ex. _šukuojiesi_ vs. _maudaisi_. For the plural, remove the standard ending _e_, ex. mes tikimės. 
+
+PST
+: singular | plural
+-----------|----------
+-si        | -ės
+
+ex. _šukavausi_ and _šukavomės_. Same conjugation for both O and Ė past tense verbs.
+
+FUT
+: singular | plural
+-----------|----------
+-osi       | -ės
+-esi       | -ės
+-is        | -is
+
+Subjunctive add +si/ės and imparative add +is/ės using the rules for plural found above.
+
 
 ## Future Tense
 

@@ -24,3 +24,9 @@
 * _The Fifth Season_ - N.K. Jemison
 * _Ronia, the Robber's Daughter_ - Astrid Lindgren, trans. Patricia Crampton
 * _The Obelisk Gate_ - N.K. Jemison
+* _The Stone Sky_ - N.K. Jemison
+* _Taiwan's Imagined Geography: Chinese Colonial Travel Writing and Pictures, 1683-1895_ - Emma Jinhua Teng
+* _Binti_ - Nnedi Okorafor
+* _Mr. Fix-It_ - Richard Ali a Mutu
+* _Croatian War Nocturnal_ - Spomenka Štimec
+* _Dictionaries volume 38 issue 1_ - ed. Edward Finegan

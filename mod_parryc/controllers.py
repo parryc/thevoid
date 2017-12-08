@@ -119,63 +119,6 @@ def get_html(page, dictionary_entry=False):
     text = _clean_dictionary(page.split('/')[1], text)
   return markdown.markdown(text)
 
-def _paas_timeseries_request(inline_data, interval_count):
-  endpoint = "https://i-03814497e692f802b.workdaysuv.com/advancedAnalytics/forecasting/fixedPeriod"
-  params   = '{\"forecast_size\":%s}' % interval_count
-  request_json = {
-    "model_spec":{
-      "category":"timeseries_arima",
-      "params":params,
-      "id":"DNU",
-      "name":"DNU"
-    },
-    "data_frame":{
-      "inline_data": inline_data
-    }
-  }
-  ts_response = requests.post(endpoint, json=request_json)
-  return ts_response.json()
-
-def _paas_fill(log_dates):
-  # Fill in 0s between dates
-  padded = []
-  for idx, t in enumerate(log_dates):
-    if idx + 1 == len(log_dates):
-      padded.append(t.hours_logged)
-    else:
-      _next = log_dates[idx + 1]
-      delta = _next.log_date - t.log_date
-      if delta.days == 1:
-        padded.append(t.hours_logged)
-      else:
-        padded.append(t.hours_logged)
-        padded.extend([0] * (delta.days - 1))
-  return ",".join(map(str, padded))
-
-def _paas_get_projects_by_size(size):
-  low  = 0
-  high = 1000
-  bound_1 = 50
-  bound_2 = 100
-  if size == '0': # small
-    high = bound_1
-  if size == '1': # medium
-    low = bound_1
-    high = bound_2
-  if size == '2': # large
-    low = bound_2
-  return Subprojects.query.filter(and_(Subprojects.hours_aggregate >= low, Subprojects.hours_aggregate < high)).all()
-
-def _paas_projects_to_hours(projects):
-  inline_data = []
-  for project in projects:
-    hours = get_hours(project.subproject)
-    inline_data.append(_paas_fill(hours))
-  joined = ",".join(inline_data)
-  # compress the data by removing 0s, since timeseries doesn't detect patterns
-  compressed = re.sub(r'(0,){3,}','0,', joined)
-  # remove empty strings
-  return re.sub(',+',',',compressed)
 
 def _clean_dictionary(filename, entry):
   KZ = r'([а-өА-Ө~«-][а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»])'
