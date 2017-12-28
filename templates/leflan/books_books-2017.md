@@ -30,3 +30,4 @@
 * _Mr. Fix-It_ - Richard Ali a Mutu
 * _Croatian War Nocturnal_ - Spomenka Štimec
 * _Dictionaries volume 38 issue 1_ - ed. Edward Finegan
+* _The Horse, The Wheel, and Language_ - David W. Anthony

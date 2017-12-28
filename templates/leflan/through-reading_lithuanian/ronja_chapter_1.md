@@ -247,7 +247,7 @@ terribly want.{SBJV} see.{INF} new.{DEF}.{ACC} robber.{PL}.{GEN} chief.{ACC},
 
 --GLOSS--
 o tada ramiai galėsiu drožti į aną pasaulį.
-and then calmly can.{1SG}.{FUT} wittle.{INF} in {m} 'the next world.'
+and then calmly can.{1SG}.{FUT} whittle.{INF} in {m} 'the next world.'
 {!} before I am finished."
 --ENDGLOSS--
 
