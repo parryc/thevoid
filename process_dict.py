@@ -10,7 +10,12 @@ def sense(root, num, def_text):
   def example(sense, kz, en):
     kz = ' '.join(kz)
     kz = re.sub(r'\|(.*?)\|', r'(or \1)', kz)
+
     en = ' '.join(en)
+    # still not entirely sure what these are used for
+    en = re.sub(r'◊|□', '', en)
+    en = re.sub(r' +', ' ', en)
+
     cit = ET.Element('cit')
     cit.set('type', 'example')
     quote_kz = ET.SubElement(cit, 'quote')
@@ -33,7 +38,6 @@ def sense(root, num, def_text):
   current_kz = []
   current_en = []
   current_see_also = []
-  current_etym = []
   final_groups = []
   for group in grouping:
 
@@ -46,15 +50,6 @@ def sense(root, num, def_text):
       current_see_also.extend(see_also[0].split(','))
       group = re.sub(r'\(see also <kz>(.*?)</kz>\)', '', group)
 
-    ########
-    # ETYM #
-    ########
-
-    etym = re.findall(r'(\[.*?\])', group)
-    if etym:
-      current_etym.extend(etym[0].split(','))
-      group = re.sub(r'(\[.*?\])', '', group)
-
     #######
     # CIT #
     #######
@@ -62,21 +57,20 @@ def sense(root, num, def_text):
     kz = re.findall(r'<kz>(.*?)</kz>', group)
     if kz:
       final_groups.append(
-        (current_kz, current_en, current_see_also, current_etym)
+        (current_kz, current_en, current_see_also)
       )
       current_kz = []
       current_en = []
       current_see_also = []
-      curent_etym = []
       group = re.sub(r'<kz>.*?</kz>','', group) # delete kz
       current_kz.extend(kz)
       current_en.append(group)
     else:
       current_en.append(group)
   if current_en:
-    final_groups.append((current_kz, current_en, current_see_also, current_etym))
+    final_groups.append((current_kz, current_en, current_see_also))
 
-  for kz, en, see_also, etym in final_groups:
+  for kz, en, see_also in final_groups:
     if kz:
       example(sense, kz, en)
     else:
@@ -89,19 +83,12 @@ def sense(root, num, def_text):
         ref.text = sa
         sense.append(xr)
 
-    if etym:
-      etym = ET.Element('etym')
-      for et in etym:
-        lang = ET.SubElement(etym, 'lang')
-        lang.text = et
-      sense.append(etym)
-
   def_node.text = def_text.strip()
 
 
 def _entry_to_xml(filename, entry):
   KZ = r'([\|а-өА-Ө~«-][\|а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»\|])'
-  OR = r'\(or ([а-өА-Ө,]+)\)'
+  OR = r'\(or ([а-өА-Ө, ]+)\)'
 
   # Clean up "(or ...)s" so they get included in <kz> tags
   entry = re.sub(OR, r'|\1|', entry)
@@ -142,19 +129,9 @@ def _entry_to_xml(filename, entry):
 test_words = ['а.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt']
 #sorted(os.listdir(u'templates/words'))
 for filename in test_words:
-  # count += 1
-  # if count > 10:
-  #   break
-
   if filename == '.DS_Store':
     continue
 
-  # lemma
-  # etym
-  # usage
-  # senses
-  # homynyms (eventually)
-  # see alsos (<re> node)
   root = ET.Element('entry')
   tree = ET.ElementTree(root)
   form = ET.SubElement(root, 'form')
@@ -202,6 +179,19 @@ for filename in test_words:
       cutoff = 2
     entry = ' '.join(words[cutoff:])
     pos.text = pos_text
+
+    ########
+    # ETYM #
+    ########
+
+    etym_list = re.findall(r'(\[.*?\])', entry)
+    if etym_list:
+      etym = ET.Element('etym')
+      for et in etym_list:
+        lang = ET.SubElement(etym, 'lang')
+        lang.text = re.sub(r'[\[\]]', '', et)
+      root.append(etym)
+      entry = re.sub(r'(\[.*?\])', '', entry)
 
     ##########
     # SENSES #
