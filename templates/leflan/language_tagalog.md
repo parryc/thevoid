@@ -68,4 +68,4 @@ Politeness is marked with `po` at the end of a sentence or phrase, ex. _magandan
 
 ## Sentence Structure
 
-The basic structure of a Tagalog sentence is `PREDITCATE TOPIC`, ex. _Kamusta ka?_. _Kamusta_ is the predicate (how are) and _ka_ (you) is the topic.
+The basic structure of a Tagalog sentence is `PREDICATE TOPIC`, ex. _Kamusta ka?_. _Kamusta_ is the predicate (how are) and _ka_ (you) is the topic.
