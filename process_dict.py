@@ -38,6 +38,7 @@ def sense(root, num, def_text):
   current_kz = []
   current_en = []
   current_see_also = []
+  current_usg = []
   final_groups = []
   for group in grouping:
 
@@ -51,26 +52,38 @@ def sense(root, num, def_text):
       group = re.sub(r'\(see also <kz>(.*?)</kz>\)', '', group)
 
     #######
+    # USG #
+    #######
+
+    usgs = re.findall(r'\(([a-z, ]+\.)\)', group)
+    if usgs:
+      for usg in usgs:
+        if usg not in ['s.o.', 'sth']:
+          current_usg.extend(usg.split(','))
+          group = re.sub(re.compile('\('+usg+'\)'), '', group)
+
+    #######
     # CIT #
     #######
 
     kz = re.findall(r'<kz>(.*?)</kz>', group)
     if kz:
       final_groups.append(
-        (current_kz, current_en, current_see_also)
+        (current_kz, current_en, current_see_also, current_usg)
       )
       current_kz = []
       current_en = []
       current_see_also = []
+      current_usg = []
       group = re.sub(r'<kz>.*?</kz>','', group) # delete kz
       current_kz.extend(kz)
       current_en.append(group)
     else:
       current_en.append(group)
   if current_en:
-    final_groups.append((current_kz, current_en, current_see_also))
+    final_groups.append((current_kz, current_en, current_see_also, current_usg))
 
-  for kz, en, see_also in final_groups:
+  for kz, en, see_also, usg in final_groups:
     if kz:
       example(sense, kz, en)
     else:
@@ -82,6 +95,13 @@ def sense(root, num, def_text):
         ref = ET.SubElement(xr, 'ref')
         ref.text = sa
         sense.append(xr)
+
+    if usg:
+      for u in usg:
+        # maybe add type attrib for domain classification
+        usg = ET.Element('usg')
+        usg.text = u[:-1]
+        sense.append(usg)
 
   def_node.text = def_text.strip()
 
@@ -122,7 +142,6 @@ def _entry_to_xml(filename, entry):
   entry = re.sub(r'\n',' ',entry)
   # Remove extra spaces
   entry = re.sub(r' +',' ',entry)
-  print(entry)
 
   return entry
 
