@@ -174,6 +174,13 @@ for filename in test_words:
     usage = ''
     lemma = re.match(r'<kz>`(.*?)`</kz>', entry).group(1)
     orth.text = lemma
+
+    if 'гі' in filename or 'ғы' in filename:
+      ending = filename[:-4].split('-')[-1]
+      lemma_2 = lemma[:-1] + ending
+      orth_2 = ET.SubElement(form, 'orth')
+      orth_2.text = lemma_2
+
     entry = re.sub(r'<kz>`(.*?)`</kz>', '', entry).strip()
 
     #######
