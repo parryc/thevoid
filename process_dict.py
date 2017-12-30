@@ -160,6 +160,19 @@ for filename in sorted(os.listdir(u'templates/words')):
     orth.text = lemma
     entry = re.sub(r'<kz>`(.*?)`</kz>', '', entry).strip()
 
+    # all entries which have a POS will have it for sure in the
+    # 2nd position and possibly the 3rd (in the case of, e.g. "vbl. n.")
+    words = entry.split(' ')
+    pos_text = ''
+    cutoff = 0
+    if '.' in words[1]:
+      pos_text += words[1][:-1]
+      cutoff = 1
+    if '.' in words[2]:
+      pos_text += ' ' + words[2][:-1]
+      cutoff = 2
+    entry = ' '.join(words[cutoff:])
+    pos.text = pos_text
     # pos_check = re.match(r'^([a-z]+\.)', entry)
     # # maybe this should be from a list?
     # if pos_check:
