@@ -12,9 +12,9 @@ def sense(root, num, def_text):
     kz = re.sub(r'\|(.*?)\|', r'(or \1)', kz)
 
     en = ' '.join(en)
-    # still not entirely sure what these are used for
-    en = re.sub(r'◊|□', '', en)
+    en = re.sub(r'◊|□', '', en) # still not entirely sure what these are used for
     en = re.sub(r' +', ' ', en)
+    en = re.sub(r'\.$', '', en)
 
     cit = ET.Element('cit')
     cit.set('type', 'example')
@@ -145,9 +145,11 @@ def _entry_to_xml(filename, entry):
 
   return entry
 
-test_words = ['а.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt']
+test_words = ['а.txt', 'а-2.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt']
+seen_lemmas = []
 #sorted(os.listdir(u'templates/words'))
 for filename in test_words:
+  duplicate_lemma = False
   if filename == '.DS_Store':
     continue
 
@@ -170,6 +172,8 @@ for filename in test_words:
     usage = ''
     lemma = re.match(r'<kz>`(.*?)`</kz>', entry).group(1)
     orth.text = lemma
+    duplicate_lemma = (lemma in seen_lemmas)
+    seen_lemmas.append(lemma)
 
     if 'гі' in filename or 'ғы' in filename:
       ending = filename[:-4].split('-')[-1]
@@ -226,21 +230,14 @@ for filename in test_words:
       sense(root, 1, entry)
 
     # check if filename already exists, if so make into a superentry
-    tree.write(open(os.path.join('testing', lemma+'.xml'), 'w'), encoding="unicode")
-    # etym = re.search(r'(\[.*?\])',content)
-    # if etym:
-    #   etym = etym.group(0)[1:-1]
-    #   etyms.add(etym)
-    # else:
-    #   etym = ""
-
-    # match (word.) to try to get "tags" for definitions
-    # is it worth trying to tag the first а that has (...; colloq.)?
-    # also try to get other inline tags like албасты (myth.) (fig.)
-    # tag = re.search(r'(\([^ ]*?\.\))',content)
-    # if tag:
-    #   # remove ending period
-    #   tag = tag.group(0)[1:-2]
-    #   tags.add(tag)
-    # else:
-    #   tag = ""
+    output_file = os.path.join('testing', lemma+'.xml')
+    if duplicate_lemma:
+      superEntry = ET.Element('superEntry')
+      super_tree = ET.ElementTree(superEntry)
+      existing = ET.parse(output_file)
+      for e in existing.iter('entry'):
+        superEntry.append(e)
+      superEntry.append(root)
+      super_tree.write(open(output_file, 'w'), encoding="unicode")
+    else:
+      tree.write(open(output_file, 'w'), encoding="unicode")
