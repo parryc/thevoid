@@ -136,7 +136,8 @@ def _entry_to_xml(filename, entry):
   entry = re.sub(KZ,r'<kz>\1</kz>',entry)
   
   # Code mark lemma
-  if filename_length <= 2:
+  ## and some of the weird dual-entry ones like ақ-ғы
+  if filename_length <= 2 or len(filename.split('-')[0]) <= 2:
     len_re = re.compile('(.{'+str(filename_length)+'})')
     entry = re.sub(len_re,r'<kz>`\1`</kz>',entry,1) 
   else:
@@ -159,10 +160,12 @@ def _entry_to_xml(filename, entry):
   return entry
 
 
-test_words = ['түр.txt', 'шаң.txt', 'абалау.txt', 'абажадай.txt', 'бәсею.txt', 'а.txt', 'а-2.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt', 'ор.txt']
+# test_words = ['түр.txt', 'шаң.txt', 'абалау.txt', 'абажадай.txt', 'бәсею.txt', 'а.txt', 'а-2.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt', 'ор.txt']
 seen_lemmas = []
 #sorted(os.listdir(u'templates/words'))
-for filename in test_words:
+for filename in sorted(os.listdir(u'templates/words')):
+  count += 1
+  print(count, filename)
   duplicate_lemma = False
   if filename == '.DS_Store':
     continue
@@ -183,6 +186,7 @@ for filename in test_words:
 
     # check for weird extra encodings like \xa0
     entry = _entry_to_xml(filename, content)
+    print(entry)
     usage = ''
     lemma = re.match(r'<kz>`(.*?)`</kz>', entry).group(1)
     orth.text = lemma
