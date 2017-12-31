@@ -18,6 +18,7 @@ def sense(root, num, def_text):
     en = re.sub(r'◊|□', '', en) # still not entirely sure what these are used for
     en = re.sub(r' +', ' ', en)
     en = re.sub(r'\.$', '', en)
+    en = re.sub(r'</?kz>', '', en)
 
     cit = ET.Element('cit')
     cit.set('type', 'example')
@@ -108,6 +109,7 @@ def sense(root, num, def_text):
         usg.text = u[:-1]
         sense.append(usg)
 
+  def_text = re.sub(r'</?kz>', '', def_text)
   def_node.text = re.sub(r'\.$','',def_text.strip())
 
 
@@ -263,9 +265,7 @@ for filename in test_words:
     ##########
 
     entry = entry.strip()
-    print(lemma, entry)
     senses = re.findall(r'[0-9]+\. [^0-9]+', entry)
-    print(senses)
     if senses:
       for num, definition in enumerate(senses):
         sense(root, num + 1, definition)
