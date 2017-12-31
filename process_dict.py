@@ -10,6 +10,9 @@ def sense(root, num, def_text):
   def example(sense, kz, en):
     kz = ' '.join(kz)
     kz = re.sub(r'\|(.*?)\|', r'(or \1)', kz)
+    kz = re.sub(r'【', '(', kz)
+    kz = re.sub(r'】', ')', kz)
+
 
     en = ' '.join(en)
     en = re.sub(r'◊|□', '', en) # still not entirely sure what these are used for
@@ -58,7 +61,8 @@ def sense(root, num, def_text):
     usgs = re.findall(r'\(([a-z, ]+\.)\)', group)
     if usgs:
       for usg in usgs:
-        if usg not in ['s.o.', 'sth']:
+        # some object, something, literal, figurative
+        if usg not in ['s.o.', 'sth.', 'lit.', 'fig.', 'folk.']:
           current_usg.extend(usg.split(','))
           group = re.sub(re.compile('\('+usg+'\)'), '', group)
 
@@ -66,7 +70,8 @@ def sense(root, num, def_text):
     # CIT #
     #######
 
-    kz = re.findall(r'<kz>(.*?)</kz>', group)
+    # all citations should have an ~ 
+    kz = re.findall(r'<kz>(.*?~.*?)</kz>', group)
     if kz:
       final_groups.append(
         (current_kz, current_en, current_see_also, current_usg)
@@ -103,15 +108,21 @@ def sense(root, num, def_text):
         usg.text = u[:-1]
         sense.append(usg)
 
-  def_node.text = def_text.strip()
+  def_node.text = re.sub(r'\.$','',def_text.strip())
 
 
 def _entry_to_xml(filename, entry):
-  KZ = r'([\|а-өА-Ө~«-][\|а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»\|])'
-  OR = r'\(or ([а-өА-Ө, ]+)\)'
+  KZ = r'([\|【а-өА-Ө~«-][\|【】а-өА-Ө ~–?\.!,«»-]+[а-өА-Ө~?\.!,»\|】])'
+  OR = r'\(or ([а-өА-Ө, ~]+)\)'
+  REL = r'\(of ([а-өА-Ө, ]+)\)'
 
-  # Clean up "(or ...)s" so they get included in <kz> tags
+  # Clean up "(or/of ...)s" so they get included in <kz> tags
   entry = re.sub(OR, r'|\1|', entry)
+  entry = re.sub(REL, r'+\1+', entry)
+
+  # replace two spaces with a semi-colon
+  # it looks like half of the entries got messed up some how?
+  entry = re.sub(r'  ','; ',entry)
 
   # Make sure that it's composed correctly
   filename = unicodedata.normalize('NFC', filename)
@@ -145,7 +156,8 @@ def _entry_to_xml(filename, entry):
 
   return entry
 
-test_words = ['а.txt', 'а-2.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt']
+
+test_words = ['түр.txt', 'шаң.txt', 'абалау.txt', 'абажадай.txt', 'бәсею.txt', 'а.txt', 'а-2.txt', 'аба.txt', 'адал.txt', 'абақты.txt', 'адамгершілік-гі.txt', 'адамдық-ғы.txt', 'ор.txt']
 seen_lemmas = []
 #sorted(os.listdir(u'templates/words'))
 for filename in test_words:
@@ -182,6 +194,36 @@ for filename in test_words:
       orth_2.text = lemma_2
 
     entry = re.sub(r'<kz>`(.*?)`</kz>', '', entry).strip()
+
+    ######
+    # RE #
+    ######
+
+    rel_list = re.findall(r'\+<kz>.*?</kz>\+', entry)
+    if rel_list:
+      rel = ET.Element('re')
+      for r in rel_list[0].split(','):
+        form_rel = ET.SubElement(rel, 'form')
+        orth_rel = ET.SubElement(form_rel, 'orth')
+        orth_rel.text = re.sub(r'\+<kz>(.*?)</kz>\+', r'\1', r.strip())
+      root.append(rel)
+      entry = re.sub(r'\+<kz>.*?</kz>\+', '', entry)
+
+    ###################
+    # INFLECTED FORMS #
+    ###################
+
+    # there needs to be a comma in there, otherwise it'll pick up
+    # parentheticals in the citations
+    inf_list = re.findall(r'\(<kz>[а-өА-Ө, ]+,[а-өА-Ө, ]+</kz>\)', entry)
+    if inf_list:
+      inf_list = re.sub(r'\(<kz>([а-өА-Ө, ]+?)</kz>\)', r'\1', inf_list[0])
+      for inf in inf_list.split(','):
+        form_inf = ET.Element('form', attrib={'type':'inflected'})
+        orth_inf = ET.SubElement(form_inf, 'orth')
+        orth_inf.text = re.sub(r'\(<kz>([а-өА-Ө, ]+?)</kz>\)', r'\1', inf.strip())
+        root.append(form_inf)
+      entry = re.sub(r'\(<kz>[а-өА-Ө, ]+?</kz>\)', '', entry)
 
     #######
     # POS #
@@ -221,8 +263,9 @@ for filename in test_words:
     ##########
 
     entry = entry.strip()
-    senses = re.findall(r'[1-9]+\. [^1-9]+', entry)
-    # print(senses)
+    print(lemma, entry)
+    senses = re.findall(r'[0-9]+\. [^0-9]+', entry)
+    print(senses)
     if senses:
       for num, definition in enumerate(senses):
         sense(root, num + 1, definition)
