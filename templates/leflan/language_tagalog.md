@@ -6,13 +6,13 @@
 
 ANG pronouns serve as the topic of a sentence. 
 
- sg      | pl
----------|----
- ako     | kami
- ka/ikaw | kayo
- siya    | 
+ sg        | pl
+-----------|----
+ ako       | kami
+ ka/ikaw   | kayo
+ siya/iyon | 
 
-_kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw_ differs from _ka_ in that it can be used at the beginning of a sentence or by itself.
+_kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw_ differs from _ka_ in that it can be used at the beginning of a sentence or by itself. _iyon_ is 3sg inanimate (it) and _siya_ is 3sg animate.
 
 ### NG Pronouns
 
@@ -39,10 +39,22 @@ For example, with root `galak:to please`.
 2. ikina + gagalak
 3. `ikinagagalak:pleases` (In the sense of "I am pleased to meet you.")
 
-### Prefixex
+### Future Tense
 
-ikina
-: indicates why the subject pefroms an action, _ikinagagalak kong makilala ka_ - by meeting/knowing you, I am pleased.
+Mango refers to this as the "contemplated" form and it is used to indicate future action.
+
+#### MAG verbs
+
+1. Repeat CV of the root
+2. Add _mag-_
+
+For example with root `mag-ingat:to be careful`.
+
+1. i + ingat
+2. mag- + iingat
+3. `mag-iingat:be careful` (In the sense of "take care!" as a goodbye)
+
+(Use a hyphen if the root begins with a vowel)
 
 ## Particles
 
@@ -61,6 +73,19 @@ si/sina
 ## Adjectives
 
 Add `ng` after an adjective that ends in a vowel, when it precedes a noun. Ex. _magandang umaga_:good morning, but literally "beautiful morning".  _Maganda_ is beautiful.
+
+## Prefixes
+
+ikina
+: indicates why the subject pefroms an action, _ikinagagalak kong makilala ka_ - by meeting/knowing you, I am pleased.
+
+taga
+: a noun-forming prefix that denotes the origin of something, ex. _taga-saan ka?_:where are you from?, `saan:where`.
+
+## Postfixes
+
+ng
+: links between two verbs, ex. `pwedeng magtanong:can (I) ask?`, where _pwede_ is the standalone form. It also links two adjectives.
 
 ## Politeness
 

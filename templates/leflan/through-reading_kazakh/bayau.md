@@ -260,7 +260,7 @@ think-{CONV} come-{PST}-{1SG} baby, conversation-{1SG.POSS} existent baby
 
 --GLOSS--
 Шешімін тауып алғандаймын,
-solution-{3SG.POSS}-{ACC} find-{PRETEND}-{1SG} {m}
+solution-{POSS-3}-{ACC} {m} find-{PRETEND}-{1SG}
 {!} And it seems I found a solution
 {!} It seems as if I have found the solution
 --ENDGLOSS--
@@ -301,7 +301,7 @@ huh-say-{CONV}, understand-{NEG}-{CONV} {AUX}-{COND}-{2SG}, 'like so-{EMPH}:'
 
 --GLOSS--
 Бəрі оп-оңай, қиялыммен "баяуға" шақырамын, билейміз түнімен тоқтамай.
-all easy, imagination-{POSS.1SG}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}-{1PL} night-{3SG.POSS}-{COM} cease-{NEG}-{CONV}
+all easy, imagination-{1SG.POSS}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}-{1PL} night-{POSS-3}-{COM} cease-{NEG}-{CONV}
 {!} Look everything is simple. In my fantaises, I'll call you to the "slow", we'll dance all night endlessly
 {!} All is very easy, with my imagination I'll call you to the "slow", we'll dance all night
 --ENDGLOSS--
@@ -320,7 +320,7 @@ all easy, imagination-{POSS.1SG}-{INST} slow-{DAT} call-{PRS}-{1SG}, dance-{PRS}
 
 --GLOSS--
 Оның жүрегі нөлдей, сезім мүлде бөлінбейді,
-{2SG.GEN} heart-{POSS}-3 zero-{COMP}, feeling totally divide-{NEG}-{PRS}-{3SG}
+{2SG.GEN} heart-{POSS-3} zero-{COMP}, feeling totally divide-{NEG}-{PRS}-{3SG}
 {!} Her heart is like zero, indivisible to feelings
 {!} Her heart is like zero, feeling(s) cannot completely divide (her)
 --ENDGLOSS--
