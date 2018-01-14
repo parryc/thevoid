@@ -166,7 +166,7 @@ angrily scream.{PART-APRS}, 'fly away.{PRS}' towards {m} alongside tree.{PL}.{GE
 {!} and flew off across the treetops, hooting angrily.
 --ENDGLOSS--
 
-? why does palei pat => alongside, what is _pat_ doing?
+`pat` is used here as a strengthener of the prepositing.
 `palei` Ambrazas §2.48 "relative to a linear object", e.g. parallel to
 
 --GLOSS--
@@ -195,23 +195,21 @@ but need.{PST} {m} anything.{ACC} do.{INF} wait.{PART-GPRS}, because all 12 wait
 {!} After all, they had to do something while they waited, and all twelve of them were waiting
 --ENDGLOSS--
 
-? what is `be` doing in `belaukiant`.
+`be` in `belaukiant` doesn't have much meaning. Daiva indicates that it slightly reinforces the sense of waiting.
 
 --GLOSS--
 – kaip ten baigsis bokšto kambarėlyje.
-{b} as there finish.{FUT} tower.{GEN} room.{LOC}.
+{b} how there finish.{FUT} tower.{GEN} room.{LOC}.
 {!} for what was about to happen up there in the tower room.
 --ENDGLOSS--
 
-? what is `kaip` doing?
-
 --GLOSS--
 Mat, kiek jie minė, Matiso kalne pirmą kartą turėjo gimti kūdikis.
-?, ? ? ?, Matt.{GEN} castle.{LOC} first.{ACC} time.{ACC} have.{PST} birth.{INF} child.{NOM}
+For, how {3SG.NOM} remember.{PST}, Matt.{GEN} castle.{LOC} first.{ACC} time.{ACC} have.{PST} birth.{INF} child.{NOM}
 {!} No child had ever been born in Matt's Fort in all their robber days there.
 --ENDGLOSS--
 
-? no idea about the first part
+`minti:to remember` is an older form of `prisiminti`.
 
 --GLOSS--
 O labiausiai laukė Peras Plikakatis.
@@ -219,7 +217,7 @@ And 'most of all' wait.{PST} {m} Noddle-Pete
 {!} Noddle-Pete was waiting most of all.
 --ENDGLOSS--
 
-? No idea what a Noddle-Pete is.
+No idea what a Noddle-Pete is.
 
 --GLOSS--
 – Kad tik greičiau parbėgtų tas mažasis plėšikas, – pasakė jis.
@@ -227,7 +225,7 @@ And 'most of all' wait.{PST} {m} Noddle-Pete
 {!} "That robber baby had better come soon," he said.
 --ENDGLOSS--
 
-? note about the subjunctive? I think it's implying the "had better" part.
+The subjunctive here is used to express the conditional, "so that it could...".
 
 --GLOSS--
 – Aš jau senas, sukriošęs ir veikiai baigsis mano plėšikiškas gyvenimas.
@@ -235,7 +233,6 @@ And 'most of all' wait.{PST} {m} Noddle-Pete
 {!} "I'm old and rickety, and my robbing days will soon be over.
 --ENDGLOSS--
 
-? greičiau vs. veikiai? from `veikas:fast`
 `plėšikiškas` is an adjective here.
 I think `sukriošęs` is derived from the verb `sukriošti:to shake`, but the dictionary gives it as standalone, meaning dodering.
 
@@ -251,7 +248,7 @@ and then calmly can.{1SG}.{FUT} whittle.{INF} in {m} 'the next world.'
 {!} before I am finished."
 --ENDGLOSS--
 
-? Is _drožti į aną pasaulį_ and idiom or something?
+_drožti į aną pasaulį_ is an idiom equivalent to "kick the bucket" or "buy the farm".
 
 --GLOSS--
 Vos jis šitaip tarė, atsivėrė durys, ir įgriuvo Matisas, kone paklaikęs iš džiaugsmo.
@@ -263,9 +260,10 @@ Vos jis šitaip tarė, atsivėrė durys, ir įgriuvo Matisas, kone paklaikęs i�
 
 --GLOSS--
 Nesitverdamas kailyje keliais šuoliais aplėkė pusratį viduriu menės ir užriko nesavu balsu:
-grab.{NEG}.{REFL}.{PART-P} fur.{LOC} road.{INS} jump.{INS} 'wrap up.{PST}' semicircle.{ACC} middle.{INS} hall.{GEN} and 'scream out.{PST}' untypical voice.{INS}
+{m} 'not know what to do with oneself'.{PART-P} serveral jump.{INS} 'run around.{PST}' semicircle.{ACC} middle.{INS} hall.{GEN} and 'scream out.{PST}' untypical voice.{INS}
 {!} He raced all the way around the hall, leaping high with joy and shrieking like a madman.
 --ENDGLOSS--
 
-? ????????? none of these words appeared in the LT-EN dictionary soooo who knows!
-? `šuolis:jump` in the instrumental implying "by leaps", "by means of jumping".
+
+* `nesitverdamas kailyje:not know what to do with oneself` if a fixed phrase, from `tverti:bear, endure` and `kailis:skin`. Daiva also translated it as "to be restless".
+* `šuolis:jump` in the instrumental implying "by leaps", "by means of jumping".

@@ -26,7 +26,11 @@ NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun.
 
 ## Verbs
 
+(See Paraluman p72 and p73)
+
 ### Present Tense
+
+#### UM verbs
 
 Conjugation is performed in two steps:
 
@@ -61,6 +65,9 @@ For example with root `mag-ingat:to be careful`.
 ang
 : topic marker
 
+ba
+: quetion particle. Follows pronouns with one syllable. Ex. _Nagsaslita ka ba ng Tagalog?_:Can you speak Tagalog?
+
 na
 : "Indicates an action has happened or is happening and its occurance was expected."<cite>Mango Languages</cite> One of two particles that occur after the first ful word in a sentence. Ex. _kamusta na po kayo?_:How have you been, ma'am?. If there is a single syllable pronoun, then it comes at the end: _kamusta ka na?_:How have you been?
 
@@ -91,6 +98,16 @@ ng
 
 Politeness is marked with `po` at the end of a sentence or phrase, ex. _magandang umaga po_:good morning (sir/ma'am).
 
+nga
+: comes after `na` in a sentence, converts commands into polite requests. Ex. _Ano nga ulit ang pangalan mo?_:What is your name again?
+
 ## Sentence Structure
 
 The basic structure of a Tagalog sentence is `PREDICATE TOPIC`, ex. _Kamusta ka?_. _Kamusta_ is the predicate (how are) and _ka_ (you) is the topic.
+
+ay
+: switches from Predicate + Topic to Topic + Predicate, ex. _Ang pangalan ko ay..._:My name is...
+
+### Negation
+
+_hindi_ negates sentences. Additionally, the pronoun comes before the verb. Ex. _Hindi ako nagasaslita_:I do not speak.

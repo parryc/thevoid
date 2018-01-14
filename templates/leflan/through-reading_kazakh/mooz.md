@@ -28,6 +28,8 @@ These resources were invaluable in helping figure out and confirm the sometimes 
 
 * **MEREY** 
 * **sozdik.kz**
+* **KK** http://highlandsun.com/hyc/Kazakh/34/
+* **Engime** http://engime.org/kesibi-aza-tili-penin-oitu-edistemelik-keshen.html?page=7
 
 ### Dictionaries
 
@@ -93,31 +95,31 @@ Click on a line to be directed to the gloss.
 [Көре алмаған сайын, алыстаймын екі есе мен,](#leipzig-line-17)
 [Сен іш дайындаған «шайыңды» «кесемен»!](#leipzig-line-18)
 
-[(Сонымен?)](#leipzig-line-19)
-[Сонымен, бəрі ойдағыдай, берілмеймін оңай.](#leipzig-line-20)
-[(Солай де…)](#leipzig-line-21)
-[Солай, иə](#leipzig-line-22)
-[Бəрі ойдағыдай, берілме оңай!](#leipzig-line-23)
+(Сонымен?)
+[Сонымен, бəрі ойдағыдай, берілмеймін оңай.](#leipzig-line-19)
+(Солай де…)
+[Солай, иə](#leipzig-line-20)
+[Бəрі ойдағыдай, берілме оңай!](#leipzig-line-21)
 
-[Сенбеген таптайды, сен құлағанда тайып,](#leipzig-line-24)
-[Болмайды олай!](#leipzig-line-25)
-[Білмеймін кім қандай,](#leipzig-line-26)
-[Бірақ сенуге əрдайым мендік жүрек дайын!](#leipzig-line-27)
+[Сенбеген таптайды, сен құлағанда тайып,](#leipzig-line-5)
+[Болмайды олай!](#leipzig-line-6)
+[Білмеймін кім қандай,](#leipzig-line-7)
+[Бірақ сенуге əрдайым мендік жүрек дайын!](#leipzig-line-8)
 
 [Неге бəрі мұз?](#leipzig-line-9)
 [Неге бəрі мұз?](#leipzig-line-9)
 [Мүмкін күн шыққанға дейін, бірге күте тұрамыз?](#leipzig-line-10)
 [Мүмкін күн шыққанға дейін, бірге күте тұрамыз?](#leipzig-line-10)
 
-[Анам айтатын маған:»тізеңді құшақтама» деп,](#leipzig-line-28)
-[Ал мен түсінбей тұрмын, не үшін солай отырғанымды əлі…](#leipzig-line-29)
-[Бөтен бе бəрі? Бір күннің астында бөтен бе бəрі?](#leipzig-line-30)
-[Əлемде расында бөтен бе бəрі?](#leipzig-line-31)
-[Ай ай ай, жалғасса əрі, шынайы бақыттың жоғалды мəні! Ай ай ай ай](#leipzig-line-32)
+[Анам айтатын маған:»тізеңді құшақтама» деп,](#leipzig-line-22)
+[Ал мен түсінбей тұрмын, не үшін солай отырғанымды əлі…](#leipzig-line-23)
+[Бөтен бе бəрі? Бір күннің астында бөтен бе бəрі?](#leipzig-line-24)
+[Əлемде расында бөтен бе бəрі?](#leipzig-line-25)
+[Ай ай ай, жалғасса əрі, шынайы бақыттың жоғалды мəні! Ай ай ай ай](#leipzig-line-26)
 
-[Ай ай солай иə, Ай ай солай иə](#leipzig-line-33)
+[Ай ай солай иə, Ай ай солай иə](#leipzig-line-27)
 Ай ай ай ай
-[Ай ай солай иə, Ай ай солай иə](#leipzig-line-33)
+[Ай ай солай иə, Ай ай солай иə](#leipzig-line-27)
 Ай ай ай ай
 
 When you feel alone,
@@ -232,112 +234,147 @@ maybe sun 'go out-{ГАндА}' till, together wait-{CONV} wait-{PRS}-{1PL}
 
 --GLOSS--
 Жоқ шекаралар, ол сенің миыңдағы мекендерде бар тек.
+no border-{PL}, {3SG.NOM} {2SG.GEN} brain-{2SG.POSS}-{LOC.ADJ} place-{PL}-{LOC} exist only
+{!} Borders do not exist, they are only in the vastness of your consciousness.
+{!} No, borders only exist in the places that are in your brain.
 --ENDGLOSS--
+
+* `дағы` is the "locative adjectival" affix,<cite>KK</cite> but knowing that alone doesn't really describe what it's used for. A site on using computers in Kazakh translates it as indicating "the one that is/belongs", thus "the place that is in your brain".<cite>Engime</cite>
 
 --GLOSS--
 Оу, мен кеткен едім үйлеріңнен: «тар» деп,
+yo, {1SG.NOM} leave-{PST} {AUX-PST-1SG} house-{2PL.POSS}-{ABL} cramped say-{CONV}
+{!} Yo, I left your house saying it's cramped.
+{!} Yo, I left your house saying it was cramped.
 --ENDGLOSS--
+
+* `үйлерің` is not indicating "houses", but rather "your.(polite) house".
+* `е` is an irregular verb from which auxilaries are formed<cite>KP</cite>. **KK** lists `еді` as the <abbr>3SG.PST</abbr> of `етіс` and **RW** has `едім` attested for on page 175.
+* The past tense modifier `-ДІ` indicates "anterior events that are presented as a whole"<cite>RW 176</cite>, implying that the leaving and saying "it's cramped" is the entirety of the past event.
+* The ablative is used to describe an action way from, e.g. left (away) from your house.
 
 --GLOSS--
 Енді қарамаймын терезеден,
+now 'look at-{NEG}-{PRS}-{1SG}' window-{ABL}
+{!} Now look out the window
+{!} Now I do not sit by the window,
 --ENDGLOSS--
 
 --GLOSS--
-Алаңдамаймын:»уайым іштен келмесе» деп,
+Алаңдамаймын: «уайым іштен келмесе» деп,
+worry-{NEG}-{PRS}-{1SG} grief stomach-{ABL} come-{NEG}-{COND} say-{CONV}
+{!} I'm not worried, "there are no butterflies in my stomach"
+{!} I'm not worried that my fears will cover me from behind.
 --ENDGLOSS--
+
+* Literally, `«уайым іштен келмесе»` is something more like "Grief/woe couldn't come from my stomach", but since "from my stomach" is a common Kazakh idomatic structure,<cite>AM</cite> I translated it as an idiom.
 
 --GLOSS--
 Қысымынан құлаймын көздерінің,
+pressure-{POSS-3}-{ABL} fail-{PRS-1SG} eye-{PL}-{POSS-3}-{GEN}-{3SG}
+{!} I will fail from the pressure of your eye
+{!} Either their judgement will crush me,
 --ENDGLOSS--
+
+* I'm pretty sure that `нан` here is the ablative, but I would have expected `дан` instead. That said, if it _is_ the ablative, then it's likely the usage of the ablative as the "adverbial of cause",<cite>RW 229</cite> indicating that "the pressure of your eye" (i.e. judgement) will cause me to fail.
 
 --GLOSS--
 Немесе, мен оны байқамаймын қиялымен теңесе де,
+or {1SG.NOM} {3SG.ACC} notice-{NEG-PRS-1SG} imagination-{POSS-3}-{INS} corespond-{COND}-{3SG} and
+{!} Or although I correspond with their imagination, I will not notice it
+{!} Or I will pass by not noticing them, even if I do not correspond to their perception.
 --ENDGLOSS--
+
+* `теңеу:to equalize with` is given in the dictionaries, but "correspond to" words better with "imagination".
+* The use of `-сА + ДА` marks a finite concessive clause, that is, a condition that occurs in contrast to the subordinate clause: "although ...`-сА + ДА`, XYZ happens"<cite>RW §1.10</cite>.
+* The English and the Kazakh differ here (plus the previous sentence) in the number of adjectives. Putting on my critical-lens cap, it seems to imply NinetyOne is trying to walk a fine line between not succumbing to societal pressures either negative or positive. The other option is that I got the grammar wrong and the negatives corresond to the English translation as expected.
 
 --GLOSS--
 Көре алмаған сайын, алыстаймын екі есе мен,
+{m} 'be envious-{PERF}' everytime 'move away-{PRS}-{1SG}' {m} twofold {1SG}
+{!} Everytime one is jealous, I move away twofold
+{!} The more jealousy, the farther I am
 --ENDGLOSS--
+
+* `есе:portion, share` and `екі:two`, thus "twofold".
+* `көре алмаған:to be envious`<cite>RW §1.15.5</cite>
 
 --GLOSS--
 Сен іш дайындаған «шайыңды» «кесемен»!
+{2SG.NOM} inside prepare-{PERF} tea-{2SG.POSS}-{ACC} кесе-{INS}
+{!} You are inside having prepared your tea and кесе.
+{!} But you continue drinking "tea" from the joint kettle.
 --ENDGLOSS--
 
-
---GLOSS--
-(Сонымен?)
---ENDGLOSS--
+* `іш` could mean "inside" or the impartive of "to drink" (`ішу`). Since the imparative doesn't really work here, I think it's "inside".
+* `кесе` is a traditional tea drinking bowl.
+* I don't know why the lyrics use quotation marks.
 
 --GLOSS--
 Сонымен, бəрі ойдағыдай, берілмеймін оңай.
---ENDGLOSS--
-
---GLOSS--
-(Солай де…)
+so, all accordingly 'give up-{NEG}-{PRS}-{1SG}' easily
+{!} So, all goes accordingly, I will not give up easily.
+{!} So, all according to plan, I will not give up so fast.
 --ENDGLOSS--
 
 --GLOSS--
 Солай, иə
+so, yes
+{!} So, yeah
+{!} That’s it
 --ENDGLOSS--
 
 --GLOSS--
 Бəрі ойдағыдай, берілме оңай!
---ENDGLOSS--
-
-
---GLOSS--
-Сенбеген таптайды, сен құлағанда тайып,
---ENDGLOSS--
-
---GLOSS--
-Болмайды олай!
+all accordingly, 'give up-{NEG}-{IMP}' easily
+{!} All goes accordingly, do not give up easily!
+{!} All according to plan, do not give up so fast.
 --ENDGLOSS--
 
 --GLOSS--
-Білмеймін кім қандай,
+Анам айтатын маған: «тізеңді құшақтама» деп,
+mom-{1SG.POSS} say-{HAB.PST} {1SG.DAT} knee-{2SG.POSS}-{ACC} hug-{NEG}-{IMP} say-{CONV}
+{!} Mom would say to me: "don't hug your knees"
+{!} Mom used to said to me: "do not sit hugging your knees"
 --ENDGLOSS--
 
---GLOSS--
-Бірақ сенуге əрдайым мендік жүрек дайын!
---ENDGLOSS--
-
-
---GLOSS--
-Анам айтатын маған:»тізеңді құшақтама» деп,
---ENDGLOSS--
+* `-АтІн` marks the habitual past tense.<cite>RW 179</cite>
 
 --GLOSS--
 Ал мен түсінбей тұрмын, не үшін солай отырғанымды əлі…
+but {1SG.NOM} understand-{NEG}-{CONV} {AUX-1SG} what for so sit-{ҒАН}-{1SG.POSS}-{ACC} still
+{!} But I still do not understand what my sitting is for…
+{!} And I still do not understand why I'm still sitting like this…
 --ENDGLOSS--
+
+* `-А тұр` "implies action should not be done for a while"<cite>RW 127</cite>, though I'm not sure how that works with "understanding".
+* `үшін:for` is a post-position that follows verbs or verbal nouns
+* `-ҒАН` is also used to indicate nonfinite noun clauses, which "function as the object of transitive verbs".<cite>RW §1.5.1</cite>
 
 --GLOSS--
 Бөтен бе бəрі? Бір күннің астында бөтен бе бəрі?
+outsider {QP} all? one sun-{GEN} bottom-{POSS-3}-{LOC} outsider {QP} all?
+{!} Is everyone a stranger? During the day, is everyone a stranger?
+{!} We are strangers to each other? Under one sun we are strangers to each other?
 --ENDGLOSS--
+
+* `бөтен:describing a person who is considered foreign, alien, or deemed an oursider, or stranger`<cite>KP</cite>
+* `бәрі:all, everyone`<cite>RW 249</cite>
+* `МА`, given here as `бе` is a question particle, indicating the phrase is a question.
+* Possesive marked postpositions (`аст` in this case) are used to express a temporal relationship between the <abbr>GEN</abbr> marked noun. Thus, `күннің астында` is the time one is "under the sun".<cite>RW 260</cite>
 
 --GLOSS--
 Əлемде расында бөтен бе бəрі?
+world-{LOC} 'in fact' outsider {QP} everyone
+{!} In the world, is everyone, in fact, a stranger?
+{!} In the world, in fact, all the strangers to each other?
 --ENDGLOSS--
 
 --GLOSS--
 Ай ай ай, жалғасса əрі, шынайы бақыттың жоғалды мəні! Ай ай ай ай
+ay ay ay continue-{COND-3} there genuine happiness-{GEN} vanish-{PST} meaning-{POSS-3} ay ay ay
+{!} Oh oh oh, if it continues to there, the meaning of genuine happiness will vanish! Oh oh oh oh
+{!} Oh oh,if this continues, the meaning of true happiness will be lost!
 --ENDGLOSS--
 
-
---GLOSS--
-Ай ай солай иə, Ай ай солай иə
---ENDGLOSS--
-
-
-
-
-
-# мұз
-
-http://engime.org/kesibi-aza-tili-penin-oitu-edistemelik-keshen.html?page=7
-
-Есте сақтаңыз.
-
-В казахском языке суффиксы -тағы, -тегі, -дағы, -дегі присоединяются к именам существительным, образуя имена прилагательные находящихся в местном падеже, и переводятся как «тот, который находится», «тот, который принадлежит»: компьютердегі файлдар (файлы, которые на компьютерах), менің папкамдағы фаилдар (файлы, которые на мойх папках), компьютер үстеліндегі флешка (флешка, которая лежит на компьютерном столе) и т.д. 
-
-Translated with Google Translate:
-
-In the Kazakh language, the suffixes -tags, -tags, -data, -degi are appended to the nouns, forming adjectives in the local case, and translated as "the one that is", "the one that belongs": the computer file (files, which are on computers), the folder folders (files that are on my folders), the computer үstelindeigi flash drive (a flash drive that lies on a computer desk), etc.
+* `əрі:there` refers to the state of the world in the line preceding.
