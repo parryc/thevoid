@@ -1,4 +1,4 @@
-A line by line translation and grammatical notation of [Mooz/Мұз/Cold by Ninety One](https://www.youtube.com/watch?v=dgU0Q9e-g0I). Below you will see a series of what are called 'glosses', a linguistic term to describe breaking down a sentence into its constituent parts and identifying grammatical properties of each word. As the reader, you should use this as a guide to see what exactly each word is doing in each sentence. 
+A line by line translation and grammatical notation of [Mooz/Мұз/Ice by Ninety One](https://www.youtube.com/watch?v=dgU0Q9e-g0I). Below you will see a series of what are called 'glosses', a linguistic term to describe breaking down a sentence into its constituent parts and identifying grammatical properties of each word. As the reader, you should use this as a guide to see what exactly each word is doing in each sentence. 
 
 The glosses consist of four lines:
 
@@ -21,20 +21,19 @@ These resources were invaluable in helping figure out and confirm the sometimes 
 ### Grammars
 
 * **RW** _Kazakh: A Comprehensive Grammar_ by Raihan Muhamedowa, Routledge 2016.
-* **ZB** _Colloquial Kazakh_ by Zaure Batayeva, Routledge 2013.
-* **FK** _Verbal Aspect Problems and the Aspect of the Kazakh Language_ by Fazira Kakzhanova, [presented at ConCALL-2](https://www.youtube.com/watch?v=P_ueGZEmVkg) 2016. ([PDF](http://www.indiana.edu/~concall/images/pdf/P13%20-%20Fazira%20Kakzhanova.pdf))
-* **LC** _Language Canvas: Beginners Kazakh_, [online](https://languagecanvas.com/languages/kazakh/beginning-kazakh/).
+* **KK** _Kazakh (Qazaq-) Grammatical Sketch with Affix List_ by Karl A. Krippes, Hieroglyphic Press 1993, accessed [online](http://highlandsun.com/hyc/Kazakh/34/).
+* **Engime** _«Кәсіби қазақ тілі» пәнін оқыту-әдістемелік кешен_, [Engime.org](http://engime.org/kesibi-aza-tili-penin-oitu-edistemelik-keshen.html?page=7) 2016.
 * **AM** _A Learner's Dictionary of Kazakh Idioms_ by Akmaral Mukan, Georgetown University Press 2012.
-
-* **MEREY** 
-* **sozdik.kz**
-* **KK** http://highlandsun.com/hyc/Kazakh/34/
-* **Engime** http://engime.org/kesibi-aza-tili-penin-oitu-edistemelik-keshen.html?page=7
 
 ### Dictionaries
 
 * **KP** _Knowledge Partners Dictionary_, [online](http://knowledgepartners.kz/).
 * **30k** _30000 word KZ-EN/EN-KZ dictionary_, Аруна 2015.
+* **sozdik.kz** _sozdik.kz_, [online](https://sozdik.kz/).
+
+### Miscellaneous
+
+* **MEREY** _Merey I._, Personal Communication, WhatsApp 2017.
 
 ## Grammar Points
 
@@ -117,9 +116,9 @@ Click on a line to be directed to the gloss.
 [Əлемде расында бөтен бе бəрі?](#leipzig-line-25)
 [Ай ай ай, жалғасса əрі, шынайы бақыттың жоғалды мəні! Ай ай ай ай](#leipzig-line-26)
 
-[Ай ай солай иə, Ай ай солай иə](#leipzig-line-27)
+[Ай ай солай иə, Ай ай солай иə](#leipzig-line-20)
 Ай ай ай ай
-[Ай ай солай иə, Ай ай солай иə](#leipzig-line-27)
+[Ай ай солай иə, Ай ай солай иə](#leipzig-line-20)
 Ай ай ай ай
 
 When you feel alone,
@@ -156,7 +155,7 @@ but {1SG.LOC} dream existant
 
 --GLOSS--
 Солай де, білемін сенің де таңдауың бар,
-so {EMPH}, know-{PRS}-{1SG} {GEN.2SG} also choice-{VN}-{POSS-3} exist
+so {EMPH}, know-{PRS}-{1SG} {2SG.GEN} also choice-{VN}-{POSS-3} exist
 {!} I know that you have a choice
 {!} I know that you also have a choice
 --ENDGLOSS--
@@ -165,7 +164,7 @@ so {EMPH}, know-{PRS}-{1SG} {GEN.2SG} also choice-{VN}-{POSS-3} exist
 
 --GLOSS--
 сенде арман бар
-{LOC.2SG} dream existent.
+{2SG.LOC} dream existent.
 {!} And you have a dream
 {!} You have a dream
 --ENDGLOSS--
@@ -174,7 +173,7 @@ so {EMPH}, know-{PRS}-{1SG} {GEN.2SG} also choice-{VN}-{POSS-3} exist
 
 --GLOSS--
 Сенбеген таптайды, сен құлағанда тайып,
-believe-{NEG}-{PTCP} trample-{PRS}-{3}, {NOM.2SG} fall-{ГАндА} slip-{CONV},
+believe-{NEG}-{PTCP} trample-{PRS}-{3}, {2SG.NOM} fall-{ГАндА} slip-{CONV},
 {!} The one who does not believe in you, will trample you, as soon as you strumble
 {!} The one who does not believe will trample you, after you slip and fall
 --ENDGLOSS--
@@ -196,7 +195,7 @@ do-{NEG}-{PRS}-3 so
 Білмеймін кім қандай,
 know-{NEG}-{PRS}-{1SG} who-{NOM} 'what kind of'
 {!} I do not know who is who
-{!} I do not know how whoever is
+{!} I do not know how they are
 --ENDGLOSS--
 
 --GLOSS--
@@ -214,7 +213,7 @@ but believe-{VN}-{DAT} always {1SG.NOM}-{ЛІк} heart ready
 --GLOSS--
 Неге бəрі мұз?
 why all ice
-{!} Why everyone so cold?
+{!} Why is everyone so cold?
 {!} Why is everything ice?
 --ENDGLOSS--
 
@@ -263,8 +262,8 @@ now 'look at-{NEG}-{PRS}-{1SG}' window-{ABL}
 --GLOSS--
 Алаңдамаймын: «уайым іштен келмесе» деп,
 worry-{NEG}-{PRS}-{1SG} grief stomach-{ABL} come-{NEG}-{COND} say-{CONV}
-{!} I'm not worried, "there are no butterflies in my stomach"
 {!} I'm not worried that my fears will cover me from behind.
+{!} I'm not worried, "there are no butterflies in my stomach"
 --ENDGLOSS--
 
 * Literally, `«уайым іштен келмесе»` is something more like "Grief/woe couldn't come from my stomach", but since "from my stomach" is a common Kazakh idomatic structure,<cite>AM</cite> I translated it as an idiom.
@@ -272,8 +271,8 @@ worry-{NEG}-{PRS}-{1SG} grief stomach-{ABL} come-{NEG}-{COND} say-{CONV}
 --GLOSS--
 Қысымынан құлаймын көздерінің,
 pressure-{POSS-3}-{ABL} fail-{PRS-1SG} eye-{PL}-{POSS-3}-{GEN}-{3SG}
-{!} I will fail from the pressure of your eye
 {!} Either their judgement will crush me,
+{!} I will fail from the pressure of your eye
 --ENDGLOSS--
 
 * I'm pretty sure that `нан` here is the ablative, but I would have expected `дан` instead. That said, if it _is_ the ablative, then it's likely the usage of the ablative as the "adverbial of cause",<cite>RW 229</cite> indicating that "the pressure of your eye" (i.e. judgement) will cause me to fail.
@@ -281,8 +280,8 @@ pressure-{POSS-3}-{ABL} fail-{PRS-1SG} eye-{PL}-{POSS-3}-{GEN}-{3SG}
 --GLOSS--
 Немесе, мен оны байқамаймын қиялымен теңесе де,
 or {1SG.NOM} {3SG.ACC} notice-{NEG-PRS-1SG} imagination-{POSS-3}-{INS} corespond-{COND}-{3SG} and
-{!} Or although I correspond with their imagination, I will not notice it
-{!} Or I will pass by not noticing them, even if I do not correspond to their perception.
+{!} Or I will pass by not noticing them, even if I do not correspond to their 
+{!} Or although I correspond with their imagination, I will not notice itperception.
 --ENDGLOSS--
 
 * `теңеу:to equalize with` is given in the dictionaries, but "correspond to" words better with "imagination".
@@ -292,8 +291,8 @@ or {1SG.NOM} {3SG.ACC} notice-{NEG-PRS-1SG} imagination-{POSS-3}-{INS} corespond
 --GLOSS--
 Көре алмаған сайын, алыстаймын екі есе мен,
 {m} 'be envious-{PERF}' everytime 'move away-{PRS}-{1SG}' {m} twofold {1SG}
-{!} Everytime one is jealous, I move away twofold
 {!} The more jealousy, the farther I am
+{!} Everytime one is jealous, I move away twofold
 --ENDGLOSS--
 
 * `есе:portion, share` and `екі:two`, thus "twofold".
@@ -302,8 +301,8 @@ or {1SG.NOM} {3SG.ACC} notice-{NEG-PRS-1SG} imagination-{POSS-3}-{INS} corespond
 --GLOSS--
 Сен іш дайындаған «шайыңды» «кесемен»!
 {2SG.NOM} inside prepare-{PERF} tea-{2SG.POSS}-{ACC} кесе-{INS}
-{!} You are inside having prepared your tea and кесе.
 {!} But you continue drinking "tea" from the joint kettle.
+{!} You are inside having prepared your tea and кесе.
 --ENDGLOSS--
 
 * `іш` could mean "inside" or the impartive of "to drink" (`ішу`). Since the imparative doesn't really work here, I think it's "inside".
@@ -313,29 +312,29 @@ or {1SG.NOM} {3SG.ACC} notice-{NEG-PRS-1SG} imagination-{POSS-3}-{INS} corespond
 --GLOSS--
 Сонымен, бəрі ойдағыдай, берілмеймін оңай.
 so, all accordingly 'give up-{NEG}-{PRS}-{1SG}' easily
-{!} So, all goes accordingly, I will not give up easily.
 {!} So, all according to plan, I will not give up so fast.
+{!} So, all goes accordingly, I will not give up easily.
 --ENDGLOSS--
 
 --GLOSS--
 Солай, иə
 so, yes
-{!} So, yeah
 {!} That’s it
+{!} So, yeah
 --ENDGLOSS--
 
 --GLOSS--
 Бəрі ойдағыдай, берілме оңай!
 all accordingly, 'give up-{NEG}-{IMP}' easily
-{!} All goes accordingly, do not give up easily!
 {!} All according to plan, do not give up so fast.
+{!} All goes accordingly, do not give up easily!
 --ENDGLOSS--
 
 --GLOSS--
 Анам айтатын маған: «тізеңді құшақтама» деп,
 mom-{1SG.POSS} say-{HAB.PST} {1SG.DAT} knee-{2SG.POSS}-{ACC} hug-{NEG}-{IMP} say-{CONV}
-{!} Mom would say to me: "don't hug your knees"
 {!} Mom used to said to me: "do not sit hugging your knees"
+{!} Mom would say to me: "don't hug your knees"
 --ENDGLOSS--
 
 * `-АтІн` marks the habitual past tense.<cite>RW 179</cite>
@@ -343,8 +342,8 @@ mom-{1SG.POSS} say-{HAB.PST} {1SG.DAT} knee-{2SG.POSS}-{ACC} hug-{NEG}-{IMP} say
 --GLOSS--
 Ал мен түсінбей тұрмын, не үшін солай отырғанымды əлі…
 but {1SG.NOM} understand-{NEG}-{CONV} {AUX-1SG} what for so sit-{ҒАН}-{1SG.POSS}-{ACC} still
-{!} But I still do not understand what my sitting is for…
 {!} And I still do not understand why I'm still sitting like this…
+{!} But I still do not understand what my sitting is for…
 --ENDGLOSS--
 
 * `-А тұр` "implies action should not be done for a while"<cite>RW 127</cite>, though I'm not sure how that works with "understanding".
@@ -354,8 +353,8 @@ but {1SG.NOM} understand-{NEG}-{CONV} {AUX-1SG} what for so sit-{ҒАН}-{1SG.PO
 --GLOSS--
 Бөтен бе бəрі? Бір күннің астында бөтен бе бəрі?
 outsider {QP} all? one sun-{GEN} bottom-{POSS-3}-{LOC} outsider {QP} all?
-{!} Is everyone a stranger? During the day, is everyone a stranger?
 {!} We are strangers to each other? Under one sun we are strangers to each other?
+{!} Is everyone a stranger? During the day, is everyone a stranger?
 --ENDGLOSS--
 
 * `бөтен:describing a person who is considered foreign, alien, or deemed an oursider, or stranger`<cite>KP</cite>
@@ -366,15 +365,15 @@ outsider {QP} all? one sun-{GEN} bottom-{POSS-3}-{LOC} outsider {QP} all?
 --GLOSS--
 Əлемде расында бөтен бе бəрі?
 world-{LOC} 'in fact' outsider {QP} everyone
-{!} In the world, is everyone, in fact, a stranger?
 {!} In the world, in fact, all the strangers to each other?
+{!} Throughout the world, is everyone, in fact, a stranger?
 --ENDGLOSS--
 
 --GLOSS--
 Ай ай ай, жалғасса əрі, шынайы бақыттың жоғалды мəні! Ай ай ай ай
-ay ay ay continue-{COND-3} there genuine happiness-{GEN} vanish-{PST} meaning-{POSS-3} ay ay ay
-{!} Oh oh oh, if it continues to there, the meaning of genuine happiness will vanish! Oh oh oh oh
+ay ay ay continue-{COND-3} there genuine happiness-{GEN} vanish-{PST} meaning-{POSS-3} ay ay ay ay
 {!} Oh oh,if this continues, the meaning of true happiness will be lost!
+{!} Oh oh oh, if it continues to there, the meaning of genuine happiness will vanish! Oh oh oh oh
 --ENDGLOSS--
 
 * `əрі:there` refers to the state of the world in the line preceding.
