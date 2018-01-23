@@ -346,7 +346,7 @@ but {1SG.NOM} understand-{NEG}-{CONV} {AUX-1SG} what for so sit-{ҒАН}-{1SG.PO
 {!} But I still do not understand what my sitting is for…
 --ENDGLOSS--
 
-* `-А тұр` "implies action should not be done for a while"<cite>RW 127</cite>, though I'm not sure how that works with "understanding".
+* `-А тұр` is used to indicate that the action is not done for the moment<cite>RW Pers. Comm.</cite>, i.e. "I do not understand for the moment".
 * `үшін:for` is a post-position that follows verbs or verbal nouns
 * `-ҒАН` is also used to indicate nonfinite noun clauses, which "function as the object of transitive verbs".<cite>RW §1.5.1</cite>
 
