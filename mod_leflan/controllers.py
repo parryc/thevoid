@@ -187,6 +187,7 @@ def get_html(page):
                      ,'markdown.extensions.def_list'
                      ,'markdown.extensions.abbr'
                      ,'markdown.extensions.footnotes'
+                     ,'mod_leflan.furigana'
                      ,BracketTable()
                      ,'doctor_leipzig.doctor_leipzig'])
 
