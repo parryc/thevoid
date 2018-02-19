@@ -189,7 +189,8 @@ def get_html(page):
                      ,'markdown.extensions.footnotes'
                      ,'mod_leflan.furigana'
                      ,BracketTable()
-                     ,'doctor_leipzig.doctor_leipzig'])
+                     ,'doctor_leipzig.doctor_leipzig'
+                     ,'mod_leflan.examples'])
 
 def _title(page):
   return page.replace('-',' ')

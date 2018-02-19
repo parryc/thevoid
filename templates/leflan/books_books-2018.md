@@ -3,3 +3,4 @@
 * _Panthers in the Hole_ - Bruno Cénou and David Cénou
 * _The Sea & Civilization_ - Lincoln Paine
 * _All the Birds in the Sky_ - Charlie Jane Anders
+* _Onigamiising_ - Linda LeGarde Grover

@@ -122,6 +122,66 @@ tag {
   margin-left: 1em;
 }
 
+/************
+Examples
+************/
+
+/* https://siongui.github.io/2017/02/27/css-only-toggle-dom-element/ */
+label {
+  cursor: pointer;
+}
+
+#example-toggle-1, #example-toggle-1:not(:checked) ~ .example-block,
+#example-toggle-2, #example-toggle-2:not(:checked) ~ .example-block,
+#example-toggle-3, #example-toggle-3:not(:checked) ~ .example-block,
+#example-toggle-4, #example-toggle-4:not(:checked) ~ .example-block,
+#example-toggle-5, #example-toggle-5:not(:checked) ~ .example-block,
+#example-toggle-6, #example-toggle-6:not(:checked) ~ .example-block,
+#example-toggle-7, #example-toggle-7:not(:checked) ~ .example-block,
+#example-toggle-8, #example-toggle-8:not(:checked) ~ .example-block,
+#example-toggle-9, #example-toggle-9:not(:checked) ~ .example-block,
+#example-toggle-10, #example-toggle-10:not(:checked) ~ .example-block {
+  display: none;
+}
+
+.example-block {
+  border-left: .4rem dotted rgba(255,110,110,0.65);
+}
+
+.example-header {
+  font-size: 0.6em;
+  padding: 5px 8px 5px 8px;
+  background: #444;
+  color: white;
+  border-radius: 15px;
+}
+
+.example-header:hover {
+  background: black;
+}
+
+.example-list {
+  margin-left: 1.6em;
+  list-style-type: upper-alpha;
+}
+
+.example-list li {
+  margin-top: 0.4em;
+}
+
+.example-note:before {
+  content: "⇾ ";
+}
+
+.example-note {
+  font-size: 0.7em;
+}
+
+.example-target {
+  font-style: italic;
+  font-size: 0.85em;
+}
+
 /*************
 Bracket Table
 *************/

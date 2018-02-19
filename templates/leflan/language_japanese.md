@@ -44,3 +44,9 @@ Plural marker?　”たち"? e.g. 女の人たちは
 もって(have) mo+x+tsu+te
 <ruby><rb>散歩</rb><rt>さんぽ</rt></ruby> some text following
 
+--EX--
+わたしわ日本人です。
+I am a Japanese DUUUUDE.
+わたしわ日本人です。
+I am a Japanese LAD. // this is a note about the STUFF
+--ENDEX--

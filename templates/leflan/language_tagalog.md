@@ -6,11 +6,11 @@
 
 ANG pronouns serve as the topic of a sentence. 
 
- sg        | pl
------------|----
- ako       | kami
- ka/ikaw   | kayo
- siya/iyon | 
+ sg       | pl
+----------|----
+ ako      | kami
+ ka/ikaw  | kayo
+ siya/ito | 
 
 _kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw_ differs from _ka_ in that it can be used at the beginning of a sentence or by itself. _iyon_ is 3sg inanimate (it) and _siya_ is 3sg animate.
 
@@ -18,11 +18,11 @@ _kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw
 
 NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun.
 
- sg | pl
-----|----
- ko |
- mo |
-    |
+ sg   | pl
+------|----
+ ko   |
+ mo   |
+ iyon |
 
 ## Verbs
 
@@ -66,13 +66,22 @@ ang
 : topic marker
 
 ba
-: quetion particle. Follows pronouns with one syllable. Ex. _Nagsaslita ka ba ng Tagalog?_:Can you speak Tagalog?
+: quetion particle. Follows pronouns with one syllable. In a sentence without a monosyllabic prnoun, _ba_ follows the first full word. Ex. _Nagsaslita ka ba ng Tagalog?_:Can you speak Tagalog?, _Nasa mapa ba iyon?_:Is it on the map?.
+
+may
+: existential particle. Indicates something exists, loosely translated as "there is". Ex. _May bangko dito_:There is a bank here.
 
 na
 : "Indicates an action has happened or is happening and its occurance was expected."<cite>Mango Languages</cite> One of two particles that occur after the first ful word in a sentence. Ex. _kamusta na po kayo?_:How have you been, ma'am?. If there is a single syllable pronoun, then it comes at the end: _kamusta ka na?_:How have you been?
 
+nasa
+: on, it. Ex. _Nasa mapa ba iyon?_:Is it on the map?.
+
 naman
 : adds politeness or certainty to a response. Ex. _Mabuti naman ako_:I am fine.
+
+sa
+: in, through, at. Ex. _Diyan lang sa labasa sa kabila_:Just there through the exit on the other side.
 
 si/sina
 : _si_ is the topic marker for personal names. _sina_ is for multiple people. Ex. _kamusta si Juan?_:How is Juan?
@@ -92,7 +101,7 @@ taga
 ## Postfixes
 
 ng
-: links between two verbs, ex. `pwedeng magtanong:can (I) ask?`, where _pwede_ is the standalone form. It also links two adjectives.
+: links between two verbs, ex. `pwedeng magtanong:can (I) ask?`, where _pwede_ is the standalone form. It also links two adjectives, noun+adj, qp+adv, noun+adv. Pretty much it links everything together constantly. Put it between every word, it'll be fun! Without doing much research, it looks like it marks the phrase which is modified by the following word, cf. _bang_ in _May bangko bang malapit dito?_:Is there a bank near here?.
 
 ## Politeness
 
