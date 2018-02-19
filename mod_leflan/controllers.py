@@ -126,8 +126,7 @@ def dictionary(language):
       continue
 
     try:
-      from string import strip
-      tags = map(strip, data[2].split(','))
+      tags = list(map(str.strip, data[2].split(',')))
       for tag in tags:
         if len(tag) > 0:
           tag_list.add(tag)
@@ -156,15 +155,25 @@ def dictionary(language):
         ,'english':''
         })
 
+    if '（' in data[0]:
+      matches = re.match(r'(.*?)\[(.+?)\]（([\u3040-\u3096]+?)）(.*)', data[0])
+      headword = '{0}<ruby><rb>{1}</rb><rt>{2}</rt></ruby>{3}'.format(matches.group(1),
+                                                                      matches.group(2),
+                                                                      matches.group(3),
+                                                                      matches.group(4))
+    else:
+      headword = data[0]
+
     entry = {
-      'headword':data[0]
+      'headword':headword
      ,'senses'  :senses
      ,'tags'    :tags
      ,'extra'   :extra
-    } 
+    }
     dictionary.append(entry)
 
-  dictionary = sorted(dictionary,key=lambda entry: entry['headword'])
+  # remove the beginning html which messes up sorting for Japanese words
+  dictionary = sorted(dictionary,key=lambda entry: entry['headword'].replace('<ruby><rb>',''))
   tag_list   = sorted(tag_list)
 
   return render_template('leflan/dictionary.html',dictionary=dictionary
