@@ -154,7 +154,7 @@ It is now one o'clock
 
 ## Bibliography
 * <source id="DBJG">_A Dictionary of Basic Japanese Grammar_, Seiichi Makino and Michio Tsutsui, The Japan Times, 1986.</source>
-* <soucre id="MJC">[My Japanese Class](https://myjapaneseclass.blogspot.com)</soucre>
+* <soucre id="MJC">[My Japanese Class](https://myjapaneseclass.wordpress.com)</source>
 
 ## Dictionary
 [le flaneur's japanese dictionary](japanese/dict)

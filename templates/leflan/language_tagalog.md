@@ -1,6 +1,10 @@
 [TOC]
 
+Note: An accent mark over a vowel indicates that that syllable has stress. It is included randomly, since I don't always explicitly mark it in my notes.
+
 ## Nouns
+
+_mga_ is used to form plurals, ex. _mga restawran_:restaurants. _Mga_ is not used when a number is used, ex. _limang piso_:5 pesos.
 
 ### ANG Pronouns
 
@@ -14,6 +18,8 @@ ANG pronouns serve as the topic of a sentence.
 
 _kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw_ differs from _ka_ in that it can be used at the beginning of a sentence or by itself. _iyon_ is 3sg inanimate (it) and _siya_ is 3sg animate.
 
+When _ka_ is followed by a particle like _lamang_:just or _lang_:just, it is not followed by _ng_, ex. _maglakad ka lang_:just walk!
+
 ### NG Pronouns
 
 NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun.
@@ -21,7 +27,7 @@ NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun.
  sg   | pl
 ------|----
  ko   |
- mo   |
+ mo   | ninyo
  iyon |
 
 ## Verbs
@@ -63,7 +69,7 @@ For example with root `mag-ingat:to be careful`.
 ## Particles
 
 ang
-: topic marker
+: topic marker.  In rapid speech, it is often dropped, or if the preceding word begins with a vowel, realized as _-ng_.
 
 ba
 : quetion particle. Follows pronouns with one syllable. In a sentence without a monosyllabic prnoun, _ba_ follows the first full word. Ex. _Nagsaslita ka ba ng Tagalog?_:Can you speak Tagalog?, _Nasa mapa ba iyon?_:Is it on the map?.
@@ -72,7 +78,7 @@ may
 : existential particle. Indicates something exists, loosely translated as "there is". Ex. _May bangko dito_:There is a bank here.
 
 na
-: "Indicates an action has happened or is happening and its occurance was expected."<cite>Mango Languages</cite> One of two particles that occur after the first ful word in a sentence. Ex. _kamusta na po kayo?_:How have you been, ma'am?. If there is a single syllable pronoun, then it comes at the end: _kamusta ka na?_:How have you been?
+: "Indicates an action has happened or is happening and its occurance was expected."<cite>Mango Languages</cite> One of two particles that occur after the first full word in a sentence. Ex. _kamusta na po kayo?_:How have you been, ma'am?. If there is a single syllable pronoun, then it comes at the end: _kamusta ka na?_:How have you been?
 
 nasa
 : on, it. Ex. _Nasa mapa ba iyon?_:Is it on the map?.
@@ -88,12 +94,51 @@ si/sina
 
 ## Adjectives
 
-Add `ng` after an adjective that ends in a vowel, when it precedes a noun. Ex. _magandang umaga_:good morning, but literally "beautiful morning".  _Maganda_ is beautiful.
+Add `ng` after an adjective that ends in a vowel, when it precedes a noun. Ex. _magandang umaga_:good morning, but literally "beautiful morning".  _Maganda_ is beautiful. When the adjective ends in a vowel, use _na_ instead, ex. _apat na sumbrero_:4 hats.
+
+## Question Words
+
+ano
+: what
+
+kailan
+: when
+
+magkàno
+: how much
+
+paano
+: how
+
+saan
+: where
+
+sino
+: who
+
+--EX--
+Ano ang pangalan mo?
+What is your name?
+Paano ako makapupunta roon?
+How can I go there?
+Saan ang sakayan ng dyip?
+Where is the jeepney terminal?
+Taga-saan ka?
+Where are you from?
+Sino ang kasama mong nagbiyahe?
+Who traveled with you?
+--ENDEX--
 
 ## Prefixes
 
 ikina
 : indicates why the subject pefroms an action, _ikinagagalak kong makilala ka_ - by meeting/knowing you, I am pleased.
+
+mag
+: a verb forming prefix used with a noun or adjective, ex. _mag-dyip_:to take a jeepney.
+
+pa
+: action prefix, used with verbs to make requests, ex. _pabili_:I'll get...
 
 taga
 : a noun-forming prefix that denotes the origin of something, ex. _taga-saan ka?_:where are you from?, `saan:where`.
@@ -120,3 +165,30 @@ ay
 ### Negation
 
 _hindi_ negates sentences. Additionally, the pronoun comes before the verb. Ex. _Hindi ako nagasaslita_:I do not speak.
+
+## Numbers
+
+* 1 – isà
+* 2 – dalawà
+* 3 – tatlò
+* 4 – àpat
+* 5 – limà
+* 6 – ànim
+* 7 – pitò
+* 8 – walò
+* 9 – siyàm
+* 10 – sampù
+* 20 – dalawampu
+* 40 – apatnapu
+* 100 – daan/raan
+* 1000 – lìbo
+
+The linker _ng_ is used when combining numbers, such as _isang daan_:100.
+When a tens has a ones place, the linker is _'t_ (an abbreviation of _at_:and), ex. _dalawampu't lima_:25.
+
+The tens are merged form of `number` + sampu. In the case of 40, it is _apat_ + _na_ + _sampu_.
+
+Teens are formed by _labing_ + `number`. When `number` begins with a vowel, it is _labing-_ (_labing-isa_:11), when it is a consonant, it is _labin_ (_labindalawa_:12), and when it is 17, it is _labimpito_.
+
+## Dictionary
+[le flaneur's tagalog dictionary](tagalog/dict)
