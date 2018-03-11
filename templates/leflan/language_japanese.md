@@ -90,8 +90,10 @@ Change ます into る. Thus, たべます→食べる.
 --EX--
 [本屋]（ほんや）があります
 There is a bookstore // が follows what exists, in this case a 本屋.
-この辺に[本屋]（ほんや）がありますか？
+この[辺]（へん）に[本屋]（ほんや）がありますか？
 Is there a bookstore near here?
+東京ホテルは、この[地図]（ちず）のどこですか？
+Where is the Tokyo Hotel on this map? // の functions both as the possessive and as the locative particle in this example
 --ENDEX--
 
 ## Prepositions

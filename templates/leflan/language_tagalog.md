@@ -12,23 +12,35 @@ ANG pronouns serve as the topic of a sentence.
 
  sg       | pl
 ----------|----
- ako      | kami
+ ako      | kami/tayo
  ka/ikaw  | kayo
  siya/ito | 
 
 _kayo_ can also be used as the 2nd-person singular polite pronoun as well. _ikaw_ differs from _ka_ in that it can be used at the beginning of a sentence or by itself. _iyon_ is 3sg inanimate (it) and _siya_ is 3sg animate.
 
+_tayo_ is the inclusive 1st person plural.
+
 When _ka_ is followed by a particle like _lamang_:just or _lang_:just, it is not followed by _ng_, ex. _maglakad ka lang_:just walk!
 
 ### NG Pronouns
 
-NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun.
+NG pronouns serve as anything but topic of a sentence, ex. possessive pronoun. That is _ng_ cannot be used with these pronuns.
 
  sg   | pl
 ------|----
  ko   |
  mo   | ninyo
  iyon |
+
+### SA Pronouns
+
+Unlike NG pronouns above, these pronouns can be used with the _sa_ particle (this is not the locative one).
+
+  sg  | pl
+------|----
+      |
+ inyo |    
+      |
 
 ## Verbs
 
@@ -69,10 +81,10 @@ For example with root `mag-ingat:to be careful`.
 ## Particles
 
 ang
-: topic marker.  In rapid speech, it is often dropped, or if the preceding word begins with a vowel, realized as _-ng_.
+: topic marker.  In rapid speech, it is often dropped, or if the preceding word begins with a vowel, realized as _-ng_. It is often found after question words.
 
 ba
-: quetion particle. Follows pronouns with one syllable. In a sentence without a monosyllabic prnoun, _ba_ follows the first full word. Ex. _Nagsaslita ka ba ng Tagalog?_:Can you speak Tagalog?, _Nasa mapa ba iyon?_:Is it on the map?.
+: quetion particle. Follows pronouns with one syllable. In a sentence without a monosyllabic pronoun, _ba_ follows the first full word. Ex. _Nagsasalita ka ba ng Tagalog?_:Can you speak Tagalog?, _Nasa mapa ba iyon?_:Is it on the map?.
 
 may
 : existential particle. Indicates something exists, loosely translated as "there is". Ex. _May bangko dito_:There is a bank here.
@@ -92,6 +104,15 @@ sa
 si/sina
 : _si_ is the topic marker for personal names. _sina_ is for multiple people. Ex. _kamusta si Juan?_:How is Juan?
 
+--EX--
+May pamaypay ba kayo?
+Do you have fans?
+Nagbebenta ba kayo ng mga diksunaryo?
+Do you sell dictionaries?
+Ano ang sa inyo?
+What will you have/order?
+--ENDEX--
+
 ## Adjectives
 
 Add `ng` after an adjective that ends in a vowel, when it precedes a noun. Ex. _magandang umaga_:good morning, but literally "beautiful morning".  _Maganda_ is beautiful. When the adjective ends in a vowel, use _na_ instead, ex. _apat na sumbrero_:4 hats.
@@ -107,11 +128,14 @@ kailan
 magkàno
 : how much
 
+nasaan
+: where, specifically where something moveable (ex. a person) is. Contrast with _saan_.
+
 paano
 : how
 
 saan
-: where
+: where, specifically where an action takes place or something immoveable is. Contrast with _nasaan_.
 
 sino
 : who
@@ -121,8 +145,10 @@ Ano ang pangalan mo?
 What is your name?
 Paano ako makapupunta roon?
 How can I go there?
+Nasaan ang sukil ko?
+Where is my change? // Since "change" is non-stationary, we use _nasaan_ 
 Saan ang sakayan ng dyip?
-Where is the jeepney terminal?
+Where is the jeepney terminal? // Since the "jeepney terminal" is stationary, we use _saan_
 Taga-saan ka?
 Where are you from?
 Sino ang kasama mong nagbiyahe?

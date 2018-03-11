@@ -37,6 +37,11 @@ else:
 def favicon():
   return send_from_directory(os.path.join(app.root_path, 'static'),
                              'favicon.ico', mimetype='image/vnd.microsoft.icon')
+
+@mod_parryc.route('/keybase.txt', host=host)
+def keybase():
+  return send_from_directory(os.path.join(app.root_path, 'static'), 'keybase.txt')
+
 @mod_parryc.route('/css/<css>', host=host)
 def css(css):
   return send_from_directory(os.path.join(app.root_path, 'static/gen'), css)
