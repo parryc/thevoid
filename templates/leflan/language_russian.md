@@ -36,7 +36,7 @@ Possession, however, is indicated using "У {accusative pronoun} есть...", e
 
 Non-animate, masculine nouns do not normally change in the accusative. Feminine nouns ending in -а change to -у, -я to -ю.
 
-Phrases like "I want (lit. will be)" take the ACC. Ex. _Я буду рыбу_ (fish.NOM is _рыба_).
+In colloquial speech, some phrases, such as "I want (to eat) X", take the ACC. Ex. _Я буду рыбу_ (fish.NOM is _рыба_ and _буду_ is will.1SG.PST).<cite>[LH](#Languagehat)</cite>
 
 ### Prepositional
 
@@ -54,8 +54,6 @@ Feminine, -а becomes -ы., -г/к/х/я becomes и.
 ## Plural
 
 In the nominative case, most masculine nouns take the ending -ы in the plural form. If a masculine noun ends in -ец the vowel e is dropped before the plural ending is added. If the stem if г/к/х, then the plural is -и. Some masculine plural nouns end in -а. In these cases, the а is always stressed (ex. дома̀).<cite>[Babbel](#Babbel)</cite>
-
-
 
 # Adjectives
 
@@ -99,12 +97,8 @@ Past tense is formed by removing _ть_ from the infinitive and adding, in the s
 
 Regular past tense (был etc.).
 
-PRT
-: sg.    |pl.
----------|-------- 
-есмь     |есмы
-еси      |есте
-есть     |суть
+PRS
+: есть "has a limited usage in modern Russian but when used, it can refer to any person or number"<cite>[Wiktionary, есть](https://en.wiktionary.org/wiki/%D0%B1%D1%8B%D1%82%D1%8C)</cite>. Like my favorite _яама есть!_
 
 FUT
 : sg.    |pl.
@@ -116,7 +110,7 @@ FUT
 
 #### жить (to live)
 
-PRT
+PRS
 : sg.    |pl.
 ---------|-------- 
 живу     |живём
@@ -220,6 +214,7 @@ Put a comma after знать. Ex. Ты знаешь, где...?
 # Bibliography
 * <source id="Babbel">Babbel, [https://babbel.com](https://babbel.com)</source>
 * <source id="Higgenbottam">Higgenbottam, Frank. _Teach Yourself Russian Through Reading_. The English Universities Press Ltd., 1967.</source>
+* <source id="Languagehat">LanguageHat, [https://languagehat.com](https://languagehat.com)</source>
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
