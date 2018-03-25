@@ -186,9 +186,12 @@ def book(book):
   return render_template('leflan/post.html',html=html,title=_title(book))
 
 def get_html(page):
-  filepath = os.path.join(app.root_path, 'templates', page).encode('utf-8')
+  filepath = os.path.join(app.root_path, 'templates', page)
   input_file = codecs.open(filepath, mode="r", encoding="utf-8")
   text = input_file.read()
+  time = repo.git.log('-n 1','--format=%ci','--',filepath)
+  time = ' '.join(time.split(' ')[0:2])
+  text = '_Last updated {0}_\n\n'.format(time) + text
   return markdown.markdown(text,
           extensions=['markdown.extensions.nl2br'
                      ,'markdown.extensions.toc'
