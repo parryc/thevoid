@@ -38,6 +38,10 @@ bundles = {
                ,'css/style_parryc.css'
                ,'css/fonts/ptsans/fonts.css'
                ,filters='cssmin',output='gen/parryc.css'),
+  'corbin_css': Bundle('css/marx.min.css'
+               ,'css/style_corbin.css'
+               ,'css/fonts/ptsans/fonts.css'
+               ,filters='cssmin',output='gen/corbin.css'),
   'leflan_css': Bundle('css/marx.min.css'
                ,'css/style_leflan.css'
                ,'css/fonts/source-code-pro/source-code-pro.css'
@@ -105,3 +109,5 @@ from mod_parryc.controllers import mod_parryc
 app.register_blueprint(mod_parryc)
 from mod_leflan.controllers import mod_leflan
 app.register_blueprint(mod_leflan)
+from mod_corbin.controllers import mod_corbin
+app.register_blueprint(mod_corbin)

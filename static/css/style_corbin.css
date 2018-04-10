@@ -1,0 +1,50 @@
+body {
+  font-size: 18px;
+  line-height: 1.4;
+  font-family: "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: rgb(255,110,110);;
+}
+
+article {
+  width: 85%;
+  max-width: calc(85% - 1rem);
+}
+
+aside {
+  width: 25%;
+  max-width: calc(25% - 1rem);
+  padding-top: 25px;
+}
+
+section {
+  padding-top: 10px;
+  margin-bottom: -5px;
+}
+
+h3 {
+  font-size: 1.2em;
+}
+
+tag:before {
+  content: '#';
+  color: rgb(255,110,110);
+}
+
+header {
+  margin-bottom: 2em;
+}
+
+@media screen and (max-width: 40rem) {
+  article {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  aside {
+    width: inherit;
+    max-width: inherit;
+  }
+}
