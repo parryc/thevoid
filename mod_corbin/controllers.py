@@ -32,7 +32,7 @@ else:
 @mod_corbin.route('/favicon.ico', host=host)
 def favicon():
   return send_from_directory(os.path.join(app.root_path, 'static'),
-                             'favicon.ico', mimetype='image/vnd.microsoft.icon')
+                             'favicon_corbin.ico', mimetype='image/vnd.microsoft.icon')
 
 @mod_corbin.route('/css/<css>', host=host)
 def css(css):
@@ -50,7 +50,7 @@ def image(image):
 def index():
   page = 'corbin/index.md'
   html = get_html(page)
-  return render_template('corbin/post.html',html=html)
+  return render_template('corbin/post.html', html=html, t='corbin dewitt')
 
 @mod_corbin.route('/downloads/<doc>', methods=['GET'], host=host)
 def download(doc):
@@ -62,7 +62,7 @@ def page(title):
   html = get_html(page)
   if html == '<p>404</p>':
     return abort(404)
-  return render_template('corbin/post.html',html=html)
+  return render_template('corbin/post.html', html=html, t='{0} – corbin dewitt'.format(title))
 
 def get_html(page, dictionary_entry=False):
   filepath = os.path.join(app.root_path, 'templates', page)
