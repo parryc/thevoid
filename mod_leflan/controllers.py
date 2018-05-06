@@ -191,7 +191,11 @@ def get_html(page):
   git_page = os.path.join(folder, page.split('/')[-1])
   input_file = codecs.open(filepath, mode="r", encoding="utf-8")
   text = input_file.read()
-  time = repo.git.log('-n 1','--format=%ci','--', git_page)
+  print('leflan/index.md')
+  if page == 'leflan/index.md':
+    time = repo.git.log('-n 1','--format=%ci')
+  else:
+    time = repo.git.log('-n 1','--format=%ci','--', git_page)
   time = ' '.join(time.split(' ')[0:2])
   text = '_Last updated {0}_\n\n'.format(time) + text
   return markdown.markdown(text,

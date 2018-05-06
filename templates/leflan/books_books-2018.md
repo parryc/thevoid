@@ -7,3 +7,6 @@
 * _Japandemonium Illustrated: The Yokai Encyclopedias of Toriyama Sekien_ - Hiroko Yoda and Matt Alt
 * _Ellavut: Our Yup'ik World & Weather_ - Ann Fienup-Riordan and Alice Rearden
 * _Some Prefer Nettles_ - Jun'ichirō Tanizaki
+* _Hiroshima Bugi: Atomu 57_ - Gerald Vizenor
+* _Alice in Wonderland_ - Lewis Carroll
+* _The World of Pooh_ - A. A. Milne
