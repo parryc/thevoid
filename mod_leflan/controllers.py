@@ -191,9 +191,19 @@ def get_html(page):
   git_page = os.path.join(folder, page.split('/')[-1])
   input_file = codecs.open(filepath, mode="r", encoding="utf-8")
   text = input_file.read()
-  print('leflan/index.md')
+  print(page)
   if page == 'leflan/index.md':
     time = repo.git.log('-n 1','--format=%ci')
+  elif 'through-reading' in page:
+    path_parts = page.split('/')
+    if 'index.md' in page:
+      # go up to the folder level to get the most recent subpage's change
+      # page_parts = page.split('/')
+      git_page = os.path.join(folder, path_parts[-2])
+      time = repo.git.log('-n 1','--format=%ci','--', git_page)
+    else:
+      git_page = os.path.join(folder, path_parts[-2], path_parts[-1])
+      time = repo.git.log('-n 1','--format=%ci','--', git_page)
   else:
     time = repo.git.log('-n 1','--format=%ci','--', git_page)
   time = ' '.join(time.split(' ')[0:2])
