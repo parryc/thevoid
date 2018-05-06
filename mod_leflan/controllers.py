@@ -75,32 +75,32 @@ def r():
   page = 'leflan/index.md'
   html = get_html(page)
   html = _add_filelist('',html,show_tags=True)
-  return render_template('leflan/post.html',html=html,title='recent updates')
+  return render_template('leflan/post.html',html=html,title='recent updates',t=_t('recent updates'))
 
 @mod_leflan.route('/r/<category>', methods=['GET'], host=host)
 def category(category):
   html = _add_filelist(category,'')
-  return render_template('leflan/category.html',html=html,category=category)
+  return render_template('leflan/category.html',html=html,category=category,title=_title(category),t=_t(category))
 
 @mod_leflan.route('/r/learns/<language>', methods=['GET'], host=host)
 def language(language):
   page = 'leflan/language_%s.md' % language
   html = get_html(page)
-  return render_template('leflan/post.html',html=html,title=_title(language))
+  return render_template('leflan/post.html',html=html,title=_title(language),t=_t(language))
 
 @mod_leflan.route('/r/learns/<language>/through-reading', methods=['GET'], host=host)
 def through_reading_index(language):
   page = 'leflan/through-reading_%s/index.md' % language
   html = get_html(page)
   title = 'learn %s through reading' % language
-  return render_template('leflan/post.html',html=html,title=_title(title))
+  return render_template('leflan/post.html',html=html,title=_title(title),t=_t(title))
 
 @mod_leflan.route('/r/learns/<language>/through-reading/<post>', methods=['GET'], host=host)
 def through_reading_post(language, post):
   page = 'leflan/through-reading_%s/%s.md' % (language, post)
   html = get_html(page)
   title = 'learn %s through reading: %s' % (language, post.replace('_',' '))
-  return render_template('leflan/post.html',html=html,title=_title(title))
+  return render_template('leflan/post.html',html=html,title=_title(title),t=_t(title))
 
 @mod_leflan.route('/r/learns/<language>/dict', methods=['GET'], host=host)
 def dictionary(language):
@@ -184,7 +184,7 @@ def dictionary(language):
 def book(book):
   page = 'leflan/books_%s.md' % book
   html = get_html(page)
-  return render_template('leflan/post.html',html=html,title=_title(book))
+  return render_template('leflan/post.html',html=html,title=_title(book),t=_t(book))
 
 def get_html(page):
   filepath = os.path.join(app.root_path, 'templates', page)
@@ -222,6 +222,9 @@ def get_html(page):
 
 def _title(page):
   return page.replace('-',' ')
+
+def _t(t):
+  return 'le_flaneur | {0}'.format(_title(t))
 
 def _url(tag,page):
   if tag == 'through-reading':
