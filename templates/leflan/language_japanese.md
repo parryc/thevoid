@@ -148,8 +148,14 @@ Where are you from?
 どう
 : how
 
+どんな
+: what kind of
+
 いくら
 : how much
+
+いかが
+: how
 
 何
 : either なに if standalone or なん if attached to something (ex, 何時？:what time?)
@@ -164,20 +170,46 @@ Where is the toilet?
 How much is that pen?
 地図がありますから？
 Do you have maps?
+いかがですか？
+How is it?
+デザートはいかがですか？
+Would you like dessert?
 --ENDEX--
 
 ## Adjectives
 
-i-adjectives
-: all i-adjectives end in an explicit い, such as 高い, but all adjectives ending in い are i-adjectives, such as 嫌い. These exceptions are few. They can be used in front of a noun without change, ex. `高いシャツ:an expensive t-shirt`.
+_Note: this is not comprehensive of all possible politeness forms. Instead, it is just the default politeness that my learning materials have been using._
 
-na-adjectives
-: these adjectives require a な between the adjective and the noun, ex. `綺麗な人:a pretty person`.
+### i-adjectives
+
+All i-adjectives end in an explicit い, such as 高い, but all adjectives ending in い are i-adjectives, such as 嫌い. These exceptions are few. They can be used in front of a noun without change, ex. `高いシャツ:an expensive t-shirt`.
+
+* `いい:good` is the conjugated form. The root form is よい.
+
+Negation
+: Negation occurs with くない, ex. 面白い→面白くない (interesting→uninteresting).
+
+Past tense
+: Past tense is done with かった, ex. 高い→高かった (expensive→was expensive). This can also be done with negated adjectives, ex. 高くない→高くなかった (inexpensive→was inexpensive).<cite>[Tae Kim](#TK), [State of Being - Past](http://www.guidetojapanese.org/learn/complete/stateofbeing_past)</cite>
+
+### na-adjectives
+
+These adjectives require a な between the adjective and the noun, ex. `綺麗な人:a pretty person`.
 
 ## Miscellaneous
 
 [々]（のま）
 : indicates the preceding kanji should be repeated, ex. 日々:daily. More formally called [同じ]（おなじ）. 
+
+### Sentences
+
+"I like..."
+: Uses [好]（す）き, which like a na-adjective.
+
+--EX--
+君のおっぱいが好きです。
+I like your bosom ;)
+--ENDEX--
 
 ### Time
 
@@ -224,6 +256,7 @@ On Mac:
 ## Bibliography
 * <source id="DBJG">_A Dictionary of Basic Japanese Grammar_, Seiichi Makino and Michio Tsutsui, The Japan Times, 1986.</source>
 * <soucre id="MJC">[My Japanese Class](https://myjapaneseclass.wordpress.com)</source>
+* <source id="TK">[Tae Kim's Guide to Japanese](http://www.guidetojapanese.org/)</source>
 
 ## Dictionary
 [le flaneur's japanese dictionary](japanese/dict)
