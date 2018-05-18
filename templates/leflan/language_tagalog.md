@@ -387,7 +387,7 @@ In: Dryer, Matthew S. & Haspelmath, Martin (eds.)
 *[DEF]: Definitive
 *[REFL]: Reflexive
 *[PT]: Participle
-*[S]: Singular
+*[SG]: Singular
 *[PL]: Plural
 *[NOUN]: Noun
 *[UM]: -um-

@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'BPG Ingiri';
+    src: url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.eot'); /* IE9 Compat Modes */
+    src: url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.svg#bpg_ingiriregular') format('svg'); /* Legacy iOS */
+}

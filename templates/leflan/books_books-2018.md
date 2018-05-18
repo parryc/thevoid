@@ -11,3 +11,5 @@
 * _Alice in Wonderland_ - Lewis Carroll
 * _The World of Pooh_ - A. A. Milne
 * _From a Certain Point of View_ - Various Authors
+* _Unscripted America: Indigenous Languages and the Origins of a Literary Nation_ - Sarah Rivett
+* _The Legends of Luke Skywalker_ - Ken Liu
