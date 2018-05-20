@@ -84,7 +84,7 @@ root  | ∅           | alis (a departure), kain (the consumption of food)
 infinitive | um + _root_ | umalis (to leave), kumain (to eat)
 imperative | um + _root_ | umalis, kumain
 past | um + _root_ | umalis, kumain
-present | -um- + _ro_ + _root_ | umaalis, kumakain
+present | _r_ + -um- + _o_ + _root_ | umaalis, kumakain
 future | _ro_ + _root_ | aalis, kakain
 
 ### MAG verbs
@@ -117,7 +117,20 @@ puwede      | can, may
 
 ### Aspect
 
-For more information on aspect in Tagalog, see [Tagalog Reference Grammar, 369](#trg).
+There are three main types of aspect in Tagalog, plus one occasional aspect, depending on the verb. These are:
+
+* Completed
+* Uncompleted
+* Unstarted
+* (Optional) Recently Completed
+
+These are commonly indicated by either _in_ or _ni_ infixed in the root. For example, using _sabihin:to say_, from _sabi:something said_.
+
+* Completed: _sinabi_ "I said (and am done)"
+* Uncompleted: _sinasabi_ "I am saying (and haven't finished)"
+* Unstarted: _sasabihin_ "I haven't started saying"
+
+For more information on aspect in Tagalog, see [Tagalog Reference Grammar, 369](#trg) or [De Vos, 208-209](#devos).
 
 ## Particles
 
