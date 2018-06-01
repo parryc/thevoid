@@ -13,3 +13,4 @@
 * _From a Certain Point of View_ - Various Authors
 * _Unscripted America: Indigenous Languages and the Origins of a Literary Nation_ - Sarah Rivett
 * _The Legends of Luke Skywalker_ - Ken Liu
+* _Dictionaries volume 38 issue 2_ - ed. Edward Finegan

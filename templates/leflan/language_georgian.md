@@ -28,17 +28,36 @@ pl     | ესინი| ისინი
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთდები:lessons`.
 
 ა
-: functions as the 3sg copula, meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_.
+: functions as the 3sg copula, meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`
+
+ად
+: adverbializer, ex. `კარგი:good` → `კარგად:well`. Drop the final `ი` if exists and add `ად`, otherwise, keep the final vowel and add `დ`. This form is used for languages as well, `ქართულად:in Georgian`.
 
 ები
-: plural, ex. `გაკვეთილი:lesson` → `გაკვეთდები:lessons`
+: plural, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`
 
 ში
 : in, into, ex. `მანქანა:car` → `მანქანაში:in a/the car`
 
+ც
+: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Cannot be attached to a verb.
+
 ## Verbs
 
 Verbs, when listed, are listed with the "verbal noun" form, also referred to as [the _masdar_](https://en.wikipedia.org/wiki/Masdar). This is a common dictionary form, but some other dictionaries/phrasebooks may list other forms. 
+
+### Regular Verbs
+
+Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb.
+
+#### Present Tense
+
+&nbsp; |sg  |pl
+-|----|--
+1|ვ-  |
+2|-თ  |
+3|    |
+
 
 ### Irregular Verbs
 
@@ -71,10 +90,10 @@ Present Indicative
 : who
 
 რა
-: what
+: what. When combined with adjective with `-ა`, it means "how".<cite>[Kiziria, 49](#kiziria)</cite>
 
 როდის
-: where
+: when
 
 რიტომ
 : why
@@ -85,7 +104,14 @@ Present Indicative
 --EX--
 ვინ არის ეს?
 Who is this?
+რა საინტერესოა!
+How interesting!
 --ENDEX--
+
+## Bibliography
+
+* <source id="vogt">_Grammaire de la Langue Géorgienne_, Hans Vogt, Instituttet for Sammenlignende Kulturforskning, 1971.</source>
+* <source id="vogt">_Beginner's Georgian_, Dodona Kiziria, Hippocrene Books, 2009.</source>
 
 ## Dictionary
 [le flaneur's georgian dictionary](georgian/dict)
