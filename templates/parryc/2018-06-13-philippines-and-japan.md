@@ -55,7 +55,7 @@ _Shinjuku, Takao-San (高尾山), the Imperial Gardens, Meiji Jingu (明治神�
 
 ## Shuzenji
 
-_Home of fresh wasabi, hot springs, and the location where Natume Sōseki had a massive stomaoch hemorrhage in 1910._
+_Home of fresh wasabi, hot springs, and the location where Natume Sōseki had a massive stomach hemorrhage in 1910._
 
 <figure><img src="/images/ph-jp/preview_DSCF0824.jpg"/><a href="/images/ph-jp/DSCF0824.jpg">embiggen</a></figure>
 <figure><img src="/images/ph-jp/preview_DSCF0835.jpg"/><a href="/images/ph-jp/DSCF0835.jpg">embiggen</a></figure>
