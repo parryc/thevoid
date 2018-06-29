@@ -1,8 +1,9 @@
 # posts
 
-* [2013-07-24 // True History](2013-07-24-true-history)
-* [2013-07-02 // The few, the proud, the Americans](2013-07-02-whiteness)
-* [2013-06-17 // On Goals](2013-06-17-on-goals)
+## Cornell Sun
+
+Under the psuedonym Jimothy Singh, for the Cornell Sun.
+
 * [2013-05-20 // Dear Ms. Portman](2013-05-20-dear-ms-portman)
 * [2013-04-11 // One Hundred and Sexty-One Ideas](2013-04-11-one-sexty-one)
 * [2013-03-28 // Sex Between the Lines](2013-03-28-sex-between-the-lines)
@@ -16,35 +17,26 @@
 * [2012-09-27 // Cornell Is Stacked](2012-09-27-cornell-is-stacked)
 * [2012-09-13 // An American Columnist in London](2012-09-13-an-american-columnist-in-london)
 * [2012-08-30 // Sugar, Spice, and Everything Nice](2012-08-30-sugar-spice-and-everything-nice)
-* [2012-08-01 // Crazy (Subway) Train](2012-08-01-crazy-subway-train)
-* [2012-06-27 // Fowl Problems](2012-06-27-fowl-problems)
-* [2012-05-26 // The Final Stretch](2012-05-26-the-final-stretch)
-* [2012-05-02 // Land of Opportunity](2012-05-02-land-of-opportunity)
-* [2012-04-16 // Spring-ish Break](2012-04-16-spring-break)
-* [2012-04-07 // Ligers, Tigers and Midterms - Oh My (Lady Gaga)!](2012-04-07-lions-tigers-and-bears)
-* [2012-03-14 // Where did Yagou this weekend?](2012-03-14-where-did-yagou)
 * [2012-03-08 // Biting – How I Found My First Fe](2012-03-08-biting-my-first-fetish)
-* [2012-02-28 // Harbin: Or how I learned to stop worrying and love the cold even more than I already do](2012-02-28-harbin-is-sort-of-cold)
+
+## Kazakhstan
+
+* [2013-07-24 // True History](2013-07-24-true-history)
 * [2012-01-19 // Mambyet 3 – Return of the Shymkentskiis](2012-01-19-mambyets-3)
-* [2012-01-11 // Transition](2012-01-11-transition)
-* [2012-01-06 // Brennan the Science Poet](2012-01-06-brennan-science-poet)
-* [2012-01-03 // Watching Space Jam](2012-01-03-watching-space-jam)
-* [2011-12-30 // Road Trip! Sort of!](2011-12-30-road-trip-sort-of)
-* [2011-08-10 // Hideki Matsui Fanclub Tour](2011-08-10-hideki-matsui-fanclub-tour)
+* [2011-01-17 // Kazakhstan 2: Revenge of the Mambyets](2011-01-17-revenge-of-the-mambyets)
+* [2010-07-22 // Putting the ugh in "Cheers!"](2010-07-22-putting-the-ugh-in-cheers)
+* [2010-07-19 // MOUNTAINS](2010-07-19-mountains)
+
+## China
+
+* [2013-07-02 // The few, the proud, the Americans](2013-07-02-whiteness)
+* [2012-08-01 // Crazy (Subway) Train](2012-08-01-crazy-subway-train)
 * [2011-07-29 // ChinaJoy](2011-07-29-chinajoy)
 * [2011-07-21 // Life is Like a Box of Fortune Cookies](2011-07-21-life-is-like-a-box-of-fortune-cookies)
 * [2011-07-06 // It's Not Sweat, I Just Have Watery Clothing](2011-07-06-just-watery-clothing)
 * [2011-06-18 // FUNtitled](2011-06-18-funtitled)
 * [2011-06-06 // Recipes Are For the Weak](2011-06-06-recipes-are-for-the-weak)
 * [2011-05-31 // Here There Be Bears](2011-05-31-here-there-be-bears)
-* [2011-01-17 // Kazakhstan 2: Revenge of the Mambyets](2011-01-17-revenge-of-the-mambyets)
-* [2010-08-07 // Drunk on a Cheap Bourdeaux](2010-08-07-drunk-on-a-cheap-bourdeaux)
-* [2010-08-03 // World's Largest Urinal](2010-08-03-world's-largest-urinal)
-* [2010-07-31 // Not Coming Home](2010-07-31-not-coming-home)
-* [2010-07-27 // Paris, je t'aime](2010-07-27-paris-je-t'aime)
-* [2010-07-22 // Putting the ugh in "Cheers!"](2010-07-22-putting-the-ugh-in-cheers)
-* [2010-07-19 // MOUNTAINS](2010-07-19-mountains)
-* [2010-07-15 // Hup Holland!](2010-07-15-hup-holland)
 * [2010-07-11 // World Linexpo, Am I Right?](2010-07-11-world-linexpo)
 * [2010-07-08 // Content in China](2010-07-08-content-in-china)
 * [2010-07-04 // Happy Fourth!](2010-07-04-happy-fourth)
@@ -59,3 +51,27 @@
 * [2009-07-02 // A Tale of Two Kind of Boring Cities](2009-07-02-a-tale-of-two-kind-of-boring-cities)
 * [2009-06-26 // This. Is. WUHAAAAAN.](2009-06-26-this-is-wuhaaan)
 * [2009-06-20 // Keep is MOCIN](2009-06-20-keep-is-mocin)
+
+### Harbin Institute of Technology
+
+* [2012-06-27 // Fowl Problems](2012-06-27-fowl-problems)
+* [2012-05-26 // The Final Stretch](2012-05-26-the-final-stretch)
+* [2012-05-02 // Land of Opportunity](2012-05-02-land-of-opportunity)
+* [2012-04-16 // Spring-ish Break](2012-04-16-spring-break)
+* [2012-04-07 // Ligers, Tigers and Midterms - Oh My (Lady Gaga)!](2012-04-07-lions-tigers-and-bears)
+* [2012-03-14 // Where did Yagou this weekend?](2012-03-14-where-did-yagou)
+* [2012-02-28 // Harbin: Or how I learned to stop worrying and love the cold even more than I already do](2012-02-28-harbin-is-sort-of-cold)
+
+## Uncategorized Travel
+
+* [2013-06-17 // On Goals](2013-06-17-on-goals)
+* [2012-01-11 // Transition](2012-01-11-transition)
+* [2012-01-06 // Brennan the Science Poet](2012-01-06-brennan-science-poet)
+* [2012-01-03 // Watching Space Jam](2012-01-03-watching-space-jam)
+* [2011-12-30 // Road Trip! Sort of!](2011-12-30-road-trip-sort-of)
+* [2011-08-10 // Hideki Matsui Fanclub Tour](2011-08-10-hideki-matsui-fanclub-tour)
+* [2010-08-07 // Drunk on a Cheap Bourdeaux](2010-08-07-drunk-on-a-cheap-bourdeaux)
+* [2010-08-03 // World's Largest Urinal](2010-08-03-world's-largest-urinal)
+* [2010-07-31 // Not Coming Home](2010-07-31-not-coming-home)
+* [2010-07-27 // Paris, je t'aime](2010-07-27-paris-je-t'aime)
+* [2010-07-15 // Hup Holland!](2010-07-15-hup-holland)

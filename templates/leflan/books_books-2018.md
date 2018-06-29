@@ -15,3 +15,8 @@
 * _The Legends of Luke Skywalker_ - Ken Liu
 * _Dictionaries volume 38 issue 2_ - ed. Edward Finegan
 * _The Ghost of Freedom: A History of the Caucasus_ - Charles King
+* _Ten Little Indians_ - Sherman Alexie
+* _People from the In-Between_ - ed. Lee Yew Leong
+* _The Summer Solstice and Other Stories_ - Nick Joaquin
+* _Time Differences_ - Yoko Tawada
+* _In Praise of Shadows_ - Jun'ichirō Tanizaki

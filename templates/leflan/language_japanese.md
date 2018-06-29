@@ -50,7 +50,7 @@ To find the [辞書形]（じしょけい） for different verbs, follow the not
 
 #### Godan verbs
 
-[五段]（ごだん）[活用]（かつよ）, lit. class-5 conjugation. Also known as, _-u_, Type I verbs, or consonant-stemp verbs.
+[五段]（ごだん）[活用]（かつよ）, lit. class-5 conjugation. Also known as, _-u_, Type I verbs, or consonant-stem verbs.
 
 form | stem |   | ending | meaning
 -----|------|---|--------|----------
@@ -62,7 +62,7 @@ Notice how the vowels go from *a*→*i*→*u*.
 
 #### Ichidan verbs
 
-[一段]（いちだん）[活用]（かつよ）, lit. class-1 conjugation. Also known as, _-ru_, Type II verbs, or vowel-stemp verbs.
+[一段]（いちだん）[活用]（かつよ）, lit. class-1 conjugation. Also known as, _-ru_, Type II verbs, or vowel-stem verbs.
 
 Change ます into る. Thus, たべます→食べる.
 
