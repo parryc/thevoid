@@ -9,13 +9,13 @@ a {
 }
 
 article {
-  width: 75%;
-  max-width: calc(75% - 1rem);
+  width: 85%;
+  max-width: calc(85% - 1rem);
 }
 
 aside {
-  width: 25%;
-  max-width: calc(25% - 1rem);
+  width: 15%;
+  max-width: calc(15% - 1rem);
   padding-top: 25px;
 }
 

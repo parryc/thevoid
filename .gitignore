@@ -4,6 +4,7 @@ config.py
 files/
 templates/words
 indexdir/
+static/images/*/*
 
 # Webassets cache
 .webassets-cache/

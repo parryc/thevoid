@@ -1,5 +1,9 @@
 # posts
 
+## Philippines and Japan
+
+* [June 2018 // Philippines and Japan Trip](2018-06-13-philippines-and-japan)
+
 ## Cornell Sun
 
 Under the psuedonym Jimothy Singh, for the Cornell Sun.
