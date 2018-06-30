@@ -39,6 +39,9 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 ები
 : plural, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`
 
+თვის
+: for, follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`).
+
 დან
 : from
 
@@ -54,10 +57,25 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 ც
 : too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Cannot be attached to a verb.
 
-### Grammatical Markers
+### Grammatical Cases
 
-ს
-: The ACC or DAT case, usually used to indicate the object of a transitive verb
+NOM ∅
+: the nominative case, it is unmarked (i.e the default dictionary case)
+
+GEN მ
+: the genitive case, used with certain prepositions or grammar structures
+
+DAT, ACC, POSS (ი)ს
+: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb
+
+INS თ
+: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride)
+
+ADV (ა)დ
+: the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
+
+VOC (ვ)
+: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ვ` is optional.
 
 ## Verbs
 
@@ -66,6 +84,8 @@ Verbs, when listed, are listed with the "verbal noun" form, also referred to as 
 ### Regular Verbs
 
 Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb.
+
+The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
 
 #### Present Tense
 
@@ -93,6 +113,20 @@ Present Indicative
 1|ვარ |ვართ
 2|ხარ |ხართ
 3|არის|არისნ
+
+Past Tense
+: &nbsp; |sg  |pl
+-|-----|--
+1|ვიყვი|ვიყვით
+2|იყივი|იყივით
+3|იყო  |იყვნენ
+
+Future Tense
+: &nbsp; |sg  |pl
+-|-----|--
+1|ვიქნები|ვიქნებით
+2|იქნები |იქნებით
+3|იქნების|იქნებიას
 
 ##### ქონა - to have (inanimate object)
 
@@ -138,6 +172,16 @@ Note the irregular 3pl.
 Where are you coming from? // `საიდან:whence` can be thought of as sort of like `სად:where` + `დან:from`
 --ENDEX--
 
+## Participles
+
+### Expressing Purpose
+
+Purpose can be expressed with the a future participle, most commonly with the future participle in the adverbial case. The future participle is formed by prefixing the root with `სა-` and the adverbial case is formed with `-ად`. Using `მოგზიურობა:to travel`, we get `სამოგზიუროდ:for the purpose of traveling`. `-დ` is used here because the root ends in a vowel.
+
+In many cases, and expecially when in the adverbial case, the word can be thought of like the English infinitive.<cite>[Harris, 155](#harris)</cite>
+
+Occasionally, `სა-` may occur after the first syllable, such as `დალევი:to drink` → `დასალევად`. `დასალევად` implies drinking alcohol (much as saying "We're going drinking" in English implies the same).
+
 ## Question Words
 
 ვინ
@@ -167,6 +211,7 @@ How interesting!
 * <source id="vogt">_Grammaire de la Langue Géorgienne_, Hans Vogt, Instituttet for Sammenlignende Kulturforskning, 1971.</source>
 * <source id="kiziria">_Beginner's Georgian_, Dodona Kiziria, Hippocrene Books, 2009.</source>
 * <source id="klimov">_Etymological Dictionary of the Kartvelian Languages_, Georgij A. Klimov, De Gruyter, 1998.</source>
+* <source id="harris">_Georgian Syntax_, Alice C. Harris, Cambridge Studies in Linguistics, Cambridge University Press, 1981.</source>
 
 ## Dictionary
 [le flaneur's georgian dictionary](georgian/dict)
@@ -178,6 +223,7 @@ How interesting!
 *[INS]: Instrumental
 *[LOC]: Locative
 *[VOC]: Vocative
+*[ADV]: Adverbial
 *[PRS]: Present
 *[PST]: Past/Preterite
 *[FUT]: Future
