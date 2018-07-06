@@ -20,3 +20,4 @@
 * _The Summer Solstice and Other Stories_ - Nick Joaquin
 * _Time Differences_ - Yoko Tawada
 * _In Praise of Shadows_ - Jun'ichirō Tanizaki
+* _The Girl King_ - Mimi Yu

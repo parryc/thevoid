@@ -6,15 +6,14 @@
 
 #### Personal
 
-Number | NOM          
--------|--------------
-1s.    | მე           
-2s.    | შენ          
-3s.    | ის           
-1p.    | ჩვენ         
-2p.    | თქვენ        
-3p.    | ისინი        
-
+Number | NOM    | POSS      
+-------|--------|-----
+1s.    | მე     |ჩემი      
+2s.    | შენ    |შენი      
+3s.    | ის     |(ი)მისი      
+1p.    | ჩვენ   |ჩვენი      
+2p.    | თქვენ  |თქვენი      
+3p.    | ისინი  |(ი)მითი      
 
 #### Demonstrative
 
@@ -49,7 +48,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : on, about, ex. `მაგიდაზე:on the table`
 
 ში
-: to, in, into, ex. `მანქანა:car` → `მანქანაში:in a/the car`
+: to, in, into, takes DAT, ex. `მანქანა:car` → `მანქანაში:in a/the car`
 
 სკენ
 : towards
@@ -57,16 +56,34 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 ც
 : too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Cannot be attached to a verb.
 
+ჯერ
+: frequency; number of times
+
+წინ
+: in front, ago
+
+შკან
+: behind
+
+
+--EX--
+ორი დღის დროში
+in two days
+--ENDEX--
+
 ### Grammatical Cases
 
 NOM ∅
 : the nominative case, it is unmarked (i.e the default dictionary case)
 
-GEN მ
+GEN (ი)ს
 : the genitive case, used with certain prepositions or grammar structures
 
-DAT, ACC, POSS (ი)ს
+DAT, ACC, POSS ს
 : the dative/accusative/possesive case, usually used to indicate the object of a transitive verb
+
+ERG მ(ა)
+: the ergative case, this is used with some verbs
 
 INS თ
 : the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride)
@@ -199,12 +216,110 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 სად
 : where, derivative `საიდან:whence, from where`. Both derive from the same `სა-` interogative pronomial stem. See [Klimov 161-162](#klimov).
 
+რამდენ
+: how many
+
+რამდენჯარ
+: how many times (see +ჯარ in the suffixes)
+
+რომელი
+: which
+
 --EX--
 ვინ არის ეს?
 Who is this?
 რა საინტერესოა!
 How interesting!
+რომელი საათია?
+What time is it? // note the 3sg suffix `ა`
+რომელ საათზე?
+At what time?
 --ENDEX--
+
+## Numbers
+
+See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals).
+
+### Cardinal Numbers
+
+0. ნული
+1. ერთი
+2. ორი
+3. სამი
+4. ოთხი
+5. ხუთი
+6. ექვსი
+7. შვიდი
+8. რვა
+9. ცხრა
+10. ათი
+20. ოცი
+
+Teens are formed by `თ` + 1-9 - `ი` + `მეტი`, ex. 11 → `თ` + `ერთ` + `მეტი` → `თერთმეტი`.  Some initial consonants merge with the initial თ, such as `თ` + `ს` → `ც`.
+
+11. თერთმეტი
+12. თორმეტი
+13. ცამეტი
+14. თოთხმეტი
+15. თხუთმეტი
+16. თექვსმეტი
+17. ჩვიდმეტი
+18. თვრამეტი
+19. ცხრამეტი
+
+Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` + `და` + 1-19.
+
+20. ოცი
+21. ოცდაერთი
+40. ორმოცი
+47. ორმოცდაშვიდი
+60. სამოცი
+80. ოთხმოცი
+
+### Ordinal Numbers
+
+1st - პირველი
+
+2-19: `მე` + # - `ი` + `ე`. Ex. `13th:მეცამეტე`.
+
+20+: base + ordinal version of 1-19 (1 reverts back to ერთი for these numbers). Ex. `21st:ოცდამეერთე`.
+
+## Time
+
+The Georgian week starts on Monday.
+
+* Monday - ორშაბათი (two days from Saturday)
+* Tuesday - ორშაბათი (three days from Saturday)
+* Wednesday - ოთხშაბათი (four days from Saturday)
+* Thursday - ხუთშაბათი (five days from Saturday)
+* Friday - პარასკევი
+* Saturday - შაბათი
+* Sunday - კვირა
+
+General time expressions (in the morning, in the evening, etc.) are marked with the POSS, thus `morning:დილა` → `in the morning:დილის`
+
+Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`.
+
+Minutes within hours can be expressed literally as "1 hour + 15 minutes", but that sounds unnatural. Instead, minutes should be given relative to the hour that owns them – in Georgia, the "owning" hour is the hour that has yet to pass on the clock. So a time like 1:35, all of those 35 minutes below to 2, since 2 has not yet been hit on the clock. 
+
+This ownership is expressed in two different ways, depending on if it's before or after the 30 minute mark. 
+
+1-29
+: hour's (POSS `+ს`) + #, so 1:24 would be "2's 24 minutes", thus `ორის ოცდაოთხი`
+
+30
+: hour's (POSS `+ს`) + `half:ნახევარი`, ex. 1:30 = 2's half = ორის ნახევარი
+
+31-59
+: hour (DAT `-ი +ს`) + lacks + #, so 1:50 would be "2 lacks 10 minutes", thus `ორს აკლია ათი`. The verb `to lack:აკლია` takes the dative case for its subject, hence the `ი` dropping that does not occur with the possessive used for 1-29.
+
+Being "at" a time also differs between 0-30 and 31-59. 
+
+0-30
+: add `+ზე` to the minutes, `at 1:30:ორის ნახევალზე`
+
+31-59
+: add `რამ` after the hour, `at 1:50:ორს რამ აკლია ათი`
 
 ## Bibliography
 
@@ -212,6 +327,7 @@ How interesting!
 * <source id="kiziria">_Beginner's Georgian_, Dodona Kiziria, Hippocrene Books, 2009.</source>
 * <source id="klimov">_Etymological Dictionary of the Kartvelian Languages_, Georgij A. Klimov, De Gruyter, 1998.</source>
 * <source id="harris">_Georgian Syntax_, Alice C. Harris, Cambridge Studies in Linguistics, Cambridge University Press, 1981.</source>
+* <source id="pcvangela">_Georgian Language Highlight: Telling Time_, [tumblr](http://pcvangela.tumblr.com/post/123614418121/language-tellingtime), accessed 2018-07-04.</source>
 
 ## Dictionary
 [le flaneur's georgian dictionary](georgian/dict)
@@ -221,6 +337,7 @@ How interesting!
 *[DAT]: Dative
 *[GEN]: Genitive
 *[INS]: Instrumental
+*[ERG]: Ergative
 *[LOC]: Locative
 *[VOC]: Vocative
 *[ADV]: Adverbial
