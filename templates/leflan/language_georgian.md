@@ -242,39 +242,39 @@ See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals).
 
 ### Cardinal Numbers
 
-0. ნული
-1. ერთი
-2. ორი
-3. სამი
-4. ოთხი
-5. ხუთი
-6. ექვსი
-7. შვიდი
-8. რვა
-9. ცხრა
-10. ათი
-20. ოცი
+0 — ნული
+1 — ერთი
+2 — ორი
+3 — სამი
+4 — ოთხი
+5 — ხუთი
+6 — ექვსი
+7 — შვიდი
+8 — რვა
+9 — ცხრა
+10 — ათი
+20 — ოცი
 
 Teens are formed by `თ` + 1-9 - `ი` + `მეტი`, ex. 11 → `თ` + `ერთ` + `მეტი` → `თერთმეტი`.  Some initial consonants merge with the initial თ, such as `თ` + `ს` → `ც`.
 
-11. თერთმეტი
-12. თორმეტი
-13. ცამეტი
-14. თოთხმეტი
-15. თხუთმეტი
-16. თექვსმეტი
-17. ჩვიდმეტი
-18. თვრამეტი
-19. ცხრამეტი
+11 — თერთმეტი
+12 — თორმეტი
+13 — ცამეტი
+14 — თოთხმეტი
+15 — თხუთმეტი
+16 — თექვსმეტი
+17 — ჩვიდმეტი
+18 — თვრამეტი
+19 — ცხრამეტი
 
 Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` + `და` + 1-19.
 
-20. ოცი
-21. ოცდაერთი
-40. ორმოცი
-47. ორმოცდაშვიდი
-60. სამოცი
-80. ოთხმოცი
+20 — ოცი
+21 — ოცდაერთი
+40 — ორმოცი
+47 — ორმოცდაშვიდი
+60 — სამოცი
+80 — ოთხმოცი
 
 ### Ordinal Numbers
 
@@ -340,6 +340,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 *[ERG]: Ergative
 *[LOC]: Locative
 *[VOC]: Vocative
+*[POSS]: Possesive
 *[ADV]: Adverbial
 *[PRS]: Present
 *[PST]: Past/Preterite
