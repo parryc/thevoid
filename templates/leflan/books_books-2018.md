@@ -21,3 +21,8 @@
 * _Time Differences_ - Yoko Tawada
 * _In Praise of Shadows_ - Jun'ichirō Tanizaki
 * _The Girl King_ - Mimi Yu
+* _The Devotion of Suspect X_ - Keigo Higashino
+* _Kappa_ - Ryūnosuke Akutagawa
+* _The Nakano Thrift Shop_ - Hiromi Kawakami
+* _Blue Bamboo_ - Osamu Dazai
+* _Runes: The Icelandic Book of Fuþark_ - Teresa Dröfn Freysdóttir Njarðvík

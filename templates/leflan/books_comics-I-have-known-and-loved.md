@@ -12,8 +12,9 @@
 * _Grave Lilies_
 * _Lady Mechanika_
 * _Sun Bakery_
-* _The Old Ones_
+* _The Old Guard_
 * _Nonplayer_
+* _Sleepless_
 
 # Finished
 * _Y: The Last Man_

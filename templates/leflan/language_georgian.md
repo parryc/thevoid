@@ -39,7 +39,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : plural, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`
 
 თვის
-: for, follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`).
+: for, around/about, follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns, ex. `ჩემთვის:for me`.
 
 დან
 : from
@@ -54,7 +54,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : towards
 
 ც
-: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Cannot be attached to a verb.
+: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Can only be attached to pronouns.
 
 ჯერ
 : frequency; number of times
@@ -100,11 +100,11 @@ Verbs, when listed, are listed with the "verbal noun" form, also referred to as 
 
 ### Regular Verbs
 
-Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb.
+Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb. Verbs take one of two forms of indicating person, either ვ-series or მ-series.
 
 The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
 
-#### Present Tense
+#### Present Tense - ვ-series
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -119,6 +119,23 @@ An example of the verb `to do:კეთები`, stem: აკეთებ
 1|**ვ**აკეთებ|**ვ**აკეთებ**თ**
 2|აკეთებ |აკეთებ**თ**
 3|აკეთებ**ს**|აკეთებ**ენ**
+
+#### Present Tense - მ-series
+
+&nbsp; |sg  |pl
+-|----------|--
+1|მ+_stem_  | გვ+_stem_
+2|გ+_stem_    | გ+_stem_+თ
+3|_stem_  | _stem_+თ
+
+An example of the verb `სურვილი:to want; to wish`, stem: სურს. (This might be considered irregular due to the 3pl)
+
+&nbsp; |sg  |pl
+-|------|------
+1|**მ**სურს |**გვ**სურს
+2|**გ**სურს |**გ**სურ**თ**
+3|სურს  |სურ**თ**
+
 
 ### Irregular Verbs
 
@@ -189,6 +206,13 @@ Note the irregular 3pl.
 Where are you coming from? // `საიდან:whence` can be thought of as sort of like `სად:where` + `დან:from`
 --ENDEX--
 
+### Negation
+
+Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `ვერ` implies an inability to complete the action, whereas `არ` is simply that the action didn't occur. Compare below:
+
+* ვერ მოვდივარ:I'm not able to come
+* არ მოვდივარ:I'm not coming
+
 ## Participles
 
 ### Expressing Purpose
@@ -205,7 +229,10 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 : who
 
 რა
-: what. When combined with adjective with `-ა`, it means "how".<cite>[Kiziria, 49](#kiziria)</cite>
+: what. When combined with adjective with `-ა`, it means "how X!" as in "how cute!".<cite>[Kiziria, 49](#kiziria)</cite>
+
+როგორ
+: how
 
 როდის
 : when
@@ -222,10 +249,15 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 რამდენჯარ
 : how many times (see +ჯარ in the suffixes)
 
+რა ღირს
+: how much
+
 რომელი
 : which
 
 --EX--
+როგორა ხარ?
+How are you?
 ვინ არის ეს?
 Who is this?
 რა საინტერესოა!
@@ -296,7 +328,7 @@ The Georgian week starts on Monday.
 * Saturday - შაბათი
 * Sunday - კვირა
 
-General time expressions (in the morning, in the evening, etc.) are marked with the POSS, thus `morning:დილა` → `in the morning:დილის`
+General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the POSS, thus `morning:დილა` → `in the morning:დილის`
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`.
 
@@ -320,6 +352,32 @@ Being "at" a time also differs between 0-30 and 31-59.
 
 31-59
 : add `რამ` after the hour, `at 1:50:ორს რამ აკლია ათი`
+
+## Situations
+
+### Restaurants
+
+ინებეთ - "here you are"
+თუ შეაძლება - "if I/we may", used at the end of a sentence to politely order something
+გეტეყვა - polite request form, a little archaic
+მოგვთან - bring to us
+
+(add food items)
+
+## Sentence Structures
+
+**Simultaneous Action (როცა)**
+
+To indicate simultaneous action, ex. "I was at class, when Wes was on vacation", one uses `როცა` to stand in for the `when/while` part of the English sentence. Both clauses of the sentence should be in the same tense. 
+
+--EX--
+მე წავალ საქართველოში, როცა ვისშავლი ქართულს.
+I will go to Georgia, while I am learning Georgian.
+--ENDEX--
+
+**Conditional Sentences (თუ)**
+
+For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want.
 
 ## Bibliography
 

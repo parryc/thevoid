@@ -50,7 +50,7 @@ To find the [辞書形]（じしょけい） for different verbs, follow the not
 
 #### Godan verbs
 
-[五段]（ごだん）[活用]（かつよ）, lit. class-5 conjugation. Also known as, _-u_, Type I verbs, or consonant-stem verbs.
+[五段]（ごだん）[活用]（かつよう）, lit. class-5 conjugation. Also known as, _-u_, Type I verbs, or consonant-stem verbs.
 
 form | stem |   | ending | meaning
 -----|------|---|--------|----------
@@ -182,7 +182,7 @@ _Note: this is not comprehensive of all possible politeness forms. Instead, it i
 
 ### i-adjectives
 
-All i-adjectives end in an explicit い, such as 高い, but all adjectives ending in い are i-adjectives, such as 嫌い. These exceptions are few. They can be used in front of a noun without change, ex. `高いシャツ:an expensive t-shirt`.
+All i-adjectives end in an explicit い, such as 高い, but not all adjectives ending in い are i-adjectives, such as 嫌い. These exceptions are few. They can be used in front of a noun without change, ex. `高いシャツ:an expensive t-shirt`.
 
 * `いい:good` is the conjugated form. The root form is よい.
 
@@ -204,7 +204,7 @@ These adjectives require a な between the adjective and the noun, ex. `綺麗�
 ### Sentences
 
 "I like..."
-: Uses [好]（す）き, which like a na-adjective.
+: Uses [好]（す）き, which is like a na-adjective.
 
 --EX--
 君のおっぱいが好きです。
@@ -235,7 +235,7 @@ It is now one o'clock
 
 ### Politeness
 
-お[願]（ねが）いします:please (when asking a faovr or when you want something). A response may be どうぞ{noun}:here is {noun}.
+お[願]（ねが）いします:please (when asking a favor or when you want something). A response may be どうぞ{noun}:here is {noun}.
 
 [下]（くだ）さい:please, following を.
 
