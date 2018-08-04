@@ -9,11 +9,9 @@
 * _Low_
 * _The Wicked and The Divine_
 * _Poe Dameron_
-* _Grave Lilies_
 * _Lady Mechanika_
 * _Sun Bakery_
 * _The Old Guard_
-* _Nonplayer_
 * _Sleepless_
 
 # Finished
@@ -33,6 +31,8 @@
 * _Shutter_
 * _Godshaper_
 * _Rocket Girl_
+* _Grave Lilies_ (Canceled?)
+* _Nonplayer_ (Infinite hiatus?)
 
 # Abandoned
 * _Roche Limit_

@@ -80,11 +80,11 @@ G: {1SG} university=to go:{1SG.PRS} lecture=on
 
 --GLOSS--
 ნ: აქათ მივდივარ მეც, თუ გინდა გაგიყვან.
-N: 'that way' go:{1SG.PRS} {1SG}=too if want:{2SG.PRS} take:???
-{!} N: I'm going that way too, if you want I can take you.
+N: 'that way' go:{1SG.PRS} {1SG}=too if want:{2SG.PRS} take:{1SG/2SG.FUT}
+{!} N: I'm going that way too, if you want I will take you.
 --ENDGLOSS--
 
-* `გაიყვან` take somebody someplace.  Not sure how to parse. Maybe it's a passive? Like "if you want to be taken?"
+* `გაიყვან:take somebody someplace`, from `წყვანა:to bring`, with the directional suffix `გა-` meaning "through", implying "through traffic/the city". Note that I'm not totally sure what indicates _what_ indicates that it is the future, but Irakli said it is.
 
 ----
 
@@ -176,13 +176,13 @@ N: nine.{POSS} half=on probably soon come:{3SG.FUT} already
 
 --GLOSS--
 გუშინ რომ ველაპარაკე, მითხრა ცხრის ნახევრისთვის შეგხვდებიო აკტობუსის გაჩერებიზე.
-yesterday when speak:{3SG/1SG.PST} nine.{POSS} half=for meet:{1SG}={REP} bus.{POSS} stop=on
-{!} Yesterday when I spoke to her, she said, "meet me at the busstop at around 8:30."
+yesterday when speak:{3SG/1SG.PST} tell:{3SG/1SG} nine.{POSS} half=for meet:{1SG}={REP} bus.{POSS} stop=on
+{!} Yesterday when I spoke to her, she told me, "meet me at the busstop at around 8:30."
 --ENDGLOSS--
 
 * `რომ` is usually used in the past, where as `როცა` is used in the present and future.
 * `ველაპარაკე` from ლაპარაკი.
-* Not totally sure on verbal root of `მითხრა`
+* `მითხრა` comes from `მეუბნება:to tell` (verify)
 * `-თვის` with a time expression means "around X", ex. "around 8:30".
 * How does this `შე` make it different from the other usage? Vogt has it as a preverb, but I'm too sleepy to read about it.
 
@@ -197,43 +197,41 @@ G: {2SG.POSS} cousin where {3SG.PRS}
 ----
 
 --GLOSS--
-ნ: გიორგი ბათუმშია. შამსახურიდან გააგზავნეს სამი დღით.
-N: Giorgi Batumi={3SG.PRS} ? ?send:{3SG/3SG.PST} three day.{INS}
-{!} N: Giorgi is in Batumi. (work?) sent him (there) for three days.
+ნ: გიორგი ბათუმშია. სამსახურიდან გააგზავნეს სამი დღით.
+N: Giorgi Batumi={3SG.PRS} work=from ?send:{3SG/3SG.PST} three day.{INS}
+{!} N: Giorgi is in Batumi. He was sent (there) from (his) work for three days.
 --ENDGLOSS--
 
-* INCOMPLETE
+* `-დან` is a suffix meaning "from"
+* Verify vn for `გააგზავნეს` (`გზავნეს`), გა is probably a preverb for "outward motion"
 
 ----
 
 --GLOSS--
 ალბათ კვირის დაბრუნდება. შენი ძმა როგორ არის?
-probably week.{GEN} return:? {2SG.POSS} brother how {3SG.PRS}
+probably week.{GEN} return:{3SG.FUT} {2SG.POSS} brother how {3SG.PRS}
 {!} Probably will return in a week. How is your brother?
 --ENDGLOSS--
 
-* INCOMPLETE
+* Verify vn for `დაბრუნდება`, to come back.
 
 ----
 
 --GLOSS--
 გ: ლევანი კარგად. ერთ თვეში სამსახურს იწყებს ამერიკულ კომპანიაში და ძალიან გახარებულია.
-G: Levimi good.{ADV} one month=at work.{ACC} start:? american company=at and very happy?={3SG.PRS}
-{!} G: Levimi is good. In month starts work at an American company and is very happy.
+G: Levimi good.{ADV} one month=at work.{ACC} start:{3SG.PRS} american company=at and very happy={3SG.PRS}
+{!} G: Levimi is good. In one month he starts work at an American company and is very happy.
 --ENDGLOSS--
 
-* INCOMPLETE
-* Something about adjectives losing `-ი`?
+* Verify vn for `იწყებს`
 
 ----
 
 --GLOSS--
-ნ: ძალან კარგი. აი, დეიდაჩემიც მოვიდა. აბა, წავედით!
-N: very? good ah aunt=too come:{3SG} 'alright then' leave:{1PL}
+ნ: ძალიან კარგი. აი, დეიდაჩემიც მოვიდა. აბა, წავედით!
+N: very good ah aunt=too come:{3SG} 'alright then' leave:{1PL}
 {!} N: Very good. Ah, (my) aunt's here too!. Alright then, let's go!
 --ENDGLOSS--
-
-* INCOMPLETE
 
 ----
 
