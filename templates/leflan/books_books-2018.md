@@ -26,3 +26,5 @@
 * _The Nakano Thrift Shop_ - Hiromi Kawakami
 * _Blue Bamboo_ - Osamu Dazai
 * _Runes: The Icelandic Book of Fuþark_ - Teresa Dröfn Freysdóttir Njarðvík
+* _Children of Time_ - Adrian Tchaikovsky
+* _Chinuk Wawa as Our Elders Teach Us to Speak It_ - Chinuk Wawa Dictionary Committee

@@ -1,5 +1,9 @@
 # posts
 
+## Washington
+
+* [August 2018 // Washington Trip](2018-08-17-washington)
+
 ## Philippines and Japan
 
 * [June 2018 // Philippines and Japan Trip](2018-06-13-philippines-and-japan)
