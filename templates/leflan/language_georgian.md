@@ -54,7 +54,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : towards
 
 ც
-: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Can only be attached to pronouns.
+: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Can only be attached to pronouns. It is also makes a question word into a relative pronoun.
 
 ჯერ
 : frequency; number of times
@@ -231,6 +231,9 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 რა
 : what. When combined with adjective with `-ა`, it means "how X!" as in "how cute!".<cite>[Kiziria, 49](#kiziria)</cite>
 
+რა ღირს
+: how much
+
 როგორ
 : how
 
@@ -242,6 +245,9 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 
 სად
 : where, derivative `საიდან:whence, from where`. Both derive from the same `სა-` interogative pronomial stem. See [Klimov 161-162](#klimov).
+
+სადაური
+: from where, often when asking from country of origin
 
 რამდენ
 : how many
@@ -321,7 +327,7 @@ Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` +
 The Georgian week starts on Monday.
 
 * Monday - ორშაბათი (two days from Saturday)
-* Tuesday - ორშაბათი (three days from Saturday)
+* Tuesday - სამშაბათი (three days from Saturday)
 * Wednesday - ოთხშაბათი (four days from Saturday)
 * Thursday - ხუთშაბათი (five days from Saturday)
 * Friday - პარასკევი
@@ -355,12 +361,27 @@ Being "at" a time also differs between 0-30 and 31-59.
 
 ## Situations
 
+### Useful Phrases
+
+მე მქვია... – I am called...
+ქართული იცი? – Do you know Georgian?
+ცოტა ვიცი – I know a little
+გაიმეორეთ – Please say again
+ვერ გავიგე – I don't understand it
+როგორ არის ქართულად "x"? – What is X in Georgian?
+"x" ქართულად არის "y" – X in Georgian is Y
+მე ვსწავლობ ქართულ ენას – I am learning Georgian
+
+
+
 ### Restaurants
 
 ინებეთ - "here you are"
-თუ შეაძლება - "if I/we may", used at the end of a sentence to politely order something
+თუ შეიძლება - "if I/we may", used at the end of a sentence to politely order something. When placed at the beginning of a sentence, drop "თუ"
 გეტეყვა - polite request form, a little archaic
 მოგვთან - bring to us
+არაფრის – you're welcome
+რას შემოგვთავაზები?
 
 (add food items)
 

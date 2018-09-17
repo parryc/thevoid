@@ -28,3 +28,4 @@
 * _Runes: The Icelandic Book of Fuþark_ - Teresa Dröfn Freysdóttir Njarðvík
 * _Children of Time_ - Adrian Tchaikovsky
 * _Chinuk Wawa as Our Elders Teach Us to Speak It_ - Chinuk Wawa Dictionary Committee
+* _Lushootseed Texts_ - ed. Crisca Bierwert
