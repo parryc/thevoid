@@ -117,7 +117,7 @@ def dictionary(language):
       _senses = data[1].split(u';')
     except:
       entry = {
-        'headword':unicode(row)
+        'headword':row
        ,'senses'  :[]
        ,'tags'    :['error']
        ,'extra'   :''
