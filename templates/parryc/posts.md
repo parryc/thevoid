@@ -1,11 +1,9 @@
 # posts
 
-## Washington
+## Recent Travel
 
+* [Fall 2018 // Europe 2018](2018-10-03-europe-2018)
 * [August 2018 // Washington Trip](2018-08-17-washington)
-
-## Philippines and Japan
-
 * [June 2018 // Philippines and Japan Trip](2018-06-13-philippines-and-japan)
 
 ## Cornell Sun
@@ -70,7 +68,7 @@ Under the psuedonym Jimothy Singh, for the Cornell Sun.
 * [2012-03-14 // Where did Yagou this weekend?](2012-03-14-where-did-yagou)
 * [2012-02-28 // Harbin: Or how I learned to stop worrying and love the cold even more than I already do](2012-02-28-harbin-is-sort-of-cold)
 
-## Uncategorized Travel
+## Travel Archives
 
 * [2013-06-17 // On Goals](2013-06-17-on-goals)
 * [2012-01-11 // Transition](2012-01-11-transition)
