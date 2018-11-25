@@ -1,7 +1,7 @@
 body {
   font-size: 18px;
   line-height: 1.4;
-  font-family: "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Cormorant","Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 a {
@@ -22,6 +22,12 @@ aside {
 section {
   padding-top: 10px;
   margin-bottom: -5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: "Cormorant";
+  font-style: normal;
+  font-weight: bold; 
 }
 
 h3 {

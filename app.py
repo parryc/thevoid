@@ -40,7 +40,7 @@ bundles = {
                ,filters='cssmin',output='gen/parryc.css'),
   'corbin_css': Bundle('css/marx.min.css'
                ,'css/style_corbin.css'
-               ,'css/fonts/ptsans/fonts.css'
+               ,'css/fonts/cormorant/fonts.css'
                ,filters='cssmin',output='gen/corbin.css'),
   'leflan_css': Bundle('css/marx.min.css'
                ,'css/style_leflan.css'

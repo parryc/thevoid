@@ -29,3 +29,7 @@
 * _Children of Time_ - Adrian Tchaikovsky
 * _Chinuk Wawa as Our Elders Teach Us to Speak It_ - Chinuk Wawa Dictionary Committee
 * _Lushootseed Texts_ - ed. Crisca Bierwert
+* _Network Sovereignty_ - Marisa Elena Duarte
+* _The High Window_ - Raymond Chandler
+* _The Great Passage_ - Shion Miura
+* _A Good Time for the Truth: Race in Minnesota_ - edited by Sun Yung Shin

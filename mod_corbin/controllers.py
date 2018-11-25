@@ -34,9 +34,12 @@ def favicon():
   return send_from_directory(os.path.join(app.root_path, 'static'),
                              'favicon_corbin.ico', mimetype='image/vnd.microsoft.icon')
 
-@mod_corbin.route('/css/<css>', host=host)
+@mod_corbin.route('/css/<path:css>', host=host)
 def css(css):
-  return send_from_directory(os.path.join(app.root_path, 'static/gen'), css)
+  if 'fonts' in css:
+    return send_from_directory(os.path.join(app.root_path, 'static/css'), css)
+  else:
+    return send_from_directory(os.path.join(app.root_path, 'static/gen'), css)
 
 @mod_corbin.route('/images/<folder>/<image>', host=host)
 def image_with_folder(folder, image):
