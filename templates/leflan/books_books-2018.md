@@ -32,4 +32,5 @@
 * _Network Sovereignty_ - Marisa Elena Duarte
 * _The High Window_ - Raymond Chandler
 * _The Great Passage_ - Shion Miura
-* _A Good Time for the Truth: Race in Minnesota_ - edited by Sun Yung Shin
+* _A Good Time for the Truth: Race in Minnesota_ - ed. Sun Yung Shin
+* _Emperor of the Eight Islands_ - Lian Hearn

@@ -122,6 +122,13 @@ tag {
   margin-left: 1em;
 }
 
+.maya {
+  font-family: 'MayanNumerals';
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  font-size: 0.75;
+}
+
 /************
 Examples
 ************/

@@ -47,6 +47,7 @@ bundles = {
                ,'css/fonts/source-code-pro/source-code-pro.css'
                ,'css/fonts/cmu/fonts.css'
                ,'css/fonts/bpg-ingiri/bpg-ingiri.css'
+               ,'css/fonts/mayan/fonts.css'
                ,filters='cssmin',output='gen/leflan.css')
   }
 assets.register(bundles)  
