@@ -34,3 +34,7 @@
 * _The Great Passage_ - Shion Miura
 * _A Good Time for the Truth: Race in Minnesota_ - ed. Sun Yung Shin
 * _Emperor of the Eight Islands_ - Lian Hearn
+* _Autumn Princess, Dragon Child_ - Lian Hearn
+* _Lord of the Darkwood_ - Lian Hearn
+* _The Tengu's Game of Go_ - Lian Hearn
+* _The Brueghel Moon_ - Tamaz Chiladze

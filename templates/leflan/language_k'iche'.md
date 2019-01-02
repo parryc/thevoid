@@ -1,16 +1,39 @@
 [TOC]
 
+## Introductory Note
+
+The history of Mayan languages, from a documentary perspective, is one of consistent variation in written form and the dialect surveyed.For example, two edition of _Diccionario Quiché-Español_ by Abraham Garcia Hernandez and Santiago Yac Sam vary in orthography between the 2008 and the 1980 edition. This is not to mention the even greater variation with Munro Edmonson's 1965 _Quiche-English Dictionary_. As a result, the examples listed below may vary with one's own resources or elicitations by instructors. As Sergio Romero puts it, "K'ichee' shows substantial dialectal variation and dialect stereotypes are important ethnic markers for its speakers."<cite>[Romero 2016](#romero)</cite> So just lean in to the dialect and enjoy your journey with K'iche'!
+
 ## Nouns
 
-### Pronouns
+There are two types of person markers in K'iche': possession markers and independent personal pronouns. In linguistics texts about the language, they are referred to as Set A and Set B, respectively, as these person markers are also used to mark the subject and object in verbs. 
+
+### Possession (Set A)
+
+&nbsp; | followed by C | followed by V
+-------|---------------|-----------------
+1sg    | nu-           | w-
+2sg    | a-            | aw-
+3sg    | u-            | r-
+1pl    | qa-           | q-
+2pl    | i-            | iw-
+3pl    | ki-           | k-
+
+In formal speech, the 2sg and 2pl lose the prefix and instead are followed by the politeness markers `la` and `alaq`. For example, `achi'l la:your (sg, pol) friend`.
+
+When used in a verb where the root starts with a consonant, the 1st person singular `nu-` becomes `in-`, under influence from the independent personal pronoun, ex. `kinna'o:I feel it`.
+
+### Personal Pronouns (Set B)
 
  &nbsp; |sg  |pl
 -|----|--
 1|in  |uj
 2|at  |ix
-3|are'|e' are'
+3|are'|e' (are')
 
-2nd person polite forms (sg/pl): la(l) and alaq.
+2nd person polite forms (sg/pl): la(l) and alaq. In colloquial speech _e'_ is used more often than _e' are'_ for the 3rd person plural.
+
+When used in verbs, the 3sg is unmarked (∅) and 3pl is _e'_.
 
 ## Prefixes
 
@@ -31,45 +54,50 @@ Nub'i a Jaime.
 My name is Jaime.
 --ENDEX--
 
-### Posession
-
-&nbsp; | followed by C | followed by V
--------|---------------|-----------------
-1sg    | nu-           | w-
-2sg    | a-            | aw-
-3sg    | u-            | r-
-1pl    | qa-           | q-
-2pl    | i-            | iw-
-3pl    | ki-           | k-
-
-In formal speech, the 2sg and 2pl lose the prefix and instead are followed by the politeness markers `la` and `alaq`. For example, `achi'l la:your (sg, pol) friend`.
-
 ## Verbs
 
 The verb in K'iche' contains 4 potential parts:
 
 1. Aspect
-2. Person
+2a. Person (subject)
+2b. Person (object)
 3. Root
-4. (Optional) Termination or Politeness marker
+4. (Optional) Termination, Politeness marker, or Future marker
 
-Aspect refers to whether or not the verb is complete or incomplete; person refers to who is performing the verb (and optionally, who is receipient of the verb); the root, which is unchanging; and optionally either a termination ender, if at the end of a sentence or the politeness marker, if the subject is the 2nd person.
+These will vary based on whether or not verb is intransitive (no object) or transitive (has an object).
 
-{keb'ek:they go}
-aspect|pronoun|root|term
-**k**|**e**|**b'e**|**k**
-incomplete|3pl|go|∅
+Aspect
+: Aspect is either complete or incomplete. Incomplete aspect is marked with a `k` or `ka` in front of _b'_ or _p_. Completed aspect is marked with `x`.
+
+Intransitive verbs
+: The subject marker for intransitive verbs is always a personal pronoun (Set B).
+
+{kinb'ek:I go}
+aspect|subject|root|term
+**k**|**in**|**b'e**|**k**
+incomplete|B1sg|go|∅
 {/}
 
-* Aspect is either complete or incomplete. Incomplete aspect is marked with a `k` or `ka` in front of _b'_ or _p_. Completed aspect is marked with `x`.
+Transitive verbs
+: The subject marker for transitive verbs is always a possessive pronoun (Set A), varying based on the first letter of the root, so either a preconsonantal or a prevocalic possessive pronoun. The object marker is always a personal pronoun (Set B).
 
-* Person is the same as the personal pronouns except the 3sg is unmarked (∅) and 3pl is _e_. In the case of the polite 2sg or 2pl, no personal pronoun is used. Instead, the politeness markers _la_/_alaq_ are used after the verb. The 1sg becomes _im_ in front of _b'_ and _p_.
+{kinrilo:He sees you}
+aspect|object|subject|root|status
+**k**|**at**|**r**|**il**|**o**
+incomplete|B1sg|A3sg|see|∅
+{/}
 
-* The Termination marker can be thought of a euphonic marker as it has no meaning. It is either _ik_ if the root ends with a consonant, or _k_, if it ends with a vowel. This marker only appears if the verb is the end of the sentence.
+Status marker (this needs some refinement)
+: For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. _Iwir xatwilo pa k'ayab'al_, Yesterday I saw you at the market. Junkan gives `-m` as something akin to a subjunctive, adding a meaning of "to try" to a verb, such as _La ana'om ri pasta?_, Have you tried pasta?
+
+: Future marker
+It is _na_, ex. _kwilo na_, I will see.
 
 ### State of Being
 
 There is no copula in K'iche', meaning there is no conjugated form of 'to be' in a sentence that describes what something is. One simply uses the personal pronoun followed by what the person is. For example, _in kosnaq_, I am tired.
+
+To express where one is, the personal pronoun is used with _k'o pa_. For example, _In k'o pa Iximulew_, I am in Guatemala.
 
 ### To Have
 
@@ -82,6 +110,14 @@ Questions asking if one has something can be answered with `ye':yes` or `k'olik:
 ## Articles
 
 There is only a definitive article ("the") in K'iche', which does not change for pluarlity or gender. It is `le`, `le ikan:the uncle`. If one must explicate that it is more than one of the object, then the word `taq` is used: `le taq ikan:the uncles`. 
+
+## Prepositions
+
+uk'
+: with. Prefixed with the possessive prefixes, thus `wuk':with me` and `awuk':with you`.
+
+ch-e
+: for. Infixed with the possessive prefixes, thus `chwe:for me` and `chawe:for you`.
 
 ## Numbers
 
@@ -129,11 +165,16 @@ la
 jas
 : what
 
+junik'pa
+: how many
+
 --EX--
 La utz awach?
 Are you well?
-Jas ub'ixik pa k'iche' 'amigo'?
+Jas ub'ixik pa k'iche' tzij 'amigo'?
 How do you say 'amigo' in K'iche'?
+Junik'pa ajunab'?
+How old are you?
 --ENDEX--
 
 ## Miscellaneous
@@ -156,6 +197,8 @@ I am not well.
 * <source id="clqk'">_Chqeta'maj le qach’ab’al K’iche’!_, COERLL, University of Texas, Austin, [http://tzij.coerll.utexas.edu/](http://tzij.coerll.utexas.edu/).</source>
 * <source id="mondlach">_Basic K'ichee' Grammar_, James L. Mondlach, University Press of Colorado, 2017.</source>
 * <source id="junkan">Lessons with Junkan Garcia, 2018.</source>
+* <source id="routledge">_The Mayan Languages_, K'iche', Telma A. Can Pixabaj, Routledge, 2018.</source>
+* <source id="romero">_Bill Gates speaks K'ichee'! The corporatization of linguisticrevitalization in Guatemala_, Sergio Romero, Language & Communication, 47, 2016.</source>
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
