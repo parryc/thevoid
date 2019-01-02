@@ -242,6 +242,8 @@ def _add_filelist(category, html, show_tags=False):
     if len(_parts) == 2 and _parts[0] != '.DS':
       tag       = _parts[0]
       page_name = _parts[1].replace('.md','').replace('-',' ')
+      if page_name in ['hebrew', 'indonesian', 'greenlandic']:
+        continue
 
       if not category or tag in verb_to_tag[category]:
         url = _url(tag,page_name).replace(' ','-')
