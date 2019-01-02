@@ -57,6 +57,11 @@ dt:before, note:before {
   padding-right: 5px;
 }
 
+ex {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
 h1 {
   padding-top: 20px;
   padding-bottom: 10px;
@@ -402,6 +407,7 @@ Dictionary entries
 
   .bracket_table table {
     overflow-x: visible;
+    margin-left: 0.3em !important;
   }
 }
 

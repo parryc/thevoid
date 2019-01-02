@@ -88,16 +88,16 @@ incomplete|B1sg|A3sg|see|∅
 {/}
 
 Status marker (this needs some refinement)
-: For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. _Iwir xatwilo pa k'ayab'al_, Yesterday I saw you at the market. Junkan gives `-m` as something akin to a subjunctive, adding a meaning of "to try" to a verb, such as _La ana'om ri pasta?_, Have you tried pasta?
+: For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. <ex>_Iwir xatwilo pa k'ayab'al_ ⧸ Yesterday I saw you at the market.</ex> Junkan gives `-m` as something akin to a subjunctive, adding a meaning of "to try" to a verb, such as <ex>_La ana'om ri pasta?_ ⧸ Have you tried pasta?</ex>
 
-: Future marker
-It is _na_, ex. _kwilo na_, I will see.
+Future marker
+: It is _na_, ex. _kwilo na_, I will see.
 
 ### State of Being
 
 There is no copula in K'iche', meaning there is no conjugated form of 'to be' in a sentence that describes what something is. One simply uses the personal pronoun followed by what the person is. For example, _in kosnaq_, I am tired.
 
-To express where one is, the personal pronoun is used with _k'o pa_. For example, _In k'o pa Iximulew_, I am in Guatemala.
+To express where one is, the personal pronoun is used with _k'o pa_. For example, <ex>_In k'o pa Iximulew_ ⧸ I am in Guatemala.</ex>
 
 ### To Have
 
