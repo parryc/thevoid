@@ -198,7 +198,7 @@ I am not well.
 * <source id="mondlach">_Basic K'ichee' Grammar_, James L. Mondlach, University Press of Colorado, 2017.</source>
 * <source id="junkan">Lessons with Junkan Garcia, 2018.</source>
 * <source id="routledge">_The Mayan Languages_, K'iche', Telma A. Can Pixabaj, Routledge, 2018.</source>
-* <source id="romero">_Bill Gates speaks K'ichee'! The corporatization of linguisticrevitalization in Guatemala_, Sergio Romero, Language & Communication, 47, 2016.</source>
+* <source id="romero">_Bill Gates speaks K'ichee'! The corporatization of linguistic revitalization in Guatemala_, Sergio Romero, Language & Communication, 47, 2016.</source>
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
