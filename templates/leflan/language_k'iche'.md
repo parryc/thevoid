@@ -107,6 +107,17 @@ If the sentence is not existential, ex. you have something of mine, the preposit
 
 Questions asking if one has something can be answered with `ye':yes` or `k'olik:there is` in the affirmative, or `maj:no, there is not` in the negative.
 
+### Sequential Verbs
+
+The second or more verb in the sequence appears to always be conjugated in the incomplete aspect. 
+
+--EX--
+Chweq, kinsacho na kintz'ib'al k'utub'al.
+Tomorrow, I will forget to write the example.
+Iwir, xinsacho le kinb'e pa tyoxja
+Yesterday, I forgot to go to church
+--ENDEX--
+
 ## Articles
 
 There is only a definitive article ("the") in K'iche', which does not change for pluarlity or gender. It is `le`, `le ikan:the uncle`. If one must explicate that it is more than one of the object, then the word `taq` is used: `le taq ikan:the uncles`. 
@@ -117,7 +128,7 @@ uk'
 : with. Prefixed with the possessive prefixes, thus `wuk':with me` and `awuk':with you`.
 
 ch-e
-: for. Infixed with the possessive prefixes, thus `chwe:for me` and `chawe:for you`.
+: for. Infixed with the possessive prefixes, thus `chwe:for me` and `chawe:for you`. `che` is often used with directional words to indicate what thing the direction is in relation to. For example, <ex>K'o jun tijob'al naqaj che le wachoch ⧸ _There is a school close to my house_</ex>, where `naqaj:near` is followed by `che`.
 
 ## Numbers
 

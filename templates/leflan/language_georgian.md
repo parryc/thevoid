@@ -27,44 +27,49 @@ pl     | ესინი| ისინი
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
 
 ა
-: functions as the 3sg copula, meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`
+: functions as the 3sg copula (and colloquially, as 3pl copula), meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`. Sometimes, but I'm not totally clear on when, one will see two აs at the end of a word. It is safe to assume that this is the 3sg copula.
 
 ა
-: "the euphonic ა", it is attached to some words, such as `არ:negative marker`, in front of one syllable words. Ex, `არა ვარ:I am not`.
+: "the euphonic ა", it is attached to some words, such as `არ:negative marker`, in front of one syllable words. For example, <ex>არა ვარ ⧸ _I am not_</ex>.
 
-ად
-: adverbializer, ex. `კარგი:good` → `კარგად:well`. Drop the final `ი` if exists and add `ად`, otherwise, keep the final vowel and add `დ`. This form is used for languages as well, `ქართულად:in Georgian`.
+ად (ADV)
+: adverbializer. Drop the final `ი` if exists and add `ად`, otherwise, keep the final vowel and add `დ`. This form is used for languages as well, `ქართულად:in Georgian`. For example, `კარგი:good` → `კარგად:well`.
 
 ები
-: plural, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`
+: plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თვის
-: for, around/about, follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns, ex. `ჩემთვის:for me`.
+: for, around/about. follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`.
 
 დან
-: from
+: from.
+
+მდე (ADV)
+: up to, till, until. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
-: on, about, ex. `მაგიდაზე:on the table`
+: on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> For example,`მაგიდაზე:on the table`.
 
 ში
-: to, in, into, takes DAT, ex. `მანქანა:car` → `მანქანაში:in a/the car`
+: to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> For example, `მანქანა:car` → `მანქანაში:in a/the car`.
 
 სკენ
-: towards
+: towards.
 
 ც
-: too, also, ex. `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite> Can only be attached to pronouns. It is also makes a question word into a relative pronoun.
+: too, also. Can only be attached to pronouns. It is also makes a question word into a relative pronoun. For example, `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite>
 
 ჯერ
-: frequency; number of times
+: frequency, number of times.
 
 წინ
-: in front, ago
+: in front, ago.
 
 შკან
-: behind
+: behind.
 
+შუა (DAT)
+: between.
 
 --EX--
 ორი დღის დროში
@@ -77,7 +82,7 @@ NOM ∅
 : the nominative case, it is unmarked (i.e the default dictionary case)
 
 GEN (ი)ს
-: the genitive case, used with certain prepositions or grammar structures
+: the genitive case, used with certain prepositions or grammar structures. Nouns ending in ა or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN.
 
 DAT, ACC, POSS ს
 : the dative/accusative/possesive case, usually used to indicate the object of a transitive verb
@@ -92,7 +97,7 @@ ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
 
 VOC (ვ)
-: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ვ` is optional.
+: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms. Their nominatives replace the final ო with ი.
 
 ## Verbs
 
@@ -175,6 +180,10 @@ Present Indicative
 2|გაქვს|გაქვთ
 3|აქვს |აქვთ
 
+##### უ̌ - to have (animate object)
+
+Be boop, add stuff here.
+
 ##### Verbs of going
 
 Verbs of "going" are comprised of a directional prefix, the verb to be, and `დი`. 
@@ -229,7 +238,7 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 : who
 
 რა
-: what. When combined with adjective with `-ა`, it means "how X!" as in "how cute!".<cite>[Kiziria, 49](#kiziria)</cite>
+: what. When combined with adjective with `-ა`, it means "how X!" as in "how cute!".<cite>[Kiziria, 49](#kiziria)</cite> რა is often suffixed, such as `რაში:in what`.
 
 რა ღირს
 : how much
@@ -272,11 +281,13 @@ How interesting!
 What time is it? // note the 3sg suffix `ა`
 რომელ საათზე?
 At what time?
+რაში ექსპერტი?
+In what are you an expert? // i.e. what are you good at?
 --ENDEX--
 
 ## Numbers
 
-See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals).
+See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals). Note that if a quantity is used with a noun, the noun does not decline for the plural. That is `ორი კიცი:two men`, not `ორი კიცები`.
 
 ### Cardinal Numbers
 
@@ -400,6 +411,10 @@ I will go to Georgia, while I am learning Georgian.
 
 For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want.
 
+## Adjectives
+
+Add something about plural adjectives.
+
 ## Bibliography
 
 * <source id="vogt">_Grammaire de la Langue Géorgienne_, Hans Vogt, Instituttet for Sammenlignende Kulturforskning, 1971.</source>
@@ -407,6 +422,7 @@ For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For examp
 * <source id="klimov">_Etymological Dictionary of the Kartvelian Languages_, Georgij A. Klimov, De Gruyter, 1998.</source>
 * <source id="harris">_Georgian Syntax_, Alice C. Harris, Cambridge Studies in Linguistics, Cambridge University Press, 1981.</source>
 * <source id="pcvangela">_Georgian Language Highlight: Telling Time_, [tumblr](http://pcvangela.tumblr.com/post/123614418121/language-tellingtime), accessed 2018-07-04.</source>
+* <source id="kurtsikidze">_Elements of Georgian Grammar_, Shorena Kurtsikidze, 2nd edition, LINCOM Europa, 2014.</source>
 
 ## Dictionary
 [le flaneur's georgian dictionary](georgian/dict)
