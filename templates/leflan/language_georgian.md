@@ -6,14 +6,14 @@
 
 #### Personal
 
-Number | NOM    | POSS      
--------|--------|-----
-1s.    | მე     |ჩემი      
-2s.    | შენ    |შენი      
-3s.    | ის     |(ი)მისი      
-1p.    | ჩვენ   |ჩვენი      
-2p.    | თქვენ  |თქვენი      
-3p.    | ისინი  |(ი)მითი      
+Number | NOM    | POSS   | DAT  
+-------|--------|--------|-----
+1s.    | მე     |ჩემი    | მე
+2s.    | შენ    |შენი    | შენ
+3s.    | ის     |(ი)მისი | (ი)მას
+1p.    | ჩვენ   |ჩვენი   | ჩვენ
+2p.    | თქვენ  |თქვენი  | თქვენ
+3p.    | ისინი  |(ი)მითი | (ი)მათ
 
 #### Demonstrative
 
@@ -169,7 +169,7 @@ Future Tense
 
 ##### ქონა - to have (inanimate object)
 
-_GEN_ subject.
+DAT subject.
 
 Note: `მანქანა:cars` are considered animate.
 
@@ -180,9 +180,18 @@ Present Indicative
 2|გაქვს|გაქვთ
 3|აქვს |აქვთ
 
-##### უ̌ - to have (animate object)
+##### ყოლა - to have (animate object)
 
-Be boop, add stuff here.
+DAT subject.
+
+Note: `მანქანა:cars` are considered animate.
+
+Present Indicative
+: &nbsp; |sg  |pl
+-|-----|--
+1|მყავს|გვყავს
+2|გყავს|გყათ
+3|ჰყავს |ჰყავთ
 
 ##### Verbs of going
 
