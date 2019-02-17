@@ -59,8 +59,7 @@ My name is Jaime.
 The verb in K'iche' contains 4 potential parts:
 
 1. Aspect
-2a. Person (subject)
-2b. Person (object)
+2. Person (subject) // Person (object)
 3. Root
 4. (Optional) Termination, Politeness marker, or Future marker
 
@@ -93,19 +92,27 @@ Status marker (this needs some refinement)
 Future marker
 : It is _na_, ex. _kwilo na_, I will see.
 
-### State of Being
+### The 3 uses of _k'o_
+
+#### State of Being
 
 There is no copula in K'iche', meaning there is no conjugated form of 'to be' in a sentence that describes what something is. One simply uses the personal pronoun followed by what the person is. For example, _in kosnaq_, I am tired.
 
-To express where one is, the personal pronoun is used with _k'o pa_. For example, <ex>_In k'o pa Iximulew_ ⧸ I am in Guatemala.</ex>
+Negative sentences use the standard `man...taj` pattern, but around the entire sentence. For example, <ex>_Man in kosnaq taj_. ⧸ I am not tired.</ex> Sometimes, you may hear _maj_ rather than _man_ as the first negative marker (_maj_ being an abbreviation of _man k'o taj_). If the subject is not a personal pronoun, then only the adjective etc. is negated, for example, <ex>_Man k'ex taj nupam_ ⧸ My stomach doesn't hurt.</ex>
 
-### To Have
+To express where one is, the personal pronoun is used with _k'o pa_. For example, <ex>_In k'o pa Iximulew_. ⧸ I am in Guatemala.</ex>
 
-There is no verb that specifically means "to have". Rather, having something is done with the existential verb `k'o:there is`. It is of the form `k'o {POSS}{NOUN}`, thus _k'o nuwaram:I have a dream_, _k'o awaram:you have a dream_.
+#### To Have
 
-If the sentence is not existential, ex. you have something of mine, the preposition `uk':with` is used. Thus, "You have my money" is _K'o awuk' nupwaq_, literally "there is my money with you".
+There is no verb that specifically means "to have". Rather, it is of the form `k'o {POSS}{NOUN}`. For example,  <ex>_K'o nuwaram_ ⧸ I have a dream</ex>, <ex>_K'o awaram_ ⧸ You have a dream.</ex>
+
+If the sentence is about a subject having something possessed by something else, ex. you have something of mine, the preposition `uk':with` is used. Thus, "You have my money" is _K'o awuk' nupwaq_, literally "there is my money with you".
 
 Questions asking if one has something can be answered with `ye':yes` or `k'olik:there is` in the affirmative, or `maj:no, there is not` in the negative.
+
+#### Existential
+
+Existential sentences, such as "There is...", use _k'o_ as a standalone verb. For example, <ex>_K'o keb' tz'i'._ ⧸ There are two dogs.</ex>
 
 ### Sequential Verbs
 
@@ -114,8 +121,10 @@ The second or more verb in the sequence appears to always be conjugated in the i
 --EX--
 Chweq, kinsacho na kintz'ib'al k'utub'al.
 Tomorrow, I will forget to write the example.
-Iwir, xinsacho le kinb'e pa tyoxja
-Yesterday, I forgot to go to church
+Iwir, xinsacho le kinb'e pa tyoxja.
+Yesterday, I forgot to go to church.
+Iwir man kinwar taj pa nik'aj chaq'ab', rumal man in kosnaq taj.
+Yesterday I wasn't asleep at midnight, because I wasn't tired.
 --ENDEX--
 
 ## Articles

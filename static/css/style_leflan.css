@@ -60,6 +60,7 @@ dt:before, note:before {
 ex {
   text-decoration: underline;
   text-decoration-style: dotted;
+  background-color: #ffecec;
 }
 
 h1 {
@@ -121,6 +122,11 @@ tag:before {
 
 tag {
   font-style: italic;
+}
+
+dd > tag {
+  text-decoration: underline;
+  text-decoration-style: dotted;
 }
 
 .footnote > ol {

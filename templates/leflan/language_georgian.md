@@ -22,6 +22,16 @@ Number | NOM    | POSS   | DAT
 sg     | აქ   | ის
 pl     | ესინი| ისინი
 
+#### Relative
+
+რაც
+: that (which). Most often refers to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>.
+
+### Prefixes
+
+სა
+: creates nouns out of other nouns, most often with an additiona -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
+
 ### Suffixes
 
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
@@ -37,6 +47,9 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 
 ები
 : plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
+
+თან
+: near to, next to, together with (when used with `ერთად:together`).<cite>[Vogt §1.98](#vogt)</cite> For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex>
 
 თვის
 : for, around/about. follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`.
@@ -101,7 +114,7 @@ VOC (ვ)
 
 ## Verbs
 
-Verbs, when listed, are listed with the "verbal noun" form, also referred to as [the _masdar_](https://en.wikipedia.org/wiki/Masdar). This is a common dictionary form, but some other dictionaries/phrasebooks may list other forms.
+Verbs, when listed, are listed with the "verbal noun" form, also referred to as [the _masdar_](https://en.wikipedia.org/wiki/Arabic_verbs#Masdar). This is a common dictionary form, but some other dictionaries/phrasebooks may list other forms.
 
 ### Regular Verbs
 
@@ -117,7 +130,7 @@ The object of the sentence can also be indicated in the verb construction too. T
 2|_stem_    | _stem_+თ
 3|_stem_+ს  | _stem_+ენ
 
-An example of the verb `to do:კეთები`, stem: აკეთებ
+`+ენ` is `+ან` after stems that end in `ი`. An example of the verb `to do:კეთები`, stem: აკეთებ.
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -133,13 +146,15 @@ An example of the verb `to do:კეთები`, stem: აკეთებ
 2|გ+_stem_    | გ+_stem_+თ
 3|_stem_  | _stem_+თ
 
-An example of the verb `სურვილი:to want; to wish`, stem: სურს. (This might be considered irregular due to the 3pl)
+Note that in both 2pl and 3pl, the final -ს is dropped. An example of the verb `სურვილი:to want; to wish`, stem: სურს.
 
 &nbsp; |sg  |pl
 -|------|------
 1|**მ**სურს |**გვ**სურს
 2|**გ**სურს |**გ**სურ**თ**
 3|სურს  |სურ**თ**
+
+Almost invariably, these verbs take a dative subject, thus _მას სურს_ and _მათ სურთ_.
 
 
 ### Irregular Verbs
@@ -151,7 +166,7 @@ Present Indicative
 -|----|--
 1|ვარ |ვართ
 2|ხარ |ხართ
-3|არის|არისნ
+3|არის|არიან
 
 Past Tense
 : &nbsp; |sg  |pl
@@ -294,6 +309,25 @@ At what time?
 In what are you an expert? // i.e. what are you good at?
 --ENDEX--
 
+## Postpositions
+
+წინ GEN
+: before, in front of.
+
+მერე
+: after.
+
+განმავლობაში
+: during, in the course of.
+
+შორის
+: among, between.
+
+--EX--
+რა განსხვავებაა X-ის და Y-ის შორის?
+What is the difference between X and Y?
+--ENDEX--
+
 ## Numbers
 
 See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals). Note that if a quantity is used with a noun, the noun does not decline for the plural. That is `ორი კიცი:two men`, not `ორი კიცები`.
@@ -354,7 +388,7 @@ The Georgian week starts on Monday.
 * Saturday - შაბათი
 * Sunday - კვირა
 
-General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the POSS, thus `morning:დილა` → `in the morning:დილის`
+General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the GEN, thus `morning:დილა` → `in the morning:დილის`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`.
 
@@ -363,13 +397,13 @@ Minutes within hours can be expressed literally as "1 hour + 15 minutes", but th
 This ownership is expressed in two different ways, depending on if it's before or after the 30 minute mark. 
 
 1-29
-: hour's (POSS `+ს`) + #, so 1:24 would be "2's 24 minutes", thus `ორის ოცდაოთხი`
+: hour's (GEN `+ს`) + #, so 1:24 would be "2's 24 minutes", thus `ორის ოცდაოთხი`
 
 30
-: hour's (POSS `+ს`) + `half:ნახევარი`, ex. 1:30 = 2's half = ორის ნახევარი
+: hour's (GEN `+ს`) + `half:ნახევარი`, ex. 1:30 = 2's half = ორის ნახევარი
 
 31-59
-: hour (DAT `-ი +ს`) + lacks + #, so 1:50 would be "2 lacks 10 minutes", thus `ორს აკლია ათი`. The verb `to lack:აკლია` takes the dative case for its subject, hence the `ი` dropping that does not occur with the possessive used for 1-29.
+: hour (DAT `-ი +ს`) + lacks + #, so 1:50 would be "2 lacks 10 minutes", thus `ორს აკლია ათი`. The 3rd person form `lacks:აკლია` takes the dative case for its subject, hence the `ი` dropping that does not occur with the possessive used for 1-29.
 
 Being "at" a time also differs between 0-30 and 31-59. 
 
