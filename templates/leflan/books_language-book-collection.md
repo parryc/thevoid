@@ -9,17 +9,18 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
 Arabic – 1
-Bosnian-Croatian-Serbian (BCS) – 1
+Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chinuk Wawa – 1
 Classical Chinese – 1
 Cornish – 1
-Danish – 1
+Danish – 3
 Dutch – 8
-English – 68
+English – 79
 Finnish – 2
-French – 1
-Georgian – 6
+French – 2
+Georgian – 7
+Hebrew - 1
 Hungarian – 4
 Icelandic – 2
 Ilongo – 1
@@ -27,27 +28,27 @@ Inuktitut – 1
 Irish – 1
 Japanese – 6
 Kabardian – 1
-Kalaallisut – 3
-Kazakh – 5
+Kalaallisut – 4
+Kazakh – 6
 Korean – 1
 K'iche' – 3
 Laz – 1
-Lithuanian – 2
+Lithuanian – 3
 Lushootseed – 1
 Maltese – 1
 Mandarin – 3
 Mingrelian – 1
 Mongolian – 4
-Multiple Languages – 4
+Multiple Languages – 6
 Ojibwe – 2
 Polish – 1
 Romanian – 1
-Russian – 9
-Scots – 1
-Scottish Gaelic – 2
-Tagalog – 4
+Russian – 10
+Scots – 2
+Scottish Gaelic – 3
+Tagalog – 5
 Tahitian – 1
-Tlingit – 1
+Tlingit – 2
 Turkish – 1
 Uyghur – 2
 Visayan – 1
@@ -58,12 +59,12 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 3
+Bilingual Texts – 4
 Coursebook – 17
-Dictionary – 32
-Grammar – 21
-Phrasebook – 2
-Study – 3
+Dictionary – 37
+Grammar – 22
+Phrasebook – 10
+Study – 5
 Verb list – 3
 
 ## Languages
@@ -81,6 +82,11 @@ With the current exception of Indo-European, all languages are grouped under the
 
 Mastering Arabic 1
 : Jane Wightwick and Mahmoud Gaafar, 2nd edition, Hippocrene Books, 2013. <tag>arabic→english</tag> <tag>coursebook</tag>
+
+#### Hebrew
+
+Hebrew Phrasebook and Dictionary
+: Justin Ben-Adam and Ilana Wistinetzki, 3rd edition, Lonely Planet, 2013. <tag>hebrew→english</tag> <tag>phrasebook</tag>
 
 #### Maltese
 
@@ -118,6 +124,9 @@ Tagalog-English Dictionary
 Essential Tagalog Grammar
 : Finoa De Vos, 2nd edition, self-published, 2011. <tag>tagalog→english</tag> <tag>grammar</tag>
 
+Pilipino (Tagalog) Phrasebook
+: Violetta Lorenzana, 2nd edition, Lonely Planet, 1998. <tag>tagalog→english</tag> <tag>phrasebook</tag>
+
 #### Tahitian
 
 Study Guide and Dictionary of Tahitian Dialect
@@ -132,6 +141,9 @@ Mokomasis Lietuvių Kalbos Žodynas
 
 365 Lithuanian Verbs
 : Virginija Strumbrienė and Loreta Vilkienė and William Roebuck, Tyto Alba, 2008. <tag>lithuanian→english</tag> <tag>verb list</tag>
+
+Lithuanian Dictionary & Phrasebook
+: Jurgita Baltrušaitytė, Hippocrene, 2004. <tag>lithuanian→english</tag> <tag>phrasebook</tag> <tag>dictionary</tag>
 
 ### Celtic
 
@@ -152,6 +164,9 @@ Complete Gaelic
 
 The Gaelic-English Dictionary
 : Colin Mark, Routledge, 2004. <tag>scottish gaelic→english</tag> <tag>dictionary</tag>
+
+Reading The Gaelic Landscape
+: John Murray, Whittles Publishing, 2014. <tag>scottish gaelic→english</tag> <tag>study</tag>
 
 #### Welsh
 
@@ -176,6 +191,9 @@ A Phonological Study of the Eskimo Language
 
 Topic and Discourse Structure in West Greenlandic Agreement Constructions
 : Anna Berge, University of Nebraska Press, 2011. <tag>kalallisut→english</tag> <tag>study</tag>
+
+Grønlandsk Grammatik
+: Stig Bjørnum, Forlaget Atuagkat, 2012. <tag>kalaallisut→danish</tag> <tag>grammar</tag>
 
 #### Inuktitut
 
@@ -228,6 +246,9 @@ Icelandic
 A Scots-Polish Lexicon
 : Kasia Michalska, Savage Publishers, 2014. <tag>polish→scots</tag> <tag>dictionary</tag>
 
+Scots Dictionary
+: ed. Ian Brooks and Andrew Holmes and Mike Munro, 2nd edition, HarperCollins, 2014. <tag>scots→english</tag> <tag>dictionary</tag>
+
 #### Yiddish
 
 Comprehensive English-Yiddish Dictionary
@@ -274,6 +295,9 @@ Georgian Vocabulary for English Speakers – 9000 Words
 ჭანურ-მეგრულ-ქართული შედარებითი ლექსიკონი ⧸ Laz-Mingrelian-Georgian Comparitive Dictionary
 : არნოლდ ჩიქობავა ⧸ Arnold Chikobava, სსრკ მეცნიერებათა აკადემიის საქართველოს ფილიალი ⧸ Georgian subsidiary of the USSR Academy of Sciences, 1938. <tag>georgian→georgian</tag> <tag>mingrelian→georgian</tag> <tag>laz→georgian</tag> <tag>russian→georgian</tag> <tag>dictionary</tag>
 
+Georgian Dictionary & Phrasebook
+: Nicholas Awde and Thea Khitarishvili, Revised edition, Hippocrene, 2011. <tag>georgian→english</tag> <tag>phrasebook</tag> <tag>dictionary</tag>
+
 ### Language Isolate
 
 #### Korean
@@ -299,12 +323,21 @@ Quiche-English Dictionary
 A Comparitive Dictionary of the Non-Aryan Languages of India and High Asia
 : W. W. Hunter, Trübner & co., 1868. <tag>dictionary</tag>
 
+Nordic Europe Phrase Book & Dictionary
+: ed. Kate Drynan, Berlitz, 2015. <tag>phrasebook</tag>
+
+Louisiana Place Names of Indian Origin
+: William A. Read, University of Alabama Press, 2008. <tag>dictionary</tag>
+
 ### Na-Dene
 
 #### Tlingit
 
 Beginner Tlingit
 : Nora Marks Dauenhaur and Richard Dauenhaur, 4th edition 3rd printing, Sealaska Heritage Institute, 2008. <tag>tlingit→english</tag> <tag>coursebook</tag>
+
+Haa Tuwunáagu Yís, for Healing Our Spirit
+: ed. Nora Marks Dauenhaur and Richard Dauenhaur, Sealaska Heritage Institute, 1990. <tag>tlingit→english</tag> <tag>study</tag> <tag>bilingual texts</tag>
 
 ### Niger-Congo
 
@@ -333,6 +366,11 @@ Chinuk Wawa: As our elders teach us to speak it
 : The Confederated Tribes of Grand Ronde, 2012. <tag>chinuk wawa→english</tag> <tag>dictionary</tag>
 
 ### Romance
+
+#### French
+
+Gombo Zhebes: The Dictionary of Creole Proverbs
+: Lafcadio Hearn, Reprint, Applewood Books, 1885. <tag>french→english</tag> <tag>dictionary</tag>
 
 #### Romanian
 
@@ -368,6 +406,9 @@ Chinese Grammar Wiki Book – Intermediate
 Beginner's Serbian
 : Aida Vidan and Robert Niebuhr, Hippocrene, 2012. <tag>bcs→english</tag> <tag>coursebook</tag>
 
+Croatian
+: Gordana Ivetac and Ivan Ivetac, 2nd edition, Lonely Planet, 2010. <tag>bcs→english</tag> <tag>phrasebook</tag>
+
 #### Multiple Languages
 
 The Slavonic Languages
@@ -390,6 +431,9 @@ Russian Through Reading
 A Short Russian Reference Grammar
 : I. M. Pulkina, 3rd edtion, Progress Publishers, 1970. <tag>russian→english</tag> <tag>grammar</tag>
 
+Русско-английский Разговорник
+: ?, ?, 1970?. <tag>english→russian</tag> <tag>phrasebook</tag>
+
 ### Turkic
 
 #### Kazakh
@@ -408,6 +452,9 @@ Kazakh-English English-Kazakh Dictionary
 
 A Learner's Dictionary of Kazakh Idioms
 : Akmaral Mukan, Georgetown University Press, 2012. <tag>kazakh→english</tag> <tag>dictionary</tag>
+
+The Kazakh Phrasebook
+: Aijan Akhmetova, Off the Beaten Path, 2010. <tag>kazakh→english</tag> <tag>phrasebook</tag>
 
 #### Mongolian
 

@@ -54,17 +54,17 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 თვის
 : for, around/about. follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`.
 
-დან
-: from.
+დან (INST)
+: from. For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
 მდე (ADV)
 : up to, till, until. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
-: on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> For example,`მაგიდაზე:on the table`.
+: on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`.
 
 ში
-: to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> For example, `მანქანა:car` → `მანქანაში:in a/the car`.
+: to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`.
 
 სკენ
 : towards.
@@ -78,7 +78,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 წინ
 : in front, ago.
 
-შკან
+უკან
 : behind.
 
 შუა (DAT)
@@ -218,6 +218,8 @@ Directional prefixes include:
 * `მო` – towards the listener, ex. to come to/from
 * `ა` – upwards, ex. to climb
 * `ჭა` – downwards, ex. to descend
+* `გა` – outwards
+* `შე` – inwards
 
 An example of the conjugation would be, `მივდივარ:I go`
 
@@ -232,11 +234,13 @@ directional prefix|1sg marker|"go"|to be.1sg
 2|მიდიხარ |მიდიხართ
 3|მიდის   |მიდიან
 
-Note the irregular 3pl.
+The location target of the verb (ex. to the office, from the moon) are marked with `+ში` for going towards a place and `+დან` when coming from a place.
 
 --EX--
 საიდან მოდიხარ?
 Where are you coming from? // `საიდან:whence` can be thought of as sort of like `სად:where` + `დან:from`
+მოვდივარ ოფისში.
+I am going to the office.
 --ENDEX--
 
 ### Negation
@@ -388,9 +392,9 @@ The Georgian week starts on Monday.
 * Saturday - შაბათი
 * Sunday - კვირა
 
-General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the GEN, thus `morning:დილა` → `in the morning:დილის`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
+General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
 
-Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`.
+Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 
 Minutes within hours can be expressed literally as "1 hour + 15 minutes", but that sounds unnatural. Instead, minutes should be given relative to the hour that owns them – in Georgia, the "owning" hour is the hour that has yet to pass on the clock. So a time like 1:35, all of those 35 minutes below to 2, since 2 has not yet been hit on the clock. 
 
@@ -407,11 +411,14 @@ This ownership is expressed in two different ways, depending on if it's before o
 
 Being "at" a time also differs between 0-30 and 31-59. 
 
-0-30
+0
+: drop `-ი` in the hour and add `+ზე` to the hour, `at 3:00:სამ საათზე`
+
+1-30
 : add `+ზე` to the minutes, `at 1:30:ორის ნახევალზე`
 
 31-59
-: add `რამ` after the hour, `at 1:50:ორს რამ აკლია ათი`
+: add `რომ` after the hour, `at 1:50:ორს რომ აკლია ათი`
 
 ## Situations
 
@@ -456,7 +463,7 @@ For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For examp
 
 ## Adjectives
 
-Add something about plural adjectives.
+Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
 
 ## Bibliography
 

@@ -8,3 +8,7 @@
 * _Poems I brought down from the mountain_ – Humberto Ak'ab'al
 * _Lagoon_ - Nnedi Okorafor
 * _Binti: The Night Masquerade_ - Nnedi Okorafor
+* _Hotdish To Die For_ - Pat Dennis
+* _Stand Still, Stay Silent – Book 1_ - Minna Sundberg
+* _Stand Still, Stay Silent – Book 2_ - Minna Sundberg
+* _The Inconvenient Indian_ - Thomas King
