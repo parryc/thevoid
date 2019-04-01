@@ -214,12 +214,14 @@ Verbs of "going" are comprised of a directional prefix, the verb to be, and `დ
 
 Directional prefixes include:
 
-* `მი` – away from the listener, ex. to go
-* `მო` – towards the listener, ex. to come to/from
+* `მი` – away, ex. to go
+* `მო` – towards the speaker, ex. to come to/from
 * `ა` – upwards, ex. to climb
 * `ჭა` – downwards, ex. to descend
 * `გა` – outwards
 * `შე` – inwards
+* `და` – generic action of motion, moving, or walking<cite>[Kurtsikidze 165](#kurtsikidze)</cite>
+* `წა` – prior movement or lengthy movement, e.g. to another country. Only used in AOR or FUT.<cite>[Vogt §2.145](#vogt)</cite>
 
 An example of the conjugation would be, `მივდივარ:I go`
 
@@ -243,6 +245,12 @@ Where are you coming from? // `საიდან:whence` can be thought of as s
 I am going to the office.
 --ENDEX--
 
+##### Verbs of Situation, Condition, or Feeling
+
+This is a broad category of verbs that encompasses verbs such as rains, sits, and is cold. Kurtsikidze describes these types of verbs as "medio-active" and "medio-passive", indicating that they are not quite active and not quite passive. For example, "it rains" is not quite active because there isn't really an actor raining (though one could argue it is the sky).
+
+Verbs expressing weather, such as `წვიმს:it rains` can also be expressed by `{adj} + არის/მოდის`. That is, rather that _it rains_, it would be _it is raining_.<cite>[Kurtisikidze, 171](#kurtsikidze)</cite>
+
 ### Negation
 
 Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `ვერ` implies an inability to complete the action, whereas `არ` is simply that the action didn't occur. Compare below:
@@ -251,6 +259,10 @@ Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `�
 * არ მოვდივარ:I'm not coming
 
 ## Participles
+
+### Future Participles
+
+Future participles are often created with `სა-{word}-ელი` and indicate an action to be done. For example, `სწავლება:learning` → `სასწავლი:to be learned`
 
 ### Expressing Purpose
 
@@ -382,6 +394,8 @@ Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` +
 
 ## Time
 
+### Time Vocabulary
+
 The Georgian week starts on Monday.
 
 * Monday - ორშაბათი (two days from Saturday)
@@ -392,7 +406,33 @@ The Georgian week starts on Monday.
 * Saturday - შაბათი
 * Sunday - კვირა
 
+Seasons are:
+
+* Winter – ზამთარი
+* Spring – ზაფხული
+* Summer – გაზაფხული
+* Fall – შემოდგომა
+
+Months are:
+
+* January – იანვარი
+* February – თებერვალი
+* March – მარტი
+* April – აპრილი
+* May – მაისი
+* June – ივნისი
+* July – ივლისი
+* August – აგვისტო
+* September – სექტემბერი
+* October – ოქტომბერი
+* November – ნოემბერი
+* December – დეკემბერი
+
+### Time Expressions
+
 General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
+
+When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 
@@ -461,9 +501,39 @@ I will go to Georgia, while I am learning Georgian.
 
 For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want.
 
+**Expressing Desire (მინდა)**
+
+When expressing what one wants to do, both verbs – to want and the desired action – are conjugated. Thus, <ex>...იმიტომ, რომ მინდა ვჯამო... ⧸ ...because I wanted to eat...</ex>.
+
+**Options (თუ/ან)**
+
+There are two words for or in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
+
+--EX--
+მიდიხარ ოფისში თუ ბიბლიოთეკში?
+Are you going to the office or to the library?
+მას ჰყავს ერთი ან ორი და, მაგრამ მე ზუსტად არ ვიცი.
+He has one or two sisters, but I don't know exactly.
+--ENDEX--
+
 ## Adjectives
 
 Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
+
+### National Adjectives
+
+* `-ული` for non-person national adjectives, ex. `ქართული ენას:Georgian language`. In cases where the country does not contian an `რ`, the ending is `-ური`: `იაპონური:Japanese`.
+* `-ელი` for person-related national adjectives, ex. `ამერიკელი:an American person`
+
+### Comparison
+
+More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმე, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>.
+
+## Miscellaneous
+
+### Dialect Note
+
+In a Gori accent, many individuals drop the final _ს_, in _არის:is_.
 
 ## Bibliography
 

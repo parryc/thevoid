@@ -2,7 +2,7 @@
 
 ## Introductory Note
 
-The history of Mayan languages, from a documentary perspective, is one of consistent variation in written form and the dialect surveyed.For example, two edition of _Diccionario Quiché-Español_ by Abraham Garcia Hernandez and Santiago Yac Sam vary in orthography between the 2008 and the 1980 edition. This is not to mention the even greater variation with Munro Edmonson's 1965 _Quiche-English Dictionary_. As a result, the examples listed below may vary with one's own resources or elicitations by instructors. As Sergio Romero puts it, "K'ichee' shows substantial dialectal variation and dialect stereotypes are important ethnic markers for its speakers."<cite>[Romero 2016](#romero)</cite> So just lean in to the dialect and enjoy your journey with K'iche'!
+The history of Mayan languages, from a documentary perspective, is one of consistent variation in written form and the dialect surveyed. For example, two edition of _Diccionario Quiché-Español_ by Abraham Garcia Hernandez and Santiago Yac Sam vary in orthography between the 2008 and the 1980 edition. This is not to mention the even greater variation with Munro Edmonson's 1965 _Quiche-English Dictionary_. As a result, the examples listed below may vary with one's own resources or elicitations by instructors. As Sergio Romero puts it, "K'ichee' shows substantial dialectal variation and dialect stereotypes are important ethnic markers for its speakers."<cite>[Romero 2016](#romero)</cite> So just lean in to the dialect and enjoy your journey with K'iche'!
 
 ## Nouns
 
@@ -68,7 +68,7 @@ The verb in K'iche' contains 4 potential parts:
 These will vary based on whether or not verb is intransitive (no object) or transitive (has an object).
 
 Aspect
-: Aspect is either complete or incomplete. Incomplete aspect is marked with a `k` or `ka` in front of _b'_ or _p_. Completed aspect is marked with `x`.
+: Aspect is either complete or incomplete. Incomplete aspect is marked with a `k` or `ka` in front of _b'_ or _p_. Completed aspect is marked with `x`. Imparative mood is marked with `ch`, ex. <ex>_Chinato'o_ ⧸ (You) help me!</ex>
 
 Intransitive verbs
 : The subject marker for intransitive verbs is always a personal pronoun (Set B).
@@ -80,7 +80,7 @@ incomplete|B1sg|go|∅
 {/}
 
 Transitive verbs
-: The subject marker for transitive verbs is always a possessive pronoun (Set A), varying based on the first letter of the root, so either a preconsonantal or a prevocalic possessive pronoun. The object marker is always a personal pronoun (Set B).
+: The subject marker for transitive verbs is always a possessive pronoun (Set A), varying based on the first letter of the root, so either a preconsonantal or a prevocalic possessive pronoun. The object marker is always a personal pronoun (Set B). Note: transitive verbs _never_ end in `-ik`.
 
 {kinrilo:He sees you}
 aspect|object|subject|root|status
@@ -92,7 +92,10 @@ Status marker
 : For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. <ex>_Iwir xatwilo pa k'ayab'al_ ⧸ Yesterday I saw you at the market.</ex> Junkan gives `-m` as something akin to a subjunctive, adding a meaning of "to try" to a verb, such as <ex>_La ana'om ri pasta?_ ⧸ Have you tried pasta?</ex>. Often Junkan will include a verb with -ik non-sentence final in casual speak. In careful speech, or when asked, he will not include it. 
 
 Future marker
-: It is _na_, ex. _kwilo na_, I will see.
+: It is _na_, ex. <ex>_kwilo na_ ⧸ I will see.</ex>
+
+Reflexive marker
+: It is `{POSS}+ib'`, ex. <ex>_kwilo wib'_ ⧸ I see myself.</ex>
 
 ### The 3 uses of _k'o_
 
@@ -101,6 +104,8 @@ Future marker
 There is no copula in K'iche', meaning there is no conjugated form of 'to be' in a sentence that describes what something is. One simply uses the personal pronoun followed by what the person is. For example, _in kosnaq_, I am tired.
 
 Negative sentences use the standard `man...taj` pattern, but around the entire sentence. For example, <ex>_Man in kosnaq taj_. ⧸ I am not tired.</ex> Sometimes, you may hear _maj_ rather than _man_ as the first negative marker (_maj_ being an abbreviation of _man k'o taj_). If the subject is not a personal pronoun, then only the adjective etc. is negated, for example, <ex>_Man k'ex taj nupam_ ⧸ My stomach doesn't hurt.</ex>
+
+Contrast this standard adjectives: <ex>_utz kaxlanwa_ ⧸ good bread</ex> (a noun phrase) vs. <ex>_utz le kaxlanwa_ ⧸ the bread is good</ex> (a full sentence). The difference here is the inclusion of `le` or `ri`, which can sort of be thought of as "the", but are much more complicated in reality.
 
 To express where one is, the personal pronoun is used with _k'o pa_. For example, <ex>_In k'o pa Iximulew_. ⧸ I am in Guatemala.</ex>
 
@@ -219,7 +224,7 @@ I am not well.
 * <source id="clqk'">_Chqeta'maj le qach’ab’al K’iche’!_, COERLL, University of Texas, Austin, [http://tzij.coerll.utexas.edu/](http://tzij.coerll.utexas.edu/).</source>
 * <source id="mondlach">_Basic K'ichee' Grammar_, James L. Mondlach, University Press of Colorado, 2017.</source>
 * <source id="junkan">Lessons with Junkan Garcia, 2018.</source>
-* <source id="routledge">_The Mayan Languages_, K'iche', Telma A. Can Pixabaj, Routledge, 2018.</source>
+* <source id="routledge">_The Mayan Languages_, K'iche', Telma A. Can Pixabaj, Routledge, 2017.</source>
 * <source id="romero">_Bill Gates speaks K'ichee'! The corporatization of linguistic revitalization in Guatemala_, Sergio Romero, Language & Communication, 47, 2016.</source>
 
 <!-- Abbreviations -->

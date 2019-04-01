@@ -16,10 +16,10 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 79
+English – 80
 Finnish – 2
 French – 2
-Georgian – 7
+Georgian – 8
 Hebrew - 1
 Hungarian – 4
 Icelandic – 2
@@ -32,6 +32,7 @@ Kalaallisut – 4
 Kazakh – 6
 Korean – 1
 K'iche' – 3
+Ladino – 1
 Laz – 1
 Lithuanian – 3
 Lushootseed – 1
@@ -46,6 +47,7 @@ Romanian – 1
 Russian – 10
 Scots – 2
 Scottish Gaelic – 3
+Spanish – 1
 Tagalog – 5
 Tahitian – 1
 Tlingit – 2
@@ -59,7 +61,7 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 4
+Bilingual Texts – 5
 Coursebook – 17
 Dictionary – 37
 Grammar – 22
@@ -298,6 +300,9 @@ Georgian Vocabulary for English Speakers – 9000 Words
 Georgian Dictionary & Phrasebook
 : Nicholas Awde and Thea Khitarishvili, Revised edition, Hippocrene, 2011. <tag>georgian→english</tag> <tag>phrasebook</tag> <tag>dictionary</tag>
 
+Georgian Newspaper Reader
+: Ketevan Gabounia and John D. Murphy, Dunwoody Press, 1995. <tag>georgian→english</tag> <tag>bilingual texts</tag>
+
 ### Language Isolate
 
 #### Korean
@@ -371,6 +376,11 @@ Chinuk Wawa: As our elders teach us to speak it
 
 Gombo Zhebes: The Dictionary of Creole Proverbs
 : Lafcadio Hearn, Reprint, Applewood Books, 1885. <tag>french→english</tag> <tag>dictionary</tag>
+
+#### Ladino
+
+Diccionario Básico Ladino-Español
+: Pascual Pascual Recuero, 2nd Edition, Riopiedras Ediciones, 1977. <tag>ladino→spanish</tag> <tag>dictionary</tag>
 
 #### Romanian
 

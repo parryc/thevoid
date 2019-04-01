@@ -16,6 +16,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * Icelandic – 2
 * Irish – 1
 * Japanese – 1
+* Ladino – 1
 * Lithuanian – 1
 * Multiple languages – 1
 * Russian – 1
@@ -46,6 +47,9 @@ _Một ngày lộng gió_ (A Windy Day) and _Điều bất ngờ ở khu vườn
 _Vini-der-Pu_
 : translated by Leonard Wolf. Published by Dutton's Children's Book, 2000. <tag>yiddish</tag>
 
+_Historia de Winny de Puh_
+: translated by Isabel Gortázar and Juan Ramón Azaola. Published by Valdemar, 2009. <tag>spanish</tag>
+
 ## Le Petit Prince by Antione de Saint-Exupéry
 
 _Le Petit Prince_
@@ -62,6 +66,10 @@ _Ang Munting Prinsipe_
 
 _Маленький Принц_
 : translated by Нора Галь. Published by Эксмо, 2017. <tag>russian</tag>
+
+_El Princhipiko_
+: translated by Avner Perez and Gladys Pimienta. Published by Tintenfass, 2nd Edition, 2018. <tag>ladino</tag>
+
 
 ## Alice in Wonderland by Lewis Carroll
 

@@ -12,3 +12,5 @@
 * _Stand Still, Stay Silent – Book 1_ - Minna Sundberg
 * _Stand Still, Stay Silent – Book 2_ - Minna Sundberg
 * _The Inconvenient Indian_ - Thomas King
+* _All Systems Red_ - Martha Wells
+* _Everything You Wanted to Know About Indiants But Were Too Afraid to Ask_ - Anton Treuer

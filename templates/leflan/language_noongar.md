@@ -19,7 +19,7 @@ Noongar sentences are SOV.
 --EX--
 Maaman yongka ngardanginy
 Men are hunting kangaroo // `yongka:kangaroo`
---ENDX--
+--ENDEX--
 
 ### Negation
 
