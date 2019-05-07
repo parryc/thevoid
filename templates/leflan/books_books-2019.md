@@ -14,3 +14,6 @@
 * _The Inconvenient Indian_ - Thomas King
 * _All Systems Red_ - Martha Wells
 * _Everything You Wanted to Know About Indiants But Were Too Afraid to Ask_ - Anton Treuer
+* _Word by Word_ - Kory Stamper
+* _The Assassination of Hole In The Day_ - Anton Treuer
+* _Codex 1962: A Trilogy_ - Sjón

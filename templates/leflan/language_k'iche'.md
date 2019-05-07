@@ -184,16 +184,38 @@ K'iche' is a vigesimal (base 20) language. Mayan numerals are in parentheses, th
 8,000: juchuy (<span class="maya">𝋡𝋠𝋠𝋠</span>)
 160,000: juk'ala (<span class="maya">𝋡𝋠𝋠𝋠𝋠</span>)
 
+Ordinal numbers are often only used up to 10 (months are often spoken in Spanish).
+
+1st: nab'e
+2nd: ukab'
+3rd: urox
+4th: ukaj
+5th: uro'
+6th: uwaq
+7th: uwuq
+8th: uwajxaq
+9th: ub'elej
+10th: ulaj(uj)
+
 ## Question Words
 
 la
 : generic question partical
 
 jas
-: what
+: what, why, how
 
 junik'pa
 : how many
+
+jawchi':
+: where (location), ex. where are you?
+
+ja wi je:
+: where (destination), ex. where are you going?
+
+jachin
+: who
 
 --EX--
 La utz awach?

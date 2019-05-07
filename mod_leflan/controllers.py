@@ -31,10 +31,11 @@ tag_to_verb = {
   'language':'learns'
  ,'books'   :'reads'
  ,'through-reading':'learns'
+ ,'through-writing':'learns'
 }
 
 verb_to_tag = {
-  'learns' : ['language','through-reading']
+  'learns' : ['language','through-reading','through-writing']
  ,'reads'  : ['books']
 }
 
@@ -88,18 +89,18 @@ def language(language):
   html = get_html(page)
   return render_template('leflan/post.html',html=html,title=_title(language),t=_t(language))
 
-@mod_leflan.route('/r/learns/<language>/through-reading', methods=['GET'], host=host)
-def through_reading_index(language):
-  page = 'leflan/through-reading_%s/index.md' % language
+@mod_leflan.route('/r/learns/<language>/through-<learning_type>', methods=['GET'], host=host)
+def through_index(language, learning_type):
+  page = 'leflan/through-%s_%s/index.md' % (learning_type, language)
   html = get_html(page)
-  title = 'learn %s through reading' % language
+  title = 'learn %s through %s' % (language, learning_type)
   return render_template('leflan/post.html',html=html,title=_title(title),t=_t(title))
 
-@mod_leflan.route('/r/learns/<language>/through-reading/<post>', methods=['GET'], host=host)
-def through_reading_post(language, post):
-  page = 'leflan/through-reading_%s/%s.md' % (language, post)
+@mod_leflan.route('/r/learns/<language>/through-<learning_type>/<post>', methods=['GET'], host=host)
+def through_post(language, learning_type, post):
+  page = 'leflan/through-%s_%s/%s.md' % (learning_type, language, post)
   html = get_html(page)
-  title = 'learn %s through reading: %s' % (language, post.replace('_',' '))
+  title = 'learn %s through %s: %s' % (learning_type, language, post.replace('_',' '))
   return render_template('leflan/post.html',html=html,title=_title(title),t=_t(title))
 
 @mod_leflan.route('/r/learns/<language>/dict', methods=['GET'], host=host)
@@ -194,7 +195,7 @@ def get_html(page):
   print(page)
   if page == 'leflan/index.md':
     time = repo.git.log('-n 1','--format=%ci')
-  elif 'through-reading' in page:
+  elif 'through-reading' in page or 'through-writing' in page:
     path_parts = page.split('/')
     if 'index.md' in page:
       # go up to the folder level to get the most recent subpage's change
@@ -229,6 +230,8 @@ def _t(t):
 def _url(tag,page):
   if tag == 'through-reading':
     return os.path.join('/r',tag_to_verb[tag],page,'through-reading')
+  if tag == 'through-writing':
+    return os.path.join('/r',tag_to_verb[tag],page,'through-writing')
   return os.path.join('/r',tag_to_verb[tag],page)
 
 def _add_filelist(category, html, show_tags=False):
@@ -249,6 +252,8 @@ def _add_filelist(category, html, show_tags=False):
         url = _url(tag,page_name).replace(' ','-')
         if tag == 'through-reading':
           page_name += ' through reading'
+        if tag == 'through-writing':
+          page_name += ' through writing'
         if show_tags:
           html += u'<li><a href="%s">%s</a> <tag>%s</tag></li>' % (url, page_name, tag)
         else:

@@ -19,8 +19,10 @@ Number | NOM    | POSS   | DAT
 
 &nbsp; | near | far
 -------|------|------
-sg     | აქ   | ის
+sg     | ეს   | ის
 pl     | ესინი| ისინი
+
+In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>. 
 
 #### Relative
 
@@ -28,6 +30,9 @@ pl     | ესინი| ისინი
 : that (which). Most often refers to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>.
 
 ### Prefixes
+
+გადა
+: over, motion across
 
 სა
 : creates nouns out of other nouns, most often with an additiona -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
@@ -49,7 +54,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თან
-: near to, next to, together with (when used with `ერთად:together`).<cite>[Vogt §1.98](#vogt)</cite> For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex>
+: near to, next to, together with (when used with `ერთად:together`).<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house).</ex>
 
 თვის
 : for, around/about. follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`.
@@ -87,6 +92,8 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 --EX--
 ორი დღის დროში
 in two days
+ფიგურაზე ვსაუბრობთ.
+We're talking about the statue.
 --ENDEX--
 
 ### Grammatical Cases
@@ -95,16 +102,16 @@ NOM ∅
 : the nominative case, it is unmarked (i.e the default dictionary case)
 
 GEN (ი)ს
-: the genitive case, used with certain prepositions or grammar structures. Nouns ending in ა or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN.
+: the genitive case, used with certain prepositions or grammar structures. Nouns ending in ა or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN. One can generally distinguish between GEN and DAT because GEN will always have a vowel before the `ს`.
 
 DAT, ACC, POSS ს
-: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb
+: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb.
 
 ERG მ(ა)
-: the ergative case, this is used with some verbs
+: the ergative case, this is used with some verbs.
 
 INS თ
-: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride)
+: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`).
 
 ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
@@ -384,6 +391,8 @@ Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` +
 60 — სამოცი
 80 — ოთხმოცი
 
+Cardinal numbers can be emphasized with the suffix `-ვე` to mean "all X", that is `ორივე:all two (of them)`.<cite>[Vogt §1.77](#vogt)</cite>
+
 ### Ordinal Numbers
 
 1st - პირველი
@@ -391,6 +400,10 @@ Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` +
 2-19: `მე` + # - `ი` + `ე`. Ex. `13th:მეცამეტე`.
 
 20+: base + ordinal version of 1-19 (1 reverts back to ერთი for these numbers). Ex. `21st:ოცდამეერთე`.
+
+### Fractions
+
+Fractions are formed by adding `-დი` to ordinal numbers. Ex. `1/4th:მეოთხედი`. 1/2 is more commonly `ნახევარი`.
 
 ## Time
 
@@ -428,11 +441,15 @@ Months are:
 * November – ნოემბერი
 * December – დეკემბერი
 
+Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN (thus `..,ცხრამეტის` ).
+
 ### Time Expressions
 
 General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
 
 When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
+
+Expressions such as "2 days ago" or "in 3 years" are expressed with `წინ:prior` and `შემდეგ:next`, respectively. The time expression is in GEN. For example, <ex>_საუსტად ორი წლის წინ_ ⧸ Exactly two years ago</ex> or <ex>_ერთი თვეს შემდეგ_ ⧸ In one month</ex>.<cite>[Taranov, 32](#taranov)</cite>
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 
@@ -455,7 +472,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 : drop `-ი` in the hour and add `+ზე` to the hour, `at 3:00:სამ საათზე`
 
 1-30
-: add `+ზე` to the minutes, `at 1:30:ორის ნახევალზე`
+: add `+ზე` to the minutes, `at 1:30:ორის ნახევარზე`
 
 31-59
 : add `რომ` after the hour, `at 1:50:ორს რომ აკლია ათი`
@@ -473,8 +490,6 @@ Being "at" a time also differs between 0-30 and 31-59.
 "x" ქართულად არის "y" – X in Georgian is Y
 მე ვსწავლობ ქართულ ენას – I am learning Georgian
 
-
-
 ### Restaurants
 
 ინებეთ - "here you are"
@@ -488,13 +503,17 @@ Being "at" a time also differs between 0-30 and 31-59.
 
 ## Sentence Structures
 
-**Simultaneous Action (როცა)**
+**Simultaneous Action (როცა or თან...თან)**
 
-To indicate simultaneous action, ex. "I was at class, when Wes was on vacation", one uses `როცა` to stand in for the `when/while` part of the English sentence. Both clauses of the sentence should be in the same tense. 
+To indicate simultaneous action, ex. "I was at class, when Wes was on vacation", one uses `როცა` to stand in for the `when/while` part of the English sentence. Both clauses of the sentence should be in the same tense.
+
+Alternatively, the two actions can both be preceded by `თან`.
 
 --EX--
 მე წავალ საქართველოში, როცა ვისშავლი ქართულს.
 I will go to Georgia, while I am learning Georgian.
+თან მღერის თან ცეკვავს.
+She is dancing and singing (at the same time).
 --ENDEX--
 
 **Conditional Sentences (თუ)**
@@ -505,15 +524,26 @@ For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For examp
 
 When expressing what one wants to do, both verbs – to want and the desired action – are conjugated. Thus, <ex>...იმიტომ, რომ მინდა ვჯამო... ⧸ ...because I wanted to eat...</ex>.
 
-**Options (თუ/ან)**
+**Options (თუ/ან, არც...არც)**
 
 There are two words for or in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
+
+The negative version, neither...nor, is expressed with _არ(ც)...არც_.
 
 --EX--
 მიდიხარ ოფისში თუ ბიბლიოთეკში?
 Are you going to the office or to the library?
 მას ჰყავს ერთი ან ორი და, მაგრამ მე ზუსტად არ ვიცი.
 He has one or two sisters, but I don't know exactly.
+--ENDEX--
+
+**Reported Speech (-ო)**
+
+Reported speech is always given in the tense/mode as if the person who is being quoted is actually saying the phrase. The `-ო` marker is attached to the verb, often at the end of the sentence. 
+
+--EX--
+გუშინ დამირეკა და მთხოვა თუ შეგიძლია ბაზარში გამიყვანეო.
+Yesterday she called and asked "if it is possible for you to take me to the bazaar?" // where _me_ refers to the individual doing the asking.
 --ENDEX--
 
 ## Adjectives
@@ -529,11 +559,16 @@ Adjectives can be divided between consonant-final and vowel-final adjectives. Vo
 
 More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმე, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>.
 
+### Adjective Formation
+
+უ...ო
+: "..."-less. For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
+
 ## Miscellaneous
 
 ### Dialect Note
 
-In a Gori accent, many individuals drop the final _ს_, in _არის:is_.
+In a Gori accent, many individuals drop the final _ს_, in _არის:is_, as well as adding _ა_ to words such as _სად:where_.
 
 ## Bibliography
 
@@ -543,6 +578,7 @@ In a Gori accent, many individuals drop the final _ს_, in _არის:is_.
 * <source id="harris">_Georgian Syntax_, Alice C. Harris, Cambridge Studies in Linguistics, Cambridge University Press, 1981.</source>
 * <source id="pcvangela">_Georgian Language Highlight: Telling Time_, [tumblr](http://pcvangela.tumblr.com/post/123614418121/language-tellingtime), accessed 2018-07-04.</source>
 * <source id="kurtsikidze">_Elements of Georgian Grammar_, Shorena Kurtsikidze, 2nd edition, LINCOM Europa, 2014.</source>
+* <source id="taranov">_Georgian vocabulary for English speakers - 9000 words_, Andrey Taranov, T&P Books, 2013.</source>
 
 ## Dictionary
 [le flaneur's georgian dictionary](georgian/dict)

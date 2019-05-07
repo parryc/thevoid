@@ -56,7 +56,7 @@ P: really be:{2PL.PST} {m} 'Waffle House-in'
 ----
 
 --GLOSS--
-ვ: კი. მარტო ებ იყო ღია დილის სავ საათზე.
+ვ: კი. მარტო ებ იყო ღია დილის სამ საათზე.
 V: yes only that be:{3SG.PST} open morning-{POSS} three time=in
 {!} V: Yes. That's the only thing open at 3:00 AM.
 --ENDGLOSS--

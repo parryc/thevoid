@@ -26,7 +26,7 @@ Icelandic – 2
 Ilongo – 1
 Inuktitut – 1
 Irish – 1
-Japanese – 6
+Japanese – 7
 Kabardian – 1
 Kalaallisut – 4
 Kazakh – 6
@@ -40,7 +40,7 @@ Maltese – 1
 Mandarin – 3
 Mingrelian – 1
 Mongolian – 4
-Multiple Languages – 6
+Multiple Languages – 7
 Ojibwe – 2
 Polish – 1
 Romanian – 1
@@ -65,8 +65,8 @@ Bilingual Texts – 5
 Coursebook – 17
 Dictionary – 37
 Grammar – 22
-Phrasebook – 10
-Study – 5
+Phrasebook – 11
+Study – 6
 Verb list – 3
 
 ## Languages
@@ -275,6 +275,9 @@ A Dictionary of Basic Japanese Grammar
 Essential Japanese Grammar
 : Everett F. Bleiler, Dover, 1963. <tag>japanse→english</tag> <tag>grammar</tag>
 
+英会話ひと言活用辞典 ⧸ Say What's On Your Mind
+: 田所メアリー ⧸ Mary Tadokoro, Asahi Shuppan-sha, 2000. <tag>japanse→english</tag> <tag>phrasebook</tag>
+
 ### Kartvelian 
 
 #### Georgian
@@ -322,6 +325,11 @@ Basic K'ichee' Grammar
 
 Quiche-English Dictionary
 : Munro S. Edmonson, Middle American Research Institute Tulane University, 1965. <tag>k'iche'→english</tag> <tag>dictionary</tag>
+
+#### Multiple Languages
+
+The Mayan Languages
+: eds. Judith Aissen and Nora C. England and Roberto Zavala Maldonado, Routledge, 2017. <tag>multiple languages</tag> <tag>study</tag>
 
 ### Multiple Families
 

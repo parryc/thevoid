@@ -57,7 +57,7 @@ N: aunt-{ACC} {F.PART}-see-{ADV} out=come:{PST.1SG}
 --GLOSS--
 გუშინ დამირეკა და მთხოვა თუ შეგიძლია ბაზარში გამიყვანეო, შენ სად მიდიხარ?
 yesterday call:{AOR.PERF.3SG/1SG} and request:{PRS.3SG/1SG} if able:{PST.PRF.EV.2SG} bazaar=at take:{AOR.PERF.2SG/1SG}={REP} you where go:{PRS.1SG}
-{!} Yesterday she called and asked, "are you able to take me to the bazaar?"
+{!} Yesterday she called and asked, "are you able to take me to the bazaar?" Where are you going?
 --ENDGLOSS--
 
 * `დამირეკა` is in the aorist tense, meaning it happened in the past, and is of perfective aspect, meaning that it was completed, thus akin to 'had called me'.<link>Rayfield, 544</link>
