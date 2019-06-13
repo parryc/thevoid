@@ -17,3 +17,5 @@
 * _Word by Word_ - Kory Stamper
 * _The Assassination of Hole In The Day_ - Anton Treuer
 * _Codex 1962: A Trilogy_ - Sjón
+* _Language and Ethnicity among the K'ichee' Maya_ - Sergio Romerio
+* _The Black God's Drums_ - P. Djèlí Clark

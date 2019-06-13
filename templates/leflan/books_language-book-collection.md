@@ -45,8 +45,8 @@ Ojibwe – 2
 Polish – 1
 Romanian – 1
 Russian – 10
-Scots – 2
-Scottish Gaelic – 3
+Scots – 5
+Scottish Gaelic – 4
 Spanish – 1
 Tagalog – 5
 Tahitian – 1
@@ -62,9 +62,9 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 5
-Coursebook – 17
-Dictionary – 37
-Grammar – 22
+Coursebook – 18
+Dictionary – 39
+Grammar – 23
 Phrasebook – 11
 Study – 6
 Verb list – 3
@@ -170,6 +170,9 @@ The Gaelic-English Dictionary
 Reading The Gaelic Landscape
 : John Murray, Whittles Publishing, 2014. <tag>scottish gaelic→english</tag> <tag>study</tag>
 
+Gaelic Verbs
+: Colin Mark, Savage Publishers, 2006. <tag>scottish gaelic→english</tag> <tag>grammar</tag>
+
 #### Welsh
 
 A Grammar of the Welsh Language
@@ -250,6 +253,15 @@ A Scots-Polish Lexicon
 
 Scots Dictionary
 : ed. Ian Brooks and Andrew Holmes and Mike Munro, 2nd edition, HarperCollins, 2014. <tag>scots→english</tag> <tag>dictionary</tag>
+
+Scots Language Learner
+: L. Colin Wilson, Revised Edition, Luath, 2012. <tag>scots→english</tag> <tag>coursebook</tag>
+
+Sheltand Words: A Dictionary of the Sheltand Dialect
+: A. & A. Christie-Johnston, Revised Edition, 2014. <tag>scots→english</tag> <tag>dictionary</tag>
+
+Orkney and Shetland Weather Words: A Comparative Dictionary
+: John W. Scott, The Shetland Times, 2017. <tag>scots→english</tag> <tag>dictionary</tag>
 
 #### Yiddish
 

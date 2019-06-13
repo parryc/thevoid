@@ -20,9 +20,9 @@ Over the years, I've found myself drawn to a few different books that are always
 * Lithuanian – 1
 * Multiple languages – 1
 * Russian – 1
+* Scottish Gaelic - 1
 * Vietnamese – 1
 * Yiddish – 1
-
 
 ## Winnie the Pooh by A. A. Milne
 
@@ -70,6 +70,8 @@ _Маленький Принц_
 _El Princhipiko_
 : translated by Avner Perez and Gladys Pimienta. Published by Tintenfass, 2nd Edition, 2018. <tag>ladino</tag>
 
+_Am Prionnsa Beag_
+: translated by George Jones. Published by Tintenfass, 2018.
 
 ## Alice in Wonderland by Lewis Carroll
 

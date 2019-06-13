@@ -8,7 +8,6 @@
 * _Low_
 * _The Wicked and The Divine_
 * _Lady Mechanika_
-* _Sleepless_
 * [_Stand Still, Stay Silent_](http://sssscomic.com/)
 
 # Finished
@@ -35,6 +34,7 @@
 * _The Old Guard_ (Hiatus?)
 * [_A Redtail's Dream_](http://www.minnasundberg.fi/comicindex.php)
 * _Sun Bakery_ (Hiatus?)
+* _Sleepless_
 
 # Abandoned
 * _Roche Limit_

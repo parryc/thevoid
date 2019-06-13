@@ -63,7 +63,7 @@ The verb in K'iche' contains 4 potential parts:
 1. Aspect
 2. Person (subject) // Person (object)
 3. Root
-4. (Optional) Termination, Politeness marker, or Future marker
+4. (Optional) Termination, Politeness, Future, or Perfective marker
 
 These will vary based on whether or not verb is intransitive (no object) or transitive (has an object).
 
@@ -89,13 +89,16 @@ incomplete|B1sg|A3sg|see|∅
 {/}
 
 Status marker
-: For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. <ex>_Iwir xatwilo pa k'ayab'al_ ⧸ Yesterday I saw you at the market.</ex> Junkan gives `-m` as something akin to a subjunctive, adding a meaning of "to try" to a verb, such as <ex>_La ana'om ri pasta?_ ⧸ Have you tried pasta?</ex>. Often Junkan will include a verb with -ik non-sentence final in casual speak. In careful speech, or when asked, he will not include it. 
+: For transitive verbs, it is either _ik_ if the root ends with a consonant, or _k_, if the verb ends with a vowel. This marker only appears if the verb is the end of the sentence. For intransitive verbs, Mondlach and Can Pixabaj both list `-o` (such as in `ilo:to see`) as the same type of termination marker, but Junkan leaves it on even when the verb isn't sentence final, ex. <ex>_Iwir xatwilo pa k'ayab'al_ ⧸ Yesterday I saw you at the market.</ex> Often Junkan will include a verb with -ik non-sentence final in casual speak. In careful speech, or when asked, he will not include it. 
 
 Future marker
 : It is _na_, ex. <ex>_kwilo na_ ⧸ I will see.</ex>
 
 Reflexive marker
 : It is `{POSS}+ib'`, ex. <ex>_kwilo wib'_ ⧸ I see myself.</ex>
+
+Perfective marker
+: When the perfective marker is used, there is no aspect marker. For example, <ex>_La ana'om ri pasta?_ ⧸ Have you tried pasta?</ex>. `ana'om` being `{2sg:a}{to try/taste:na'o}{perf:m}`. See also Mondlach, lesson 32.
 
 ### The 3 uses of _k'o_
 
