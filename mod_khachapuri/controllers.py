@@ -16,7 +16,7 @@ mod_khachapuri = Blueprint('khachapuri', __name__)
 
 testing = app.config['KHACHAPURI_TEST']
 if not testing:
-  host = 'the-yelp-of-khachapuri.com'
+  host = 'the-yelp-of-khachapuri.site'
 else:
   host = 'localhost:5000'
 
