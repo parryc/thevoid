@@ -1,0 +1,164 @@
+h1,h2,h3,h4,h5,h6,body {
+  font-family: "Source Code Pro", "BPG Ingiri", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+body {
+  font-size: 20px;
+  line-height: 1.4;
+  counter-reset: leipzig;
+}
+
+abbr {
+  font-variant: small-caps;
+  font-size: 0.8em;
+}
+
+article {
+  width: 80%;
+  max-width: calc(80% - 1rem);
+}
+
+aside {
+  width: 20%;
+  max-width: calc(20% - 1rem);
+  padding-top: 25px;
+}
+
+blockquote {
+  border-left: .4rem solid rgba(255, 110, 110, 0.65);
+}
+
+cite {
+  vertical-align: super;
+  font-size: .6em;
+}
+
+code {
+  color: #444;
+  background: #efefef;
+  font-family: "Source Code Pro", "BPG Ingiri", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: inherit !important;
+  border-radius: 0.35rem;
+  padding: 0.15rem;
+}
+
+dt:before, note:before {
+  content: '❧';
+  padding-right: 5px;
+}
+
+ex {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  background-color: #ffecec;
+}
+
+h1 {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  background-color: rgb(255,110,110);
+  color: white;
+  border-bottom: none;
+}
+
+pt:before {
+  content: '(pt. ';
+  font-variant: small-caps;
+}
+
+pt:after {
+  content: ')';
+}
+
+pt {
+  font-style: italic;
+  padding-left: 0.8em;
+}
+
+rt {
+  font-size: 0.6em;
+}
+
+section {
+  padding-top: 10px;
+  margin-bottom: -5px;
+}
+
+sup {
+  font-size: .5em;
+}
+
+table {
+  white-space: nowrap;
+}
+
+td {
+  text-align: left;
+}
+
+/* Don't allow the PDF page splitting to
+   break inside of a table row */
+tr {
+  page-break-inside: avoid !important;
+}
+
+tag:before {
+  content: '#';
+  color: black;
+  /* Shift the :before back up to baseline for middle vertical align*/
+  vertical-align: 0px;
+}
+
+tag {
+  font-style: italic;
+}
+
+dd > tag {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.big {
+  font-size: 1.75em;
+}
+
+@media screen and (max-width: 40rem) {
+  article {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  aside {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  table {
+    overflow-x: scroll;
+    max-width: inherit !important;
+    display: block;
+  }
+
+  dd>table {
+    display:none;
+  }
+
+  dt:hover+dd>table {
+    margin-top: .75em;
+    margin-left: -1em;
+    display:table;
+  }
+}
+
+@media print {
+  table {
+    white-space: normal;
+  }
+
+  main {
+    max-width: 100% !important;
+  }
+}

@@ -38,6 +38,10 @@ bundles = {
                ,'css/style_parryc.css'
                ,'css/fonts/ptsans/fonts.css'
                ,filters='cssmin',output='gen/parryc.css'),
+  'khachapuri_css': Bundle('css/marx.min.css'
+               ,'css/style_khachapuri.css'
+               ,'css/fonts/ptsans/fonts.css'
+               ,filters='cssmin',output='gen/khachapuri.css'),
   'corbin_css': Bundle('css/marx.min.css'
                ,'css/style_corbin.css'
                ,'css/fonts/cormorant/fonts.css'
@@ -113,3 +117,5 @@ from mod_leflan.controllers import mod_leflan
 app.register_blueprint(mod_leflan)
 from mod_corbin.controllers import mod_corbin
 app.register_blueprint(mod_corbin)
+from mod_khachapuri.controllers import mod_khachapuri
+app.register_blueprint(mod_khachapuri)

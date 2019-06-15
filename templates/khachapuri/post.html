@@ -1,0 +1,18 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/khachapuri.css" />
+  {% assets "khachapuri_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+  <a href="/" style="color:#444"><span class="big">the yelp of khachapuri</span></a><br/>
+  <nav>
+    <a href="/reviews">reviews</a> • <a href="/bounties">bounties</a> • <a href="/about">what is khachapuri?</a>
+  </nav>
+{% endblock %}
+{% block content  %}
+  <h1></h1>
+  {{html|safe}}
+{% endblock %}

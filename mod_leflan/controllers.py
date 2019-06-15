@@ -16,7 +16,7 @@ mod_leflan = Blueprint('leflan.eu', __name__)
 testing = app.config['LEFLAN_TEST']
 if not testing:
   host   = 'leflan.eu'
-  if not (app.config['LEFLAN_TEST'] or app.config['PARRYC_TEST'] or app.config['CORBIN_TEST']):
+  if not (app.config['LEFLAN_TEST'] or app.config['PARRYC_TEST'] or app.config['CORBIN_TEST'] or app.config['KHACHAPURI_TEST']):
     repo   = Repo('/srv/data/vcs/git/default.git')
     folder = os.path.join('templates','leflan')
 else:
