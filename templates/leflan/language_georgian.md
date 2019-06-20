@@ -89,6 +89,9 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 შუა (DAT)
 : between.
 
+მოყვარული
+: fan of, ex. `კინომოყვარული:film fan`
+
 --EX--
 ორი დღის დროში
 in two days
@@ -545,6 +548,10 @@ Reported speech is always given in the tense/mode as if the person who is being 
 გუშინ დამირეკა და მთხოვა თუ შეგიძლია ბაზარში გამიყვანეო.
 Yesterday she called and asked "if it is possible for you to take me to the bazaar?" // where _me_ refers to the individual doing the asking.
 --ENDEX--
+
+**Sometimes this, sometimes that (ხან..., ხან...)**
+
+When two things happen, but not necessarily at the same time (sometimes I ride my bike, sometimes I take the bus), use `ხან` before each "thing" that is being done.
 
 ## Adjectives
 

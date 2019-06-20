@@ -10,11 +10,31 @@ don't forget to [check the bounties](/bounties), too!
 * price: 💰💰💰
 * taste: 💛💛💛💛
 * type: imeruli
-* date: september 2018
-* rated by: ac
+* date: april 2019
+* rated by: alc
 * note: "it was really salty but really good"
 
 <img width="200" src="/images/khachapuri_madrid.jpg"/>
+
+----
+
+* location: Broadsheet Coffee Roasters, Boston, USA
+* price: 💰💰💰
+* taste: 💛
+* type: adjaruli
+* date: april 2019
+* rated by: eml
+* note: "it was hard bread"
+
+----
+
+* location: Old Tbilisi Garden, New York City, USA
+* price: 💰💰💰
+* taste: 💛💛💛
+* type: megruli
+* date: january 2019
+* rated by: eml
+* note: "really cheesey, like eating a pile of cheese, which is nice, but a little monotonous"
 
 ----
 
@@ -23,7 +43,7 @@ don't forget to [check the bounties](/bounties), too!
 * taste: 💛💛💛
 * type: imeruli
 * date: september 2018
-* rated by: pc
+* rated by: wpc
 
 ----
 
@@ -32,7 +52,7 @@ don't forget to [check the bounties](/bounties), too!
 * taste: 💛💛💛
 * type: megruli
 * date: september 2018
-* rated by: pc
+* rated by: wpc
 
 ----
 
@@ -41,7 +61,7 @@ don't forget to [check the bounties](/bounties), too!
 * taste: 💛💛💛
 * type: imeruli
 * date: July 2017
-* rated by: pc
+* rated by: wpc
 
 ----
 

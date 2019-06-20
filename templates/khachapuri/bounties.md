@@ -2,6 +2,18 @@ do you want to eat khachapuri _and_ get paid to do so? visit one of these khacha
 
 ## open bounties
 
+Phinix Grill, Boston, USA
+: posted June 2019
+
+Jana Grill & Bakery, Boston, USA
+: posted June 2019
+
+Firepit, Boston, USA
+: posted June 2019
+
+Oda House, New York City, USA
+: posted June 2019
+
 Eastern Promises, Minneapolis, USA
 : posted June 2019
 
