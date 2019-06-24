@@ -1,10 +1,10 @@
 [TOC]
 
-## Nouns
+# Nouns
 
-### Pronouns
+## Pronouns
 
-#### Personal
+### Personal
 
 Number | NOM    | POSS   | DAT  
 -------|--------|--------|-----
@@ -15,7 +15,7 @@ Number | NOM    | POSS   | DAT
 2p.    | თქვენ  |თქვენი  | თქვენ
 3p.    | ისინი  |(ი)მითი | (ი)მათ
 
-#### Demonstrative
+### Demonstrative
 
 &nbsp; | near | far
 -------|------|------
@@ -26,17 +26,17 @@ pl     | ესინი| ისინი
 
 In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>. 
 
-#### Relative
+### Relative
 
 რაც
 : that (which). Most often refers to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>.
 
-### Prefixes
+## Prefixes
 
 გადა
 : over, motion across
 
-### Suffixes
+## Suffixes
 
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
 
@@ -95,7 +95,7 @@ in two days
 We're talking about the statue.
 --ENDEX--
 
-### Word Formation
+## Word Formation
 
 მოყვარული
 : fan of, ex. `კინომოყვარული:film fan`
@@ -107,7 +107,7 @@ We're talking about the statue.
 : without, "...-less". For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
 
 
-### Grammatical Cases
+## Grammatical Cases
 
 NOM ∅
 : the nominative case, it is unmarked (i.e the default dictionary case)
@@ -132,17 +132,17 @@ ADV (ა)დ
 VOC (ვ)
 : the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms. Their nominatives replace the final ო with ი.
 
-## Verbs
+# Verbs
 
 Verbs, when listed, are listed with the "verbal noun" form, also referred to as [the _masdar_](https://en.wikipedia.org/wiki/Arabic_verbs#Masdar). This is a common dictionary form, but some other dictionaries/phrasebooks may list other forms.
 
-### Regular Verbs
+## Regular Verbs
 
 Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb. Verbs take one of two forms of indicating person, either ვ-series or მ-series.
 
 The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
 
-#### Present Tense - ვ-series
+### Present Tense - ვ-series
 
 <attn>[Kiziria](#kiziria) breaks these into 1st and 2nd conjugations</attn>
 
@@ -160,7 +160,7 @@ The object of the sentence can also be indicated in the verb construction too. T
 2|აკეთებ |აკეთებ**თ**
 3|აკეთებ**ს**|აკეთებ**ენ**
 
-#### Present Tense - მ-series
+### Present Tense - მ-series
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -179,9 +179,9 @@ Note that in both 2pl and 3pl, the final -ს is dropped. An example of the verb
 Almost invariably, these verbs take a dative subject, thus _მას სურს_ and _მათ სურთ_.
 
 
-### Irregular Verbs
+## Irregular Verbs
 
-##### ყოფმა - to be
+#### ყოფმა - to be
 
 Present Indicative
 : &nbsp; |sg  |pl
@@ -204,7 +204,7 @@ Future Tense
 2|იქნები |იქნებით
 3|იქნების|იქნებიას
 
-##### ქონა - to have (inanimate object)
+#### ქონა - to have (inanimate object)
 
 <attn>DAT subject.</attn>
 
@@ -217,7 +217,7 @@ Present Indicative
 2|გაქვს|გაქვთ
 3|აქვს |აქვთ
 
-##### ყოლა - to have (animate object)
+#### ყოლა - to have (animate object)
 
 <attn>DAT subject.</attn>
 
@@ -230,11 +230,11 @@ Present Indicative
 2|გყავს|გყათ
 3|ჰყავს|ჰყავთ
 
-##### იცის - to know (a thing, a fact)
+#### იცის - to know (a thing, a fact)
 
 The first two screeves, thus the commonly used tenses like present and aorist have the subject in the narrative case. The 3rd screeve (such as future subjunctive) has the subject in the dative case. Thus, `მას იცის:S/he knows`.
 
-##### Verbs of going
+#### Verbs of going
 
 Verbs of "going" are comprised of a directional prefix, the verb to be, and `დი`. 
 
@@ -271,26 +271,26 @@ Where are you coming from? // `საიდან:whence` can be thought of as s
 I am going to the office.
 --ENDEX--
 
-##### Verbs of Situation, Condition, or Feeling
+#### Verbs of Situation, Condition, or Feeling
 
 This is a broad category of verbs that encompasses verbs such as rains, sits, and is cold. Kurtsikidze describes these types of verbs as "medio-active" and "medio-passive", indicating that they are not quite active and not quite passive. For example, "it rains" is not quite active because there isn't really an actor raining (though one could argue it is the sky).
 
 Verbs expressing weather, such as `წვიმს:it rains` can also be expressed by `{adj} + არის/მოდის`. That is, rather than _it rains_, it would be _it is raining_.<cite>[Kurtisikidze, 171](#kurtsikidze)</cite>
 
-### Negation
+## Negation
 
 Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `ვერ` implies an inability to complete the action, whereas `არ` is simply that the action didn't occur. Compare below:
 
 * ვერ მოვდივარ:I'm not able to come
 * არ მოვდივარ:I'm not coming
 
-## Participles
+# Participles
 
-### Future Participles
+## Future Participles
 
 Future participles are often created with `სა-{word}-ელი` and indicate an action to be done. For example, `სწავლება:learning` → `სასწავლი:to be learned`
 
-### Expressing Purpose
+## Expressing Purpose
 
 Purpose can be expressed with the a future participle, most commonly with the future participle in the adverbial case. The future participle is formed by prefixing the root with `სა-` and the adverbial case is formed with `-ად`. Using `მოგზიურობა:to travel`, we get `სამოგზიუროდ:for the purpose of traveling`. `-დ` is used here because the root ends in a vowel.
 
@@ -298,7 +298,7 @@ In many cases, and expecially when in the adverbial case, the word can be though
 
 Occasionally, `სა-` may occur after the first syllable, such as `დალევი:to drink` → `დასალევად`. `დასალევად` implies drinking alcohol (much as saying "We're going drinking" in English implies the same).
 
-## Question Words
+# Question Words
 
 ვინ
 : who
@@ -360,7 +360,7 @@ At what time?
 In what are you an expert? // i.e. what are you good at?
 --ENDEX--
 
-## Postpositions
+# Postpositions
 
 წინ GEN
 : before, in front of.
@@ -379,12 +379,12 @@ In what are you an expert? // i.e. what are you good at?
 What is the difference between X and Y?
 --ENDEX--
 
-## Numbers
+# Numbers
 
 See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals). 
 <attn>Note that if a quantity is used with a noun, the noun does not decline for the plural. That is `ორი კიცი:two men`, not `ორი კიცები`.</attn>
 
-### Cardinal Numbers
+## Cardinal Numbers
 
 0 — ნული
 1 — ერთი
@@ -424,7 +424,7 @@ Cardinal numbers can be emphasized with the suffix `-ვე` to mean "all X", th
 
 Halves are formed with `ნახევარი:half` and the number, minus -ი. If greater than 1.5, then the amount is unconnected to the noun, ex. `სამ-ნახევარი ხაჭაპური:3.5 khachapuris`. Otherwise, ნახევარი is simply attached to the noun, ex. `ლარ-ნახევარი:1.5 lari`.
 
-### Ordinal Numbers
+## Ordinal Numbers
 
 1st - პირველი
 
@@ -432,13 +432,13 @@ Halves are formed with `ნახევარი:half` and the number, minus -�
 
 20+: base + ordinal version of 1-19 (1 reverts back to ერთი for these numbers). Ex. `21st:ოცდამეერთე`.
 
-### Fractions
+## Fractions
 
 Fractions are formed by adding `-დი` to ordinal numbers. Ex. `1/4th:მეოთხედი`. 1/2 is more commonly `ნახევარი`.
 
-## Time
+# Time
 
-### Time Vocabulary
+## Time Vocabulary
 
 The Georgian week starts on Monday.
 
@@ -474,7 +474,7 @@ Months are:
 
 Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN (thus `..., ცხრამეტის` ).
 
-### Time Expressions
+## Time Expressions
 
 General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
 
@@ -508,9 +508,9 @@ Being "at" a time also differs between 0-30 and 31-59.
 31-59
 : add `რომ` after the hour, `at 1:50:ორს რომ აკლია ათი`
 
-## Situations
+# Situations
 
-### Useful Phrases
+## Useful Phrases
 
 მე მქვია... – I am called...
 ქართული იცი? – Do you know Georgian?
@@ -521,7 +521,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 "x" ქართულად არის "y" – X in Georgian is Y
 მე ვსწავლობ ქართულ ენას – I am learning Georgian
 
-### Restaurants
+## Restaurants
 
 ინებეთ - "here you are"
 თუ შეიძლება - "if I/we may", used at the end of a sentence to politely order something. When placed at the beginning of a sentence, drop "თუ"
@@ -531,7 +531,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 რას შემოგვთავაზები?
 რით შემიძლია გემსახუროთ? - how may I serve you? (pol. to a customer)
 
-## Sentence Structures
+# Sentence Structures
 
 **Simultaneous Action (როცა or თან...თან)**
 
@@ -597,28 +597,28 @@ But I am not as busy as you are.
 2. "This/that one". When a noun has already been stated, კი can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
 3. "However". When two clauses of a sentence contrast, კი serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
 
-## Adjectives
+# Adjectives
 
 Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
 
-### National Adjectives
+## National Adjectives
 
 * `-ული` for non-person national adjectives, ex. `ქართული ენას:Georgian language`. In cases where the country does not contian an `რ`, the ending is `-ური`: `იაპონური:Japanese`.
 * `-ელი` for person-related national adjectives, ex. `ამერიკელი:an American person`
 
-### Comparison
+## Comparison
 
 More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმე, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>.
 
 Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
 
-## Miscellaneous
+# Miscellaneous
 
-### Dialect Note
+## Dialect Note
 
 In a Gori accent, many individuals drop the final _ს_, in _არის:is_, as well as adding _ა_ to words such as _სად:where_.
 
-## Bibliography
+# Bibliography
 
 * <source id="vogt">_Grammaire de la Langue Géorgienne_, Hans Vogt, Instituttet for Sammenlignende Kulturforskning, 1971.</source>
 * <source id="kiziria">_Beginner's Georgian_, Dodona Kiziria, Hippocrene Books, 2009.</source>
@@ -628,7 +628,7 @@ In a Gori accent, many individuals drop the final _ს_, in _არის:is_, a
 * <source id="kurtsikidze">_Elements of Georgian Grammar_, Shorena Kurtsikidze, 2nd edition, LINCOM Europa, 2014.</source>
 * <source id="taranov">_Georgian vocabulary for English speakers - 9000 words_, Andrey Taranov, T&P Books, 2013.</source>
 
-## Dictionary
+# Dictionary
 [le flaneur's georgian dictionary](georgian/dict)
 <!-- Abbreviations -->
 *[NOM]: Nominative
