@@ -19,3 +19,6 @@
 * _Codex 1962: A Trilogy_ - Sjón
 * _Language and Ethnicity among the K'ichee' Maya_ - Sergio Romerio
 * _The Black God's Drums_ - P. Djèlí Clark
+* _The Nart Sagas_ - John Colarusso
+* _The Long Way to a Small, Angry Planet_ - Becky Chambers
+* _The Haunting of Tram Car 015_ - P. Djèlí Clark

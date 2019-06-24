@@ -22,6 +22,8 @@ Number | NOM    | POSS   | DAT
 sg     | ეს   | ის
 pl     | ესინი| ისინი
 
+<attn>ეგ is used when the object in question is in possession by the person being spoken to. Ex. `ეგ წიგნი:that book` implies the book is owned by the person being spoken to.</attn>
+
 In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>. 
 
 #### Relative
@@ -33,9 +35,6 @@ In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. 
 
 გადა
 : over, motion across
-
-სა
-: creates nouns out of other nouns, most often with an additiona -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
 
 ### Suffixes
 
@@ -54,10 +53,10 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თან
-: near to, next to, together with (when used with `ერთად:together`).<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house).</ex>
+: near to, next to, together with (when used with `ერთად:together`), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
 
-თვის
-: for, around/about. follows case marking. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`.
+თვის (GEN)
+: for, around/about, by. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`. When used with time phrases, it indicates "by TIME", ex. `კვირისთვის:by Sunday`.
 
 დან (INST)
 : from. For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
@@ -66,7 +65,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : up to, till, until. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
-: on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`.
+: on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`. When used with a verb of motion, it indicates the purpose of the motion. For example, <ex>_პურზე მივდივარ_ ⧸ I'm going to get bread.</ex>
 
 ში
 : to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`.
@@ -89,9 +88,6 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 შუა (DAT)
 : between.
 
-მოყვარული
-: fan of, ex. `კინომოყვარული:film fan`
-
 --EX--
 ორი დღის დროში
 in two days
@@ -99,13 +95,27 @@ in two days
 We're talking about the statue.
 --ENDEX--
 
+### Word Formation
+
+მოყვარული
+: fan of, ex. `კინომოყვარული:film fan`
+
+სა
+: creates nouns out of other nouns, most often with an additiona -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
+
+უ...ო
+: without, "...-less". For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
+
+
 ### Grammatical Cases
 
 NOM ∅
 : the nominative case, it is unmarked (i.e the default dictionary case)
 
 GEN (ი)ს
-: the genitive case, used with certain prepositions or grammar structures. Nouns ending in ა or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN. One can generally distinguish between GEN and DAT because GEN will always have a vowel before the `ს`.
+: the genitive case, used with certain prepositions or grammar structures. Nouns ending in ი, ა, or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN. One can generally distinguish between GEN and DAT because GEN will always have a vowel before the `ს`.
+
+<attn>Syncope, or the loss of word-internal vowels, can occur in GEN. In particular, when the NOM stem ends in [აეო][ლმნრ], ex. არ or ელ, then the vowel before the ending will be lost. For example, `მეგობარი → მეგობრის`.
 
 DAT, ACC, POSS ს
 : the dative/accusative/possesive case, usually used to indicate the object of a transitive verb.
@@ -113,8 +123,8 @@ DAT, ACC, POSS ს
 ERG მ(ა)
 : the ergative case, this is used with some verbs.
 
-INS თ
-: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`).
+INS თ(ი)
+: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
 
 ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
@@ -133,6 +143,8 @@ Personal pronouns can be dropped in Georgian, as pronomial indicators person are
 The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
 
 #### Present Tense - ვ-series
+
+<attn>[Kiziria](#kiziria) breaks these into 1st and 2nd conjugations</attn>
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -194,7 +206,7 @@ Future Tense
 
 ##### ქონა - to have (inanimate object)
 
-DAT subject.
+<attn>DAT subject.</attn>
 
 Note: `მანქანა:cars` are considered animate.
 
@@ -207,7 +219,7 @@ Present Indicative
 
 ##### ყოლა - to have (animate object)
 
-DAT subject.
+<attn>DAT subject.</attn>
 
 Note: `მანქანა:cars` are considered animate.
 
@@ -216,7 +228,11 @@ Present Indicative
 -|-----|--
 1|მყავს|გვყავს
 2|გყავს|გყათ
-3|ჰყავს |ჰყავთ
+3|ჰყავს|ჰყავთ
+
+##### იცის - to know (a thing, a fact)
+
+The first two screeves, thus the commonly used tenses like present and aorist have the subject in the narrative case. The 3rd screeve (such as future subjunctive) has the subject in the dative case. Thus, `მას იცის:S/he knows`.
 
 ##### Verbs of going
 
@@ -259,7 +275,7 @@ I am going to the office.
 
 This is a broad category of verbs that encompasses verbs such as rains, sits, and is cold. Kurtsikidze describes these types of verbs as "medio-active" and "medio-passive", indicating that they are not quite active and not quite passive. For example, "it rains" is not quite active because there isn't really an actor raining (though one could argue it is the sky).
 
-Verbs expressing weather, such as `წვიმს:it rains` can also be expressed by `{adj} + არის/მოდის`. That is, rather that _it rains_, it would be _it is raining_.<cite>[Kurtisikidze, 171](#kurtsikidze)</cite>
+Verbs expressing weather, such as `წვიმს:it rains` can also be expressed by `{adj} + არის/მოდის`. That is, rather than _it rains_, it would be _it is raining_.<cite>[Kurtisikidze, 171](#kurtsikidze)</cite>
 
 ### Negation
 
@@ -320,6 +336,15 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 რომელი
 : which
 
+როგორი
+: what kind
+
+ვისი
+: whose
+
+რამდენი ხნით
+: (for) how long
+
 --EX--
 როგორა ხარ?
 How are you?
@@ -356,7 +381,8 @@ What is the difference between X and Y?
 
 ## Numbers
 
-See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals). Note that if a quantity is used with a noun, the noun does not decline for the plural. That is `ორი კიცი:two men`, not `ორი კიცები`.
+See also the [Wikipedia page](https://en.wikipedia.org/wiki/Georgian_numerals). 
+<attn>Note that if a quantity is used with a noun, the noun does not decline for the plural. That is `ორი კიცი:two men`, not `ორი კიცები`.</attn>
 
 ### Cardinal Numbers
 
@@ -395,6 +421,8 @@ Anything over 20 is base 20, using 2/3/4 x 20 as the basis. Thus, base - `ი` +
 80 — ოთხმოცი
 
 Cardinal numbers can be emphasized with the suffix `-ვე` to mean "all X", that is `ორივე:all two (of them)`.<cite>[Vogt §1.77](#vogt)</cite>
+
+Halves are formed with `ნახევარი:half` and the number, minus -ი. If greater than 1.5, then the amount is unconnected to the noun, ex. `სამ-ნახევარი ხაჭაპური:3.5 khachapuris`. Otherwise, ნახევარი is simply attached to the noun, ex. `ლარ-ნახევარი:1.5 lari`.
 
 ### Ordinal Numbers
 
@@ -444,7 +472,7 @@ Months are:
 * November – ნოემბერი
 * December – დეკემბერი
 
-Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN (thus `..,ცხრამეტის` ).
+Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN (thus `..., ცხრამეტის` ).
 
 ### Time Expressions
 
@@ -501,8 +529,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 მოგვთან - bring to us
 არაფრის – you're welcome
 რას შემოგვთავაზები?
-
-(add food items)
+რით შემიძლია გემსახუროთ? - how may I serve you? (pol. to a customer)
 
 ## Sentence Structures
 
@@ -527,7 +554,7 @@ For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For examp
 
 When expressing what one wants to do, both verbs – to want and the desired action – are conjugated. Thus, <ex>...იმიტომ, რომ მინდა ვჯამო... ⧸ ...because I wanted to eat...</ex>.
 
-**Options (თუ/ან, არც...არც)**
+**Options (თუ/ან or არც...არც)**
 
 There are two words for or in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
 
@@ -553,6 +580,23 @@ Yesterday she called and asked "if it is possible for you to take me to the baza
 
 When two things happen, but not necessarily at the same time (sometimes I ride my bike, sometimes I take the bus), use `ხან` before each "thing" that is being done.
 
+**(Not) as X, as you (ისე...როგორც)**
+
+This structure can be used to express both positive and negative comparisons. If the first clause is negated (`არ ვარ`, for instance), then it will be "Not as X as whoever", whereas if it is a positive clause, then the comparison is "As X as whoever".
+
+--EX--
+მაგრამ არ ვარ ისე დაკავებული როგორც შენ ხარ.
+But I am not as busy as you are.
+--ENDEX--
+
+**The Versatile კი**
+
+კი performs 3 functions<cite>[Kiziria 128](#kiziria)</cite>:
+
+1. It is a neutral form of saying yes.
+2. "This/that one". When a noun has already been stated, კი can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
+3. "However". When two clauses of a sentence contrast, კი serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
+
 ## Adjectives
 
 Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
@@ -566,10 +610,7 @@ Adjectives can be divided between consonant-final and vowel-final adjectives. Vo
 
 More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმე, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>.
 
-### Adjective Formation
-
-უ...ო
-: "..."-less. For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
+Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
 
 ## Miscellaneous
 

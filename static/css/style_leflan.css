@@ -23,13 +23,23 @@ abbr {
 
 article {
   width: 80%;
-  max-width: calc(80% - 1rem);
+  max-width: 88ch;/*calc(80% - 1rem)*/;
 }
 
 aside {
   width: 20%;
-  max-width: calc(20% - 1rem);
+  /*max-width: calc(20% - 1rem);*/
   padding-top: 25px;
+}
+
+attn {
+  display: block;
+  border-left: .4rem solid rgba(155, 155, 155, 0.65);
+  padding-left: 0.66em;
+}
+
+attn:before {
+  content: '☛ ';
 }
 
 blockquote {
@@ -63,13 +73,18 @@ ex {
   background-color: #ffecec;
 }
 
-h1 {
+h1, #post-header > p {
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 15px;
   background-color: rgb(255,110,110);
   color: white;
   border-bottom: none;
+  font-size: 3.6rem;
+  font-style: normal;
+  line-height: inherit;
+  font-weight: 500;
+  margin-top: 20px;
 }
 
 pt:before {
@@ -158,7 +173,17 @@ label {
 #example-toggle-7, #example-toggle-7:not(:checked) ~ .example-block,
 #example-toggle-8, #example-toggle-8:not(:checked) ~ .example-block,
 #example-toggle-9, #example-toggle-9:not(:checked) ~ .example-block,
-#example-toggle-10, #example-toggle-10:not(:checked) ~ .example-block {
+#example-toggle-10, #example-toggle-10:not(:checked) ~ .example-block,
+#example-toggle-11, #example-toggle-11:not(:checked) ~ .example-block,
+#example-toggle-12, #example-toggle-12:not(:checked) ~ .example-block,
+#example-toggle-13, #example-toggle-13:not(:checked) ~ .example-block,
+#example-toggle-14, #example-toggle-14:not(:checked) ~ .example-block,
+#example-toggle-15, #example-toggle-15:not(:checked) ~ .example-block,
+#example-toggle-16, #example-toggle-16:not(:checked) ~ .example-block,
+#example-toggle-17, #example-toggle-17:not(:checked) ~ .example-block,
+#example-toggle-18, #example-toggle-18:not(:checked) ~ .example-block,
+#example-toggle-19, #example-toggle-19:not(:checked) ~ .example-block,
+#example-toggle-20, #example-toggle-20:not(:checked) ~ .example-block {
   display: none;
 }
 
