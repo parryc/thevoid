@@ -26,10 +26,27 @@ pl     | ესინი| ისინი
 
 In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>. 
 
-### Relative
+### Interrogative and Relative
 
-რაც
-: that (which). Most often refers to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>.
+Interrogative | Relative | English
+--------------|----------|----------
+რა | რაც | what/whatever
+როდის | როდისაც, როცა | when/whenever
+სად | სადაც | where/wherever
+როგორ | როგორც | how/however
+ვინ | ვინც | who/whoever
+რამდენი | რამდენიც | how many/how many ever
+
+More formally, relative pronouns, in particular რაც, most often refer to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>. In these cases, it often works better to translate რაც as "that (which)".
+
+--EX--
+ა: რა აკიღოთ? ბ: რაც შენ გინდა.
+A: What shall we have? B: Whatever you like.
+როგორც შენ დარეკე, (მე ...)
+When you called, (I ...)
+რგორც გინდა
+As you wish
+
 
 ## Prefixes
 
@@ -97,6 +114,9 @@ We're talking about the statue.
 
 ## Word Formation
 
+იანი
+: "...-y". For example, <ex>_მზე_ → _მზიანი_ ⧸ sun → sunny</ex>. Often equivalent to the "noun with noun" phrasing in English, such as `ქარაქიანი პური:bread with butter (lit. buttery bread)`.
+
 მოყვარული
 : fan of, ex. `კინომოყვარული:film fan`
 
@@ -121,7 +141,7 @@ DAT, ACC, POSS ს
 : the dative/accusative/possesive case, usually used to indicate the object of a transitive verb.
 
 ERG მ(ა)
-: the ergative case, this is used with some verbs.
+: the ergative case, this is used with some verbs. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ.
 
 INS თ(ი)
 : the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
@@ -136,15 +156,30 @@ VOC (ვ)
 
 Verbs, when listed, are listed with the "verbal noun" form, also referred to as [the _masdar_](https://en.wikipedia.org/wiki/Arabic_verbs#Masdar). This is a common dictionary form, but some other dictionaries/phrasebooks may list other forms.
 
-## Regular Verbs
-
 Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb. Verbs take one of two forms of indicating person, either ვ-series or მ-series.
 
 The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
 
-### Present Tense - ვ-series
+## ვ-series
 
-<attn>[Kiziria](#kiziria) breaks these into 1st and 2nd conjugations</attn>
+<attn>[Kiziria](#kiziria) breaks these into 1st and 3rd conjugation verbs.</attn>
+
+Verbs in the ვ-series can be broken down into the following structure, using do in the 3sg.FUT tense.
+
+{გააკეთებს}
+**გა**|**∅**|**აკეთ**|**ებ**|**ს**
+preverb|person marker|"do"|PFSF|person marker
+{/}
+
+These parts are:
+
+* **preverb**: a prefix used in some tenses
+* **person markers**: can either be before, after, or on both sides of the root, depending on the person
+* **PFSF**: the "Present Future Stem Format", which is a vowel+consonant syllable (vowel is optional) that appears in PRS, FUT, and IMPF after the root
+
+Personally, I think that the PFSF is more helpful as a formal structure, than anything practical, due to its variability across verbs. Some verbs don't even have on, so there's that too. Thus, in general, when the PFSF is referred to below, think of it as the ობ, ებ, ავ, etc. syllable that ends a verb in the present tense.
+
+### Present (PRS)
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -160,7 +195,88 @@ The object of the sentence can also be indicated in the verb construction too. T
 2|აკეთებ |აკეთებ**თ**
 3|აკეთებ**ს**|აკეთებ**ენ**
 
-### Present Tense - მ-series
+### Future (FUT)
+
+The future tense is formed by attaching a preverb to present tense. The preverb must be memorized.
+
+Some verbs, which Kiziria calls 3rd conjugation verbs, differ slightly from the main. In particular, rather than a preverb, they add ი before the first person marker. Additionaly, the ending (PFSF) will change to ებ.
+
+&nbsp; |sg  |pl
+-|----------|--
+1|**გა**ვაკეთებ|**გა**ვაკეთებთ
+2|**გა**აკეთებ |**გა**აკეთებთ
+3|**გა**აკეთებს|**გა**აკეთებენ
+
+An example of the FUT variant, using `ლაპარაკობს:speaks`. Note the ending "ობ".
+
+&nbsp; |sg |pl
+-|--|--
+1|ვ**ი**ლაპარაკ**ებ**|ვ**ი**ლაპარაკ**ებ**თ
+2|**ი**ლაპარაკ**ებ**|**ი**ლაპარაკ**ებ**თ
+3|**ი**ლაპარაკ**ებ**ს|**ი**ლაპარაკ**ებ**ენ
+
+<attn>There are two further exceptions to the variant. `მუშაობს:works` and `ქირაობს:rents` both insert a ვ prior to ებ. Thus, `მუშავებს:will work`.
+
+### Imperfect (IMPF)
+
+The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time"<cite>[Kiziria 142](#kiziria)</cite>
+
+The imperfect is formed by appending -დი to the end, before the personal marker. Note the slight difference for 3rd person markers, namely და for the sigular and დნენ for plural.
+
+&nbsp; |sg  |pl
+-|----------|--
+1|ვაკეთებ**დი**|ვაკეთებ**დი**თ
+2|აკეთებ**დი**|აკეთებ**დი**თ
+3|აკეთებ**და**|აკეთებ**დნენ**
+
+### Optative (OPT)
+
+The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria 180](#kiziria)</cite> To form the optative, drop the PFSF from the future tense and add ო instead. 
+
+It often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`. When მოდი is used, the following verb is in 3pl. When used independently in questions, it gives the sense of "should/shall ... ?".
+
+<attn>The subject is in DAT and the direct object is in NOM.</attn>
+
+&nbsp; |sg  |pl
+-|----------|--
+1|გავაკეთ**ო**|გავაკეთ**ო**თ
+2|გააკეთ**ო** |გააკეთ**ო**თ
+3|გააკეთ**ო**ს|გააკეთ**ო**ნ
+
+--EX--
+მინდა ქართული ენა ვისწავლო.
+I want to study Georgian.
+მას შეუძლია ხაჭაპური გააკეთოს.
+He is able to make khachapuri.
+მოდი ვლაპარაკოთ ქართულად!
+Let's speak Georgian!
+ვიყიდო ეს კაბა?
+Should I buy this dress?
+დავლიოთ ჩაი?
+Shall we have tea?
+--ENDEX--
+
+### Aorist (AOR)
+
+The aorist is akin to the English past tense. It is used for completed actions that occurred in the past. The AOR is formed by removing the PFSF from the FUT form and adding ე. Note the slight difference for 3rd person markers, namely ა for the sigular and ეს for plural.
+
+AOR is also used for imparatives, ex. `გაიმეორე!:repeat (this)!`.
+
+<attn>The subject will be in ERG and the direct object will be in NOM.</attn>
+
+&nbsp; |sg  |pl
+-|----------|--
+1|გავაკეთ**ე**|გავაკეთ**ე**თ
+2|გააკეთ**ე** |გააკეთ**ე**თ
+3|გააკეთ**ა**|გააკეთ**ეს**
+
+## მ-series
+
+<attn>[Kiziria](#kiziria) refers to these as 4th conjugation verbs.</attn>
+
+მ-series verbs have DAT subjects and NOM objects. Many of these verbs in the 3rd person have an initial ჰ, which is dropped in casual speech.
+
+### Present (PRS)
 
 &nbsp; |sg  |pl
 -|----------|--
@@ -234,9 +350,13 @@ Present Indicative
 
 The first two screeves, thus the commonly used tenses like present and aorist have the subject in the narrative case. The 3rd screeve (such as future subjunctive) has the subject in the dative case. Thus, `მას იცის:S/he knows`.
 
+#### სვამს - to drink
+
+სვამს has two different roots. In PRS and IMPF, it is სვამს. In FUT, AOR, and OPT, it is დალევ.
+
 #### Verbs of going
 
-Verbs of "going" are comprised of a directional prefix, the verb to be, and `დი`. 
+Verbs of "going" are comprised of a directional prefix, the verb to be, and `დი`. Kiziria refers to these as 2nd conjugation verbs.
 
 Directional prefixes include:
 
@@ -283,6 +403,8 @@ Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `�
 
 * ვერ მოვდივარ:I'm not able to come
 * არ მოვდივარ:I'm not coming
+
+Imparatives are negated with `ნუ:don't`. 
 
 # Participles
 
@@ -597,6 +719,10 @@ But I am not as busy as you are.
 2. "This/that one". When a noun has already been stated, კი can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
 3. "However". When two clauses of a sentence contrast, კი serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
 
+**Impersonal Sentences**
+
+Use 3pl, for example, <ex>_ეს ხიდი ათი წლის ჭინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
+
 # Adjectives
 
 Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
@@ -645,6 +771,8 @@ In a Gori accent, many individuals drop the final _ს_, in _არის:is_, a
 *[PST]: Past/Preterite
 *[FUT]: Future
 *[INF]: Infinite
+*[IMPF]: Imperfect
+*[OPT]: Optative
 *[C]: Consonant
 *[V]: Vowel
 *[DEF]: Definitive
