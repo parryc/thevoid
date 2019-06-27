@@ -6,6 +6,26 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
+* location: Pomegranate, San Diego, USA
+* price: 💰💰
+* taste: 💛💛💛
+* type: penovani
+* date: june 2019
+* rated by: wpc
+* note: "cheese wasn't melty, but still tasty. only available sun-thus, adjaruli available fri & sat"
+
+----
+
+* location: Hungry Wolf, Edinburgh, Scotland
+* price: 💰💰💰
+* taste: 💛💛💛💛
+* type: adjaruli
+* date: june 2019
+* rated by: gc & st
+* note: "very delicious, especialy the spinach one"
+
+----
+
 * location: Khachapuri, Madrid, Spain
 * price: 💰💰💰
 * taste: 💛💛💛💛
