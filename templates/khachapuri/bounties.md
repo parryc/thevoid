@@ -23,8 +23,8 @@ Moscow on the Hill, St. Paul, USA
 Gaumarjos, Warsaw, Poland
 : posted June 2019
 
-Hungry Wolf, Edinburgh, Scotland
-: posted May 2019
+<ss>Hungry Wolf, Edinburgh, Scotland</ss>
+: posted May 2019 // fulfilled June 2019
 
 Dacha, Seattle, USA
 : posted May 2019

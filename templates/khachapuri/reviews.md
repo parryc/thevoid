@@ -24,6 +24,8 @@ don't forget to [check the bounties](/bounties), too!
 * rated by: gc & st
 * note: "very delicious, especialy the spinach one"
 
+<img width="200" src="/images/khachapuri_edinburgh.jpg"/>
+
 ----
 
 * location: Khachapuri, Madrid, Spain

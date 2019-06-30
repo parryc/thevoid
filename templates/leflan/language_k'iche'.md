@@ -60,12 +60,16 @@ My name is Jaime.
 
 The verb in K'iche' contains 4 potential parts:
 
-1. Aspect
-2. Person (subject) // Person (object)
-3. Root
-4. (Optional) Termination, Politeness, Future, or Perfective marker
+1. (Optional) Progessive marker
+2. Aspect
+3. Person (subject) // Person (object)
+4. Root
+5. (Optional) Termination, Politeness, Future, or Perfective marker
 
 These will vary based on whether or not verb is intransitive (no object) or transitive (has an object).
+
+Progessive marker
+: The progressive marker is `tajin`. It is negated either as `maj tajin` or `man tajin taj`. For example, <ex>_Tajin kwilo le wuj ub'i Pop Wuj_ ⧸ I'm reading the book Pop Wuj</ex> or <ex>Tajin kub'ano jab' ⧸ It's raining (right now).</ex>
 
 Aspect
 : Aspect is either complete or incomplete. Incomplete aspect is marked with a `k` or `ka` in front of _b'_ or _p_. Completed aspect is marked with `x`. Imparative mood is marked with `ch`, ex. <ex>_Chinato'o_ ⧸ (You) help me!</ex>

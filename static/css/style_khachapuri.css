@@ -91,6 +91,10 @@ sup {
   font-size: .5em;
 }
 
+ss {
+  text-decoration: line-through;
+}
+
 table {
   white-space: nowrap;
 }

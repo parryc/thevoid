@@ -231,7 +231,9 @@ The imperfect is formed by appending -დი to the end, before the personal mar
 
 ### Optative (OPT)
 
-The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria 180](#kiziria)</cite> To form the optative, drop the PFSF from the future tense and add ო instead. 
+The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria 180](#kiziria)</cite> To form the optative, drop the PFSF from the future tense and add ო instead.
+
+Kurtsikidze calls this the 2nd Subjunctive. Of note, Kurtsikidze also mentions that the optative plural is used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze 147](#kurtsikize)</cite>
 
 It often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`. When მოდი is used, the following verb is in 3pl. When used independently in questions, it gives the sense of "should/shall ... ?".
 
@@ -242,6 +244,8 @@ It often follows forms of `უნდა:wants`, `შეუძლია:is able`,
 1|გავაკეთ**ო**|გავაკეთ**ო**თ
 2|გააკეთ**ო** |გააკეთ**ო**თ
 3|გააკეთ**ო**ს|გააკეთ**ო**ნ
+
+Verbs which take `ი` rather than `ე` in AOR will use `ა` rather than `ო` in the paradigm above.<cite>[Kurtsikidze 141](#kurtsikidze)</cite>
 
 --EX--
 მინდა ქართული ენა ვისწავლო.
