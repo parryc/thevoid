@@ -46,6 +46,7 @@ A: What shall we have? B: Whatever you like.
 When you called, (I ...)
 რგორც გინდა
 As you wish
+--ENDEX--
 
 
 ## Prefixes
