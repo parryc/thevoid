@@ -6,6 +6,17 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
+* location: Gruzińskie Chaczapuri, Krakow, Poland
+* price: 💰
+* taste: 💛💛💛💛
+* type: megruli
+* date: june 2019
+* rated by: mz
+
+<img width="200" src="/images/khachapuri_krakow.png"/>
+
+----
+
 * location: Pomegranate, San Diego, USA
 * price: 💰💰
 * taste: 💛💛💛
