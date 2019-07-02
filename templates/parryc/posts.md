@@ -2,6 +2,7 @@
 
 ## Recent Travel
 
+* [Summer 2019 // Edinburgh & Shetland](2019-05-29-shetland)
 * [March 2019 // Madrid & Toledo](2019-03-26-madrid-2019)
 * [Fall 2018 // Europe 2018](2018-10-03-europe-2018)
 * [August 2018 // Washington Trip](2018-08-17-washington)
