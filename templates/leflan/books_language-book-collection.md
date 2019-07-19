@@ -9,14 +9,16 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
 Arabic – 1
+Azeri – 1
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chinuk Wawa – 1
+Chuvash – 1
 Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 80
+English – 99
 Finnish – 2
 French – 2
 Georgian – 8
@@ -31,7 +33,7 @@ Kabardian – 1
 Kalaallisut – 4
 Kazakh – 6
 Korean – 1
-K'iche' – 3
+K'iche' – 4
 Ladino – 1
 Laz – 1
 Lithuanian – 3
@@ -47,10 +49,12 @@ Romanian – 1
 Russian – 10
 Scots – 5
 Scottish Gaelic – 4
-Spanish – 1
+Spanish – 2
+Svan – 1
 Tagalog – 5
 Tahitian – 1
 Tlingit – 2
+Tsakhur – 1
 Turkish – 1
 Uyghur – 2
 Visayan – 1
@@ -62,16 +66,16 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 5
-Coursebook – 18
+Coursebook – 19
 Dictionary – 39
-Grammar – 23
+Grammar – 28
 Phrasebook – 11
 Study – 6
 Verb list – 3
 
 ## Languages
 
-A note on tags. There are types types of tags, those for the languages of the book and those for the type of book.
+A note on tags. There are two types of tags, those for the languages of the book and those for the type of book.
 
 * language A → language B. The text is meant to be used by speakers of B, looking to understand language A.
 * {book type}. This lists the type of book, such as a dictionary, a coursebook, or something else. In rare cases, there may be multiple types listed, if the book can function as more than one type.
@@ -318,6 +322,11 @@ Georgian Dictionary & Phrasebook
 Georgian Newspaper Reader
 : Ketevan Gabounia and John D. Murphy, Dunwoody Press, 1995. <tag>georgian→english</tag> <tag>bilingual texts</tag>
 
+#### Svan
+
+Svan
+: Kevin Tuite, LINCOM, 1997. <tag>svan→english</tag> <tag>grammar</tag>
+
 ### Language Isolate
 
 #### Korean
@@ -337,6 +346,9 @@ Basic K'ichee' Grammar
 
 Quiche-English Dictionary
 : Munro S. Edmonson, Middle American Research Institute Tulane University, 1965. <tag>k'iche'→english</tag> <tag>dictionary</tag>
+
+Ri Ukemmik ri Tz'ib'anik pa K'ichee' Ch'ab'al
+: María Juliana Sis Iboy, Cholsamaj, 1994. <tag>k'iche'→spanish</tag> <tag>grammar</tag>
 
 #### Multiple Languages
 
@@ -376,12 +388,19 @@ New Xhosa Phrase Book and Vocabulary
 A Grammar of Yoruba
 : Ayọ Bamgboṣe, Cambridge University Press, 1966. <tag>yoruba→english</tag> <tag>grammar</tag>
 
+### Northeast Caucasian
+
+#### Tsakhur
+
+Tsakhur
+: Wolfgang Schulze, LINCOM, 1997. <tag>tsakhur→english</tag> <tag>grammar</tag>
+
 ### Northwest Circassian
 
 #### Kabardian
 
 Kabardino-Circassian-Russian-English-Turkish Picture Dictionary
-: H. H. Sukhunov I. H. Sukhunova, Nalchik Editorial Center, 1998. <tag>kabardian→english</tag> <tag>kabardian→russian</tag> <tag>kabardian→turkish</tag>
+: H. H. Sukhunov I. H. Sukhunova, Nalchik Editorial Center, 1998. <tag>kabardian→english</tag> <tag>kabardian→russian</tag> <tag>kabardian→turkish</tag> <tag>dictionary</tag>
 
 ### Pidgin
 
@@ -465,6 +484,16 @@ A Short Russian Reference Grammar
 : ?, ?, 1970?. <tag>english→russian</tag> <tag>phrasebook</tag>
 
 ### Turkic
+
+#### Azeri
+
+Elementary Azerbaijani
+: Kurtuluş Öztopçu, Türk Dilleri Araştırmaları Dizisi, 2nd Edition, 2012. <tag>azeri→english</tag> <tag>coursebook</tag>
+
+#### Chuvash
+
+Chuvash Manual
+: John R. Krueger, Indiana University Press, 1961. <tag>chuvash→english</tag> <tag>grammar</tag>
 
 #### Kazakh
 

@@ -106,11 +106,16 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 შუა (DAT)
 : between.
 
+გან
+: from how many parts.
+
 --EX--
 ორი დღის დროში
 in two days
 ფიგურაზე ვსაუბრობთ.
 We're talking about the statue.
+რამდენი კაცისგან შეედგება შენი ჯგუფი?
+How many people does your group consist of? // -გან indicating "from how many parts/people"
 --ENDEX--
 
 ## Word Formation
@@ -489,11 +494,14 @@ In what are you an expert? // i.e. what are you good at?
 
 # Postpositions
 
-წინ GEN
+წინ (GEN)
 : before, in front of.
 
-მერე
+მერე (GEN)
 : after.
+
+გარეშე (GEN)
+: without, outside of.
 
 განმავლობაში
 : during, in the course of.
@@ -657,6 +665,7 @@ Being "at" a time also differs between 0-30 and 31-59.
 არაფრის – you're welcome
 რას შემოგვთავაზები?
 რით შემიძლია გემსახუროთ? - how may I serve you? (pol. to a customer)
+DAT გაგვიმარჯოს! - format of a toast, ex. მეგობრებს გაგვიმარჯოს! Cheers to our friends!
 
 # Sentence Structures
 

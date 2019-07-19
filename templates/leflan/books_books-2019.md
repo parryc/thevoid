@@ -22,3 +22,7 @@
 * _The Nart Sagas_ - John Colarusso
 * _The Long Way to a Small, Angry Planet_ - Becky Chambers
 * _The Haunting of Tram Car 015_ - P. Djèlí Clark
+* _Motherfoclóir_ - Darach Ó Séaghdha
+* _How Long 'til Black Future Month?_ - N.K. Jemisin
+* _The Third Girl_ - Agatha Christie
+* _Svan_ - Kevin Tuite
