@@ -39,6 +39,8 @@ Interrogative | Relative | English
 
 More formally, relative pronouns, in particular რაც, most often refer to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>. In these cases, it often works better to translate რაც as "that (which)".
 
+When suffixed with `-მე`, the interrogative pronouns function as the prefix `some-` in English. Thus, `ვინმე:someone`, `სადმე:somewhere`, etc.
+
 --EX--
 ა: რა აკიღოთ? ბ: რაც შენ გინდა.
 A: What shall we have? B: Whatever you like.
@@ -46,6 +48,8 @@ A: What shall we have? B: Whatever you like.
 When you called, (I ...)
 რგორც გინდა
 As you wish
+სადმე წავალთ?
+Are we going somewhere?
 --ENDEX--
 
 
@@ -132,6 +136,9 @@ How many people does your group consist of? // -გან indicating "from how m
 უ...ო
 : without, "...-less". For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
 
+უ...ესი
+: the most X. For example, `ყვალეზე ლამაზი:the most beautiful` is equivalent to `ულამაზესი`.
+
 
 ## Grammatical Cases
 
@@ -164,7 +171,24 @@ Verbs, when listed, are listed with the "verbal noun" form, also referred to as 
 
 Personal pronouns can be dropped in Georgian, as pronomial indicators person are attached directly to the verb. Verbs take one of two forms of indicating person, either ვ-series or მ-series.
 
-The object of the sentence can also be indicated in the verb construction too. This quite complicated and the only example I know right now is `-უ-:2nd person object`, in `მე უეს ვურეკა:I am calling Wes`.
+The object of the sentence can also be indicated in the verb construction too. [Comrie 2017](#comrie) breaks this down into a set of rules that can help clear up when an object indicator is used. When an verb agrees with (or as Comrie puts it "indexes") the object, the მ-series markers are used.
+
+For example:
+
+* ვ-ხედავ _I see it_
+* ხედავ _You see it_
+* ხედავ-ს _She sees it_
+* მ-ხედავ-ს _She sees me_
+* გ-ხედავ-ს _She sees you_
+* მ-ხედავ _You see me_
+* გ-ხედავ _I see you_
+
+It is clear for when the მ/ვ-series markers are used (ex. `მ-` is always 1SG and `-ს` is always 3SG), but when the person is marked with `∅`, it is more difficult. Two few things to keep in mind:
+
+1. If the subject marker does not conflict with the object marker, it will be used. Otherwise, the object marker is the only one used. Thus, `გ-ხედავ-ს` but not `გ-ვ-ხედავ` (which would be interpreted as `გვ-` which is for 1PL).
+2. The object cannot be the same as the subject, meaning `გ-ხედავ` cannot be "you saw yourself". Reflexiveness is indicated with `თავი:head`.
+
+Therefore, the strangely ambiguous `გ-ხედავ` would be analyzed as _I see you_, because of the two principals above: there is no overt subject marker (so it can be either 1SG – prefix only and thus obfuscated by the object – or 2SG, which is ∅) and the subject and object can never match. Thus, the subject must be 1SG. 
 
 ## ვ-series
 
@@ -494,11 +518,17 @@ In what are you an expert? // i.e. what are you good at?
 
 # Postpositions
 
+დასაწყისში (GEN)
+: beginning of.
+
 წინ (GEN)
 : before, in front of.
 
 მერე (GEN)
 : after.
+
+მიერ (GEN)
+: by.
 
 გარეშე (GEN)
 : without, outside of.
@@ -512,6 +542,8 @@ In what are you an expert? // i.e. what are you good at?
 --EX--
 რა განსხვავებაა X-ის და Y-ის შორის?
 What is the difference between X and Y?
+მინისტრის მიერ
+
 --ENDEX--
 
 # Numbers
@@ -607,7 +639,7 @@ Months are:
 * November – ნოემბერი
 * December – დეკემბერი
 
-Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN (thus `..., ცხრამეტის` ).
+Dates are given in the form "day-month-year". Thus, `25 აპრილი ორი ათას ცხრამეტი:25 April 2019`. Note the dropped `-ი` in `ათასი`. A response to "what date is it?" will end in the GEN for the year (thus `..., ცხრამეტის`).
 
 ## Time Expressions
 

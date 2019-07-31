@@ -6,6 +6,16 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
+* location: Moscow on the Hill, St. Paul, USA
+* price: 💰💰
+* taste: 💛💛💛
+* type: egg-less adjaruli
+* date: july 2019
+* rated by: wpc
+* note: "the dill was nice"
+
+----
+
 * location: Gruzińskie Chaczapuri, Krakow, Poland
 * price: 💰
 * taste: 💛💛💛💛

@@ -18,6 +18,7 @@ a:hover {
 
 abbr {
   font-variant: small-caps;
+  font-variant-numeric: oldstyle-nums;
   font-size: 0.8em;
 }
 

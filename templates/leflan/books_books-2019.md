@@ -13,7 +13,7 @@
 * _Stand Still, Stay Silent – Book 2_ - Minna Sundberg
 * _The Inconvenient Indian_ - Thomas King
 * _All Systems Red_ - Martha Wells
-* _Everything You Wanted to Know About Indiants But Were Too Afraid to Ask_ - Anton Treuer
+* _Everything You Wanted to Know About Indians But Were Too Afraid to Ask_ - Anton Treuer
 * _Word by Word_ - Kory Stamper
 * _The Assassination of Hole In The Day_ - Anton Treuer
 * _Codex 1962: A Trilogy_ - Sjón
@@ -26,3 +26,5 @@
 * _How Long 'til Black Future Month?_ - N.K. Jemisin
 * _The Third Girl_ - Agatha Christie
 * _Svan_ - Kevin Tuite
+* _A Scandal in Japan_ - Keisuke Matsuoka
+* _Tsakhur_ - Wolfgang Schulze
