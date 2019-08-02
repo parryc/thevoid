@@ -6,6 +6,15 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
+* location: Flaming Pit, Boston, USA
+* price: 💰💰💰
+* taste: 💛💛💛
+* type: adjaruli
+* date: july 2019
+* rated by: wpc
+
+----
+
 * location: Moscow on the Hill, St. Paul, USA
 * price: 💰💰
 * taste: 💛💛💛
@@ -92,7 +101,7 @@ don't forget to [check the bounties](/bounties), too!
 
 * location: IVERIA, Munich, Germany
 * price: 💰💰
-* taste: 💛💛💛
+* taste: 💛💛💛💛
 * type: megruli
 * date: september 2018
 * rated by: wpc
@@ -128,20 +137,38 @@ don't forget to [check the bounties](/bounties), too!
 
 <a id="about-the-ratings" style="color:#444;"><h2>ratings</h2></a>
 
+<h3>taste 💛</h3>
+
 💛
-: do not eat
+: barely considered food
+
+💛💛
+: barely considered khachapuri
 
 💛💛💛
-: probably wouldn't go just for the khachapuri
+: probably wouldn't go just for the khachapuri, but worth having with other dishes
+
+💛💛💛💛
+: you'll tell your friends about this khachapuri
 
 💛💛💛💛💛
-: why are you still reading go there now and eat the khachapuri
+: why are you still reading, go there now and eat the khachapuri
+
+<h3>cost 💰</h3>
+
+each 💰 is $5, or local equivalent to $5. that is, not the exchange rate equivalent to 5 USD, but what someone might think of as a cheap meal.
 
 💰
-: as cheap as anything
+: $5 or less
+
+💰💰
+: $10 or less
 
 💰💰💰
-: reasonable
+: $15 or less
+
+💰💰💰💰
+: $20 or less (i appreciate your dedicate to the cause)
 
 💰💰💰💰💰
 : where did you find this bougie khachapuri, i hope it was worth it

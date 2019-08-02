@@ -2,14 +2,35 @@ do you want to eat khachapuri _and_ get paid to do so? visit one of these khacha
 
 ## open bounties
 
+Compass Rose, Washington, D.C., USA
+: posted August 2019
+
+Bistro 360, Washington, D.C., USA
+: posted August 2019
+
+Mari Vanna, Washington, D.C., USA
+: posted August 2019
+
+Silk Road Choyhona, Washington, D.C., USA
+: posted August 2019
+
+Tasty Dug-Out, Washington, D.C., USA
+: posted August 2019
+
+Argo Bakery, Chicago, USA
+: posted August 2019
+
+Chicago Diplomat Cafe, Chicago, USA
+: posted August 2019
+
 Phinix Grill, Boston, USA
 : posted June 2019
 
 Jana Grill & Bakery, Boston, USA
 : posted June 2019
 
-Firepit, Boston, USA
-: posted June 2019
+<ss>Flaming Pit, Boston, USA</ss>
+: posted June 2019 // fulfilled July 2019
 
 Oda House, New York City, USA
 : posted June 2019
@@ -17,8 +38,8 @@ Oda House, New York City, USA
 Eastern Promises, Minneapolis, USA
 : posted June 2019
 
-Moscow on the Hill, St. Paul, USA
-: posted June 2019
+<ss>Moscow on the Hill, St. Paul, USA</ss>
+: posted June 2019 // fulfilled July 2019
 
 Gaumarjos, Warsaw, Poland
 : posted June 2019
