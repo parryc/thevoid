@@ -2,7 +2,7 @@
 
 # Vowel Harmony and Consonant Assimilation
 
-<attn>All suffixes with vowel harmony or consonant assimilation will be written in capitals, ex. `-lAr` exhibits `a/ǝ` harmony.</attn>
+<attn>All suffixes with vowel harmony or consonant assimilation will be written in capitals, ex. `-lAr` exhibits `a/ə` harmony.</attn>
 
 There are two main attributes of vowels that are important for Azeri: front vs. back and rounded vs. unrounded. Endings require one or both of these distinctions to match, depending on the vowel in the suffix, which must match the final vowel in a word.
 
@@ -44,7 +44,7 @@ If a verbal root ends in `t` and is followed by a suffix that begins with a vowe
 Number | NOM    | GEN   | LOC  | ACC  | DAT  | ABL
 -------|--------|-------|------|------|------|-----
 1s.    | mən    |mənim  | məndə|məni  | mənə | məndən
-2s.    | sən    |sənim  | səndə|səni  | sənə | səndən
+2s.    | sən    |sənin  | səndə|səni  | sənə | səndən
 3s.    | o      |onun   | onda |onu   | ona  | ondan
 1p.    | biz    |bizim  | bizdə|bizi  | bizə | bizsən
 2p.    | siz    |sizin  | sizdə|sizi  | sizə | sizsən
@@ -138,7 +138,7 @@ haqqında
 : about.
 
 ilə
-: with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`.
+: with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used.
 
 üçün
 : for, for the purpose of. Expresses intent when used with an infinitive.
@@ -233,7 +233,7 @@ The 2PL form is most often -sIz is spoken Azeri.
 &nbsp; |SG |PL
 -|-----|--
 1|-m   | -Q
-2|-n   | -nIz
+2|-n   | -(nI)z
 3|∅    | -(lAr)
 
 ### Imperative (IMP) -∅
@@ -258,6 +258,8 @@ An example of the consonant assimilation can be seen in "I will go" and "I will 
 1|-Am   | -IQ
 2|-sAn  | -s(In)Iz
 3|-(dIr)| -(lAr)
+
+In 1SG, the suffix is often reduced to `-Ac` in casual speech.
 
 #### Indefinite Future (INDEFFUT) -Ar
 
@@ -316,9 +318,17 @@ For completed actions which finished in the past and happened before a second, m
 2|-n   | -nIz
 3|∅    | -(lAr)
 
+### Conditional (COND) -sA
+
+&nbsp; |SG |PL
+-|-----|--
+1|-m   | -Q
+2|-n   | -z
+3|∅    | -(lAr)
+
 ## imək (to be)
 
-The only irregular verb in Azeri. Exists only as a suffix and is attached to the final word of a sentence. For example, <ex>_Mən professoram_ ⧸ I am a professor.</ex>
+The only irregular verb in Azeri. Exists only as a suffix and is attached to the final word of a sentence in PRS. For example, <ex>_Mən professoram_ ⧸ I am a professor.</ex> `imək` is only used in PRS or PST. `olmaq`, a regular verb, is used in all other tenses.
 
 As with all suffixes in Azeri, if a suffix is attached to a word ending in a vowel, a "buffer consonant"<cite>[EoA p21](#eoa)</cite> `y` is added. Thus, `sürücü:driver` → `Mən sürücüyəm:I am a driver`.
 
@@ -356,11 +366,28 @@ In the past, "to be" functions as a standalone verb, following the regular past 
 
 In most cases, the subsequent verbs in a series of verbs (ex. to see in "I want to go to the movie") are placed before the declined verb. Thus, <ex>_Mən kinoya gətmək istəyirəm_ ⧸ I want to go to the movies</ex>.
 
-Two verbs, `sevmək:to love` and `xoşlamaq:to like`, however, require the subsequent verbs, still in the infinitive, to be marked as if a direct object. That is, keep `-mAQ` and add `-I`. For example, <ex>_Mən oxumağı sevírəm_ ⧸ I like reading</ex>. Note that because the infinitive ends in _k_ or _q_ and will be followed by a vowel, consonant assimilation will occur.
+Two verbs, `sevmək:to love` and `xoşlamaq:to like`, however, require the subsequent verbs, still in the infinitive, to be marked as if a direct object. That is, keep `-mAQ` and add `-I`. For example, <ex>_Mən oxumağı sevirəm_ ⧸ I like reading</ex>. Note that because the infinitive ends in _k_ or _q_ and will be followed by a vowel, consonant assimilation will occur.
+
+## Modal Verbs
+
+### Must -mAlI
+
+`-mAlI` is suffixed to the verbal root and indicates that the action must be done. The person markers are the same as in PRS.
+
+--EX--
+Getməliyəm
+I must go
+--ENDEX--
 
 # Question Words
 
 Question words are found at the end of the sentence, before the verb.
+
+haçan
+: when.
+
+hansı
+: which one.
 
 hara
 : where.
@@ -374,17 +401,23 @@ haraya
 kim
 : who.
 
+necə
+: how, in what manner.
+
+ney
+: why. 
+
 nə
 : what. Note it is _nəyi_ in ACC and _nəyə_ in DAT.
-
-necə
-: how.
 
 nə üçün
 : why. Literally "what for".
 
 nə vaxt
 : when.
+
+nöşün
+: why. Baku dialect.
 
 saat neçədə
 : what time.
@@ -496,6 +529,8 @@ Who is at their house?
 
 ## Negation
 
+<attn>Note that Azeri exhibits double negation, thus _heç nə görmürəm:I see nothing_.</attn>
+
 There are three different ways of negating a sentence. 
 
 **To Be sentences (deyil)**
@@ -524,6 +559,8 @@ There were no students in the library.
 # Numbers
 
 ## Cardinal Numbers
+
+<attn>When a number is used, the following noun does not need to be in the plural.</attn>
 
 0 - sıfır
 1 - bir
@@ -601,7 +638,7 @@ December - dekabr
 
 The year in which something occurs is expressed as an ordinal number. The month in which something occurs is expressed with LOC. If it is a month + year combo, then GEN/POSS is used, which the year marked in GEN and the month marked in POSS, as well as LOC. Similarly, if it is a month + day combo, the month is marked with GEN, the day (in cardinal form) with POSS and LOC.
 
-Similar to [Georgian](/r/learns/georgian#time-expressions), the first hour of the day is 12. Thus, all time expressions are one off from English. That is, 12:30 would be "1's thirty", or _birin yarısı_. Other minutes use either `işləyib:past` or `qalıb:til`. These are paired with the hour in DAT. No additional verb is needed, as _işleyib_ and _qalıb_ are verbal forms. For example, <ex>_Birǝ beş dəqiqə işleyib_ ⧸ It is 12:05</ex>.
+Similar to [Georgian](/r/learns/georgian#time-expressions), the first hour of the day is 12. Thus, all time expressions are one off from English. That is, 12:30 would be "1's thirty", or _birin yarısı_. Other minutes use either `işləyib:past` or `qalıb:til`. These are paired with the hour in DAT. No additional verb is needed, as _işleyib_ and _qalıb_ are verbal forms. For example, <ex>_Birə beş dəqiqə işleyib_ ⧸ It is 12:05</ex>.
 
 --EX--
 Mən Bakıya 2003-cü ildə getdim.

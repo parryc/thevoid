@@ -2,6 +2,9 @@ do you want to eat khachapuri _and_ get paid to do so? visit one of these khacha
 
 ## open bounties
 
+Khachapuri, Yakutsk, Russia
+: posted August 2019
+
 Compass Rose, Washington, D.C., USA
 : posted August 2019
 

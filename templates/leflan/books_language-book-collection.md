@@ -9,7 +9,7 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
 Arabic – 1
-Azeri – 1
+Azeri – 2
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chinuk Wawa – 1
@@ -18,7 +18,7 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 99
+English – 100
 Finnish – 2
 French – 2
 Georgian – 8
@@ -49,6 +49,7 @@ Romanian – 1
 Russian – 10
 Scots – 5
 Scottish Gaelic – 4
+Somali – 1
 Spanish – 2
 Svan – 1
 Tagalog – 5
@@ -66,9 +67,9 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 5
-Coursebook – 19
+Coursebook – 20
 Dictionary – 39
-Grammar – 28
+Grammar – 29
 Phrasebook – 11
 Study – 6
 Verb list – 3
@@ -187,6 +188,13 @@ Modern Welsh
 
 English-Welsh Pronuncing Dictionary
 : Robert Ioan Prys, Dinbych T. Gee, 1857. <tag>english→welsh</tag> <tag>dictionary</tag>
+
+### Cushitic
+
+#### Somali
+
+Colloquial Somali
+: Martin Orwin, Routledge, 1995. <tag>english→somali</tag> <tag>coursebook</tag>
 
 ### Eskimo-Aleut
 
@@ -489,6 +497,9 @@ A Short Russian Reference Grammar
 
 Elementary Azerbaijani
 : Kurtuluş Öztopçu, Türk Dilleri Araştırmaları Dizisi, 2nd Edition, 2012. <tag>azeri→english</tag> <tag>coursebook</tag>
+
+The Turkish Language of Soviet Azerbaijan
+: C. G. Simpson, The Central Asian Research Center, 1957 <tag>azeri→english</tag> <tag>grammar</tag>
 
 #### Chuvash
 

@@ -28,3 +28,4 @@
 * _Svan_ - Kevin Tuite
 * _A Scandal in Japan_ - Keisuke Matsuoka
 * _Tsakhur_ - Wolfgang Schulze
+* _Endangered Languages of the Caucasus and Beyond_ - ed. Ramazan Korkmaz and Gürkan Doğan
