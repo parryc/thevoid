@@ -12,6 +12,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * English – 4
 * Filipino – 1
 * French – 1
+* Georgian – 1
 * Hungarian – 1
 * Icelandic – 2
 * Irish – 1
@@ -71,7 +72,10 @@ _El Princhipiko_
 : translated by Avner Perez and Gladys Pimienta. Published by Tintenfass, 2nd Edition, 2018. <tag>ladino</tag>
 
 _Am Prionnsa Beag_
-: translated by George Jones. Published by Tintenfass, 2018.
+: translated by George Jones. Published by Tintenfass, 2018. <tag>scottish gaelic</tag>
+
+პატარა პრინცი
+: translated by Georges Ekizachvili. Published by აგორა, 2017. <tag>georgian</tag>
 
 ## Alice in Wonderland by Lewis Carroll
 

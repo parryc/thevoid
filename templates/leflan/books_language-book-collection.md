@@ -8,8 +8,9 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
+Abkhaz – 1
 Arabic – 1
-Azeri – 2
+Azeri – 3
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chinuk Wawa – 1
@@ -18,10 +19,10 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 100
+English – 101
 Finnish – 2
 French – 2
-Georgian – 8
+Georgian – 9
 Hebrew - 1
 Hungarian – 4
 Icelandic – 2
@@ -68,7 +69,7 @@ Yoruba – 1
 
 Bilingual Texts – 5
 Coursebook – 20
-Dictionary – 39
+Dictionary – 41
 Grammar – 29
 Phrasebook – 11
 Study – 6
@@ -403,6 +404,13 @@ A Grammar of Yoruba
 Tsakhur
 : Wolfgang Schulze, LINCOM, 1997. <tag>tsakhur→english</tag> <tag>grammar</tag>
 
+### Northwest Caucasian
+
+#### Abkhaz
+
+აფხუზურ-ქართული/ქართული-აფხუზურ ლექსიკონი
+: თეიმურაზ გვანცელაძე, გამომცემლობა ინტელექტი, 2012. <tag>abkhaz→georgian</tag> <tag>georgian→abkhaz</tag> <tag>dictionary</tag>
+
 ### Northwest Circassian
 
 #### Kabardian
@@ -486,7 +494,7 @@ Russian Through Reading
 : Frank Higgenbottam, The English Universities Press, 1967. <tag>russian→english</tag> <tag>coursebook</tag>
 
 A Short Russian Reference Grammar
-: I. M. Pulkina, 3rd edtion, Progress Publishers, 1970. <tag>russian→english</tag> <tag>grammar</tag>
+: I. M. Pulkina, 3rd edition, Progress Publishers, 1970. <tag>russian→english</tag> <tag>grammar</tag>
 
 Русско-английский Разговорник
 : ?, ?, 1970?. <tag>english→russian</tag> <tag>phrasebook</tag>
@@ -496,10 +504,13 @@ A Short Russian Reference Grammar
 #### Azeri
 
 Elementary Azerbaijani
-: Kurtuluş Öztopçu, Türk Dilleri Araştırmaları Dizisi, 2nd Edition, 2012. <tag>azeri→english</tag> <tag>coursebook</tag>
+: Kurtuluş Öztopçu, Türk Dilleri Araştırmaları Dizisi, 2nd edition, 2012. <tag>azeri→english</tag> <tag>coursebook</tag>
 
 The Turkish Language of Soviet Azerbaijan
 : C. G. Simpson, The Central Asian Research Center, 1957 <tag>azeri→english</tag> <tag>grammar</tag>
+
+İngiliscə-Azərbaycanca İzahlı Kompüter Terminləri Lüğəti
+: Rafiq Məmmədli, mammadli.az, 3rd edition, 2018. <tag>english→azeri</tag> <tag>dictionary</tag>
 
 #### Chuvash
 
