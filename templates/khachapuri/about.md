@@ -2,32 +2,38 @@ _KHACHAPURI_ (ხაჭაპური) is a delicious georgian cheese bread tha
 
 ## all the delicious types
 
-imeruli
+imeruli (იმერული)
 : unadorned and circular
 
-adjaruli
+adjaruli (ადჯარული)
 : shaped like a boat with a raw egg and butter on top
 
-megruli
+megruli (მეგრული)
 : similar to imeruli, but if you can believe it, _more cheese_
 
-achma
+achma (აჩმა)
 : "has multiple layers and looks more like a sauceless lasagna" (from wikipedia)
 
-guruli
+guruli (გურული)
 : "has boiled eggs inside the dough and looks like a calzone". wikipedia also says it's not technically a khachapuri, but we all know that wikipedia is not the definitive source on khachapuri, this website is and this website says it's a khachapuri.
 
-osuri, aka khabizgini
+osuri, aka khabizgini (ოსური/ხაბიზგინი)
 : "has potato, as well as cheese" (from wikipedia)
 
-svanuri, aka lemzira
-: "made from millet flour and cheese" (from 196 flavors)
+svanuri, aka lemzira, aka petvit (სვანური/ლემზირა/ფეტვით)
+: "made from millet flour and cheese" (from 196 flavors), often with traditional herbs. Petvit means "with millet".
 
-rachuli
+rachuli (რაჭული)
 : "rectangular in shape, made from cheese only" (from 196 flavors). is there dough? no one knows, this is a mysterious khachapuri style.
 
-penovani
+penovani (ფენოვანი)
 : "made with puff pastry" (from 196 flavors)
+
+mkhlovana (მხლოვანა)
+: made with beet greens and often two different types of cheese
+
+khachapuri shampurze (ხაჭაპური შამფურზე)
+: imeruli khachapuri on a skewer (shampuri/შამფური)
 
 ## sources
 

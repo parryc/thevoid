@@ -6,6 +6,142 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
+* location: №1 Sakhachapure, Georgia
+* price: 💰💰💰
+* taste: 💛💛💛💛
+* type: adjaruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Hofbräu München Gudauri, Pasanauri, Georgia
+* price: 💰💰
+* taste: 💛💛💛💛
+* type: mkhlovana
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Sanapiro, Kutaisi, Georgia
+* price: 💰
+* taste: 💛💛💛
+* type: lobiani
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Lushnu Qor, Mestia, Georgia
+* price: 💰💰
+* taste: 💛💛💛💛💛
+* type: lobiani
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Laila, Mestia, Georgia
+* price: 💰💰
+* taste: 💛💛💛💛
+* type: svanuri
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Guesthouse Irakli, Pari, Georgia
+* price: 💰
+* taste: 💛💛💛
+* type: osuri
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Guesthouse Irakli, Pari, Georgia
+* price: 💰
+* taste: 💛💛💛
+* type: imeruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: El Barco, Zugdidi, Georgia
+* price: 💰💰💰
+* taste: 💛💛💛💛💛
+* type: megruli
+* date: august 2019
+* rated by: ws
+
+----
+
+* location: El Barco, Zugdidi, Georgia
+* price: 💰💰💰
+* taste: 💛💛💛💛
+* type: megruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Bagineti Restauran, Mtskheta, Georgia
+* price: 💰💰
+* taste: 💛💛
+* type: imeruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Althaus, Tbilisi, Georgia
+* price: 💰💰
+* taste: 💛💛💛
+* type: lobiani
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Mala's Garden, Telavi, Georgia
+* price: 💰
+* taste: 💛💛💛
+* type: imeruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Restaurant Vardzia, Vardzia, Georgia
+* price: 💰
+* taste: 💛
+* type: adjaruli
+* date: august 2019
+* rated by: wpc
+
+----
+
+* location: Good Mood Food, Tbilisi, Georgia
+* price: 💰
+* taste: 💛
+* type: lobiani
+* date: august 2019
+* rated by: wpc
+* note: had bacon
+
+----
+
+* location: Good Mood Food, Tbilisi, Georgia
+* price: 💰
+* taste: 💛💛
+* type: megruli
+* date: august 2019
+* rated by: wpc
+
+----
+
 * location: Flaming Pit, Boston, USA
 * price: 💰💰💰
 * taste: 💛💛💛

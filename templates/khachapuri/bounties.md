@@ -2,6 +2,9 @@ do you want to eat khachapuri _and_ get paid to do so? visit one of these khacha
 
 ## open bounties
 
+Dear Inga, San Francisco, USA
+: posted September 2019
+
 Khachapuri, Yakutsk, Russia
 : posted August 2019
 
