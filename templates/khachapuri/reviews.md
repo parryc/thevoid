@@ -6,7 +6,16 @@ don't forget to [check the bounties](/bounties), too!
 
 ----
 
-* location: №1 Sakhachapure, Georgia
+* location: Dunkin' Donuts, Tbilisi, Georgia
+* price: 💰💰
+* taste: 💛💛💛💛
+* type: lobiani
+* date: august 2019
+* rated by: ws
+
+----
+
+* location: №1 Sakhachapure, Tbilisi, Georgia
 * price: 💰💰💰
 * taste: 💛💛💛💛
 * type: adjaruli

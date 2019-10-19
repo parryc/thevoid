@@ -46,10 +46,12 @@ When suffixed with `-მე`, the interrogative pronouns function as the prefix 
 A: What shall we have? B: Whatever you like.
 როგორც შენ დარეკე, (მე ...)
 When you called, (I ...)
-რგორც გინდა
+როგორც გინდა
 As you wish
 სადმე წავალთ?
 Are we going somewhere?
+არ ვკითხულობს როგორც იწერება.
+It is not read as it is written.
 --ENDEX--
 
 
@@ -542,8 +544,6 @@ In what are you an expert? // i.e. what are you good at?
 --EX--
 რა განსხვავებაა X-ის და Y-ის შორის?
 What is the difference between X and Y?
-მინისტრის მიერ
-
 --ENDEX--
 
 # Numbers
@@ -769,6 +769,19 @@ But I am not as busy as you are.
 
 Use 3pl, for example, <ex>_ეს ხიდი ათი წლის ჭინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
 
+## Infinitives vs. Verbal Nouns
+
+Georgian does not have an infinitve in the sense that many languages have it. That is there is no "to go", but rather the "base" form is often the verbal noun, thus "going". It can therefore be confusing how to structure sentences that would normally use the infintive in other languages.
+
+**It is X to Y**
+
+The "It is X" clause is marked with `-ა` and the "to Y" clause is a verbal noun. For example, <ex>_ზამთარში ძნელია საწოლიდან ადგომა_ ⧸ It is difficult to get up from the bed in winter</ex>.
+
+**It is X as it is Y**
+
+The first clause is often in the present tense and the second clause is often a vebal noun. For example, <ex>_ვკითხულობს როგორც იწერება_ ⧸
+It is read as it is written</ex>. Note that the first clause "it is read" is actually in 2PL.PRS.
+
 # Adjectives
 
 Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
@@ -780,7 +793,7 @@ Adjectives can be divided between consonant-final and vowel-final adjectives. Vo
 
 ## Comparison
 
-More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმე, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>.
+More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმეა, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>. Make sure to include `-ა` at the end of the first clause, preceding `ვიდრე`.
 
 Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
 

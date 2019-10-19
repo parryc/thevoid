@@ -5,6 +5,7 @@ files/
 templates/words
 indexdir/
 static/images/*/*
+templates/topuria
 
 # Webassets cache
 .webassets-cache/

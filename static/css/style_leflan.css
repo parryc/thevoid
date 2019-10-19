@@ -6,6 +6,7 @@ body {
   font-size: 20px;
   line-height: 1.4;
   counter-reset: leipzig;
+  background-color: rgb(250,250,250);
 }
 
 a {
@@ -127,6 +128,7 @@ td {
    break inside of a table row */
 tr {
   page-break-inside: avoid !important;
+  background: rgb(250,250,250);
 }
 
 tag:before {

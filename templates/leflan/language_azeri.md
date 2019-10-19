@@ -83,7 +83,7 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 
 # Suffixes
 
-Azeri is an exclusively suffixing language. 
+Azeri is an exclusively suffixing language when producing new words. 
 
 -A
 : to, towards, DAT.
@@ -97,6 +97,9 @@ Azeri is an exclusively suffixing language.
 -çI
 : one who does X.
 
+-lA
+: with. See also "ilə" in postpositions.
+
 -lAr
 : plural, only used for animate things, plus some animals.
 
@@ -108,6 +111,9 @@ Azeri is an exclusively suffixing language.
 
 -mI
 : question particle, not required, comes at the end of the sentence.
+
+-pərvər
+: a suffix derived from Persian, in most cases with a sense of "having X", though may have fossilized meanings now and is no longer a productive suffix. For example, `qonaq:guest` and `qonaqpərvər:hospitality`.
 
 -sIz
 : adjectival suffix meaning "without X" or "lacking X".
@@ -122,6 +128,16 @@ Where are you from? // using the nationality suffix -lI
 <attn>`-kI` can only be attached to nouns in LOC or GEN.<cite>[EoA 105](#eoa)</cite></attn>
 
 To form relative clauses, add `-kI` to the last word in the clause. For example, <ex>_Yazıçı kitabxanadakı kitabları yazdı_ ⧸ The author wrote the books which are in the library</ex>. `Kitabxanada:in the library` is the clause we want to relativize. Thus, adding `-kı` makes it "which are in the library" and putting it in front of the `kitabları:books.ACC` makes the relative phrase modify the word books. When attached to nouns in GEN, it functions much like the English phrasing "that which is".
+
+# Prefixes
+
+Azerbaijani prefixes are generally no longer productive.
+
+na-
+: "un-", from Persian.
+
+qeyri-
+: reverses meaning of following word. For example, `mümkün:possible` and `qeyri-mümkün:impossible`. A hypen is always used with this prefix.
 
 # Postpositions
 
@@ -154,6 +170,8 @@ Yeni filmə baxmaq üçün Eldar kinoya getdi.
 Eldar went to the film for the purpose of seeing the new film.
 O yazıçı Azərbaycan haqqında yazır.
 That author writes about Azerbaijan.
+Ailədə məndən başqa daha iki uşaq var.
+In the family, besides me, there are two more children.
 --ENDEX--
 
 ## GEN/POSS Postpositions
@@ -284,9 +302,11 @@ Siz mənə qələm verərsiniz?
 Can you give me a pen? // Polite question
 O kitabı almaq olmaz.
 It's impossible buy that book. // Impossibility
+Adam, kişi olar!
+Would a person become a man! // Often heard when asking someone to do a favor
 --ENDEX--
 
-### Past Progressive (PSTPRG) -IrdI
+### Past Continuous (PSTCONT) -IrdI
 
 When emphasizing the on-going nature of past actions.
 
@@ -556,6 +576,23 @@ Kitabxanada tələbələr yox idi.
 There were no students in the library.
 --ENDEX--
 
+# Adverbs
+
+Adverbs can often be formed by dropping the infinitive marker (`-mAQ`), adding `-A` and duplicating the word. For instance, `baxa-baxa:watchingly` (from `baxmaq:to watch`) or `gülə-gülə:laughingly` (from `gülmək:to laugh`).
+
+# Participles
+
+## Non-Future (-dIQ-)
+
+Non-future here means past or present. These participles are often used as relative clauses, such as "that which I am reading". It formed by appending `-dIQ` after the verb root (and negative marker) and before the POSS marker.<cite>[EA, 212](#ea)</cite>
+
+Since the suffix ends in `Q`, there will be consonant changes. For example, `oxu-duğ-ım:that which I am reading`. Or a more full example, <ex>_oxuduğun məktub_ ⧸ the letter which you read/are reading</ex>.
+
+--EX--
+Nazimin oxuduğu kitab maraqlı idi.
+The book that Nazim read was interesting.
+--ENDEX--
+
 # Numbers
 
 ## Cardinal Numbers
@@ -666,7 +703,8 @@ It is 8:35.
 *[ABL]: Ablative
 *[PRS]: Present
 *[PST]: Past/Preterite
-*[PSTPRG]: Past/Preterite
+*[PSTPRG]: Past Progressive
+*[PSTCONT]: Past Continuous
 *[FUT]: Future
 *[DEFFUT]: Definite Future
 *[INDEFFUT]: Indefinite Future

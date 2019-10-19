@@ -29,3 +29,6 @@
 * _A Scandal in Japan_ - Keisuke Matsuoka
 * _Tsakhur_ - Wolfgang Schulze
 * _Endangered Languages of the Caucasus and Beyond_ - ed. Ramazan Korkmaz and Gürkan Doğan
+* _Exhalation_ - Ted Chiang
+* _Never Mind the Balkans, Here's Romania_ - Mike Ormsby
+* _Odessa Stories_ - Isaac Babel

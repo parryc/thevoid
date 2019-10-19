@@ -2,10 +2,11 @@ body {
   font-size: 22px;
   line-height: 1.4;
   font-family: "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: rgb(250,250,250);
 }
 
 a {
-  color: rgb(255,110,110);;
+  color: rgb(255,110,110);
 }
 
 article {

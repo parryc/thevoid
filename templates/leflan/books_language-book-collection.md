@@ -539,8 +539,11 @@ The Kazakh Phrasebook
 
 #### Mongolian
 
-Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries
+Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 1
 : Akihide Kitamura, Mongolpress, 1993. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
+
+Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 2
+: Akihide Kitamura, Mongolpress, 1996. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
 
 Mongolian Grammar
 : Dandii-Yadam Tserenpil and R. Kullman, 4th edition, self-published, 2008. <tag>mongolian→english</tag> <tag>grammar</tag>
@@ -550,6 +553,9 @@ Mongolian Grammar
 
 Oxford Monsudar English-Mongolian Mongolian-English Pocket Dictionary
 : ed. Domi Tumurtogoo and Jantsan Bat-Ireedui, Monsudar, 2008. <tag>mongolian→english</tag> <tag>english→mongolian</tag> <tag>dictionary</tag>
+
+Dictionary of Synonyms in Modern Mongolian explained in Mongolian, Japanese and English
+: Akihide Kitamura, Nakhia XXK, 2001. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
 
 #### Uyghur
 

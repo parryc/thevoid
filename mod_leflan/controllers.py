@@ -78,6 +78,18 @@ def r():
   html = _add_filelist('',html,show_tags=True)
   return render_template('leflan/post.html',html=html,title='recent updates',t=_t('recent updates'))
 
+@mod_leflan.route('/r/topuria', methods=['GET'], host=host)
+def topuria():
+  page = 'topuria/table_of_contents.md'
+  html = get_html(page)
+  return render_template('leflan/post.html',html=html,title='topuria',t=_t('topuria'))
+
+@mod_leflan.route('/r/topuria/<chapter>', methods=['GET'], host=host)
+def topuria_chapter(chapter):
+  page = 'topuria/{0}.md'.format(chapter)
+  html = get_html(page)
+  return render_template('leflan/post.html',html=html,title='topuria',t=_t('topuria'))
+
 @mod_leflan.route('/r/<category>', methods=['GET'], host=host)
 def category(category):
   html = _add_filelist(category,'')
