@@ -1,12 +1,9 @@
 # In Progress
 * _Saga_
 * _Sex Criminals_
-* _Giant Days_
 * _Deadly Class_
 * _Monstress_
-* _Black Science_
 * _Low_
-* _The Wicked and The Divine_
 * _Lady Mechanika_
 * [_Stand Still, Stay Silent_](http://sssscomic.com/)
 
@@ -35,6 +32,9 @@
 * [_A Redtail's Dream_](http://www.minnasundberg.fi/comicindex.php)
 * _Sun Bakery_ (Hiatus?)
 * _Sleepless_
+* _Black Science_
+* _The Wicked and The Divine_
+* _Giant Days_
 
 # Abandoned
 * _Roche Limit_

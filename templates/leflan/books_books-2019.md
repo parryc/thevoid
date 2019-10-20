@@ -32,3 +32,5 @@
 * _Exhalation_ - Ted Chiang
 * _Never Mind the Balkans, Here's Romania_ - Mike Ormsby
 * _Odessa Stories_ - Isaac Babel
+* _Georgian Script & Typography_ - ed. Tamaz Varvaridze, Sophie Kintsurashvili, and Nana Churghulia
+* _Cheese_ - Willem Elsschot

@@ -70,16 +70,16 @@ Click on a line to be directed to the gloss.
 [წამო სადმე შორს შორს](#leipzig-line-25)
 [სადმე ვარსკვლავებთან](#leipzig-line-26)
 
-[რა გიჟი ხარ და მეც სულ გამაგიჟე]()
-[დრო სუ არ მოგიცია ან მაფიქრე]()
-[ან ამ შუაღამისას სად წავიდე]()
-[ან სახლიდან სად წავიდე]()
+[რა გიჟი ხარ და მეც სულ გამაგიჟე](#leipzig-line-27)
+[დრო სუ არ მოგიწია ან მაფიქრე](#leipzig-line-28)
+[ან ამ შუაღამისას სად წავიდე](#leipzig-line-29)
+[ან სახლიდან სად წავიდე](#leipzig-line-30)
 
-[არადა მინდა შენთან გავატარო ეს მთელი ღამე]()
-[და სულ მახსოვდეს ქუჩები რომ ფეხით შემომატარე]()
+[არადა მინდა შენთან გავატარო ეს მთელი ღამე](#leipzig-line-31)
+[და სულ მახსოვდეს ქუჩები რომ ფეხით შემომატარე](#leipzig-line-32)
 
-[ესეთი მომენტები ცხოვრებაში ბევრჯერ არ ხდება]()
-[და მოდი ვიყოთ ერთად მანამ სანამ დაღამდება]()
+[ესეთი მომენტები ცხოვრებაში ბევრჯერ არ ხდება](#leipzig-line-33)
+[და მოდი ვიყოთ ერთად მანამ სანამ დაღამდება](#leipzig-line-34)
 
 [არ უყურო დროს დროს](#leipzig-line-19)
 [როცა მინდა შენთან](#leipzig-line-20)
@@ -101,7 +101,7 @@ Click on a line to be directed to the gloss.
 [მერე გავიხსენებთ ღამე როგორ დაგვათენდა]()
 [დაგვათენდა დაგვათენდაა]()
 
-[მინდა შენტან ვიყო მთელი საღამო]()
+[მინდა შენთან ვიყო მთელი საღამო]()
 [სხვა მეტი არაფერი არ მინდა]()
 [სახლებში რო ვიყოთ ალბათ არ გამოვა]()
 [გამო მალე სანამ ღამე გავიდა]()
@@ -342,3 +342,177 @@ somewhere star-{PL}=with
 --ENDGLOSS--
 
 ----
+
+--GLOSS--
+რა გიჟი ხარ და მეც სულ გამაგიჟე
+{NEG} crazy be:{2SG.PRS} and {1SG.NOM}=also completely "drive mad:{2SG/1SG.PRS}"
+{!} you aren't crazy and you are driving me completely mad, too
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+დრო სულ არ მოგიწია ან მაფიქრე
+time completely {NEG} "bring something bad upon oneself:{3SG/2SG.AOR} or "makes someone worried:{2SG/1SG.AOR}"
+{!} time has not compelely brought something bad upon you, either you have made me worry
+--ENDGLOSS--
+
+* many of the texts have `მოგიცია`, which appears to be a type of `მოგიწია`. A number of places have made a similar typo, for example [the government](http://www.nplg.gov.ge/gwdict/index.php?a=term&d=46&t=134515) and whoever transcribed [this song](https://genius.com/Sf-x-mome-lyrics). That said `მოიწევს` has a number of meanings, so I am taking a guess based on the vibe of the song.
+* the first `ან` here is continued with the `ან`s below, indicating _either...or..._
+
+----
+
+--GLOSS--
+ან ამ შუაღამისას სად წავიდე
+or this.{DAT} "at midnight" where go:{1SG.FUT}
+{!} at midnight, where will I go
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+ან სახლიდან სად წავიდე
+or home=from where go:{1SG.FUT}
+{!} or I will leave from home
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+არადა მინდა შენთან გავატარო ეს მთელი ღამე
+otherwise want:{1SG.PRS} {2SG.NOM}=with "go for a walk:{1SG.OPT}" this entire night
+{!} otherwise, I want to go on a want with you (for) this entire night
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+და სულ მახსოვდეს ქუჩები რომ ფეხით შემომატარე
+and completely remember:{3SG/1SG.PRSSUBJ} street-{PL} that foot.{INST} "show around:{2SG/1SG.AOR}"
+{!} and I wish I would compelely remember what you showed me (while walking)
+--ENDGLOSS--
+
+* See Kurtsikidze, pg 132 for more information on the present subjunctive. It is used to indicate desire for something to happen, often following `რომ:that` or verbs like `მინდა:I want`.
+* The text is literally `ფეხით:by foot`, implying walking.
+
+----
+
+--GLOSS--
+ესეთი მომენტები ცხოვრებაში ბევრჯერ არ ხდება
+"this kind of" moment-{PL} life=in {NEG} common
+{!} these kinds of moments are not common in life
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+და მოდი ვიყოთ ერთად მანამ სანამ დაღამდება
+and "let's" be:{1PL.OPT} together until {b} "night falls:{3SG.PRS}"
+{!} so let's be together until night falls
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+არ მაინტერესებ რომელი საათია
+{NEG} interests:{3SG/1SG.PRS} which time={3SG.PRS}
+{!} it doesn't interest me what time it is
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+არ მაინტერესებს ხვალ თუ ორშაბათია
+{NEG} interests:{3SG/1SG.PRS} tomorrow whether Monday={3SG.PRS}
+{!} it doesn't interest me whether tomorrow is Monday
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+გამოდი რა გინდა სახლში
+"come out:{2SG.IMP}" {EMPH} want:{2SG.PRS} house=in
+{!} come on out! you want to be in (your) house
+--ENDGLOSS--
+
+* `რა` is emphasizing `გამოდი`
+
+----
+
+--GLOSS--
+სიმღერას ჩაგირთავ ღამის ქალაქში
+song.{DAT} "switches on:{2SG/2SG.PRS}" night.{GEN} city=in
+{!} while the song plays, you switch on in the city of the night
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+სეირნობა მანამ სანამ არ გათენდა
+walk.{VN} until {b} {NEG} "dawn breaks:{3SG.AOR}"
+{!} walking before dawn has broken
+--ENDGLOSS--
+
+* I'm not totally sure on how to translate this, but I think this is the meaning.
+
+----
+
+--GLOSS--
+დროს არ ვუყურებთ მერე რა თუ არ გაჩერდა
+time.{DAT} {NEG} see:{1PL.PRS} {EMPH} what if {NEG} stop:{3SG.AOR}
+{!} we aren't watching the time, so what if it didn't stop
+--ENDGLOSS--
+
+* I think `მერე` is functioning like "so" here, rather than "then" or "afterwards"
+
+----
+
+--GLOSS--
+მერე გავიხსენებთ ღამე როგორ დაგვათენდა
+{EMPH} recall:{1PL.PRS} night how "dawn catches someone by surprise:{3SG/1PL.AOR}"
+{!} so we're recalling the night, how the dawn caught us by surprise
+--ENDGLOSS--
+
+* yes, `დაათენდება` means "dawn will catch somebody by surprise"
+
+----
+
+--GLOSS--
+დაგვათენდა დაგვათენდაა
+"dawn catches someone by surprise:{3SG/1PL.AOR}" "dawn catches someone by surprise:{3SG/1PL.AOR}"
+{!} the dawn caught us by surprise, the dawn caught us by surprise
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+მინდა შენთან ვიყო მთელი საღამო
+want:{1SG.PRS} {2SG.NOM}=with be:{1SG.OPT} whole evening
+{!} I want to be with you the whole evening
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+სხვა მეტი არაფერი არ მინდა
+other more nothing {NEG} want:{1SG.PRS}
+{!} I don't want anything else
+--ENDGLOSS--
+
+----
+
+--GLOSS--
+სახლებში რო ვიყოთ ალბათ არ გამოვა
+house-{PL}=in that be:{1PL.OPT} maybe {NEG} ends:{3SG.PRS}
+{!} in (our) houses, we hope that won't be how (the night) ends
+--ENDGLOSS--
+
+* Not 100% sure on this translation, either
+
+----
+
+--GLOSS--
+გამო მალე სანამ ღამე გავიდა
+"come out" soon while night "goes out:{3SG.AOR}"
+{!} come out soon, while the night is going
+--ENDGLOSS--
