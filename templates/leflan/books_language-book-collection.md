@@ -19,7 +19,7 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 101
+English – 102
 Finnish – 2
 French – 2
 Georgian – 9
@@ -31,7 +31,7 @@ Inuktitut – 1
 Irish – 1
 Japanese – 7
 Kabardian – 1
-Kalaallisut – 4
+Kalaallisut – 5
 Kazakh – 6
 Korean – 1
 K'iche' – 4
@@ -69,7 +69,7 @@ Yoruba – 1
 
 Bilingual Texts – 5
 Coursebook – 20
-Dictionary – 41
+Dictionary – 42
 Grammar – 29
 Phrasebook – 11
 Study – 6
@@ -212,6 +212,10 @@ Topic and Discourse Structure in West Greenlandic Agreement Constructions
 
 Grønlandsk Grammatik
 : Stig Bjørnum, Forlaget Atuagkat, 2012. <tag>kalaallisut→danish</tag> <tag>grammar</tag>
+
+Dictionary of the West Greenland Eskimo Language
+: Schultz-Lorentzen, Meddeleslser om Grønland 69, C. A. Reitzels Forlag, 1927. <tag>kalallisut→english</tag> <tag>dictionary</tag>
+
 
 #### Inuktitut
 

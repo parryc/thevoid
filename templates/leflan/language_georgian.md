@@ -65,7 +65,7 @@ It is not read as it is written.
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
 
 ა
-: functions as the 3sg copula (and colloquially, as 3pl copula), meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`. Sometimes, but I'm not totally clear on when, one will see two აs at the end of a word. It is safe to assume that this is the 3sg copula.
+: functions as the 3sg copula (and colloquially, as 3pl copula), meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`. For the words ეს, ის, აქ, იქ, არ, სად, and ვინ, two აs at the end are used.<cite>[Kurtsikidze, p19](#kurtsikidze)</cite>
 
 ა
 : "the euphonic ა", it is attached to some words, such as `არ:negative marker`, in front of one syllable words. For example, <ex>არა ვარ ⧸ _I am not_</ex>.

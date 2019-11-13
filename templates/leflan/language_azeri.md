@@ -92,7 +92,7 @@ Azeri is an exclusively suffixing language when producing new words.
 : verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>
 
 -cA
-: language of X. Note, cannot be used for countries that take -lI to form their adjective of nationality.
+: language of X. Note, cannot be used for countries that take -lI to form their adjective of nationality. It can be affixed to 1st and 2nd person pronouns to mean, "in my/your/our/y'alls opinion".
 
 -çI
 : one who does X.
@@ -306,7 +306,38 @@ Adam, kişi olar!
 Would a person become a man! // Often heard when asking someone to do a favor
 --ENDEX--
 
+### Future-in-the-Past
+
+Azeri has a tense that is referred to on Wikipedia as "future-in-the-past". It is used to talk about things that would have happened had the situation in the past been different. As a result, it is often paired with the past conditional. For example, "if you had studied it, you would be smart". "Studied" would be the past conditional ("if you had") and "would be" is the "future-in-the-past", since it is the speculative future result of a past action.
+
+As with the standard future, the future-in-the-past is divided into definite and indefinite forms, which are formed by adding `-dI` to the future forms.
+
+--EX--
+Əgər sən onu oxusaydın, ağıllı olardin.
+If you had studied, you would be smart
+--ENDEX--
+
+#### Definite Future-in-the-Past (DEFFUTPST) -AcAQdI
+
+&nbsp; |SG |PL
+-|-----|--
+1|-m | -Q
+2|-n | -nIz
+3|∅  | -(lAr)
+
+#### Indefinite Future-in-the-Past (INDEFFUTPST) -ArdI
+
+<attn>This follows the INDEFFUT for the negative, in that the `r` becomes `z`. Thus, the negative form is `-mAzdI`.</attn>
+
+&nbsp; |SG |PL
+-|-----|--
+1|-m | -Q
+2|-n | -nIz
+3|∅  | -(lAr)
+
 ### Past Continuous (PSTCONT) -IrdI
+
+<attn>This follows the INDEFFUT for the negative, in that the `r` becomes `z`. Thus, the negative form is `-mAzdI`.</attn>
 
 When emphasizing the on-going nature of past actions.
 
@@ -338,13 +369,43 @@ For completed actions which finished in the past and happened before a second, m
 2|-n   | -nIz
 3|∅    | -(lAr)
 
-### Conditional (COND) -sA
+### Conditionals
+
+--EX--
+Əgər sən yaxşi yəsən, tız böyüyərsən.
+If you eat well, you will grow up quickly.
+--ENDEX--
+
+#### Non-Past (NPCOND) -sA
+
+Any conditional that takes place not in the past, e.g. present or future. Often used in if-statements.
 
 &nbsp; |SG |PL
 -|-----|--
 1|-m   | -Q
 2|-n   | -z
 3|∅    | -(lAr)
+
+#### Past (PCOND) -sAydI
+
+Any conditional that takes place in the past. Corresponds more or less to the English "had I done X, then Y would have happened".
+
+&nbsp; |SG |PL
+-|-----|--
+1|-m   | -Q
+2|-n   | -z
+3|∅    | -(lAr)
+
+### Optative (OPT) -A
+
+Used to express wishes and desires. Wiktionary calls it the subjunctive and Speak Azeri calls it the "should" case. It is often found with `gərək:should`.<cite>[Speak Azeri](https://speakazeri.blogspot.com/2011/03/verb-chart-template-using-getmk.html)</cite> The negative form is `-mAyA`.<cite>[Simpson, p27](#simpson)</cite>
+
+&nbsp; |SG |PL
+-|-----|--
+1|-m   | -Q
+2|-sAn | -sI(nI)z
+3|∅    | -(lAr)
+
 
 ## imək (to be)
 
@@ -688,6 +749,8 @@ It is 8:35.
 
 * <source id="eoa">_Essentials of Azerbaijani: An Introductory Course_, Andrew H. Siegel, University of Texas Austin, ????.</source>
 * <source id="ea">_Elementary Azerbaijani_, Kurtuluş Öztopçu, 2nd Edition, Türk Dilleri Araştirmalari Dizisi, 2012.</source>
+* <source id="sa">[_Speak Azeri_](https://speakazeri.blogspot.com/2011/03/verb-chart-template-using-getmk.html).</source>
+* <source id="simpson">_The Turkish Language of Soviet Azerbaijan_, C. G. Simpson, Central Asian Research Center, 1957.</source>
 
 <!-- Abbreviations -->
 *[NOM]: Nominative
@@ -708,6 +771,8 @@ It is 8:35.
 *[FUT]: Future
 *[DEFFUT]: Definite Future
 *[INDEFFUT]: Indefinite Future
+*[DEFFUTPST]: Definite Future-in-the-Past
+*[INDEFFUTPST]: Indefinite Future-in-the-Past
 *[PFT]: Present Perfect
 *[PSTPFT]: Past Perfect
 *[INF]: Infinite

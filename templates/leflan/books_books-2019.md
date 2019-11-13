@@ -34,3 +34,6 @@
 * _Odessa Stories_ - Isaac Babel
 * _Georgian Script & Typography_ - ed. Tamaz Varvaridze, Sophie Kintsurashvili, and Nana Churghulia
 * _Cheese_ - Willem Elsschot
+* _City of Rogues an Schnorrers_ - Jarrod Tanny
+* _Amsterdam Stories_ - Nescio
+* _Red Cavalry_ - Isaac Babel
