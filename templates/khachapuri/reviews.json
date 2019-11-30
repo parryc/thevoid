@@ -1,0 +1,285 @@
+{  "reviews": [
+    {
+      "location": "Dacha House, Seattle",
+      "country": "USA",
+      "price": 3,
+      "taste": 5,
+      "type": "adjaruli",
+      "date": "2019-11",
+      "rated_by": "yy",
+      "note": "topped with tomatoes and eggplant, called 'badrijani' (eggplant) on menu",
+      "img": "khachapuri_dacha_house.jpg"
+    },
+    {
+      "location": "Dunkin' Donuts, Tbilisi",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 4,
+      "type": "lobiani",
+      "date": "2019-08",
+      "rated_by": "ws"
+    },
+    {
+      "location": "№1 Sakhachapure, Tbilisi",
+      "country": "Georgia",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Hofbräu München Gudauri, Pasanauri",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 4,
+      "type": "mkhlovana",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Sanapiro, Kutaisi",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 3,
+      "type": "lobiani",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Lushnu Qor, Mestia",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 5,
+      "type": "lobiani",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Laila, Mestia",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 4,
+      "type": "svanuri",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Guesthouse Irakli, Pari",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 3,
+      "type": "osuri",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Guesthouse Irakli, Pari",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "El Barco, Zugdidi",
+      "country": "Georgia",
+      "price": 3,
+      "taste": 5,
+      "type": "megruli",
+      "date": "2019-08",
+      "rated_by": "ws"
+    },
+    {
+      "location": "El Barco, Zugdidi",
+      "country": "Georgia",
+      "price": 3,
+      "taste": 4,
+      "type": "megruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Bagineti Restauran, Mtskheta",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 2,
+      "type": "imeruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Althaus, Tbilisi",
+      "country": "Georgia",
+      "price": 2,
+      "taste": 3,
+      "type": "lobiani",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Mala's Garden, Telavi",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Restaurant Vardzia, Vardzia",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 1,
+      "type": "adjaruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Good Mood Food, Tbilisi",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 1,
+      "type": "lobiani",
+      "date": "2019-08",
+      "rated_by": "wpc",
+      "note": "had bacon"
+    },
+    {
+      "location": "Good Mood Food, Tbilisi",
+      "country": "Georgia",
+      "price": 1,
+      "taste": 2,
+      "type": "megruli",
+      "date": "2019-08",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Flaming Pit, Boston",
+      "country": "USA",
+      "price": 3,
+      "taste": 3,
+      "type": "adjaruli",
+      "date": "2019-07",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Moscow on the Hill, St. Paul",
+      "country": "USA",
+      "price": 2,
+      "taste": 3,
+      "type": "adjaruli",
+      "date": "2019-07",
+      "rated_by": "wpc",
+      "note": "had no eggs; the dill was nice"
+    },
+    {
+      "location": "Gruzińskie Chaczapuri, Krakow",
+      "country": "Poland",
+      "price": 1,
+      "taste": 4,
+      "type": "megruli",
+      "date": "2019-06",
+      "rated_by": "mz",
+      "img": "khachapuri_krakow.png"
+    },
+    {
+      "location": "Pomegranate, San Diego",
+      "country": "USA",
+      "price": 2,
+      "taste": 3,
+      "type": "penovani",
+      "date": "2019-06",
+      "rated_by": "wpc",
+      "note": "cheese wasn't melty, but still tasty. only available sun-thus, adjaruli available fri & sat"
+    },
+    {
+      "location": "Hungry Wolf, Edinburgh",
+      "country": "Scotland",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2019-06",
+      "rated_by": "gc & st",
+      "note": "very delicious, especialy the spinach one",
+      "img": "khachapuri_edinburgh.jpg"
+    },
+    {
+      "location": "Khachapuri, Madrid",
+      "country": "Spain",
+      "price": 3,
+      "taste": 4,
+      "type": "imeruli",
+      "date": "2019-04",
+      "rated_by": "alc",
+      "note": "it was really salty but really good",
+      "img": "khachapuri_madrid.jpg"
+    },
+    {
+      "location": "Broadsheet Coffee Roasters, Boston",
+      "country": "USA",
+      "price": 3,
+      "taste": 1,
+      "type": "adjaruli",
+      "date": "2019-04",
+      "rated_by": "eml",
+      "note": "it was hard bread"
+    },
+    {
+      "location": "Old Tbilisi Garden, New York City",
+      "country": "USA",
+      "price": 3,
+      "taste": 3,
+      "type": "megruli",
+      "date": "2019-01",
+      "rated_by": "eml",
+      "note": "really cheesey, like eating a pile of cheese, which is nice, but a little monotonous"
+    },
+    {
+      "location": "IVERIA, Munich",
+      "country": "Germany",
+      "price": 2,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2018-09",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "IVERIA, Munich",
+      "country": "Germany",
+      "price": 2,
+      "taste": 4,
+      "type": "megruli",
+      "date": "2018-09",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Darejani (Дареджани), Almaty",
+      "country": "Kazakhstan",
+      "price": 1,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2017-07",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Darejani (Дареджани), Almaty",
+      "country": "Kazakhstan",
+      "price": 1,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2017-07",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "TAU SPA, Almaty",
+      "country": "Kazakhstan",
+      "price": 1,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2017-07",
+      "rated_by": "wpc"
+    }
+  ]
+}

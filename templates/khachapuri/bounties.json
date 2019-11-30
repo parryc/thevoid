@@ -1,0 +1,98 @@
+{
+  "bounties": [
+    {
+      "location": "Dear Inga, San Francisco",
+      "country": "USA",
+      "posted": "2019-09"
+    },
+    {
+      "location": "Khachapuri, Yakutsk",
+      "country": "Russia",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Compass Rose, Washington, D.C.",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Bistro 360, Washington, D.C.",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Mari Vanna, Washington, D.C.",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Silk Road Choyhona, Washington, D.C.",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Tasty Dug-Out, Washington, D.C.",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Argo Bakery, Chicago",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Chicago Diplomat Cafe, Chicago",
+      "country": "USA",
+      "posted": "2019-08"
+    },
+    {
+      "location": "Phinix Grill, Boston",
+      "country": "USA",
+      "posted": "2019-06"
+    },
+    {
+      "location": "Jana Grill & Bakery, Boston",
+      "country": "USA",
+      "posted": "2019-06"
+    },
+    {
+      "location": "Flaming Pit, Boston",
+      "country": "USA",
+      "posted": "2019-06",
+      "fulfilled": "2019-07"
+    },
+    {
+      "location": "Oda House, New York City",
+      "country": "USA",
+      "posted": "2019-06"
+    },
+    {
+      "location": "Eastern Promises, Minneapolis",
+      "country": "USA",
+      "posted": "2019-06"
+    },
+    {
+      "location": "Moscow on the Hill, St. Paul",
+      "country": "USA",
+      "posted": "2019-06",
+      "fulfilled": "2019-07"
+    },
+    {
+      "location": "Gaumarjos, Warsaw",
+      "country": "Poland",
+      "posted": "2019-06"
+    },
+    {
+      "location": "Hungry Wolf, Edinburgh",
+      "country": "Scotland",
+      "posted": "2019-05",
+      "fulfilled": "2019-06"
+    },
+    {
+      "location": "Dacha, Seattle",
+      "country": "USA",
+      "posted": "2019-05",
+      "fulfilled": "2019-11"
+    }
+  ]
+}

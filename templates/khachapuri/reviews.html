@@ -1,0 +1,85 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/khachapuri.css" />
+  {% assets "khachapuri_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+  <a href="/" style="color:#444"><span class="big">the yelp of khachapuri</span></a><br/>
+  <nav>
+    <a href="/reviews">reviews</a> • <a href="/bounties">bounties</a> • <a href="/about">what is khachapuri?</a>
+  </nav>
+{% endblock %}
+{% block content  %}
+  <h1></h1>
+  <h2>recent reviews</h2>
+
+  <p>don't forget to <a href="/bounties">check the bounties</a>, too!</p>
+
+  <p>(<a href="#about-the-ratings">about the ratings</a>)</p>
+
+  <h3>filters</h3>
+  countries: 
+  {% for country in unique_countries %}
+    <a href="/reviews/country/{{country|lower}}">{{country|lower}}</a>,
+  {% endfor %} <a href="/reviews">all</a><br/>
+  types: 
+  {% for type in unique_types %}
+    <a href="/reviews/type/{{type}}">{{type|lower}}</a>,
+  {% endfor %} <a href="/reviews">all</a><br/>
+  taste: <a href="/reviews/taste/1">{{1|taste}}</a>, <a href="/reviews/taste/2">{{2|taste}}</a>, <a href="/reviews/taste/3">{{3|taste}}</a>, <a href="/reviews/taste/4">{{4|taste}}</a> ,<a href="/reviews/taste/5">{{5|taste}}</a>, <a href="/reviews">all</a><br/>
+  price: <a href="/reviews/price/1">{{1|price}}</a>, <a href="/reviews/price/2">{{2|price}}</a>, <a href="/reviews/price/3">{{3|price}}</a>, <a href="/reviews/price/4">{{4|price}}</a> ,<a href="/reviews/price/5">{{5|price}}</a>, <a href="/reviews">all</a><br/>
+  <br/>
+  number of reviews: {{reviews|length}}
+  <hr/>
+{% for review in reviews %}
+  <i>{{review.location}}, {{review.country}}</i><br/>
+  {{review.taste|taste}}⧸{{review.price|price}}<br/>
+  type: {{review.type}}<br/>
+  rated by {{review.rated_by}}, {{review.date}}<br/>
+  {% if review.note %}notes: {{review.note}}<br/>{% endif %}
+  {% if review.img %}
+    <img width="200" src="/images/{{review.img}}"/>
+  {% endif %}
+  <br/>
+  <hr/>
+{% endfor %}
+
+
+<a id="about-the-ratings" style="color:#444;"><h2>ratings</h2></a>
+
+<h3>taste 💛</h3>
+
+<dl>
+<dt>💛</dt>
+<dd>barely considered food</dd>
+<dt>💛💛</dt>
+<dd>barely considered khachapuri</dd>
+<dt>💛💛💛</dt>
+<dd>probably wouldn't go just for the khachapuri, but worth having with other dishes</dd>
+<dt>💛💛💛💛</dt>
+<dd>you'll tell your friends about this khachapuri</dd>
+<dt>💛💛💛💛💛</dt>
+<dd>why are you still reading, go there now and eat the khachapuri</dd>
+</dl>
+
+<h3>cost 💰</h3>
+
+<p>each 💰 is $5, or local equivalent to $5. that is, not the exchange rate equivalent to 5 USD, but what someone might think of as a cheap meal.</p>
+
+<dl>
+<dt>💰</dt>
+<dd>$5 or less</dd>
+<dt>💰💰</dt>
+<dd>$10 or less</dd>
+<dt>💰💰💰</dt>
+<dd>$15 or less</dd>
+<dt>💰💰💰💰</dt>
+<dd>$20 or less (i appreciate your dedicate to the cause)</dd>
+<dt>💰💰💰💰💰</dt>
+<dd>where did you find this bougie khachapuri, i hope it was worth it</dd>
+</dl>
+
+{% endblock %}

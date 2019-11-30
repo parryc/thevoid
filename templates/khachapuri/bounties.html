@@ -1,0 +1,48 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/khachapuri.css" />
+  {% assets "khachapuri_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+  <a href="/" style="color:#444"><span class="big">the yelp of khachapuri</span></a><br/>
+  <nav>
+    <a href="/reviews">reviews</a> • <a href="/bounties">bounties</a> • <a href="/about">what is khachapuri?</a>
+  </nav>
+{% endblock %}
+{% block content  %}
+  <h1></h1>
+  <p>do you want to eat khachapuri _and_ get paid to do so? visit one of these khachapuri bounties, eat a khachapuri, snap a picture and send your review to `bounties @ the-yelp-of-khachapuri.site` to claim your reimbursement! do you have a place you'd like to add to the list? let us know!</p>
+
+  <p>if you find some where that hasn't been reviewed and isn't on the bounty list, we'll figure out a special reward!</p>
+
+  <h3>filters</h3>
+  countries: 
+  {% for country in unique_countries %}
+    <a href="/bounties/country/{{country|lower}}">{{country|lower}}</a>,
+  {% endfor %} <a href="/bounties">all</a><br/>
+  <br/>
+  number of open bounties: {{open_bounties|length}}<br/>
+  number of fulfilled bounties: {{fulfilled_bounties|length}}
+  <hr/>
+  {% if open_bounties|length %}
+  <h3>open bounties</h3>
+  <dl>
+  {% for bounty in open_bounties %}
+    <dt>{{bounty.location}}, {{bounty.country}}</dt>
+    <dd>posted: {{bounty.posted}}</dd>
+  {% endfor %}
+  </dl>
+  {% endif %}
+  {% if fulfilled_bounties|length %}
+  <h3>fufilled bounties</h3>
+  <dl>
+  {% for bounty in fulfilled_bounties %}
+    <dt>{{bounty.location}}, {{bounty.country}}</dt>
+    <dd>fulfilled: {{bounty.fulfilled}} (posted: {{bounty.posted}})</dd>
+  {% endfor %}
+  </dl>
+  {% endif %}
+{% endblock %}
