@@ -18,7 +18,15 @@ assets = Environment(app)
 def circle_num_from_jinja_loop(num):
   return u'①②③④⑤⑥⑦⑧⑨⑩'[num-1]
 
+def taste(taste_rating):
+  return int(taste_rating) * '💛'
+
+def price(price_rating):
+  return int(price_rating) * '💰'
+
 app.jinja_env.filters['circle_num'] = circle_num_from_jinja_loop
+app.jinja_env.filters['taste'] = taste
+app.jinja_env.filters['price'] = price
 
 # clear the automatically added route for static
 # https://github.com/mitsuhiko/flask/issues/1559

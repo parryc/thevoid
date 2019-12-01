@@ -73,8 +73,8 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 ად (ADV)
 : adverbializer. Drop the final `ი` if exists and add `ად`, otherwise, keep the final vowel and add `დ`. This form is used for languages as well, `ქართულად:in Georgian`. For example, `კარგი:good` → `კარგად:well`.
 
-ები
-: plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
+ებ
+: plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. Plural forms always end in `-ი` in NOM, as in the following examples. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თან
 : near to, next to, together with (when used with `ერთად:together`), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
@@ -94,7 +94,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 ში
 : to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`.
 
-სკენ
+კენ (GEN)
 : towards.
 
 ც
@@ -144,8 +144,10 @@ How many people does your group consist of? // -გან indicating "from how m
 
 ## Grammatical Cases
 
-NOM ∅
-: the nominative case, it is unmarked (i.e the default dictionary case)
+<attn>If the noun ends in an `ი` in NOM, then it is dropped when forming all other cases. If it ends in `ა`, `ე`, `უ`, or `ო`, the final vowel remains for all other cases.</attn>
+
+NOM (ი/∅)
+: the nominative case is the default dictionary form. Depending on the verb, it can mark either the subject or object of the clause. If the subject is in NOM, the object will be in DAT.<cite>[Kurtsikidze 27](#kurtsikize)</cite>
 
 GEN (ი)ს
 : the genitive case, used with certain prepositions or grammar structures. Nouns ending in ი, ა, or ე lose the ending vowel and add ის. All other endings add just ს. Some nouns are exceptions, such as `კაფე:café`, which is `კაფეს` in GEN. One can generally distinguish between GEN and DAT because GEN will always have a vowel before the `ს`.
@@ -153,19 +155,19 @@ GEN (ი)ს
 <attn>Syncope, or the loss of word-internal vowels, can occur in GEN. In particular, when the NOM stem ends in [აეო][ლმნრ], ex. არ or ელ, then the vowel before the ending will be lost. For example, `მეგობარი → მეგობრის`.
 
 DAT, ACC, POSS ს
-: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb.
+: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb. When the subject is DAT, then the object is NOM.
 
 ERG მ(ა)
-: the ergative case, this is used with some verbs. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ.
+: the ergative case, this is used with some verbs in the AOR case and only appears as the subject of a clause. If the subject is ERG, then the object is NOM. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ. Kurtsikidze refers to this as the narrative case.
 
-INS თ(ი)
+INS ით or თი
 : the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
 
 ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
 
-VOC (ვ)
-: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms. Their nominatives replace the final ო with ი.
+VOC (ო/ვ)
+: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ო/ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms.
 
 # Verbs
 
@@ -341,6 +343,8 @@ Present Indicative
 1|ვარ |ვართ
 2|ხარ |ხართ
 3|არის|არიან
+
+3PL is always used with humans, animals, birds, collective nouns, and numbered groups in plural. All other scenarios, e.g. plants or food, uses 3SG. For example, <ex>_ეს ყვავილები არის_ ⧸ These are flowers</ex> vs. <ex>_აქ ბავშვები არიან_ ⧸ Here are children</ex>.<cite>[Kurtsikidze 25](#kurtsikidze)</cite>
 
 Past Tense
 : &nbsp; |sg  |pl

@@ -97,6 +97,9 @@ Azeri is an exclusively suffixing language when producing new words.
 -çI
 : one who does X.
 
+-dIkcA
+: the more one does X, the more Y. It is suffixed to the clause that expresses the "more one does" thought. For example, <ex>_İnsan böyüdükcə başa düşür ki..._ ⧸ The more a person grows up, the more they understand that...</ex>.
+
 -lA
 : with. See also "ilə" in postpositions.
 
@@ -174,7 +177,7 @@ Ailədə məndən başqa daha iki uşaq var.
 In the family, besides me, there are two more children.
 --ENDEX--
 
-## GEN/POSS Postpositions
+## Location Postpositions (GEN/POSS)
 
 Many postpositions are marked with GEN/POSS. That is, the object related to the postposition is in GEN and postposition is marked with POSS.
 
@@ -314,7 +317,7 @@ As with the standard future, the future-in-the-past is divided into definite and
 
 --EX--
 Əgər sən onu oxusaydın, ağıllı olardin.
-If you had studied, you would be smart
+If you had studied, you would be smart.
 --ENDEX--
 
 #### Definite Future-in-the-Past (DEFFUTPST) -AcAQdI
@@ -351,13 +354,21 @@ When emphasizing the on-going nature of past actions.
 
 <attn>The _ş_ is often dropped in the 2nd person in both spoken and written Azeri.<cite>[EoA 112](#eoa)</cite></attn>
 
-For completed actions that are relevent to the present, e.g. "I have seen it". `-Ib` is a more colloquial form of the same ending.
+For completed actions that are relevent to the present, e.g. "I have seen it".
 
 &nbsp; |SG |PL
 -|-----|--
 1|-Am  | -IQ
 2|-sAn | -s(In)Iz
 3|∅    | -(lAr)
+
+`-Ib` is a more colloquial form of the same ending. Indeed, some may give the following declensions, using `yığmaq:to collect`. Notice the 3rd person forms, using `-Ib`.
+
+&nbsp; |SG  |PL
+-|----------|-----------
+1| yığmışam | yığmışıq
+2| yığmısan | yığmısız
+3| yığıb    | yığıblar
 
 ### Past Perfect (PSTPFT) -mIşdI
 
@@ -460,6 +471,35 @@ Getməliyəm
 I must go
 --ENDEX--
 
+### Should gərək
+
+`gərək` proceeds the verb, which is declined as follows.
+
+&nbsp;  |SG |PL
+-|------|--
+1|-Im   | -AQ
+2|-AsAn | -AsIz
+3|-sIn  | -sInlAr
+
+## Verbal Suffixes
+
+These suffixes, when appended to the root of the verb, change the meaning from the base meaning of the root. In some cases, additional meanings have become associated with the suffixed form. For example, `yazmaq:to write` → `yazdırmaq:to register`, though `yazdırmaq` could be interpreted as "to make someone write".
+
+dIr
+: to make someone do something, `içmək:to drink` → `içdirmək:to make someone drink`
+
+Iş
+: reciprical action, `döymək:to beat` → `döyüşmək:to fight`
+
+In
+: self-directed action, `döymək:to beat` → `döyünmək:to beat oneself (e.g. a heart)`
+
+Il
+: passive voice, for transitive verbs, `döymək:to beat` → `döyülmək:to be beaten`
+
+lA
+: "verbs the noun", so to speak. Takes a noun and makes it into a related verb, such as, `soyuq:cold` → `soyuqlamaq:to be cold`.
+
 # Question Words
 
 Question words are found at the end of the sentence, before the verb.
@@ -534,9 +574,13 @@ Leylaya maşın lazımdır.
 Leyla needs a car. // lit. A car is necessary to Leyla.
 --ENDEX--
 
-## Expressing Ability (-A bilmək)
+## Expressing Ability (-A bilmək, olar/olmas)
 
-Expressing the ability to do something is done with a special form of the verb. It is formed by removing the infinitive ending and `-(y)A`. This special form is paired with `bilmək:to know`. For example, <ex>_Mən görə bilirəm_ ⧸ I am able to see</ex>.
+Expressing the ability to do something can be done in two diffrent ways.
+
+The first is done with a special form of the verb. It is formed by removing the infinitive ending and `-(y)A`. This special form is paired with `bilmək:to know`. For example, <ex>_Mən görə bilirəm_ ⧸ I am able to see</ex>.
+
+The second is with _olar_ for positive statements and _olmas_ for negative statements. The verb is left in the infinitive.
 
 ## Relative Conjunction (ki)
 

@@ -54,6 +54,38 @@ def index():
 def download(doc):
   return send_from_directory('files', doc)
 
+@mod_khachapuri.route('/reviews', methods=['GET'], host=host, defaults={'filter_value':None, 'filter_type':None})
+@mod_khachapuri.route('/reviews/<filter_type>/<filter_value>', methods=['GET'], host=host)
+def reviews(filter_type, filter_value):
+  filepath = os.path.join(app.root_path, 'templates', 'khachapuri', 'reviews.json')
+  input_file = codecs.open(filepath, mode="r", encoding="utf-8")
+  reviews = json.loads(input_file.read())['reviews']
+
+  unique_countries = set([r['country'] for r in reviews])
+  unique_types = set([r['type'] for r in reviews])
+  if filter_type:
+    reviews = [r for r in reviews if str(r[filter_type]).lower() == filter_value]
+  return render_template('khachapuri/reviews.html', reviews=reviews,
+    unique_countries=unique_countries, unique_types=unique_types,
+    t='reviews – the yelp of khachapuri')
+
+@mod_khachapuri.route('/bounties', methods=['GET'], host=host, defaults={'filter_value':None, 'filter_type':None})
+@mod_khachapuri.route('/bounties/<filter_type>/<filter_value>', methods=['GET'], host=host)
+def bounties(filter_type, filter_value):
+  filepath = os.path.join(app.root_path, 'templates', 'khachapuri', 'bounties.json')
+  input_file = codecs.open(filepath, mode="r", encoding="utf-8")
+  bounties = json.loads(input_file.read())['bounties']
+
+  unique_countries = set([b['country'] for b in bounties])
+  open_bounties = [b for b in bounties if not b.get('fulfilled')]
+  fulfilled_bounties = [b for b in bounties if b.get('fulfilled')]
+  if filter_type:
+    open_bounties = [b for b in open_bounties if str(b[filter_type]).lower() == filter_value]
+    fulfilled_bounties = [b for b in fulfilled_bounties if str(b[filter_type]).lower() == filter_value]
+  return render_template('khachapuri/bounties.html', open_bounties=open_bounties,
+    fulfilled_bounties=fulfilled_bounties, unique_countries=unique_countries,
+    t='bounties – the yelp of khachapuri')
+
 @mod_khachapuri.route('/<title>', methods=['GET'], host=host)
 def page(title):
   page = 'khachapuri/%s.md' % title

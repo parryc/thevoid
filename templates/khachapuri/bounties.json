@@ -1,6 +1,136 @@
 {
   "bounties": [
     {
+      "location": "The Georgian, London",
+      "country": "England",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Iberia Restaurant, London",
+      "country": "England",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Little Georgia, London",
+      "country": "England",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Sipan Bakery, Burbank",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Armo's Bakery, Los Angeles",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Chef's BBQ, Los Angeles",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Papillon International Bakery, Los Angeles",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Tony Khachapüri, Los Angeles",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Moscow & Tbilisi Bakery Store, San Francisco",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "The Zaatar Factory, Burbank",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Rustaveli, St Petersburg",
+      "country": "Russia",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Suliko, St Petersburg",
+      "country": "Russia",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Georgian House, Vilnius",
+      "country": "Lithuania",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Chacapuri Sodu, Vilnius",
+      "country": "Lithuania",
+      "posted": "2019-11"
+    },
+    {
+      "location": "U Gruzina, Wrocław",
+      "country": "Poland",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Khachapuri & Vino, Kiev",
+      "country": "Ukraine",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Mama Manana, Kiev",
+      "country": "Ukraine",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Hachapuria, Jerusalem",
+      "country": "Israel",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Khachapuri, Moscow",
+      "country": "Russia",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Crossroads Kitchen, Los Angeles",
+      "country": "USA",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Lamajoun, Richmond, British Columbia",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Phyllo Café, Toronto",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Genatsvale, Toronto",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Aragvi, Toronto",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Nevski, Montreal",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
+      "location": "Le Georgia, Montreal",
+      "country": "Canada",
+      "posted": "2019-11"
+    },
+    {
       "location": "Dear Inga, San Francisco",
       "country": "USA",
       "posted": "2019-09"

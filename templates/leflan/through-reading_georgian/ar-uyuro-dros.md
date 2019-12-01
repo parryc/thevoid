@@ -206,9 +206,11 @@ exactly 'over here' 'blow away:{3PL.PRS}'
 
 --GLOSS--
 არავინ და არაფერი შეგვიშლის ხელს
-'no one' and nothing 'make it hard for oneself:{1PL.PRS}'
-{!} no one and nothing is making it hard for ourselves
+'no one' and nothing distracts:{1PL.PRS}
+{!} no one and nothing is distracting us
 --ENDGLOSS--
+
+* `შეგვიშლის ხელს` could also be glossed as "bothering us". The dictionary gives "to make something hard for onesself", but that's not really the vibe of a pop song.
 
 ----
 
@@ -251,8 +253,10 @@ yeah know:{1SG.PRS} that {2SG} want:{2SG.PRS} this
 --GLOSS--
 გავათენებთ მანამ არ შევხედავთ მზეს
 'bring in the dawn:{1PL.PRS}' 'until then' {NEG} consider:{1PL.PRS} sun-{DAT}
-{!} we're bringing in the dawn, until (the dawn) we're not caring about the sun
+{!} we're up all night, until (the dawn) we're not caring about the sun
 --ENDGLOSS--
+
+* Perhaps "literally" (or poetically), `გავათენებთ` would be translated as "we're brining in the dawn". Colloquially though, it means "to be up all night".
 
 ----
 
