@@ -19,7 +19,7 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 102
+English – 103
 Finnish – 2
 French – 2
 Georgian – 9
@@ -29,7 +29,7 @@ Icelandic – 2
 Ilongo – 1
 Inuktitut – 1
 Irish – 1
-Japanese – 7
+Japanese – 8
 Kabardian – 1
 Kalaallisut – 5
 Kazakh – 6
@@ -306,6 +306,9 @@ Essential Japanese Grammar
 
 英会話ひと言活用辞典 ⧸ Say What's On Your Mind
 : 田所メアリー ⧸ Mary Tadokoro, Asahi Shuppan-sha, 2000. <tag>japanse→english</tag> <tag>phrasebook</tag>
+
+Japanese for Sinologists
+: Joshua A. Fogel and Fumiko Jōo, University of California Press, 2017. <tag>japanse→english</tag> <tag>textbook</tag>
 
 ### Kartvelian 
 

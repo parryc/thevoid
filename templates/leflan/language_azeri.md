@@ -115,6 +115,9 @@ Azeri is an exclusively suffixing language when producing new words.
 -mI
 : question particle, not required, comes at the end of the sentence.
 
+-nAn
+: with. A colloquial version of `ilə`.
+
 -pərvər
 : a suffix derived from Persian, in most cases with a sense of "having X", though may have fossilized meanings now and is no longer a productive suffix. For example, `qonaq:guest` and `qonaqpərvər:hospitality`.
 
@@ -151,13 +154,13 @@ gil
 : the home of, "chez". Takes additional case and suffixes.
 
 kimi
-: like.
+: like, as soon as.
 
 haqqında
 : about.
 
 ilə
-: with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used.
+: with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
 
 üçün
 : for, for the purpose of. Expresses intent when used with an infinitive.
@@ -259,10 +262,19 @@ The 2PL form is most often -sIz is spoken Azeri.
 
 ### Imperative (IMP) -∅
 
-Simply remove -mAQ. The only suffixes are for 2PL or negative:
+&nbsp; |SG |PL
+-|-----|--
+1|-Im  | -AQ
+2|∅    | -AsIz
+3|-sIn | -sInlAr
 
-* -(y)In for plural
-* -mA for negative
+Outside of the basic imparative form, there are 3 words that can come before an IMP verb, that mean something similar to "let's" or "allow one".
+
+* 1SG, 3SG, 3PL: `qoy`
+* 2SG: `gəl`
+* 1PL, 2PL: `gəlin`
+
+`qoy` comes from `qoymaq:to let` and `gəl(in)` comes from `gəlmək:to come`.
 
 ### Future 
 

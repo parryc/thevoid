@@ -5,6 +5,8 @@
 
 📝 [everything is bees](https://everythingisbe.es)
 
+💛 [the yelp of khachapuri](https://the-yelp-of-khachapuri.site)
+
 👩‍💻 [github](https://github.com/parryc)
 
 🖼 [posts & pictures](https://parryc.com/posts)
