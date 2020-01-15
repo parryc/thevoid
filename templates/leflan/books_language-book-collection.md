@@ -19,11 +19,13 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 103
+English – 106
 Finnish – 2
 French – 2
-Georgian – 9
-Hebrew - 1
+Georgian – 10
+German – 1
+Halkomelem – 1
+Hebrew – 1
 Hungarian – 4
 Icelandic – 2
 Ilongo – 1
@@ -43,15 +45,16 @@ Maltese – 1
 Mandarin – 3
 Mingrelian – 1
 Mongolian – 4
-Multiple Languages – 7
+Multiple Languages – 8
 Ojibwe – 2
 Polish – 1
 Romanian – 1
-Russian – 10
+Russian – 11
 Scots – 5
 Scottish Gaelic – 4
 Somali – 1
 Spanish – 2
+Squamish – 1
 Svan – 1
 Tagalog – 5
 Tahitian – 1
@@ -68,11 +71,11 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 5
-Coursebook – 20
+Coursebook – 21
 Dictionary – 42
-Grammar – 29
+Grammar – 30
 Phrasebook – 11
-Study – 6
+Study – 7
 Verb list – 3
 
 ## Languages
@@ -338,6 +341,9 @@ Georgian Dictionary & Phrasebook
 Georgian Newspaper Reader
 : Ketevan Gabounia and John D. Murphy, Dunwoody Press, 1995. <tag>georgian→english</tag> <tag>bilingual texts</tag>
 
+Zur Conjugation des Georgischen Verbums
+: Friedrich Müller, Der K. K. Hof- und Staatsdruckerei, 1869. <tag>georgian→german</tag> <tag>grammar</tag>
+
 #### Svan
 
 Svan
@@ -381,6 +387,9 @@ Nordic Europe Phrase Book & Dictionary
 
 Louisiana Place Names of Indian Origin
 : William A. Read, University of Alabama Press, 2008. <tag>dictionary</tag>
+
+The Routledge Handbook of North American Languages
+: eds. Daniel Siddiqi and Michael Barrie and Carrie Gillon and Jason Haugen and Eric Mathieu, Routledge, 2020. <tag>study</tag>
 
 ### Na-Dene
 
@@ -451,10 +460,21 @@ Colloquial Rumanian
 
 ### Salishan
 
+#### Halkomelem
+
+Musqueam Reference Grammar
+: Wayne Suttles, UBC Press, 2004. <tag>halkomelem→english</tag> <tag>grammar</tag>
+
 #### Lushootseed
 
 Lushootseed Texts
 : ed. Crisca Bierwert, University of Nebraska Press, 1996. <tag>lushootseed→english</tag> <tag>bilingual texts</tag>
+
+#### Squamish
+
+Sḵwx̱wú7mesh Sníchim-Xwelíten Sníchim Sḵexwts ⧸ Squamish-English Dictionary
+: Squamish National Dictionary Project, University of Washington Press, 2011. <tag>squamish→english</tag> <tag>dictionary</tag>
+
 
 ### Sino-Tibetan
 
@@ -505,6 +525,9 @@ A Short Russian Reference Grammar
 
 Русско-английский Разговорник
 : ?, ?, 1970?. <tag>english→russian</tag> <tag>phrasebook</tag>
+
+Russian for Reading
+: Patricia M. Arant, Slavica, 1981. <tag>russian→english</tag> <tag>coursebook</tag>
 
 ### Turkic
 

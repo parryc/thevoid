@@ -12,8 +12,6 @@
 * _The Midas Flesh_
 * _The Last Broadcast_
 * _Sandman: Overture_
-* _Umbral_ (Canceled)
-* _C.O.W.L_ (Canceled)
 * _The Storytellers: Witches_
 * _Feathers_
 * _Abigail and the Abominable Snowman_
@@ -24,17 +22,21 @@
 * _Shutter_
 * _Godshaper_
 * _Rocket Girl_
-* _Grave Lilies_ (Canceled?)
-* _Nonplayer_ (Infinite hiatus?)
 * _Poe Dameron_
-* _Ody-C_ (Hiatus?)
-* _The Old Guard_ (Hiatus?)
 * [_A Redtail's Dream_](http://www.minnasundberg.fi/comicindex.php)
-* _Sun Bakery_ (Hiatus?)
 * _Sleepless_
 * _Black Science_
 * _The Wicked and The Divine_
 * _Giant Days_
+
+# Hiatus or Canceled
+* _Sun Bakery_ (Hiatus?)
+* _Ody-C_ (Hiatus?)
+* _The Old Guard_ (Hiatus?)
+* _Grave Lilies_ (Canceled?)
+* _Nonplayer_ (Infinite hiatus?)
+* _Umbral_ (Canceled)
+* _C.O.W.L_ (Canceled)
 
 # Abandoned
 * _Roche Limit_

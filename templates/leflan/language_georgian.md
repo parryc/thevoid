@@ -726,11 +726,20 @@ For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For examp
 
 When expressing what one wants to do, both verbs – to want and the desired action – are conjugated. Thus, <ex>...იმიტომ, რომ მინდა ვჯამო... ⧸ ...because I wanted to eat...</ex>.
 
-**Options (თუ/ან or არც...არც)**
+**Options (თუ/ან, ან...ან, არც...არც, ხან...ხან)**
 
-There are two words for or in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
+There are two words for _or_ in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
 
-The negative version, neither...nor, is expressed with _არ(ც)...არც_.
+Comparative or contrastive options are expressed with duplication:
+
+either X or Y
+: ან X ან Y
+
+neither X norY
+: არც X არც Y
+
+sometimes X sometimes Y
+: ხან X ხან Y
 
 --EX--
 მიდიხარ ოფისში თუ ბიბლიოთეკში?

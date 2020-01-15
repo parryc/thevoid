@@ -39,3 +39,6 @@
 * _Red Cavalry_ - Isaac Babel
 * _Angel Mage_ - Garth Nix
 * _A Wizard of Earthsea_ - Ursula K. LeGuin
+* _The Left Hand of Darkness_ - Ursula K. LeGuin
+* _Unlocking the Door: Writing from Georgia_ - ed. Lia Chokosvhili
+* _Monday Begins on Saturday_ - Boris and Arkady Strugatsky

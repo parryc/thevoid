@@ -124,6 +124,9 @@ Azeri is an exclusively suffixing language when producing new words.
 -sIz
 : adjectival suffix meaning "without X" or "lacking X".
 
+-şünas
+: profession of
+
 --EX--
 Siz haralısınız?
 Where are you from? // using the nationality suffix -lI
@@ -421,7 +424,7 @@ Any conditional that takes place in the past. Corresponds more or less to the En
 
 ### Optative (OPT) -A
 
-Used to express wishes and desires. Wiktionary calls it the subjunctive and Speak Azeri calls it the "should" case. It is often found with `gərək:should`.<cite>[Speak Azeri](https://speakazeri.blogspot.com/2011/03/verb-chart-template-using-getmk.html)</cite> The negative form is `-mAyA`.<cite>[Simpson, p27](#simpson)</cite>
+Used to express wishes and desires. Wiktionary calls it the subjunctive and Speak Azeri calls it the "should" case. It is often found with `gərək:should` or `kaş:I wish`.<cite>[Speak Azeri](https://speakazeri.blogspot.com/2011/03/verb-chart-template-using-getmk.html)</cite> The negative form is `-mAyA`.<cite>[Simpson, p27](#simpson)</cite>
 
 &nbsp; |SG |PL
 -|-----|--
@@ -590,7 +593,7 @@ Leyla needs a car. // lit. A car is necessary to Leyla.
 
 Expressing the ability to do something can be done in two diffrent ways.
 
-The first is done with a special form of the verb. It is formed by removing the infinitive ending and `-(y)A`. This special form is paired with `bilmək:to know`. For example, <ex>_Mən görə bilirəm_ ⧸ I am able to see</ex>.
+The first is done with a special form of the verb. It is formed by removing the infinitive ending and appending `-(y)A`. This special form is paired with `bilmək:to know`. For example, <ex>_Mən görə bilirəm_ ⧸ I am able to see</ex>.
 
 The second is with _olar_ for positive statements and _olmas_ for negative statements. The verb is left in the infinitive.
 
@@ -612,7 +615,7 @@ Indicates the superlative degree of an adjective, thus, `ən böyük:the biggest
 
 **Ablative case**
 
-The ablative case is marked on the one that would follow "than" in English. For example, <ex>_Sevil Leyladan böyükdür_ ⧸ Sevil is bigger than Leyla</ex>.
+The ablative case is marked on the one that would follow "than" in English. For example, <ex>_Sevil Leyladan böyükdür_ ⧸ Sevil is bigger than Leyla</ex>. The noun in ABL may be follwed by `dA`.
 
 ## Possession
 
@@ -693,9 +696,15 @@ Kitabxanada tələbələr yox idi.
 There were no students in the library.
 --ENDEX--
 
+## Emphasis (dA)
+
+`dA` (following the vowel of the preceding verb) adds emphasis to the verb in question.
+
 # Adverbs
 
 Adverbs can often be formed by dropping the infinitive marker (`-mAQ`), adding `-A` and duplicating the word. For instance, `baxa-baxa:watchingly` (from `baxmaq:to watch`) or `gülə-gülə:laughingly` (from `gülmək:to laugh`).
+
+In other cases, it may be a noun followed by `səkildə:in the image`. This indicates perhaps more literally "in the image of X", but is used much as English adds `-ly` to the ends of adjectives. For example, `həvəskar:amature` → `həvəskar şəkildə:amaturishly`.
 
 # Participles
 
@@ -709,6 +718,10 @@ Since the suffix ends in `Q`, there will be consonant changes. For example, `oxu
 Nazimin oxuduğu kitab maraqlı idi.
 The book that Nazim read was interesting.
 --ENDEX--
+
+## Non-Past (-An)
+
+It is formed by appending `-An` to the verb root and corresponds roughly with the English gerund, ex. "to write" → "writing". Thus, `yazmaq:to write` → `yazan:writing`.
 
 # Numbers
 

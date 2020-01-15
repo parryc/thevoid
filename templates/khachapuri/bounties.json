@@ -1,6 +1,11 @@
 {
   "bounties": [
     {
+      "location": "Dediko, Vancouver, OR",
+      "country": "USA",
+      "posted": "2020-01"
+    },
+    {
       "location": "The Georgian, London",
       "country": "England",
       "posted": "2019-11"

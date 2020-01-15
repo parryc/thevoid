@@ -9,6 +9,10 @@
 * [August 2018 // Washington](2018-08-17-washington)
 * [June 2018 // Philippines & Japan](2018-06-13-philippines-and-japan)
 
+## Miscellaneous
+
+* [Build a WhatsApp Flashcard Bot With Python, Flask and Twilio](https://www.twilio.com/blog/build-whatsapp-flashcard-bot-python-flask-twilio)
+* [Just a list of pen stuff](pens)
 
 ## Cornell Sun
 
