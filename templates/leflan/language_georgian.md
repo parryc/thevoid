@@ -647,7 +647,7 @@ Dates are given in the form "day-month-year". Thus, `25 აპრილი ო�
 
 ## Time Expressions
 
-General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
+General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INS, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
 
 When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
 
@@ -748,13 +748,15 @@ Are you going to the office or to the library?
 He has one or two sisters, but I don't know exactly.
 --ENDEX--
 
-**Reported Speech (-ო)**
+**Reported Speech (-ო,-მეთქი)**
 
-Reported speech is always given in the tense/mode as if the person who is being quoted is actually saying the phrase. The `-ო` marker is attached to the verb, often at the end of the sentence. 
+Reported speech is always given in the tense/mode as if the person who is being quoted is actually saying the phrase. The `-ო` marker is attached to the verb, often at the end of the sentence. Sometimes, "-მეთქი" (including the dash) is used to reinforce what the person speaking said.
 
 --EX--
 გუშინ დამირეკა და მთხოვა თუ შეგიძლია ბაზარში გამიყვანეო.
 Yesterday she called and asked "if it is possible for you to take me to the bazaar?" // where _me_ refers to the individual doing the asking.
+თვალიც დავხუჭე, ვითომ მძინავს-მეთქი.
+My eyes were shut, as if I said, "I'm sleeping."
 --ENDEX--
 
 **Sometimes this, sometimes that (ხან..., ხან...)**
@@ -814,7 +816,7 @@ Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {n
 
 ## Dialect Note
 
-In a Gori accent, many individuals drop the final _ს_, in _არის:is_, as well as adding _ა_ to words such as _სად:where_.
+In a Gori accent, many individuals drop the final _ს_, in `არის:is`, as well as adding _ა_ to words such as `სად:where`.
 
 # Bibliography
 

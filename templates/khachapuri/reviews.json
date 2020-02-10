@@ -1,5 +1,16 @@
 {  "reviews": [
     {
+      "location": "Chama Mama, New York City",
+      "country": "USA",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2020-01",
+      "rated_by": "ik",
+      "note": "great for sharing, wonderful bread and stretchy cheese. the decor/vibe/aesthetic of the restaurant is beautiful, which added to the experience of the khachapuri.",
+      "img": "khachapuri_chama_mama.png"
+    },
+    {
       "location": "Dacha House, Seattle",
       "country": "USA",
       "price": 3,

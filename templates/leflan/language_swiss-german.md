@@ -2,6 +2,8 @@
 
 # Verbs
 
+<attn>Verbs are negated with _nöd_, not _kei_.</attn>
+
 ## To Be
 
 &nbsp; |SG |PL
@@ -10,13 +12,39 @@
 2|bisch|sind
 3|isch |sind
 
-## Class A Verbs
+## Regular Verbs
+
+There are 4 classes of regular verbs. they are more or less the same, but differ in where additional vowels are placed in the 2nd and 3rd person singular. In all cases, the pluarl suffixes are the same, `-ed`. The root, upon which these endings are attached, is found by taking the dictionary form and removing the final `e`. Thus, `bringe` → `bring`.
+
+Armin refers to these 4 classes as A, B1, B2, and C.
 
 ### Present Tense (PRS)
 
+&nbsp; |SG |PL
+-|-------|--
+1|-e     |-ed
+2|-(i)sch|-ed
+3|-(e)t  |-ed
 
+&nbsp; | A | B1 | B2 | C
+-------|---|----|----|----
+verb   |bringe   |hebe   |bhalte    |butze
+1SG    |bringe   |hebe   |bhalte    |butze
+2SG    |bringsch |hebsch |bhaltisch |butzisch
+3SG    |bringt   |hebet  |bhalet    |butzt
+PL     |bringed  |hebed  |bhaled    |butzed
+
+* B1 adds _e_ in 3SG.
+* C adds _i_ in 2SG.
+* B2 adds both.
+
+## Seperable Verbs
+
+Some verbs have detachable prefixes, conventionally indicating the way something is done (e.g. as a direction), but are also fossilized formations. For example, the _aa_, _ab_, etc. attached to `aafange:to begin` and `abbüüge:to turn`. When there is an object, the prefix moves to the end of the clause. For example, <ex>Si stellt de Stroom aa. ⧸ She turns on the electricity</ex>.
 
 # Nouns
+
+<attn>Nouns are negated with _kei_, not _nöd_. _Nöd_ is often pronounced with a long _ö_ when sentence final.</attn>
 
 Nouns are divided into three classes, masculine, feminine, and neutral.
 
@@ -28,14 +56,14 @@ According to Hoi, pg 10, the standard 4 noun cases of High German are reduced to
 
 Number | NOM    | DAT   | ACC  
 -------|--------|-------|------
-1s.    | ich    |       |    
+1s.    | ich    | mir   |    
 2s.    | du     | dir   | dich
-3sm.   | er     |       |  
-3sf.   | si     |       |  
+3sm.   | er     | sich  |  
+3sf.   | si     | sich  |  
 3sn.   | es     |       |  
-1p.    | mir    |       |  
+1p.    | mir    | üs    |  
 2p.    | si     | ine   | sii
-3p.    | ir     |       |  
+3p.    | ir     | sich  |  
 
 ## Articles
 
@@ -62,12 +90,57 @@ Due to the difficulty of pronouncing some consonant clusters, the pronunciation 
 
 # Adjectives
 
-Add `n` if ends in vowel and following adjective begins with a vowel. For example, `gueten aabig:good nigh`.
+<attn>Nouns are negated with _kei_, not _nöd_.</attn>
+
+Add `n` if ends in vowel and following adjective begins with a vowel. For example, `gueten aabig:good night`.
+
+# Sentence Structures
+
+## Liking something (gèrn)
+
+Liking to do something can be expressed with the conjugated verb plus _gèrn_. For example, <ex>Ich lise gèrn Gschichtsbüecher ⧸ I like reading history books</ex>. In the negative, use `nöd:not` between the verb and _gèrn_. Thus, <ex>Ich lise nöd gèrn Gschichtsbüecher ⧸ I like reading history books</ex>.
+
+## Negation (kei and nöd)
+
+nöd for negating how you are doing something and kei for when you are not something or don't have something
+
+I am kei a good student
+and the sweater is nöd under the table
+
+sort of a how vs what dichotomy
+
+I think that the ending of kei also changes based on the gender of the following noun?
+
+kei Schoggi
+kein Öpfelchueche
+keis Schuelbüech
+
+## Emphasis
+
+Swiss German has two different forms of emphatic sentence forms.
+
+① Duplication of `gaa:to go`
+: Used to emphasis the activity that's going to be done. Formed by conjugating _gaa_ and then following the noun with _go_.
+
+② `tue:to do`
+:Formed by conjugating _tue_ and placing the infinitive form of the verb at the end of the clause. Can emphasize the activity being done or that the activity is currently occurring.
+
+--EX--
+Dänn gaat si go poschte.
+Then she went to go shopping. // ①
+Ich tue Fuessball spile.
+I'm playing football right now. // ②
+--ENDEX--
 
 # Suffixes
 
 li
 : diminutive suffix. Never append to `Franken:Swiss Franks`, as Germans use it to make fun of the Swiss.
+
+# Postpositions
+
+ume
+: around, `Elfi ume:Around 11 o'clock`.
 
 # Numbers
 
@@ -86,7 +159,7 @@ Teens are formed by adding `zä` to the end of the single number, except for 11 
 8 - acht
 9 - nüün
 10 - zää
-11 - elf 
+11 - elf
 12 - zwölf
 13 - drizä
 20 - zwänzg

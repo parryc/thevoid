@@ -1,6 +1,16 @@
 {
   "bounties": [
     {
+      "location": "V-Bar, Zurich",
+      "country": "Switzerland",
+      "posted": "2020-01"
+    },
+    {
+      "location": "Bar Resto Pre-Fleuri, Lausanne",
+      "country": "Switzerland",
+      "posted": "2020-01"
+    },
+    {
       "location": "Dediko, Vancouver, OR",
       "country": "USA",
       "posted": "2020-01"

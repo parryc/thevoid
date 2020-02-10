@@ -67,7 +67,7 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 : nominative. The default case.
 
 -(n)In
-: genitive. Takes `n` as the buffer consonant, rather than the more common `y`.
+: genitive. Takes `n` as the buffer consonant, rather than the more common `y`. For example, `evindən:from her house`.
 
 -(n)I or ∅
 : accusative. The accusative is only marked when it is a definite object (e.g. "the apple") or a person, otherwise it is unmarked and is understood from context.
@@ -87,6 +87,9 @@ Azeri is an exclusively suffixing language when producing new words.
 
 -A
 : to, towards, DAT.
+
+-(y)An
+: present partiple. _Wiktionary_ refers to this as the "subject non-past particple" and _Elementary Azerbaijani_ calls it the "present subject participle", however with the caveat that it can sometimes be used to express past actions.<cite>[EA, 239]</cite> It appears that the participle can only be used as the subject of the sentence.
 
 -AndA
 : verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>
@@ -110,7 +113,10 @@ Azeri is an exclusively suffixing language when producing new words.
 : adjectival suffix meaning "possessing X" or "characterized by X". This is used to create adjectives of nationality or birthplace, ex. `bakılı:one from Baku`.
 
 -lIQ
-: nominalizing suffix meaning "state of being X". Attached to adjectives, ex. `çətin:difficult` → `çətinlik:difficulty`
+: nominalizing suffix meaning "state of being X". Attached to adjectives, ex. `çətin:difficult` → `çətinlik:difficulty`.
+
+-mAQ üçün (appended to a verb)
+: in order to do the verb.
 
 -mI
 : question particle, not required, comes at the end of the sentence.
@@ -125,16 +131,23 @@ Azeri is an exclusively suffixing language when producing new words.
 : adjectival suffix meaning "without X" or "lacking X".
 
 -şünas
-: profession of
+: profession of.
+
+-xana
+: house of, ex. `çay:tea` → `çayxana:teahouse`.
 
 --EX--
 Siz haralısınız?
 Where are you from? // using the nationality suffix -lI
+Yemək üçün evə gəldim.
+In order to eat, I came home.
+Kitabı oxuyan uşaq mənim oǧlumdur.
+The child who is reading the book is my son.
 --ENDEX--
 
 ## Relative Suffix (-kI)
 
-<attn>`-kI` can only be attached to nouns in LOC or GEN.<cite>[EoA 105](#eoa)</cite></attn>
+<attn>`-kI` can only be attached to nouns in LOC or GEN.<cite>[EoA, 105](#eoa)</cite></attn>
 
 To form relative clauses, add `-kI` to the last word in the clause. For example, <ex>_Yazıçı kitabxanadakı kitabları yazdı_ ⧸ The author wrote the books which are in the library</ex>. `Kitabxanada:in the library` is the clause we want to relativize. Thus, adding `-kı` makes it "which are in the library" and putting it in front of the `kitabları:books.ACC` makes the relative phrase modify the word books. When attached to nouns in GEN, it functions much like the English phrasing "that which is".
 
@@ -156,7 +169,10 @@ başqa (ABL)
 gil
 : the home of, "chez". Takes additional case and suffixes.
 
-kimi
+görə (NOM or DAT)
+: for.
+
+kimi (GEN)
 : like, as soon as.
 
 haqqında
@@ -165,7 +181,10 @@ haqqında
 ilə
 : with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
 
-üçün
+tək
+: like. May be seen attached to the word.<cite>[Simpson, p18](#simpson)</cite>
+
+üçün (GEN)
 : for, for the purpose of. Expresses intent when used with an infinitive.
 
 --EX--
@@ -279,9 +298,11 @@ Outside of the basic imparative form, there are 3 words that can come before an 
 
 `qoy` comes from `qoymaq:to let` and `gəl(in)` comes from `gəlmək:to come`.
 
+The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite>
+
 ### Future 
 
-Azeri differentiates between two types of future tenses: defnitive and indefinite. The definite future tense "indicates that the action in question definitely will (or will not) occur."<cite>[EoA 88](#eoa)</cite> Whereas the indefinite future tense is more ambiguous as to the likeliness of occurance.
+Azeri differentiates between two types of future tenses: defnitive and indefinite. The definite future tense "indicates that the action in question definitely will (or will not) occur."<cite>[EoA, 88](#eoa)</cite> Whereas the indefinite future tense is more ambiguous as to the likeliness of occurance.
 
 #### Definitive Future (DEFFUT) -AcAQ
 
@@ -301,7 +322,7 @@ In 1SG, the suffix is often reduced to `-Ac` in casual speech.
 
 <attn>Since the suffix contains _r_, the negative is `-m` (like PRS). However, in negative for 2nd and 3rd person, the suffix becomes `-Az`. Thus, `görməzsən:you will not see`. Note that the stress does not change either. 🤷‍♀️</attn>
 
-This form of the future has a sense of probability or possibility, but you're not totally sure it's going to happen. "The indefinite future tense can also express a regular or habitual activity. This meaning, however, is mostly reserved for proverbs and folk sayings."<cite>[EoA 92](#eoa)</cite>
+This form of the future has a sense of probability or possibility, but you're not totally sure it's going to happen. "The indefinite future tense can also express a regular or habitual activity. This meaning, however, is mostly reserved for proverbs and folk sayings."<cite>[EoA, 92](#eoa)</cite>
 
 It is often used to form polite questions or ask permission. When asking permission, the verb used is `olmaq:to happen` and the second verb is left in the infinitive. Otherwise, the verb is simply left in the INDEFFUT tense.
 
@@ -367,7 +388,7 @@ When emphasizing the on-going nature of past actions.
 
 ### Present Perfect (PFT) -mIş/-Ib
 
-<attn>The _ş_ is often dropped in the 2nd person in both spoken and written Azeri.<cite>[EoA 112](#eoa)</cite></attn>
+<attn>The _ş_ is often dropped in the 2nd person in both spoken and written Azeri.<cite>[EoA, 112](#eoa)</cite></attn>
 
 For completed actions that are relevent to the present, e.g. "I have seen it".
 
@@ -437,7 +458,7 @@ Used to express wishes and desires. Wiktionary calls it the subjunctive and Spea
 
 The only irregular verb in Azeri. Exists only as a suffix and is attached to the final word of a sentence in PRS. For example, <ex>_Mən professoram_ ⧸ I am a professor.</ex> `imək` is only used in PRS or PST. `olmaq`, a regular verb, is used in all other tenses.
 
-As with all suffixes in Azeri, if a suffix is attached to a word ending in a vowel, a "buffer consonant"<cite>[EoA p21](#eoa)</cite> `y` is added. Thus, `sürücü:driver` → `Mən sürücüyəm:I am a driver`.
+As with all suffixes in Azeri, if a suffix is attached to a word ending in a vowel, a "buffer consonant"<cite>[EoA, 21](#eoa)</cite> `y` is added. Thus, `sürücü:driver` → `Mən sürücüyəm:I am a driver`.
 
 <attn>The 'to be' suffix is not stressed.</attn>
 
@@ -451,7 +472,7 @@ As with all suffixes in Azeri, if a suffix is attached to a word ending in a vow
 
 In colloquial Azeri, the pronunciation varies somewhat. In particular, 2PL is pronounced as `-sIz`, 3SG as `-dI`, and 3PL as `-dIlAr`.<cite>[EA, 17](#ea)</cite>
 
-**3rd Person Plural**<cite>[EoA p24](#eoa)</cite>
+**3rd Person Plural**<cite>[EoA, 24](#eoa)</cite>
 
 The 3PL ending changes based on the subject in question:
 
@@ -560,7 +581,7 @@ saat neçədə
 
 --EX--
 Maşın haradadır?
-Where is the car? // lit. "at where"<cite>[EA p44](#ea)</cite>
+Where is the car? // lit. "at where"<cite>[EA, 44](#ea)</cite>
 --ENDEX--
 
 # Sentence Structures
@@ -624,13 +645,13 @@ The ablative case is marked on the one that would follow "than" in English. For 
 Possession can be expressed in multiple ways.
 
 ① LOC + `var`
-: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor.<cite>[EoA, p47](#eoa)</cite>
+: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor.<cite>[EoA, 47](#eoa)</cite>
 
 ② GEN + to be 
 : The possessor takes GEN and the verb is to be. The possessed object precedes the possessor.
 
 ③ GEN + POSS
-: The possessor takes GEN and the possessed item takes the POSS case. This is the most common form of indicating possession.<cite>[EoA, p78](#eoa)</cite>
+: The possessor takes GEN and the possessed item takes the POSS case. If there are more than one noun doing the possessing, the last POSS marking agrees with the last noun. This is the most common form of indicating possession.<cite>[EoA, 78](#eoa)</cite>
 
 The ③ form has these POSS suffixes:
 
@@ -640,7 +661,7 @@ The ③ form has these POSS suffixes:
 2|-(I)n|-(I)nIz
 3|-(s)I|-(s)I
 
-Since the only the 3rd person endings are ambiguous, a pronoun is only required for 3SG and 3PL. Otherwise, the GEN pronoun can be dropped.
+Since the only the 3rd person endings are ambiguous, a pronoun is only required for 3SG and 3PL. Otherwise, the GEN pronoun can be dropped.<cite>[EoA, p53]</cite>
 
 For chained possession, ex. my friend's cat's encyclopedia, each object possessed must get a POSS suffix and each object possessing must get the GEN suffix. This means that some objects will have multiple suffixes. For example, <ex>_Universitet-in böyük kitabxana-sı-n-ın təzə kitablar-ı_ ⧸ The university's big libray's new books</ex>. How does this work?
 
@@ -696,9 +717,20 @@ Kitabxanada tələbələr yox idi.
 There were no students in the library.
 --ENDEX--
 
-## Emphasis (dA)
+## The three uses of da/də
 
-`dA` (following the vowel of the preceding verb) adds emphasis to the verb in question.
+`dA` can be used in a variety of ways, even all three within one sentence. The vowel in `da` changes based on the immediately preceding vowel.
+
+1. Adds emphasis when following a verb. It's often to heighten the emotion of the sentence, such as emphasizing "on" in "come on".
+2. Equivalent to "also", following the word which is "also" had
+3. A conjunction, "even though" or "despite the fact". The clause preceding `dA` is the "even though X" clause and is either in the past or non-past conditional tense.
+
+--EX--
+Mənim qələmim olsa da, yaza bilmirəm.
+Even though I have a pen, I cannot write.
+Mənim də ailəm var.
+I also have a family. // Note that _də_ is following _mənim_, as it '_I_ also have a family', rather than 'I have a family _also_'.
+--ENDEX--
 
 # Adverbs
 

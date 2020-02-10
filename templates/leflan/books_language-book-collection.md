@@ -13,13 +13,14 @@ Arabic – 1
 Azeri – 3
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
+Chaghatay – 1
 Chinuk Wawa – 1
 Chuvash – 1
 Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 106
+English – 107
 Finnish – 2
 French – 2
 Georgian – 10
@@ -71,7 +72,7 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 5
-Coursebook – 21
+Coursebook – 22
 Dictionary – 42
 Grammar – 30
 Phrasebook – 11
@@ -226,6 +227,11 @@ English-Eskimo Eskimo-English Dictionary
 : Arthur Thibert, Revised edition, Canadian Reserach Centre for Anthropology, 1970. <tag>inuktitut→english</tag> <tag>dictionary</tag>
 
 ### Germanic
+
+#### Alemmanic
+
+Hoi: Your New Swiss German Survival Guide
+: Sergio J. Lievano and Nicole Egger, Bergli, 2014. <tag>alemmanic→english</tag> <tag>phrasebook</tag>
 
 #### Danish
 
@@ -542,6 +548,11 @@ The Turkish Language of Soviet Azerbaijan
 İngiliscə-Azərbaycanca İzahlı Kompüter Terminləri Lüğəti
 : Rafiq Məmmədli, mammadli.az, 3rd edition, 2018. <tag>english→azeri</tag> <tag>dictionary</tag>
 
+#### Chaghatay
+
+An Introduction to Chaghatay: A Graded Textbook for Reading Central Asian Sources
+: Eric Schluessel, Maize Books, 2018. <tag>chaghatay→english</tag> <tag>coursebook</tag>
+
 #### Chuvash
 
 Chuvash Manual
@@ -593,7 +604,7 @@ Spoken Uyghur
 : Reinhard F. Hahn and Ablahat Ibrahim, University of Washington Press, 1991. <tag>uyghur→english</tag> <tag>coursebook</tag>
 
 大众维语 ⧸ Colloquial Uyghur
-: ed. 马德元 and 塔西普拉提 乌买尔 ⧸ Ma Deyuan and Tashpolat Omer, 新疆大学出版社 ⧸ Xinjiang University Press, 1997. 
+: ed. 马德元、 塔西普拉提 乌买尔 ⧸ Ma Deyuan and Tashpolat Omer, 新疆大学出版社 ⧸ Xinjiang University Press, 1997. 
 
 ### Uralic
 
