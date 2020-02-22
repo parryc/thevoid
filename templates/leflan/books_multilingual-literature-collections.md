@@ -12,6 +12,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * English – 4
 * Filipino – 1
 * French – 1
+* German – 2
 * Georgian – 1
 * Hungarian – 1
 * Icelandic – 2
@@ -51,6 +52,9 @@ _Vini-der-Pu_
 _Historia de Winny de Puh_
 : translated by Isabel Gortázar and Juan Ramón Azaola. Published by Valdemar, 2009. <tag>spanish</tag>
 
+_Pu der Bär_
+: translated by Harry Rowohlt. Published by Dressler Verlag, 2009.
+
 ## Le Petit Prince by Antione de Saint-Exupéry
 
 _Le Petit Prince_
@@ -76,6 +80,9 @@ _Am Prionnsa Beag_
 
 პატარა პრინცი
 : translated by Georges Ekizachvili. Published by აგორა, 2017. <tag>georgian</tag>
+
+Der Kleine Prinz
+: translated by Grete and Josef Leitgeb. Published by Edition XXS, 2016. <tag>german</tag>
 
 ## Alice in Wonderland by Lewis Carroll
 

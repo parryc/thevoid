@@ -9,7 +9,9 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
 Abkhaz – 1
+Alemmanic – 3
 Arabic – 1
+Avar – 1
 Azeri – 3
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
@@ -20,11 +22,11 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 107
+English – 108
 Finnish – 2
 French – 2
 Georgian – 10
-German – 1
+German – 5
 Halkomelem – 1
 Hebrew – 1
 Hungarian – 4
@@ -50,7 +52,7 @@ Multiple Languages – 8
 Ojibwe – 2
 Polish – 1
 Romanian – 1
-Russian – 11
+Russian – 12
 Scots – 5
 Scottish Gaelic – 4
 Somali – 1
@@ -66,6 +68,7 @@ Uyghur – 2
 Visayan – 1
 Welsh – 3
 Xhosa – 1
+Yakut – 1
 Yiddish – 1
 Yoruba – 1
 
@@ -73,8 +76,8 @@ Yoruba – 1
 
 Bilingual Texts – 5
 Coursebook – 22
-Dictionary – 42
-Grammar – 30
+Dictionary – 46
+Grammar – 31
 Phrasebook – 11
 Study – 7
 Verb list – 3
@@ -233,6 +236,12 @@ English-Eskimo Eskimo-English Dictionary
 Hoi: Your New Swiss German Survival Guide
 : Sergio J. Lievano and Nicole Egger, Bergli, 2014. <tag>alemmanic→english</tag> <tag>phrasebook</tag>
 
+Langenscheidt Lilliput Schweizerdeutsch
+: Verena Stauffacher, Langenscheidt, 2017. <tag>alemmanic→german</tag> <tag>dictionary</tag>
+
+Schweizer-hochdeutsch
+: Hans Bickel and Christoph Landolt, Duden, 2018. <tag>alemmanic→german</tag> <tag>dictionary</tag>
+
 #### Danish
 
 Engelsk-Dansk Dansk-Engelesk
@@ -263,6 +272,11 @@ Polytechnisch Handwoordenboek
 
 Grammatica Nederlands
 : Henriëtte Houët, 23rd edition, Prisma, 2018. <tag>dutch→dutch</tag> <tag>grammar</tag>
+
+#### German
+
+Deutsch als Fremdsprache
+: Dieter Götz, Langenscheidt, 2016. <tag>german→german</tag> <tag>dictionary</tag>
 
 #### Icelandic
 
@@ -420,6 +434,11 @@ A Grammar of Yoruba
 : Ayọ Bamgboṣe, Cambridge University Press, 1966. <tag>yoruba→english</tag> <tag>grammar</tag>
 
 ### Northeast Caucasian
+
+#### Avar
+
+Аварско-Русский Словарь ⧸ Avar-Russian Dictionary
+: Лев Иванович Жирков ⧸ Lev Ivanov Zhirkov, Москва Советская Энциклопедия ⧸ Moskow Soviet Encyclopedia, 1936. <tag>avar→russian</tag> <tag>dictionary</tag>
 
 #### Tsakhur
 
@@ -604,7 +623,12 @@ Spoken Uyghur
 : Reinhard F. Hahn and Ablahat Ibrahim, University of Washington Press, 1991. <tag>uyghur→english</tag> <tag>coursebook</tag>
 
 大众维语 ⧸ Colloquial Uyghur
-: ed. 马德元、 塔西普拉提 乌买尔 ⧸ Ma Deyuan and Tashpolat Omer, 新疆大学出版社 ⧸ Xinjiang University Press, 1997. 
+: ed. 马德元、 塔西普拉提 乌买尔 ⧸ Ma Deyuan and Tashpolat Omer, 新疆大学出版社 ⧸ Xinjiang University Press, 1997. <tag>uyghur→chinese</tag> <tag>coursebook</tag>
+
+#### Yakut
+
+Jakutisch Kurzgrammatik
+: Angelika Landmann, Harrassowitz Verlag, 2016. <tag>yakut→german</tag> <tag>grammar</tag>
 
 ### Uralic
 

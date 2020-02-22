@@ -2,6 +2,7 @@
 
 ## Recent Travel
 
+* [February 2020 // Switzerland & Liechtenstein](2020-02-11-switzerland)
 * [August 2019 // Georgia & Azerbaijan](2019-08-18-georgia-and-azerbaijan)
 * [Summer 2019 // Edinburgh & Shetland](2019-05-29-shetland)
 * [March 2019 // Madrid & Toledo](2019-03-26-madrid-2019)
@@ -16,7 +17,7 @@
 
 ## Cornell Sun
 
-Under the psuedonym Jimothy Singh, for the Cornell Sun.
+Under the pseudonym Jimothy Singh, for the Cornell Sun.
 
 * [2013-05-20 // Dear Ms. Portman](2013-05-20-dear-ms-portman)
 * [2013-04-11 // One Hundred and Sexty-One Ideas](2013-04-11-one-sexty-one)

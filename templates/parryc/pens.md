@@ -52,6 +52,7 @@ A collection of various writing tools that I have used over the years.
 * Noodler's Sultan Rose
 * Pilot Brown
 * Pilot Black
+* Pilot Red
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
 * Pilot Iroshizuku Yama-Budo
