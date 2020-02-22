@@ -1,8 +1,11 @@
-# Georgia and Azerbaijan 2019
-
+# Georgia and Azerbaijan - 2019
 <tag>travel</a> <tag>georgia</tag> <tag>azerbaijan</tag> \\ August 2019
 
-# Azerbaijan
+Recreating _A Journey to Karabakh_ one khachapuri at a time.
+
+## Azerbaijan
+
+_"Categorical no." (jk)_
 
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2120_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2120.jpg">embiggen</a></figure>
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2123_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2123.jpg">embiggen</a></figure>
@@ -14,7 +17,9 @@
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2221_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2221.jpg">embiggen</a></figure>
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2227_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2227.jpg">embiggen</a></figure>
 
-# Georgia
+## Georgia
+
+_[the-yelp-of-khachapuri.site](the-yelp-of-khachapuri.site)_
 
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2069_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2069.jpg">embiggen</a></figure>
 <figure><img src="/images/georgia-azerbaijan-2019/DSCF2075_preview.jpg"/><a href="/images/georgia-azerbaijan-2019/DSCF2075.jpg">embiggen</a></figure>

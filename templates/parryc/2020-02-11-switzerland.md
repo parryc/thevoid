@@ -1,8 +1,11 @@
 # Switzerland and Liechtenstein 2020
+<tag>travel</tag> <tag>switzerland</tag> <tag>liechtenstein</tag> \\ February 2020
 
-<tag>travel</tag> <tag>switzerland</tag> <tag>liechtenstein</tag>
+I almost died for these pictures.
 
-# Switzerland
+## Switzerland
+
+_🧀_
 
 <figure><img src="/images/switzerland-2020/DSCF2564_preview.jpg"/><a href="/images/switzerland-2020/DSCF2564.jpg">embiggen</a></figure>
 <figure><img src="/images/switzerland-2020/DSCF2571_preview.jpg"/><a href="/images/switzerland-2020/DSCF2571.jpg">embiggen</a></figure>
@@ -46,7 +49,9 @@
 <figure><img src="/images/switzerland-2020/DSCF2845_preview.jpg"/><a href="/images/switzerland-2020/DSCF2845.jpg">embiggen</a></figure>
 <figure><img src="/images/switzerland-2020/DSCF2854_preview.jpg"/><a href="/images/switzerland-2020/DSCF2854.jpg">embiggen</a></figure>
 
-# Liechtenstein
+## Liechtenstein
+
+_Wonderful pictures of Vaduz's two bars._
 
 <figure><img src="/images/switzerland-2020/DSCF2611_preview.jpg"/><a href="/images/switzerland-2020/DSCF2611.jpg">embiggen</a></figure>
 <figure><img src="/images/switzerland-2020/DSCF2612_preview.jpg"/><a href="/images/switzerland-2020/DSCF2612.jpg">embiggen</a></figure>
