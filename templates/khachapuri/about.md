@@ -29,13 +29,18 @@ rachuli (რაჭული)
 penovani (ფენოვანი)
 : "made with puff pastry" (from 196 flavors)
 
-mkhlovana (მხლოვანა)
-: made with beet greens and often two different types of cheese
+mkhlovani (მხლოვანი)
+: made with beet greens and often two different types of cheese, found in Mtiuleti (მთიულეთი). alternatively spelled mkhlovana (მხლოვანა).
 
 khachapuri shampurze (ხაჭაპური შამფურზე)
 : imeruli khachapuri on a skewer (shampuri/შამფური)
 
+chakhrakina (ჭახრაკინა)
+: similar to _mkhlovana_, most often found in the broader Kartli region (ქართლი). may be in an imeruli or adjaruli shape. also spelled chakhrakini (ჭახრაკინი).
+
 ## sources
 
-* [wikipedia](https://en.m.wikipedia.org/wiki/Khachapuri)
+* [wikipedia - khachapuri](https://en.m.wikipedia.org/wiki/Khachapuri)
+* [wikipedia - georgian cuisine](https://en.wikipedia.org/wiki/Georgian_cuisine)
 * [196 flavors](https://www.196flavors.com/georgia-khachapuri/)
+* [comprehensive georgian-english dictionary](http://www.nplg.gov.ge/gwdict/index.php?a=term&d=46&t=162411)

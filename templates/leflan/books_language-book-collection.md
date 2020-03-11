@@ -26,7 +26,7 @@ English – 108
 Finnish – 2
 French – 2
 Georgian – 10
-German – 5
+German – 6
 Halkomelem – 1
 Hebrew – 1
 Hungarian – 4
@@ -68,16 +68,16 @@ Uyghur – 2
 Visayan – 1
 Welsh – 3
 Xhosa – 1
-Yakut – 1
+Yakut – 2
 Yiddish – 1
 Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 5
+Bilingual Texts – 6
 Coursebook – 22
-Dictionary – 46
-Grammar – 31
+Dictionary – 47
+Grammar – 32
 Phrasebook – 11
 Study – 7
 Verb list – 3
@@ -369,7 +369,7 @@ Zur Conjugation des Georgischen Verbums
 Svan
 : Kevin Tuite, LINCOM, 1997. <tag>svan→english</tag> <tag>grammar</tag>
 
-### Language Isolate
+### Koreanic
 
 #### Korean
 
@@ -396,6 +396,28 @@ Ri Ukemmik ri Tz'ib'anik pa K'ichee' Ch'ab'al
 
 The Mayan Languages
 : eds. Judith Aissen and Nora C. England and Roberto Zavala Maldonado, Routledge, 2017. <tag>multiple languages</tag> <tag>study</tag>
+
+### Mongolic
+
+#### Mongolian
+
+Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 1
+: Akihide Kitamura, Mongolpress, 1993. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
+
+Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 2
+: Akihide Kitamura, Mongolpress, 1996. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
+
+Mongolian Grammar
+: Dandii-Yadam Tserenpil and R. Kullman, 4th edition, self-published, 2008. <tag>mongolian→english</tag> <tag>grammar</tag>
+
+Сайн Байна Уу? ⧸ How Are You?
+: Лэгдэнгийн Цэрэнчунт ⧸ Legdengiun Tserenchunt and Sharon Luethy, Ekimto Press, 2006. <tag>mongolian→english</tag> <tag>coursebook</tag>
+
+Oxford Monsudar English-Mongolian Mongolian-English Pocket Dictionary
+: ed. Domi Tumurtogoo and Jantsan Bat-Ireedui, Monsudar, 2008. <tag>mongolian→english</tag> <tag>english→mongolian</tag> <tag>dictionary</tag>
+
+Dictionary of Synonyms in Modern Mongolian explained in Mongolian, Japanese and English
+: Akihide Kitamura, Nakhia XXK, 2001. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
 
 ### Multiple Families
 
@@ -597,26 +619,6 @@ A Learner's Dictionary of Kazakh Idioms
 The Kazakh Phrasebook
 : Aijan Akhmetova, Off the Beaten Path, 2010. <tag>kazakh→english</tag> <tag>phrasebook</tag>
 
-#### Mongolian
-
-Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 1
-: Akihide Kitamura, Mongolpress, 1993. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
-
-Mongolian-Japanese-English Dictionary of words which are not contained in other dictionaries, vol. 2
-: Akihide Kitamura, Mongolpress, 1996. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
-
-Mongolian Grammar
-: Dandii-Yadam Tserenpil and R. Kullman, 4th edition, self-published, 2008. <tag>mongolian→english</tag> <tag>grammar</tag>
-
-Сайн Байна Уу? ⧸ How Are You?
-: Лэгдэнгийн Цэрэнчунт ⧸ Legdengiun Tserenchunt and Sharon Luethy, Ekimto Press, 2006. <tag>mongolian→english</tag> <tag>coursebook</tag>
-
-Oxford Monsudar English-Mongolian Mongolian-English Pocket Dictionary
-: ed. Domi Tumurtogoo and Jantsan Bat-Ireedui, Monsudar, 2008. <tag>mongolian→english</tag> <tag>english→mongolian</tag> <tag>dictionary</tag>
-
-Dictionary of Synonyms in Modern Mongolian explained in Mongolian, Japanese and English
-: Akihide Kitamura, Nakhia XXK, 2001. <tag>mongolian→english</tag> <tag>mongolian→japanese</tag> <tag>dictionary</tag>
-
 #### Uyghur
 
 Spoken Uyghur
@@ -629,6 +631,9 @@ Spoken Uyghur
 
 Jakutisch Kurzgrammatik
 : Angelika Landmann, Harrassowitz Verlag, 2016. <tag>yakut→german</tag> <tag>grammar</tag>
+
+Über die Sprache der Jakuten
+: Otto Böhtlingk, Indiana University Publications, 1964. <tag>yakut→german</tag> <tag>grammar</tag> <tag>dictionary</tag> <tag>bilingual texts</tag>
 
 ### Uralic
 

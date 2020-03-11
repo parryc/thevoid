@@ -98,7 +98,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : towards.
 
 ც
-: too, also. Can only be attached to pronouns. It is also makes a question word into a relative pronoun. For example, `მეც:me too`.<cite>[Vogt §2.199](#vogt)</cite>
+: too, also. Can only be attached to pronouns. It is also makes a question word into a relative pronoun. For example, `მეც:me too`.<cite>[Vogt §2.198](#vogt)</cite>
 
 ჯერ
 : frequency, number of times.
@@ -114,6 +114,9 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 
 გან
 : from how many parts.
+
+ვე
+: the same<cite>[Vogt §2.199](#vogt)</cite>, see also the section on cardinal numbers, below.
 
 --EX--
 ორი დღის დროში
