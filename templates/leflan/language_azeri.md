@@ -92,7 +92,7 @@ Azeri is an exclusively suffixing language when producing new words.
 : present partiple. _Wiktionary_ refers to this as the "subject non-past particple" and _Elementary Azerbaijani_ calls it the "present subject participle", however with the caveat that it can sometimes be used to express past actions.<cite>[EA, 239]</cite> It appears that the participle can only be used as the subject of the sentence.
 
 -AndA
-: verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>
+: verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>. Since this suffix does not take a personal marker, speakers will often use the personal pronoun (which may normally be dropped) to indicate who is the actor in the `-AndA` clause.
 
 -cA
 : language of X. Note, cannot be used for countries that take -lI to form their adjective of nationality. It can be affixed to 1st and 2nd person pronouns to mean, "in my/your/our/y'alls opinion".
@@ -166,6 +166,9 @@ qeyri-
 başqa (ABL)
 : except for.
 
+əlindən
+: because of. Implies blame or fault.
+
 gil
 : the home of, "chez". Takes additional case and suffixes.
 
@@ -180,6 +183,9 @@ haqqında
 
 ilə
 : with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
+
+sarı
+: towards. Used in formal or poetic speech. Also means yellow.
 
 tək
 : like. May be seen attached to the word.<cite>[Simpson, p18](#simpson)</cite>
@@ -310,6 +316,8 @@ Azeri differentiates between two types of future tenses: defnitive and indefinit
 
 An example of the consonant assimilation can be seen in "I will go" and "I will read": `gət-` → `gədəcək-` → `gədəcəyəm`, `oxu-` → `oxuyacaq-` → `oxuyacağam`.
 
+In colloquial speech, the `AQ` ending is dropped and instead the suffix is just `-Ac`.
+
 &nbsp;  |SG |PL
 -|------|--
 1|-Am   | -IQ
@@ -317,6 +325,11 @@ An example of the consonant assimilation can be seen in "I will go" and "I will 
 3|-(dIr)| -(lAr)
 
 In 1SG, the suffix is often reduced to `-Ac` in casual speech.
+
+--EX--
+Mən söz verirəm ki qrupuda yazacam.
+I promise I will write in the group chat.
+--ENDEX--
 
 #### Indefinite Future (INDEFFUT) -Ar
 
@@ -502,12 +515,19 @@ Two verbs, `sevmək:to love` and `xoşlamaq:to like`, however, require the subs
 
 `-mAlI` is suffixed to the verbal root and indicates that the action must be done. The person markers are the same as in PRS.
 
+There are two nuances worth calling out: `-mAlI` with person markers and `-mAlI deyil` with person markers. Using `demək:to tell` to illustrate:
+
+1. Dəməlisən – you musn't tell.
+2. Dəməli deyilsən – you don't have to tell.
+
 --EX--
-Getməliyəm
-I must go
+Getməliyəm.
+I must go.
 --ENDEX--
 
 ### Should gərək
+
+<attn>Do no use _gərək_ in questions. Use OPT or `-mAlI` instead.</attn>
 
 `gərək` proceeds the verb, which is declined as follows.
 
@@ -530,11 +550,22 @@ Iş
 In
 : self-directed action, `döymək:to beat` → `döyünmək:to beat oneself (e.g. a heart)`
 
-Il
-: passive voice, for transitive verbs, `döymək:to beat` → `döyülmək:to be beaten`
-
 lA
 : "verbs the noun", so to speak. Takes a noun and makes it into a related verb, such as, `soyuq:cold` → `soyuqlamaq:to be cold`.
+
+### Passive Voice
+
+There are 5 ways to form the passive voice, based on the final letter of the verbal stem (i.e. without `-mAQ`).
+
+If the stem ends in...
+
+1. a consonant, except l: `-Il`, `göstərmək` → `göstərilmək:to be shown`
+2. l or a vowel: `-(I)n`, `işləmək` → `işlənmək:to be used`
+3. a vowel and is one of a few monosyllabic stems: `-yIl`, `demək` → `deyilmək:to be told`
+4. an irregular formation: `-nIl`, `istəmək` → `istənilmək:to be wanted`
+5. `-lA`: `-n(Il)`, `bağlamaq` → `bağlan(ıl)maq:to be closed`
+
+The agent of the passive voice is marked with the postposition _tərəfindən_.
 
 # Question Words
 
@@ -719,7 +750,7 @@ There were no students in the library.
 
 ## The three uses of da/də
 
-`dA` can be used in a variety of ways, even all three within one sentence. The vowel in `da` changes based on the immediately preceding vowel.
+`dA` can be used in a variety of ways, even all three within one sentence. The vowel in `dA` changes based on the immediately preceding vowel.
 
 1. Adds emphasis when following a verb. It's often to heighten the emotion of the sentence, such as emphasizing "on" in "come on".
 2. Equivalent to "also", following the word which is "also" had
@@ -732,6 +763,14 @@ Mənim də ailəm var.
 I also have a family. // Note that _də_ is following _mənim_, as it '_I_ also have a family', rather than 'I have a family _also_'.
 --ENDEX--
 
+## In order to
+
+There are two ways to express "in order to". We can see this using the example sentence "in order to be strong, you must do sports".
+
+① Using `üçün:for`, place the "in order to" clause in the first half of the sentence. <ex>_Gülcü olmaq üçün, sən idman etməlisən._ ⧸ In order to be strong, you must do sports.</ex>
+
+② Using [ki](#ki), place the "in order to" clause after _ki_ in the [Optative](#optative). <ex>_Sən idman etməlisən ki, güclü olasan._ ⧸ You must do sports, in order to be strong.</ex>
+
 # Adverbs
 
 Adverbs can often be formed by dropping the infinitive marker (`-mAQ`), adding `-A` and duplicating the word. For instance, `baxa-baxa:watchingly` (from `baxmaq:to watch`) or `gülə-gülə:laughingly` (from `gülmək:to laugh`).
@@ -740,20 +779,29 @@ In other cases, it may be a noun followed by `səkildə:in the image`. This indi
 
 # Participles
 
+Participles are often equivalent to English relative clauses (which/who does X).
+
 ## Non-Future (-dIQ-)
 
-Non-future here means past or present. These participles are often used as relative clauses, such as "that which I am reading". It formed by appending `-dIQ` after the verb root (and negative marker) and before the POSS marker.<cite>[EA, 212](#ea)</cite>
+Non-future here means past or present. These participles are often used as relative clauses, such as "that which I am reading". It formed by appending `-dIQ` after the verb root (and negative marker) and before the POSS marker.<cite>[EA, 212](#ea)</cite> The object of the relative clause will be marked with GEN.
 
 Since the suffix ends in `Q`, there will be consonant changes. For example, `oxu-duğ-ım:that which I am reading`. Or a more full example, <ex>_oxuduğun məktub_ ⧸ the letter which you read/are reading</ex>.
 
 --EX--
 Nazimin oxuduğu kitab maraqlı idi.
 The book that Nazim read was interesting.
+Dünən baxa bilmadiyim kinoya bugün baxdım.
+The fil that I couldn't see yesterday, I watched today.
 --ENDEX--
 
 ## Non-Past (-An)
 
-It is formed by appending `-An` to the verb root and corresponds roughly with the English gerund, ex. "to write" → "writing". Thus, `yazmaq:to write` → `yazan:writing`.
+It is formed by appending `-An` to the verb root and corresponds roughly with the English gerund, ex. "to write" → "writing". Thus, `yazmaq:to write` → `yazan:(who is) writing`.  "The head noun in a participle phrase comes at the end and all words modifying this noun procede it."<cite>[EA, 246](#ea)</cite> Compare `gələn qonaq:the guest who is coming` and `qonaq gələn:she is coming as a guest` (`qonaq gəlmək:to come as a guest`). Sometimes the head noun is omitted and the participle functions as the noun. For example, <ex>_mənə məktub yazanı tanımıram_ ⧸ I don't know (the person) who wrote the letter to me</ex>.
+
+--EX--
+Amərikadan gələn qonaq...
+The guest who is coming from America...
+--ENDEX--
 
 # Numbers
 

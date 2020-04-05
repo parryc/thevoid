@@ -22,9 +22,9 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 108
+English – 110
 Finnish – 2
-French – 2
+French – 3
 Georgian – 10
 German – 6
 Halkomelem – 1
@@ -64,20 +64,21 @@ Tahitian – 1
 Tlingit – 2
 Tsakhur – 1
 Turkish – 1
+Tuvan – 1
 Uyghur – 2
 Visayan – 1
 Welsh – 3
 Xhosa – 1
-Yakut – 2
+Yakut – 4
 Yiddish – 1
 Yoruba – 1
 
 ## Book Types Represented
 
 Bilingual Texts – 6
-Coursebook – 22
+Coursebook – 24
 Dictionary – 47
-Grammar – 32
+Grammar – 33
 Phrasebook – 11
 Study – 7
 Verb list – 3
@@ -331,7 +332,7 @@ Essential Japanese Grammar
 : 田所メアリー ⧸ Mary Tadokoro, Asahi Shuppan-sha, 2000. <tag>japanse→english</tag> <tag>phrasebook</tag>
 
 Japanese for Sinologists
-: Joshua A. Fogel and Fumiko Jōo, University of California Press, 2017. <tag>japanse→english</tag> <tag>textbook</tag>
+: Joshua A. Fogel and Fumiko Jōo, University of California Press, 2017. <tag>japanse→english</tag> <tag>coursebook</tag>
 
 ### Kartvelian 
 
@@ -619,6 +620,11 @@ A Learner's Dictionary of Kazakh Idioms
 The Kazakh Phrasebook
 : Aijan Akhmetova, Off the Beaten Path, 2010. <tag>kazakh→english</tag> <tag>phrasebook</tag>
 
+#### Tuvan
+
+Tuvan Manual
+: John Krueger, Indiana University, 1977. <tag>tuvan→english</tag> <tag>coursebook</tag>
+
 #### Uyghur
 
 Spoken Uyghur
@@ -634,6 +640,12 @@ Jakutisch Kurzgrammatik
 
 Über die Sprache der Jakuten
 : Otto Böhtlingk, Indiana University Publications, 1964. <tag>yakut→german</tag> <tag>grammar</tag> <tag>dictionary</tag> <tag>bilingual texts</tag>
+
+Parlons Sakha
+: Émilie Maj and Marine Leberre-Semenov, L'Harmattan, 2010. <tag>yakut→french</tag> <tag>grammar</tag>
+
+Yakut Manual
+: John Krueger, Indiana University, 1962. <tag>yakut→english</tag> <tag>coursebook</tag>
 
 ### Uralic
 

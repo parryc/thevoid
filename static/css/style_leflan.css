@@ -164,6 +164,12 @@ dd > tag {
   font-size: 0.75;
 }
 
+#to-top {
+  position: fixed;
+  bottom: 15px;
+  left: 3%;
+}
+
 /************
 Examples
 ************/
@@ -451,6 +457,19 @@ Dictionary entries
   }
 }
 
+@media screen and (max-width: 800px) {
+  attn {
+    margin-left: 0em;
+  }
+
+  #to-top {
+    padding: 3px;
+    color: #444;
+    background: #efefef;
+    border: solid black 2px;
+  }
+}
+
 @media print {
   table {
     white-space: normal;
@@ -458,5 +477,9 @@ Dictionary entries
 
   main {
     max-width: 100% !important;
+  }
+
+  #to-top {
+    display: none;
   }
 }

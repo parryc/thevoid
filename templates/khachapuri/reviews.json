@@ -1,5 +1,15 @@
 {  "reviews": [
     {
+      "location": "Compass Rose, Washington D.C.",
+      "country": "USA",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2020-04",
+      "rated_by": "jose",
+      "note": "'the best takeout khachapuri'"
+    },
+    {
       "location": "Dacha Diner, New York City",
       "country": "USA",
       "price": 3,

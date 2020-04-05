@@ -11,6 +11,7 @@ A collection of various writing tools that I have used over the years.
 * Pilot Metropolitan (fine, black)
 * Pilot Metropolitan (fine, red)
 * Pilot Penmanship (extra-fine, clear)
+* Sen Handmade (fine glass, aluminum)
 
 ### Nibs
 
@@ -31,6 +32,7 @@ A collection of various writing tools that I have used over the years.
 * Moleskine Medium
 * Moleskine Mini
 * Moleskine Memo Pad
+* Nakabayashi Logical Prime A5
 * Rhodia DotPad
 * Scoutbook
 * Tomoe River 52 gsm A5
@@ -40,6 +42,8 @@ A collection of various writing tools that I have used over the years.
   * Cosmo Air Light B7
   * ⭐️ New Chiffon Cream A6
   * Frontier Tough 70 B6
+* ⭐️ Yamamoto Ro-Biki Notebook 21cm x 9cm
+  * Uses New Chiffon Cream paper 
 
 ## Inks 🎨
 
@@ -47,6 +51,9 @@ A collection of various writing tools that I have used over the years.
 * ⭐️ J. Herbin Rouge Grenat
 * ⭐️ Kaweco Pearl Black
 * Kaweco Ruby Red
+* Lennon Tool Bar Celastrina Sugitanii Shirozui
+* Lennon Tool Bar Pineapple
+* Lennon Tool Bar Verdant
 * Monteverde Midnight Black
 * Noodler's Polar Green
 * Noodler's Sultan Rose
