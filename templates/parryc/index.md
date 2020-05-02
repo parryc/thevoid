@@ -10,3 +10,5 @@
 👩‍💻 [github](https://github.com/parryc)
 
 🖼 [posts & pictures](https://parryc.com/posts)
+
+🈲 [playing 《谜宫》](https://parryc.com/谜宫)

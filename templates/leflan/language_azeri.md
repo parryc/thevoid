@@ -173,7 +173,7 @@ gil
 : the home of, "chez". Takes additional case and suffixes.
 
 görə (NOM or DAT)
-: for.
+: for, due to (with DAT)
 
 kimi (GEN)
 : like, as soon as.
@@ -676,7 +676,7 @@ The ablative case is marked on the one that would follow "than" in English. For 
 Possession can be expressed in multiple ways.
 
 ① LOC + `var`
-: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor.<cite>[EoA, 47](#eoa)</cite>
+: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor<cite>[EoA, 47](#eoa)</cite> and is often temporary<cite>[EA, 80](#ea)</cite>
 
 ② GEN + to be 
 : The possessor takes GEN and the verb is to be. The possessed object precedes the possessor.
@@ -701,7 +701,7 @@ For chained possession, ex. my friend's cat's encyclopedia, each object possesse
 3. We put it all together, going left to right, meaning that before the library possesses anything, it is also possessed, so the GEN suffix attaches to the POSS suffix as seen above. Voila!
 
 ④ POSS + `var`
-: Similar to ①, this emphasizes the object possessed.<cite>[EoA, 79](#eoa)</cite>
+: Similar to ①, this emphasizes the object possessed.<cite>[EoA, 79](#eoa)</cite> In colloquial speech, in 1st or 2nd person, one may hear the POSS marker on `var`, rather than on the object. For example, <ex>_Varımdır_ ⧸ I have it</ex> or <ex>_Yoxumdur_ ⧸ I don't have it</ex>.<cite>[EA, 81](#ea)</cite>
 
 ⑤ POSS
 : Just POSS is used in compound nouns, such as "radiator hat". The first part of the compound noun is unmarked and the second part is marked with POSS, e.g. `konsert bileti:concert ticket`. This becomes the noun itself, so case markings will append to the POSS marked noun (buffered with `-n-` if 3SG POSS), ex. `məktəb kitablarında:in the school books`.

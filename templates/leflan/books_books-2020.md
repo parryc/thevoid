@@ -6,3 +6,4 @@
 * _Law's Indigenous Ethics_ - John Borrows
 * _Aloha Betrayed_ - Noenoe K. Silva
 * _Maigret Among the Rich_ - Georges Simenon
+* _Sámi Media and Indigenous Agency in the Arctic North_ - Coppélie Cocq and Thomas A. DuBois

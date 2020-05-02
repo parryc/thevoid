@@ -77,7 +77,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. Plural forms always end in `-ი` in NOM, as in the following examples. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თან
-: near to, next to, together with (when used with `ერთად:together`), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
+: near to, next to, together with (when used with `ერთად:together`), close to (when used with ახლოს), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
 
 თვის (GEN)
 : for, around/about, by. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`. When used with time phrases, it indicates "by TIME", ex. `კვირისთვის:by Sunday`.
@@ -113,7 +113,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : between.
 
 გან
-: from how many parts.
+: from how many parts, from, far from (when used with შორს).
 
 ვე
 : the same<cite>[Vogt §2.199](#vogt)</cite>, see also the section on cardinal numbers, below.
@@ -147,7 +147,7 @@ How many people does your group consist of? // -გან indicating "from how m
 
 ## Grammatical Cases
 
-<attn>If the noun ends in an `ი` in NOM, then it is dropped when forming all other cases. If it ends in `ა`, `ე`, `უ`, or `ო`, the final vowel remains for all other cases.</attn>
+<attn>If the noun ends in an `ი` in NOM, then it is dropped when forming all other cases. If the noun ends in `ა` or `ე`, the final vowel is dropped in GEN and DAT. If the noun ends `უ` or `ო`, the final vowel remains for all cases.</attn>
 
 NOM (ი/∅)
 : the nominative case is the default dictionary form. Depending on the verb, it can mark either the subject or object of the clause. If the subject is in NOM, the object will be in DAT.<cite>[Kurtsikidze 27](#kurtsikize)</cite>
@@ -164,7 +164,7 @@ ERG მ(ა)
 : the ergative case, this is used with some verbs in the AOR case and only appears as the subject of a clause. If the subject is ERG, then the object is NOM. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ. Kurtsikidze refers to this as the narrative case.
 
 INS ით or თი
-: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
+: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. It is also used with cardinal directions (north, south etc.) to indicate location, such as "in the north". Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
 
 ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
@@ -310,6 +310,10 @@ AOR is also used for imparatives, ex. `გაიმეორე!:repeat (this)!`
 1|გავაკეთ**ე**|გავაკეთ**ე**თ
 2|გააკეთ**ე** |გააკეთ**ე**თ
 3|გააკეთ**ა**|გააკეთ**ეს**
+
+### Past Frequentive (PSTFRQ)
+
+Kurtsikidze pp191 – can function as would/would have in English.
 
 ## მ-series
 
@@ -708,7 +712,7 @@ DAT გაგვიმარჯოს! - format of a toast, ex. მეგობ�
 
 # Sentence Structures
 
-**Simultaneous Action (როცა or თან...თან)**
+## Simultaneous Action (როცა or თან...თან)
 
 To indicate simultaneous action, ex. "I was at class, when Wes was on vacation", one uses `როცა` to stand in for the `when/while` part of the English sentence. Both clauses of the sentence should be in the same tense.
 
@@ -721,15 +725,15 @@ I will go to Georgia, while I am learning Georgian.
 She is dancing and singing (at the same time).
 --ENDEX--
 
-**Conditional Sentences (თუ)**
+## Conditional Sentences (თუ)
 
 For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want.
 
-**Expressing Desire (მინდა)**
+## Expressing Desire (მინდა)
 
 When expressing what one wants to do, both verbs – to want and the desired action – are conjugated. Thus, <ex>...იმიტომ, რომ მინდა ვჯამო... ⧸ ...because I wanted to eat...</ex>.
 
-**Options (თუ/ან, ან...ან, არც...არც, ხან...ხან)**
+## Options (თუ/ან, ან...ან, არც...არც, ხან...ხან)
 
 There are two words for _or_ in Georgian: _თუ_ and _ან_. They function in a similar manner to [还是 and 或者 in Chinese](https://resources.allsetlearning.com/chinese/grammar/Comparing_%22haishi%22_and_%22huozhe%22), that is _თუ_ is used in questions and _ან_ is used in statements.
 
@@ -751,9 +755,14 @@ Are you going to the office or to the library?
 He has one or two sisters, but I don't know exactly.
 --ENDEX--
 
-**Reported Speech (-ო,-მეთქი)**
+## Reported Speech (-ო,-მეთქი)
 
-Reported speech is always given in the tense/mode as if the person who is being quoted is actually saying the phrase. The `-ო` marker is attached to the verb, often at the end of the sentence. Sometimes, "-მეთქი" (including the dash) is used to reinforce what the person speaking said.
+Reported speech is always given in the tense/mode as if the person who is being quoted is actually saying the phrase. 
+
+There are two common ways of indicating this:
+
+1. `-მეთქი` (including the dash) for 1st person.
+2. `-ო` marker is attached to the verb, often at the end of the sentence, for anyone but 1st person.
 
 --EX--
 გუშინ დამირეკა და მთხოვა თუ შეგიძლია ბაზარში გამიყვანეო.
@@ -762,11 +771,11 @@ Yesterday she called and asked "if it is possible for you to take me to the baza
 My eyes were shut, as if I said, "I'm sleeping."
 --ENDEX--
 
-**Sometimes this, sometimes that (ხან..., ხან...)**
+## Sometimes this, sometimes that (ხან..., ხან...)
 
 When two things happen, but not necessarily at the same time (sometimes I ride my bike, sometimes I take the bus), use `ხან` before each "thing" that is being done.
 
-**(Not) as X, as you (ისე...როგორც)**
+## (Not) as X, as you (ისე...როგორც)
 
 This structure can be used to express both positive and negative comparisons. If the first clause is negated (`არ ვარ`, for instance), then it will be "Not as X as whoever", whereas if it is a positive clause, then the comparison is "As X as whoever".
 
@@ -775,7 +784,7 @@ This structure can be used to express both positive and negative comparisons. If
 But I am not as busy as you are.
 --ENDEX--
 
-**The Versatile კი**
+## The Versatile კი
 
 კი performs 3 functions<cite>[Kiziria 128](#kiziria)</cite>:
 
@@ -783,7 +792,7 @@ But I am not as busy as you are.
 2. "This/that one". When a noun has already been stated, კი can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
 3. "However". When two clauses of a sentence contrast, კი serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
 
-**Impersonal Sentences**
+## Impersonal Sentences
 
 Use 3pl, for example, <ex>_ეს ხიდი ათი წლის ჭინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
 
@@ -797,7 +806,7 @@ The "It is X" clause is marked with `-ა` and the "to Y" clause is a verbal nou
 
 **It is X as it is Y**
 
-The first clause is often in the present tense and the second clause is often a vebal noun. For example, <ex>_ვკითხულობს როგორც იწერება_ ⧸
+The first clause is often in the present tense and the second clause is often a vebal noun. For example, <ex>_კითხულობთ როგორც იწერება_ ⧸
 It is read as it is written</ex>. Note that the first clause "it is read" is actually in 2PL.PRS.
 
 # Adjectives

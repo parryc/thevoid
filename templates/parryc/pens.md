@@ -5,6 +5,7 @@ A collection of various writing tools that I have used over the years.
 ## Pens ✒️
 
 * ⭐️ Kaweco Liliput (fine, fireblue)
+* Lamy Joy (1.5mm italic, black and red)
 * Lamy Safari (1.5mm italic, lime green)
 * TWSBI ECO (fine, clear)
 * ⭐️ TWSBI ECO (stub 1.1mm, clear)
