@@ -70,7 +70,7 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 : genitive. Takes `n` as the buffer consonant, rather than the more common `y`. For example, `evindən:from her house`.
 
 -(n)I or ∅
-: accusative. The accusative is only marked when it is a definite object (e.g. "the apple") or a person, otherwise it is unmarked and is understood from context.
+: accusative. The accusative is only marked when it is a definite object (e.g. "the apple" or "this apple") or a person, otherwise it is unmarked and is understood from context. So monosyllabic words, such as `nə:what` or `su:water` use _y_ as the joining consonant.
 
 -(y)A
 : dative. Indicates indirect object as well as movement towards a place.
@@ -79,7 +79,7 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 : locative. Indicates location of an object or action, as well as time phrases related to seasons.
 
 -dAn
-: ablative. Indicates motion away from or out of an object or place. Additionally, can be used in comparative sentences and to mean "due to" or "because of". For example, <ex>_Onlar parka yağışdan getmədilər_ ⧸ We didn't go to the park because of the rain</ex>.
+: ablative. Indicates motion away from or out of an object or place. It has some additional uses as well. It can be used in comparative sentences and to mean "due to" or "because of". For example, <ex>_Onlar parka yağışdan getmədilər_ ⧸ We didn't go to the park because of the rain</ex>. It can also be used to indicate part of a whole, for example, <ex>_Bu köynəklərdən birni alıram_ ⧸ I am buying of these shorts</ex>.
 
 # Suffixes
 
@@ -176,7 +176,7 @@ görə (NOM or DAT)
 : for, due to (with DAT)
 
 kimi (GEN)
-: like, as soon as.
+: like, as soon as (with preceding verb in `+An`).
 
 haqqında
 : about.
@@ -304,7 +304,7 @@ Outside of the basic imparative form, there are 3 words that can come before an 
 
 `qoy` comes from `qoymaq:to let` and `gəl(in)` comes from `gəlmək:to come`.
 
-The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite>
+The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite> Additionally, the INDEFFUT for 2sg/2pl can be used for an even more polite form. One may also hear `+A` at the end of the sentence as a softener.
 
 ### Future 
 
@@ -358,7 +358,7 @@ Adam, kişi olar!
 Would a person become a man! // Often heard when asking someone to do a favor
 --ENDEX--
 
-### Future-in-the-Past
+### Future-in-the-Past (FUTPST)
 
 Azeri has a tense that is referred to on Wikipedia as "future-in-the-past". It is used to talk about things that would have happened had the situation in the past been different. As a result, it is often paired with the past conditional. For example, "if you had studied it, you would be smart". "Studied" would be the past conditional ("if you had") and "would be" is the "future-in-the-past", since it is the speculative future result of a past action.
 
@@ -384,7 +384,7 @@ If you had studied, you would be smart.
 &nbsp; |SG |PL
 -|-----|--
 1|-m | -Q
-2|-n | -nIz
+2|-n | -(nI)z
 3|∅  | -(lAr)
 
 ### Past Continuous (PSTCONT) -IrdI
@@ -396,7 +396,7 @@ When emphasizing the on-going nature of past actions.
 &nbsp; |SG |PL
 -|-----|--
 1|-m | -Q
-2|-n | -nIz
+2|-n | -(nI)z
 3|∅  | -(lAr)
 
 ### Present Perfect (PFT) -mIş/-Ib
@@ -429,11 +429,35 @@ For completed actions which finished in the past and happened before a second, m
 2|-n   | -nIz
 3|∅    | -(lAr)
 
-### Conditionals
+### Conditionals (COND)
+
+There are three ways of expressing the conditional in Azeri:
+
+① other verb ending + personal ending + `-sA`
+② `-sA` + personal ending
+③ `-sAydI` + personal ending
+
+Of the three, ① is the most common and the easiest, but all 3 forms are found. An example of ① is <ex>Əgər sən məktəbə gedirsənsə, bunu bilməlisən ⧸ If you're going to school, you must know this</ex>. Note that `-sA` is attached to the PRS form of the verb `getmək:to go`.
+
+The use of the three forms can be found in the table below. It is divided by tense and by hypothetical/real situations. Broadly speaking, real situations will be type ① conditionals and hypothetical situations will vary based on the tense used.
+
+&nbps; | Hypothetical | Real
+-------|--------------|------------------
+PRS    | ③ -sAydI    | ① -sA
+PST    | ③ -sAydI    | ① -sA
+FUT    | ② -sA       | ① -sA
+PSTCONT| ① -sA       | ① -sA
+FUTPST | ① -sA       | ① -sA
 
 --EX--
 Əgər sən yaxşi yəsən, tız böyüyərsən.
 If you eat well, you will grow up quickly.
+Əgər mən uça bilsəydim, mən hər yerə səyahət edərdim.
+If I could fly, I would travel everywhere.
+Əgər siz gələcəkdizsə, mənə niyə xəbər etmədiz?
+If you were going to come, why didn't you inform me?
+Əgər sən gəlməsən, mən səndən küsərəm.
+If you don't come, I will be offended.
 --ENDEX--
 
 #### Non-Past (NPCOND) -sA
@@ -448,7 +472,7 @@ Any conditional that takes place not in the past, e.g. present or future. Often 
 
 #### Past (PCOND) -sAydI
 
-Any conditional that takes place in the past. Corresponds more or less to the English "had I done X, then Y would have happened".
+Any conditional that takes place in the past or the hypothetical present. Corresponds more or less to the English "had I done X, then Y would have happened".
 
 &nbsp; |SG |PL
 -|-----|--
@@ -507,7 +531,11 @@ In the past, "to be" functions as a standalone verb, following the regular past 
 
 In most cases, the subsequent verbs in a series of verbs (ex. to see in "I want to go to the movie") are placed before the declined verb. Thus, <ex>_Mən kinoya gətmək istəyirəm_ ⧸ I want to go to the movies</ex>.
 
-Two verbs, `sevmək:to love` and `xoşlamaq:to like`, however, require the subsequent verbs, still in the infinitive, to be marked as if a direct object. That is, keep `-mAQ` and add `-I`. For example, <ex>_Mən oxumağı sevirəm_ ⧸ I like reading</ex>. Note that because the infinitive ends in _k_ or _q_ and will be followed by a vowel, consonant assimilation will occur.
+As with all rules, there are exceptions. Two common verbs, `sevmək:to love` and `xoşlamaq:to like`, require the subsequent verbs, still in the infinitive, to be marked as if a direct object. That is, keep `-mAQ` and add `-I`. For example, <ex>_Mən oxumağı sevirəm_ ⧸ I like reading</ex>. Note that because the infinitive ends in _k_ or _q_ and will be followed by a vowel, consonant assimilation will occur.
+
+`başlamaq:to start` functions similarly, but takes `-A` as the case marking of the verb. For example, <ex>_Ora biz gedən kimi, hər şəy yeməyə başlama!_ ⧸ Don't start eating everything as soon as we get there.</ex>
+
+See also [Expressing Ability](#expressing-ability-a-bilmk-olarolmas) for those types of serial verb forms. 
 
 ## Modal Verbs
 
@@ -729,13 +757,17 @@ There are three different ways of negating a sentence.
 
 When something _is not_ something, the word `deyil` is used. In spoken Azeri, it is often pronounced [dö:l].<cite>[EA, 20](#ea)</cite> The personal suffix is affixed to `deyil`.
 
-**There is... (yoxdur)**
+**There is... (yoxdur / yox)**
 
 `var` from existential sentences is replaced with `yoxdur` in the negative. In the past tense, it is `yox idi`.
+
+Colloquially, you may hear _yox_ used with personal endings. For example, <ex>_Məndə feys yoxdur_ ⧸ I am not on Facebook</ex> versus <ex>_Mən feysdə yoxam_ ⧸ I am not on Facebook</ex>. Compare this with _Məndə deyiləm_. This sentence would mean something more like "I am not presently on Facebook (i.e. logged in)" versus using _yoxdur_ which implies that you don't have a Facebook account at all.
 
 **Regular Verbs (-mA)**
 
 The suffix -mA (or -m if `r` is in the following tense suffix, such as in the present tense) is inserted between the verbal root and the tense suffix. Thus, `Mən bilirəm:I know` → `Mən bilmirəm:I don't know`.
+
+In IMP, where one would be tempted to look for a word meaning "don't", as in "don't do this", the negative marker suffices.
 
 --EX--
 Mən həkim deyiləm.
@@ -791,7 +823,7 @@ Since the suffix ends in `Q`, there will be consonant changes. For example, `oxu
 Nazimin oxuduğu kitab maraqlı idi.
 The book that Nazim read was interesting.
 Dünən baxa bilmadiyim kinoya bugün baxdım.
-The fil that I couldn't see yesterday, I watched today.
+The film that I couldn't see yesterday, I watched today.
 --ENDEX--
 
 ## Non-Past (-An)
@@ -886,6 +918,8 @@ December - dekabr
 The year in which something occurs is expressed as an ordinal number. The month in which something occurs is expressed with LOC. If it is a month + year combo, then GEN/POSS is used, which the year marked in GEN and the month marked in POSS, as well as LOC. Similarly, if it is a month + day combo, the month is marked with GEN, the day (in cardinal form) with POSS and LOC.
 
 Similar to [Georgian](/r/learns/georgian#time-expressions), the first hour of the day is 12. Thus, all time expressions are one off from English. That is, 12:30 would be "1's thirty", or _birin yarısı_. Other minutes use either `işləyib:past` or `qalıb:til`. These are paired with the hour in DAT. No additional verb is needed, as _işleyib_ and _qalıb_ are verbal forms. For example, <ex>_Birə beş dəqiqə işleyib_ ⧸ It is 12:05</ex>.
+
+Since `saat:hour,o'clock` is a versatile word, be careful with ordering when paird with `neçə:how many`. Thus, `saat neçədir:what time is it?` versus `neçə saat:how many hours (is it)?`
 
 --EX--
 Mən Bakıya 2003-cü ildə getdim.

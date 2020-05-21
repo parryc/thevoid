@@ -7,3 +7,5 @@
 * _Aloha Betrayed_ - Noenoe K. Silva
 * _Maigret Among the Rich_ - Georges Simenon
 * _Sámi Media and Indigenous Agency in the Arctic North_ - Coppélie Cocq and Thomas A. DuBois
+* _Sabriel_ - Garth Nix
+* _Native Space: Geographic Strategies to Unsettle Settler Colonialism_ - Natchee Blu Barnd

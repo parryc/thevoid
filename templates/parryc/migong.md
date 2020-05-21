@@ -31,7 +31,7 @@ So, to get started:
 
 Let's take a look now at what else that first sheet tells us.
 
-First, on the outside, the cover says `玩法说明:explanation of how to play`. The circle on the top, going from inside out are the `天干:Heavenly Stems`, then `地支:Earthly Branches`, and then finally, repeating, `初:beginning` and `正:find out what this means precisely`. I'd recommend checking out the appendix of _A Student's Dictionary of Classical and Medieval Chinese_ by Paul Kroll for more information.
+First, on the outside, the cover says `玩法说明:explanation of how to play`. The circle on the top, going from inside out are the `天干:Heavenly Stems`, then `地支:Earthly Branches`, and then finally, repeating, `初:1st hour of a classical Chinese block of time` and `正:2nd hour of a classical Chinese block of time`. I'd recommend checking out the appendix of _A Student's Dictionary of Classical and Medieval Chinese_ by Paul Kroll for more information.
 
 As you unfold the sheet, there are lot of small drawings with vertical text next to them. These list the things you have with you and shouldn't lose:
 
@@ -134,6 +134,69 @@ But I digress. As you scroll down, you'll see a dead dude holding your book (ok,
 Looks like 周本 saw some stuff on the back of our haphazard literary masterpiece. Flip that bad boy over, and we got a 京 尤 在 吕 宀 止 匕, all in different shape outlines, and those outlines then aligned in the center. So, matching all the shapes correctly, but more importantly suddently thinking about how weird of a character 就 is, you get `就在此宫:right in this palace`.
 
 Boom! Enter that in and we got the...didn't get the treasure, but we do get to scroll that cloud at the bottom up, like a literary Chinese pull down to refresh, and start Chapter 1. A worthy alternative, indeed.
+
+# Chapter 1
+
+I just opened up the app to get going on this and there's a sequel out. Lordy, people need to stop being productive during this quarantine and let me feel better about sitting on my butt not doing anything.
+
+Click on the first link for `卯时三刻:5:45`, which pops open to describe how the classical Chinese day was divided into twelve 2 hour blocks. These chunks are further divided in to 初 and 正, 初 being the first hour of the block, and 正 being the second hour. Further, as you may know from standard Mandarin, 刻 is a 15 minute block of time. Thus, 卯时三刻 is 卯 o'clock's 3rd 15 minute interval, aka, 5:45am. Remember the front page of our instructions manual?
+
+Let's set the scene. Your boy 周本 is up to shenanigans again. He's sitting on your bed and pulling out a bunch of old books. Oh wait, he's pulling out one specific book, 《哈利波特》! It's been nine years since the prologue (which is about how long it feels in this quarantine, too).
+
+周本's flying around your room, rolling of the bed, flipping open copies of the book, and he gets to a `词:type of classical poetry`. People debate about whether or not it means there treasure, but there's one thing we can all agree upon, when 中本 says "this poem is certainly not easy", that's a fact. Actually, turns out this one's pretty straightforward: it's an acrostic that says "look for treasure in the palace". Seems pretty open and shut to me as to what the meaning is.
+
+Upon this discovery, which took 9 years (always pays to have a 2nd set of eyes), 周本 drags you out of your room, past all the lads selling ice, and you start to hear music again. Now, when was the last time we heard music in the palace courtyard? Yes, when Metallica played, but before then? When the mystery dude vanished into the mist. Nope, it's the empress's birthday.
+
+You go hang out with some calligraphers so you don't get last-scene-of-Hero'd. 周本 is providing some commentary, but you should be focused on the clickable gong thingy (云锣) in the picture. Make sure you have sound on, for some midi-gong noise goodness. There's also a tag with the phrase `羊入虎口`, which could be a misspelling of `羊肉户口:lamb meat hukou`, but could also mean _the lamb is in the tiger's mouth_.
+
+Your friend notices that on the gongs are `工尺谱:gongche notation`, which is a [type of musical notation](https://en.wikipedia.org/wiki/Gongche_notation)
+ that goes from 上 to 乙, 上 a 鹿 a female 鹿, 乙 a drop of golden 日～. The full order is:
+
+* 上
+* 尺
+* 工
+* 凡
+* 六
+* 五
+* 乙
+
+Some how, you will get 4 characters out of this mess. In the book, there is also a 云锣 with 4 groups of circles underneath. A-hah! Since the circles in the book are not contiguous to the circles of the 云锣 in the app, it must indicate position of the radicals, as they appear in the book.
+
+Thus, matching the gongs together, you get `寻找八音:look for the 8 types of music`. According to the ABC dictionary, 八音 refers to the classification system of musical instrument materials: metal, stone, clay, leather, silk, wood, gourd, and bamboo.
+
+周本 takes a quick detour to prepare an article for Bandcamp, and asks the music teachers to show him the 8 instruments that represent the 8 different construction materials. I wonder if we can use all this newfound knowledge about `中和韶乐:court music` to determine what the next clue is.
+
+Flipping to the 中和韶乐 page, we see that if you draw lines on the page, you'll intersect a bunch of characters, ultimately ending up with intersected characters. Reading the following pages in the book, you can figure out what each instrument is made out of, or deduce it from the character's redicals, which helps to connect the dots. The writing on the left side is the sentence in the app, written vertically, right to left.
+
+The answer, once all the lines are drawn (delicately, in pencil, so as not to disrupt the beauty of the book), one gets 太和殿前嘉量, or the [jialiang](https://en.wikipedia.org/wiki/Jialiang) outside of the Hall of Supreme Harmony.
+
+周本, in his permanet eagerness, rushes out to the foregrounds of the Hall of Supreme Harmony. But alack! Someone has stopped you because there's that big 'ol ceremony goign on. What do you do? Go look for 姚文瀚 to ask about 万寿图 or say you have some business in front of the Hall? Well, we gotta go look at that jialiang, so let's take the 2nd choice.
+
+The person standing there tells you a bit about the steps – probably a riddle – and then disappears. Scroll down, check out the image, making sure to scroll to the right and click on the cat! You're then given 3 choices on how to go up the stairs:
+
+1. From the right wing, directly go up the 3 flights.
+2. Take overlapping stairs by the wall of the middle right entrance
+3. Boldly go up the 3 flights of the stairs from the center.
+
+I'm not 100% sure on my translation of #2, so let's go with it.
+
+Luckily, that still gets you up the stairs. 周本 has a moment, and then rushes off to check out the jialiang, describing the various measurements therein:
+
+* 斛
+* 斗 – ten 斗 = one 斛
+* 升 – ten 升 = one 斗
+* 合 – ten 合 = one 升
+* 龠 – two 龠 = one 合
+
+Using these conversions and looking at the book, we see that each conversion has part of a character. Placing these parts of the characters in the diagram (according to which measurement they equal), we spell out 隆尊养. Prepending with the 庆, we get our four character answer of 庆隆尊养, which gives praise to the empress and generally wishes her well and/or lives forever. They're the characters inscribed in the 慈宁宫.
+
+Some exposition happens, a man strokes his beard. A lad wants to sell us his waist-pass that can get us into a bunch of places, but he looks hella fishy. The emperor goes into the 慈宁宫, stymying our progress.
+
+Should we go back to 启祥宫 and wait for an opportunity, or wait for a chance to get in by the door to 慈宁宫?
+
+YOLO, let's hang with the emperor.
+
+Oh shi, something scrolled up at the top of the screen and then disappeared before I could read it. 
 
 # Links
 

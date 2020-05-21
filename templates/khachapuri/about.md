@@ -38,6 +38,9 @@ khachapuri shampurze (ხაჭაპური შამფურზე)
 chakhrakina (ჭახრაკინა)
 : similar to _mkhlovana_, most often found in the broader Kartli region (ქართლი). may be in an imeruli or adjaruli shape. also spelled chakhrakini (ჭახრაკინი).
 
+khachapuri burger
+: it's khachapuri... but a burger. found only at Patsatina in Almaty, Kazakhstan.
+
 ## sources
 
 * [wikipedia - khachapuri](https://en.m.wikipedia.org/wiki/Khachapuri)

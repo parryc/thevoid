@@ -22,7 +22,7 @@ Classical Chinese – 1
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 110
+English – 112
 Finnish – 2
 French – 3
 Georgian – 10
@@ -37,6 +37,7 @@ Irish – 1
 Japanese – 8
 Kabardian – 1
 Kalaallisut – 5
+Karuk – 1
 Kazakh – 6
 Korean – 1
 K'iche' – 4
@@ -45,6 +46,7 @@ Laz – 1
 Lithuanian – 3
 Lushootseed – 1
 Maltese – 1
+Manchu – 1
 Mandarin – 3
 Mingrelian – 1
 Mongolian – 4
@@ -76,16 +78,16 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 6
-Coursebook – 24
+Coursebook – 25
 Dictionary – 47
-Grammar – 33
+Grammar – 34
 Phrasebook – 11
 Study – 7
 Verb list – 3
 
 ## Languages
 
-A note on tags. There are two types of tags, those for the languages of the book and those for the type of book.
+There are two types of tags, those for the languages of the book and those for the type of book.
 
 * language A → language B. The text is meant to be used by speakers of B, looking to understand language A.
 * {book type}. This lists the type of book, such as a dictionary, a coursebook, or something else. In rare cases, there may be multiple types listed, if the book can function as more than one type.
@@ -224,7 +226,6 @@ Grønlandsk Grammatik
 Dictionary of the West Greenland Eskimo Language
 : Schultz-Lorentzen, Meddeleslser om Grønland 69, C. A. Reitzels Forlag, 1927. <tag>kalallisut→english</tag> <tag>dictionary</tag>
 
-
 #### Inuktitut
 
 English-Eskimo Eskimo-English Dictionary
@@ -308,6 +309,13 @@ Orkney and Shetland Weather Words: A Comparative Dictionary
 
 Comprehensive English-Yiddish Dictionary
 : ed. Gitl Schaechter-Viswanath and Paul Glasser, Indiana University Press, 2016. <tag>english→yiddish</tag> <tag>dictionary</tag>
+
+### Isolate
+
+#### Karuk
+
+The Karok Language
+: William Bright, University of California Press, 1957. <tag>english→karuk</tag> <tag>grammar</tag>
 
 ### Japonic
 
@@ -523,7 +531,6 @@ Lushootseed Texts
 Sḵwx̱wú7mesh Sníchim-Xwelíten Sníchim Sḵexwts ⧸ Squamish-English Dictionary
 : Squamish National Dictionary Project, University of Washington Press, 2011. <tag>squamish→english</tag> <tag>dictionary</tag>
 
-
 ### Sino-Tibetan
 
 #### Classical Chinese
@@ -576,6 +583,13 @@ A Short Russian Reference Grammar
 
 Russian for Reading
 : Patricia M. Arant, Slavica, 1981. <tag>russian→english</tag> <tag>coursebook</tag>
+
+### Tungusic
+
+#### Manchu
+
+Manchu: A Textbook for Reading Documents
+: Gertraude Roth Li, National Foreign Language Resource Center, , Revised edition, 2010. <tag>manchu→english</tag> <tag>coursebook</tag>
 
 ### Turkic
 

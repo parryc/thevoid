@@ -28,6 +28,8 @@ In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. 
 
 ### Interrogative and Relative
 
+Relative pronouns are formed by affixing `-ც` to interrogative pronouns.
+
 Interrogative | Relative | English
 --------------|----------|----------
 რა | რაც | what/whatever
@@ -36,6 +38,8 @@ Interrogative | Relative | English
 როგორ | როგორც | how/however
 ვინ | ვინც | who/whoever
 რამდენი | რამდენიც | how many/how many ever
+
+Relative pronouns form relative clauses that are often formed with "who" or "which" in English. For example, from Kurtsikidze, pg 97, <ex>_კაცი, რომელიც ზის, ჩემი მასწავლებელია_ ⧸ The man, that is sitting, is my teacher</ex>. Here, `რომელიც:that, which` sets off the relative clause "that is sitting". Another example reflects how these can be used to form more complex noun phrases, <ex>_რა ჰქვია რაღაც, რაშიც არის ალუბლები_ ⧸ What is called the thing in which there are cherries?</ex> (a `კალათა:basket`!). These types of structures are particularly useful for learner who are practicing circumlocution when they don't know a word.
 
 More formally, relative pronouns, in particular რაც, most often refer to an indefinite antecedant. For example, <ex>_რაც ვიცი, გეტყვი_ ⧸ That which I know, I will tell you</ex><cite>[Vogt §1.67](#vogt)</cite> or <ex>_მე იქ 6 წელია რაც ვმუშაობ_ ⧸ It has been 6 years that I have been working here</ex>. In these cases, it often works better to translate რაც as "that (which)".
 
@@ -95,7 +99,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`.
 
 კენ (GEN)
-: towards.
+: towards. For example, <ex>_შინისაკენ გაემართა_ ⧸ He hurried homeward.</ex>
 
 ც
 : too, also. Can only be attached to pronouns. It is also makes a question word into a relative pronoun. For example, `მეც:me too`.<cite>[Vogt §2.198](#vogt)</cite>
@@ -416,6 +420,11 @@ Directional prefixes include:
 * `და` – generic action of motion, moving, or walking<cite>[Kurtsikidze 165](#kurtsikidze)</cite>
 * `წა` – prior movement or lengthy movement, e.g. to another country. Only used in AOR or FUT.<cite>[Vogt §2.145](#vogt)</cite>
 
+In some fixed expressions or in literary words, one may also see
+
+* `წარმო` – motion away from someone
+* `გარმო` – motion out or across
+
 An example of the conjugation would be, `მივდივარ:I go`
 
 {მივდივარ}
@@ -531,11 +540,14 @@ In what are you an expert? // i.e. what are you good at?
 
 # Postpositions
 
+განმავლობაში
+: during, in the course of.
+
+გარეშე (GEN)
+: without, outside of.
+
 დასაწყისში (GEN)
 : beginning of.
-
-წინ (GEN)
-: before, in front of.
 
 მერე (GEN)
 : after.
@@ -543,14 +555,14 @@ In what are you an expert? // i.e. what are you good at?
 მიერ (GEN)
 : by.
 
-გარეშე (GEN)
-: without, outside of.
-
-განმავლობაში
-: during, in the course of.
+სავსე (INS)
+: full of.
 
 შორის
 : among, between.
+
+წინ (GEN)
+: before, in front of.
 
 --EX--
 რა განსხვავებაა X-ის და Y-ის შორის?
@@ -829,6 +841,11 @@ Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {n
 ## Dialect Note
 
 In a Gori accent, many individuals drop the final _ს_, in `არის:is`, as well as adding _ა_ to words such as `სად:where`.
+
+Tbilisi often has various colloquialisms not found elsewhere, as it is the largest urban area in Georgia. Some examples:
+
+* `გენაცვალე:dear`, used as a term of endearment between male friends.
+* sentence-final `რა:what`, used as a space filler or emphatic particle, similar to colloquial English sentence-final "yeah".
 
 # Bibliography
 

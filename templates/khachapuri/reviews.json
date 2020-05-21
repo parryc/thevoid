@@ -1,5 +1,47 @@
 {  "reviews": [
     {
+      "location": "Papillion International Bakery, Los Angeles",
+      "country": "USA",
+      "price": 3,
+      "taste": 1,
+      "type": "adjaruli",
+      "date": "n.d.",
+      "rated_by": "dtk",
+      "note": ""
+    },
+    {
+      "location": "Halvabar, Glendale",
+      "country": "USA",
+      "price": 4,
+      "taste": 1,
+      "type": "imeruli",
+      "date": "n.d.",
+      "rated_by": "dtk",
+      "note": ""
+    },
+    {
+      "location": "Tony Khachapüri, Los Angeles",
+      "country": "USA",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "n.d.",
+      "rated_by": "dtk",
+      "note": "",
+      "img": "khachapuri_tony_khachapuri.jpg"
+    },
+    {
+      "location": "Patsatsina, Almaty",
+      "country": "Kazakhstan",
+      "price": 1,
+      "taste": 4,
+      "type": "khachapuri burger",
+      "date": "n.d.",
+      "rated_by": "dtk",
+      "note": "'absurd and absurdly delicious'",
+      "img": "khachapuri_burger_2.jpg"
+    },
+    {
       "location": "Compass Rose, Washington D.C.",
       "country": "USA",
       "price": 3,
