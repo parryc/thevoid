@@ -1,6 +1,41 @@
 {
   "bounties": [
     {
+      "location": "Chacha Dacha, Pyatigorsk",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "Kilikiya, Pyatigorsk",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "KazanMangal, Makhachkala",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "Bakari, Makhachkala",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "Turetskaya Kukhnya, Makhachkala",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "Pirosmani, Makhachkala",
+      "country": "Russia",
+      "posted": "2020-05"
+    },
+    {
+      "location": "Tiflis, Bali",
+      "country": "Indonesia",
+      "posted": "2020-05"
+    },
+    {
       "location": "V-Bar, Zurich",
       "country": "Switzerland",
       "posted": "2020-01"
