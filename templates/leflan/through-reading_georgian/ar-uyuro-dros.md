@@ -252,18 +252,18 @@ yeah know:{1SG.PRS} that {2SG} want:{2SG.PRS} this
 
 --GLOSS--
 გავათენებთ მანამ არ შევხედავთ მზეს
-'bring in the dawn:{1PL.PRS}' 'until then' {NEG} consider:{1PL.PRS} sun-{DAT}
-{!} we're up all night, until (the dawn) we're not caring about the sun
+'bring in the dawn:{1PL.FUT}' 'until then' {NEG} consider:{1PL.PRS} sun-{DAT}
+{!} we'll be up all night, until (the dawn) we're not caring about the sun
 --ENDGLOSS--
 
-* Perhaps "literally" (or poetically), `გავათენებთ` would be translated as "we're brining in the dawn". Colloquially though, it means "to be up all night".
+* Perhaps "literally" (or poetically), `გავათენებთ` would be translated as "we'll bring in the dawn". Colloquially though, it means "to be up all night".
 
 ----
 
 --GLOSS--
 გავთიშავთ ტელეფონებს
-'turn off:{1PL.PRS}' telephone-{PL}-{DAT}
-{!} we're turning off our phones
+'turn off:{1PL.FUT}' telephone-{PL}-{DAT}
+{!} we'll turn off our phones
 --ENDGLOSS--
 
 ----
@@ -453,11 +453,11 @@ song.{DAT} "switches on:{2SG/2SG.PRS}" night.{GEN} city=in
 
 --GLOSS--
 სეირნობა მანამ სანამ არ გათენდა
-walk.{VN} until {b} {NEG} "dawn breaks:{3SG.AOR}"
-{!} walking before dawn has broken
+walk.{VN} until {b} {NEG} "stays awake:{3SG/2SG.PSTCONT}"
+{!} walking until you can't stay awake
 --ENDGLOSS--
 
-* I'm not totally sure on how to translate this, but I think this is the meaning.
+* I think this is correct?
 
 ----
 

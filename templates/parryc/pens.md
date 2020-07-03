@@ -44,10 +44,15 @@ A collection of various writing tools that I have used over the years.
   * ⭐️ New Chiffon Cream A6
   * Frontier Tough 70 B6
 * ⭐️ Yamamoto Ro-Biki Notebook 21cm x 9cm
-  * Uses New Chiffon Cream paper 
+  * Uses New Chiffon Cream paper
+* Yamamoto Fountain Pen Friendly Paper Collection
+  * 18 different papers, each react to ink in a different way
+  * A lot of fun to write on the different types of paper
 
 ## Inks 🎨
 
+* 3 Oysters My Color
+  * Fun to make new ink colors!
 * J. Herbin Cassis
 * ⭐️ J. Herbin Rouge Grenat
 * ⭐️ Kaweco Pearl Black

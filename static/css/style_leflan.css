@@ -261,6 +261,9 @@ Bracket Table
 
 .bracket_table .bracket_text {
   margin-left: -40px;
+  display: block;
+  /* should probably switch the 
+     Python code to make it a div */
 }
 
 /*************

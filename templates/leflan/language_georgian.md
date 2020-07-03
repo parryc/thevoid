@@ -15,6 +15,8 @@ Number | NOM    | POSS   | DAT
 2p.    | თქვენ  |თქვენი  | თქვენ
 3p.    | ისინი  |(ი)მითი | (ი)მათ
 
+The optional prefix ი- on the 3SG and 3PL pronouns often just means someone far away from the speaker. In educated or formal speech it more specifically implies someone who is a stranger to the speaker. By reflection, in colloquial speech, one may hear ა- as the prefix, to imply someone who is close at hand.
+
 ### Demonstrative
 
 &nbsp; | near | far
@@ -24,7 +26,7 @@ pl     | ესინი| ისინი
 
 <attn>ეგ is used when the object in question is in possession by the person being spoken to. Ex. `ეგ წიგნი:that book` implies the book is owned by the person being spoken to.</attn>
 
-In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>. 
+In non-NOM situations, `ეს` becomes `ამ` and `ის` becomes `იმ`. For example, <ex>_ეს ქალი → ამ ქალს_ ⧸ this woman (NOM) → this (DAT) woman</ex>.
 
 ### Interrogative and Relative
 
@@ -90,7 +92,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : from. For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
 მდე (ADV)
-: up to, till, until. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
+: up to, till, until, before. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
 : on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`. When used with a verb of motion, it indicates the purpose of the motion. For example, <ex>_პურზე მივდივარ_ ⧸ I'm going to get bread.</ex>
@@ -116,7 +118,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 შუა (DAT)
 : between.
 
-გან
+გან (GEN)
 : from how many parts, from, far from (when used with შორს).
 
 ვე
@@ -405,6 +407,12 @@ The first two screeves, thus the commonly used tenses like present and aorist ha
 
 სვამს has two different roots. In PRS and IMPF, it is სვამს. In FUT, AOR, and OPT, it is დალევ.
 
+#### უნდა - to want, to must
+
+The two usages of უნდა require separate forms when following the verbs. 
+
+When used as to mean _must_, any sequential verbs would be in the optative. When used to mean _want_, any sequential verbs are in the verbal noun form.
+
 #### Verbs of going
 
 Verbs of "going" are comprised of a directional prefix, the verb to be, and `დი`. Kiziria refers to these as 2nd conjugation verbs.
@@ -557,6 +565,9 @@ In what are you an expert? // i.e. what are you good at?
 
 სავსე (INS)
 : full of.
+
+შემდეგ (GEN)
+: after.
 
 შორის
 : among, between.
@@ -814,12 +825,21 @@ Georgian does not have an infinitve in the sense that many languages have it. Th
 
 **It is X to Y**
 
-The "It is X" clause is marked with `-ა` and the "to Y" clause is a verbal noun. For example, <ex>_ზამთარში ძნელია საწოლიდან ადგომა_ ⧸ It is difficult to get up from the bed in winter</ex>.
+The "It is X" clause is marked with `-ა` and the "to Y" clause is a verbal noun. For example, <ex>_ზამთარში ძნელია საწოლიდან ადგომა_ ⧸ It is difficult to get up from the bed in winter</ex>. Or, more literally, "Getting up from bed in the winter is difficult".
 
 **It is X as it is Y**
 
 The first clause is often in the present tense and the second clause is often a vebal noun. For example, <ex>_კითხულობთ როგორც იწერება_ ⧸
 It is read as it is written</ex>. Note that the first clause "it is read" is actually in 2PL.PRS.
+
+## Relative Clauses (რომელიც, სადაც, etc.)
+
+TODO
+
+ველზე იყო ლამაზი ქალი, რომელიც კრეფდა ყვავილებს და მღეროდა...
+In the field there was a beautiful woman, who was picking flowers and singing...
+
+Review: https://en.wikipedia.org/wiki/Relative_clause#Georgian
 
 # Adjectives
 
@@ -857,8 +877,6 @@ Tbilisi often has various colloquialisms not found elsewhere, as it is the large
 * <source id="kurtsikidze">_Elements of Georgian Grammar_, Shorena Kurtsikidze, 2nd edition, LINCOM Europa, 2014.</source>
 * <source id="taranov">_Georgian vocabulary for English speakers - 9000 words_, Andrey Taranov, T&P Books, 2013.</source>
 
-# Dictionary
-[le flaneur's georgian dictionary](georgian/dict)
 <!-- Abbreviations -->
 *[NOM]: Nominative
 *[ACC]: Accusative

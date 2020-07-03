@@ -11,20 +11,20 @@ A count of languages used throughout the books, even if non-primary. For example
 Abkhaz – 1
 Alemmanic – 3
 Arabic – 1
-Avar – 1
+Avar – 2
 Azeri – 3
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chaghatay – 1
 Chinuk Wawa – 1
 Chuvash – 1
-Classical Chinese – 1
+Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 112
+English – 113
 Finnish – 2
-French – 3
+French – 4
 Georgian – 10
 German – 6
 Halkomelem – 1
@@ -47,7 +47,8 @@ Lithuanian – 3
 Lushootseed – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 3
+Mandarin – 9
+Mandarin Sign Language – 1
 Mingrelian – 1
 Mongolian – 4
 Multiple Languages – 8
@@ -55,6 +56,7 @@ Ojibwe – 2
 Polish – 1
 Romanian – 1
 Russian – 12
+Salar – 1
 Scots – 5
 Scottish Gaelic – 4
 Somali – 1
@@ -70,6 +72,7 @@ Tuvan – 1
 Uyghur – 2
 Visayan – 1
 Welsh – 3
+Wu – 1
 Xhosa – 1
 Yakut – 4
 Yiddish – 1
@@ -77,12 +80,12 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 6
-Coursebook – 25
-Dictionary – 47
+Bilingual Texts – 7
+Coursebook – 26
+Dictionary – 48
 Grammar – 34
-Phrasebook – 11
-Study – 7
+Phrasebook – 12
+Study – 9
 Verb list – 3
 
 ## Languages
@@ -230,6 +233,11 @@ Dictionary of the West Greenland Eskimo Language
 
 English-Eskimo Eskimo-English Dictionary
 : Arthur Thibert, Revised edition, Canadian Reserach Centre for Anthropology, 1970. <tag>inuktitut→english</tag> <tag>dictionary</tag>
+
+#### Yup'ik
+
+Qanemcit Ammlertut: Many Stories To Tell
+: ed. Ann Fienup-Riordan, tr. Alice Rearden and Marie Meade, University of Alaska Press and Alaska Native Language Center, 2017. <tag>yup'ik→english</tag> <tag>bilingual reader</tag>
 
 ### Germanic
 
@@ -471,6 +479,9 @@ A Grammar of Yoruba
 Аварско-Русский Словарь ⧸ Avar-Russian Dictionary
 : Лев Иванович Жирков ⧸ Lev Ivanov Zhirkov, Москва Советская Энциклопедия ⧸ Moskow Soviet Encyclopedia, 1936. <tag>avar→russian</tag> <tag>dictionary</tag>
 
+Grammaire de la Langue Avar
+: Georges Charachidzé, Editions Jean-Favard, 1981. <tag>avar→french</tag> <tag>grammar</tag>
+
 #### Tsakhur
 
 Tsakhur
@@ -531,12 +542,20 @@ Lushootseed Texts
 Sḵwx̱wú7mesh Sníchim-Xwelíten Sníchim Sḵexwts ⧸ Squamish-English Dictionary
 : Squamish National Dictionary Project, University of Washington Press, 2011. <tag>squamish→english</tag> <tag>dictionary</tag>
 
+### Sign Language
+
+中国手语
+: 中国聋人协会, 华夏出版社, 2005. <tag>mandarin sign language→mandarin</tag> <tag>phrasebook</tag>
+
 ### Sino-Tibetan
 
 #### Classical Chinese
 
 A Student's Dictionary of Classical and Medieval Chinese
 : ed. Paul W. Kroll, Brill, 2015. <tag>classical chinese→english</tag> <tag>dictionary</tag>
+
+古代汉语读本
+: 南开大学中文系古代汉语教研室, 南开大学出版社, 修订本, 2000. <tag>classical chinese→mandarin</tag> <tag>bilingual texts</tag>
 
 #### Mandarin
 
@@ -545,6 +564,20 @@ Chinese Grammar Wiki Book – Beginner
 
 Chinese Grammar Wiki Book – Intermediate
 : ed. John Pasden, AllSet Learning, 2018. <tag>mandarin→english</tag> <tag>grammar</tag>
+
+北京土话
+: 齐如山, 辽宁教育出版社, 2007. <tag>mandarin→mandarin</tag> <tag>dictionary</tag>
+
+现代汉语：量词研究
+: 何杰, 北京语言大学出版社, 2008. <tag>mandarin→mandarin</tag> <tag>study</tag>
+
+Modern Mandarin Chinese Grammar: A Practical Guide
+: Claudia Ross and Jing-heng Sheng Ma, Routledge, 2006. <tag>mandarin→english</tag> <tag>grammar</tag>
+
+#### Wu
+
+牛康：上海话读本
+: 牛康博士, 东方出版中心, 2007. <tag>wu→mandarin</tag> <tag>coursebook</tag>
 
 ### Slavic
 
@@ -634,6 +667,11 @@ A Learner's Dictionary of Kazakh Idioms
 The Kazakh Phrasebook
 : Aijan Akhmetova, Off the Beaten Path, 2010. <tag>kazakh→english</tag> <tag>phrasebook</tag>
 
+#### Salar
+
+民族语言文化研究文集
+: 韩建业, 民族出版社, 2008. <tag>salar→mandarin</tag> <tag>study</tag>
+
 #### Tuvan
 
 Tuvan Manual
@@ -683,4 +721,4 @@ Hungarian Grammar
 : C. Arthur Ginever and Ilona Ginever, Kegan Paul, Trench, Trübner & Co., 1909. <tag>hungarian→english</tag> <tag>grammar</tag>
 
 Hungarian: An Essential Grammar
-: Carol H. Rounds, 2nd edition, Routledge, 2009. <tag>hungarian→english</tag> <tag>grammar</tag> 
+: Carol H. Rounds, 2nd edition, Routledge, 2009. <tag>hungarian→english</tag> <tag>grammar</tag>

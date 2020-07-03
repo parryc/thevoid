@@ -31,6 +31,8 @@ Some suffix's final consonant will change based on the front/back-ness of the vo
 
 If a suffix which begins with a vowel is added to a word that ends in `q` or `k`, that final consonant changes to `ğ` and `y`, respectively. For example, `uşaq-ın-dır` → `uşağındır:is the child's`.
 
+Note that _k_ may not change to _y_ if it is the end of the root of a verb. For example, in _Məndən əl çəkə bilərsən!_, we see it is _çəkə_, not _çəyə_, as one might expect.
+
 **Based on final consonant of a verbal root**
 
 If a verbal root ends in `t` and is followed by a suffix that begins with a vowel, the final consonant will change to `d`. Thus, `gedirəm:I'm going` (rather than `getirəm`). There are some exceptions to this, see EA, pg 86.
@@ -163,8 +165,14 @@ qeyri-
 
 # Postpositions
 
+arasında
+: between.
+
 başqa (ABL)
 : except for.
+
+birlikdə
+: together.
 
 əlindən
 : because of. Implies blame or fault.
@@ -176,13 +184,16 @@ görə (NOM or DAT)
 : for, due to (with DAT)
 
 kimi (GEN)
-: like, as soon as (with preceding verb in `+An`).
+: like, as soon as (with preceding verb in `+An`), till.
 
 haqqında
 : about.
 
-ilə
-: with (both comitative and instrumental). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
+ilə (GEN)
+: with (both comitative and instrumental), by way of (with modes of transportation, except feet, that is `piyada:by foot`). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
+
+olaraq
+: as a. The present participle of to be, "being".
 
 sarı
 : towards. Used in formal or poetic speech. Also means yellow.
@@ -190,7 +201,7 @@ sarı
 tək
 : like. May be seen attached to the word.<cite>[Simpson, p18](#simpson)</cite>
 
-üçün (GEN)
+üçün (NOM or GEN)
 : for, for the purpose of. Expresses intent when used with an infinitive.
 
 --EX--
@@ -206,6 +217,8 @@ O yazıçı Azərbaycan haqqında yazır.
 That author writes about Azerbaijan.
 Ailədə məndən başqa daha iki uşaq var.
 In the family, besides me, there are two more children.
+Avtobusla oğlan metroya neçə dəqiqəyə çatar?
+How long will it take the boy to get to the metro by bus? // lit. how many minutes
 --ENDEX--
 
 ## Location Postpositions (GEN/POSS)
@@ -225,7 +238,7 @@ bayır
 : outside.
 
 iç
-: inside.
+: inside, during (when used with time expressions).
 
 orta
 : in the middle of.
@@ -266,6 +279,8 @@ For example, for the verb `bilmək:to know`:
 2. bilIr → bilir
 3. bilirAm → bilirəm
 
+Colloquially, the personal suffix `-sInIz`, for the 2nd person plural is said as if it were `-sIz`, even if written in the full form. This is indicated below by parentheses around the `In` part, to indicate that it may be dropped.
+
 ## Tenses
 
 ### Present (PRS) -(y)Ir
@@ -302,7 +317,7 @@ Outside of the basic imparative form, there are 3 words that can come before an 
 * 2SG: `gəl`
 * 1PL, 2PL: `gəlin`
 
-`qoy` comes from `qoymaq:to let` and `gəl(in)` comes from `gəlmək:to come`.
+`qoy` comes from `qoymaq:to let` and `gəl(in)` comes from `gəlmək:to come`. These words should be placed at the beginning of hte clause. <ex>_Gəlin parka gedək_ ⧸ Let's go to the park</ex>.
 
 The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite> Additionally, the INDEFFUT for 2sg/2pl can be used for an even more polite form. One may also hear `+A` at the end of the sentence as a softener.
 
@@ -337,7 +352,7 @@ I promise I will write in the group chat.
 
 This form of the future has a sense of probability or possibility, but you're not totally sure it's going to happen. "The indefinite future tense can also express a regular or habitual activity. This meaning, however, is mostly reserved for proverbs and folk sayings."<cite>[EoA, 92](#eoa)</cite>
 
-It is often used to form polite questions or ask permission. When asking permission, the verb used is `olmaq:to happen` and the second verb is left in the infinitive. Otherwise, the verb is simply left in the INDEFFUT tense.
+It is often used to form polite questions or ask permission. When asking permission, often the verb used is `olmaq:to happen` and the second verb is left in the infinitive. Otherwise, the verb is simply left in the INDEFFUT tense.
 
 As might be expected, negating `olmaq:to happen` with an infinitive indicates that the action is impossible.
 
@@ -353,6 +368,8 @@ May I go to their house? // Asking permission with olmaq
 Siz mənə qələm verərsiniz?
 Can you give me a pen? // Polite question
 O kitabı almaq olmaz.
+Oxuya bilərsiz?
+Can you (please) sing? // Polite request
 It's impossible buy that book. // Impossibility
 Adam, kişi olar!
 Would a person become a man! // Often heard when asking someone to do a favor
@@ -519,7 +536,7 @@ The 3PL ending changes based on the subject in question:
 
 ### Past (PST)
 
-In the past, "to be" functions as a standalone verb, following the regular past tense with a root of `i-`.
+In the past, "to be" functions as a standalone verb, following the regular past tense with a root of `i-`. `idi`, the 3SG form, can be paired with `var:there is` to mean `there were`.
 
 &nbsp; |SG |PL
 -|-----|--
@@ -569,16 +586,17 @@ I must go.
 
 These suffixes, when appended to the root of the verb, change the meaning from the base meaning of the root. In some cases, additional meanings have become associated with the suffixed form. For example, `yazmaq:to write` → `yazdırmaq:to register`, though `yazdırmaq` could be interpreted as "to make someone write".
 
-dIr
+-dIr
 : to make someone do something, `içmək:to drink` → `içdirmək:to make someone drink`
 
-Iş
-: reciprical action, `döymək:to beat` → `döyüşmək:to fight`
 
-In
-: self-directed action, `döymək:to beat` → `döyünmək:to beat oneself (e.g. a heart)`
+-In
+: reflexive verbal suffix, affixed to stem. Compare `döyür:he is knocking (on the door)` versus `döyürünür:(my heart) is beating`.
 
-lA
+-Iş
+: reciprical verbal suffix, affixed to stem. Indicates that the action is done between the subjects of the sentence. May have idiomatic meanings, too. Thus, `döyürük:we are knocking` versus `döyürüşük:we are fighting`, that is "knocking/hitting each other".
+
+-lA
 : "verbs the noun", so to speak. Takes a noun and makes it into a related verb, such as, `soyuq:cold` → `soyuqlamaq:to be cold`.
 
 ### Passive Voice
@@ -704,7 +722,7 @@ The ablative case is marked on the one that would follow "than" in English. For 
 Possession can be expressed in multiple ways.
 
 ① LOC + `var`
-: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor<cite>[EoA, 47](#eoa)</cite> and is often temporary<cite>[EA, 80](#ea)</cite>
+: The possessor takes LOC and the verb is `var`. This type of possession emphasizes the possessor<cite>[EoA, 47](#eoa)</cite> and is often temporary<cite>[EA, 80](#ea)</cite> or transitory (e.g. a mailcarrier with mail).
 
 ② GEN + to be 
 : The possessor takes GEN and the verb is to be. The possessed object precedes the possessor.
@@ -803,6 +821,16 @@ There are two ways to express "in order to". We can see this using the example s
 
 ② Using [ki](#ki), place the "in order to" clause after _ki_ in the [Optative](#optative). <ex>_Sən idman etməlisən ki, güclü olasan._ ⧸ You must do sports, in order to be strong.</ex>
 
+## Emphatic Expressions
+
+In music or poetry, and occasionally in spoken language, emphatic "I/you/we/etc. are" statements can be made by attaching the copula to the personal pronoun, followed by the adjective. For example, <ex>_Sənsən qəşəng_ ⧸ YOU are pretty</ex>, as opposed to a neutral statement like _Sən qəşəngdir_. Other pronouns can be used, each taking their specific ending.
+
+## Direct and Indirect Speech (demək ki)
+
+Direct speech is offset with quotes and followed by a conjugated form of `demək:to say`. Thus, <ex>_Mən ona "sağa dön" dedim_ ⧸ I said to him "turn to the right".</ex>
+
+Compare with marking indirect speech, where `ki` is used: <ex>_Mən ona dedim ki, sağa dönsün_ ⧸ I said to him that he must turn to the right</ex>. This second example is a bit hard to translate, as _-sin_ here is the 3rd person imperative marker.
+
 # Adverbs
 
 Adverbs can often be formed by dropping the infinitive marker (`-mAQ`), adding `-A` and duplicating the word. For instance, `baxa-baxa:watchingly` (from `baxmaq:to watch`) or `gülə-gülə:laughingly` (from `gülmək:to laugh`).
@@ -896,7 +924,7 @@ Friday - cümə
 Saturday - şənbə
 Sunday - bazar
 
-In colloquial Azeri, though, starting with Monday, they are simply spoken as `birinci gün:1st day`, etc. If something takes place on a day, the phrase is treated as a [compound noun (see ⑤)](possession).
+In colloquial Azeri, though, starting with Monday, they are simply spoken as `birinci gün:1st day`, etc. If something takes place on a day, the phrase is treated as a [compound noun (see ⑤)](possession). This means that for forms already said as a compound noun: bazar ertəsi, çərşənbə axşamı, and cümə axşamı, no change is needed. For the other days, the day of the week will be followed by `günü`. Thus, `cümə günü:on Friday`.
 
 Months are listed below. 
 
@@ -919,7 +947,7 @@ The year in which something occurs is expressed as an ordinal number. The month 
 
 Similar to [Georgian](/r/learns/georgian#time-expressions), the first hour of the day is 12. Thus, all time expressions are one off from English. That is, 12:30 would be "1's thirty", or _birin yarısı_. Other minutes use either `işləyib:past` or `qalıb:til`. These are paired with the hour in DAT. No additional verb is needed, as _işleyib_ and _qalıb_ are verbal forms. For example, <ex>_Birə beş dəqiqə işleyib_ ⧸ It is 12:05</ex>.
 
-Since `saat:hour,o'clock` is a versatile word, be careful with ordering when paird with `neçə:how many`. Thus, `saat neçədir:what time is it?` versus `neçə saat:how many hours (is it)?`
+Since `saat:hour,o'clock` is a versatile word, be careful with ordering when paird with `neçə:how many`. Thus, `saat neçədir:what time is it?` versus `neçə saat:how many hours (is it)?`. When in the form `saatliq`, it means "for x number of hours", thus `2 saatliq:for two hours`.
 
 --EX--
 Mən Bakıya 2003-cü ildə getdim.
@@ -927,6 +955,22 @@ I went to Baku in 2003. // lit. the 2003rd year.
 Doqquza iyirmi beş dəqiqə qalıb.
 It is 8:35.
 --ENDEX--
+
+# Miscellaneous
+
+## Pronunciation Notes
+
+It words where _y_ becomes _ğ_, but is shortly followed by _q_, such as in `alacağıq:we will get`, the _ğ_ is pronounched as _y_. It is still written with _ğ_ though!
+
+Most words are stressed on the last syllable, but some words are not. For example, `sàbah:tomorrow`, versus `sabàh:morning`, where the accent indicates the stressed syllable. 
+
+Make sure to pay attention to this, as well as when vowels are lengthened in speech (which is unmarked in writing).
+
+### Dialetical Notes
+
+Baku
+: ilə may become _-nə_, such as `bizimnə:with us`.
+
 
 # Bibliography
 
@@ -954,6 +998,7 @@ It is 8:35.
 *[FUT]: Future
 *[DEFFUT]: Definite Future
 *[INDEFFUT]: Indefinite Future
+*[FUTPST]: Future-in-the-Past
 *[DEFFUTPST]: Definite Future-in-the-Past
 *[INDEFFUTPST]: Indefinite Future-in-the-Past
 *[PFT]: Present Perfect
