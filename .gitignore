@@ -6,6 +6,7 @@ templates/words
 indexdir/
 static/images/*/*
 templates/topuria
+avar_rocks
 
 # Webassets cache
 .webassets-cache/

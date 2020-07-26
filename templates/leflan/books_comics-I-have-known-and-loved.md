@@ -6,6 +6,7 @@
 * _Low_
 * _Lady Mechanika_
 * [_Stand Still, Stay Silent_](http://sssscomic.com/)
+* _Wicked Things_
 
 # Finished
 * _Y: The Last Man_
@@ -28,6 +29,7 @@
 * _Black Science_
 * _The Wicked and The Divine_
 * _Giant Days_
+* _Steeple_
 
 # Hiatus or Canceled
 * _Sun Bakery_ (Hiatus?)

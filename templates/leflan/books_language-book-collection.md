@@ -12,7 +12,7 @@ Abkhaz – 1
 Alemmanic – 3
 Arabic – 1
 Avar – 2
-Azeri – 3
+Azeri – 4
 Bosnian-Croatian-Serbian (BCS) – 2
 Cebuano – 1
 Chaghatay – 1
@@ -22,7 +22,7 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 113
+English – 115
 Finnish – 2
 French – 4
 Georgian – 10
@@ -42,6 +42,7 @@ Kazakh – 6
 Korean – 1
 K'iche' – 4
 Ladino – 1
+Latin – 1
 Laz – 1
 Lithuanian – 3
 Lushootseed – 1
@@ -81,9 +82,9 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 7
-Coursebook – 26
+Coursebook – 27
 Dictionary – 48
-Grammar – 34
+Grammar – 35
 Phrasebook – 12
 Study – 9
 Verb list – 3
@@ -520,6 +521,11 @@ Gombo Zhebes: The Dictionary of Creole Proverbs
 Diccionario Básico Ladino-Español
 : Pascual Pascual Recuero, 2nd Edition, Riopiedras Ediciones, 1977. <tag>ladino→spanish</tag> <tag>dictionary</tag>
 
+#### Latin
+
+Latin for Pharmacists
+: George Hower and John Grover Beard, The Maple Press, 1916. <tag>latin→english</tag> <tag>coursebook</tag>
+
 #### Romanian
 
 Colloquial Rumanian
@@ -636,6 +642,9 @@ The Turkish Language of Soviet Azerbaijan
 
 İngiliscə-Azərbaycanca İzahlı Kompüter Terminləri Lüğəti
 : Rafiq Məmmədli, mammadli.az, 3rd edition, 2018. <tag>english→azeri</tag> <tag>dictionary</tag>
+
+Aserbaidschanisch Kurzgrammatik
+: Angelika Landmann, Harrassowitz Verlag, 2013. <tag>azeri→english</tag> <tag>grammar</tag>
 
 #### Chaghatay
 

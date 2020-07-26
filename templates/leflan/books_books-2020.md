@@ -16,3 +16,6 @@
 * _A Dead Djinn in Cairo_ - P. Djèlí Clark
 * _The Privilege of the Happy Ending_ - Kij Johnson
 * _Contemporary Georgian Fiction_ - ed. Elizabeth Heighway
+* _ვანო და ნიკო_ - ერლომ ახვლედიანი
+* _Vano and Niko and Other Stories_ - Erlom Akhvlediani
+* _New Georgian Book Design, 1920s-30s_ - Pavel Chepyzhov

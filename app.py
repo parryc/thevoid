@@ -40,6 +40,12 @@ def not_found(error):
   # print request.host
   return render_template('404.html'), 404
 
+@app.after_request
+def add_header(response):
+  # set cache to 2 weeks
+  response.cache_control.max_age = 1209600
+  return response
+
 # Define static asset bundles to be minimized and deployed
 bundles = {
   'parryc_css': Bundle('css/marx.min.css'
@@ -127,3 +133,5 @@ from mod_corbin.controllers import mod_corbin
 app.register_blueprint(mod_corbin)
 from mod_khachapuri.controllers import mod_khachapuri
 app.register_blueprint(mod_khachapuri)
+from avar_rocks.flask.controllers import mod_avar
+app.register_blueprint(mod_avar)

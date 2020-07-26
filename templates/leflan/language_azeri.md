@@ -81,7 +81,7 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 : locative. Indicates location of an object or action, as well as time phrases related to seasons.
 
 -dAn
-: ablative. Indicates motion away from or out of an object or place. It has some additional uses as well. It can be used in comparative sentences and to mean "due to" or "because of". For example, <ex>_Onlar parka yağışdan getmədilər_ ⧸ We didn't go to the park because of the rain</ex>. It can also be used to indicate part of a whole, for example, <ex>_Bu köynəklərdən birni alıram_ ⧸ I am buying of these shorts</ex>.
+: ablative. Indicates motion away from or out of an object or place. It has some additional uses as well. It can be used in comparative sentences and to mean "due to" or "because of". For example, <ex>_Onlar parka yağışdan getmədilər_ ⧸ We didn't go to the park because of the rain</ex>. It can also be used to indicate part of a whole, for example, <ex>_Bu köynəklərdən birni alıram_ ⧸ I am buying one of these shorts</ex>.
 
 # Suffixes
 
@@ -119,6 +119,9 @@ Azeri is an exclusively suffixing language when producing new words.
 
 -mAQ üçün (appended to a verb)
 : in order to do the verb.
+
+-mAzdAn əvvəl (appended to a verb)
+: before verb-ing, ex. `evə girməzdən əvvəl:before entering the house`.
 
 -mI
 : question particle, not required, comes at the end of the sentence.
@@ -397,6 +400,8 @@ If you had studied, you would be smart.
 #### Indefinite Future-in-the-Past (INDEFFUTPST) -ArdI
 
 <attn>This follows the INDEFFUT for the negative, in that the `r` becomes `z`. Thus, the negative form is `-mAzdI`.</attn>
+
+Could be thought of as equivalent to "would have done" in English.
 
 &nbsp; |SG |PL
 -|-----|--
@@ -699,6 +704,10 @@ The second is with _olar_ for positive statements and _olmas_ for negative state
 
 Similar to English's conjunction "that", _ki_ conjoins two sentences. It is required and is always followed by a comma. For example, <ex>_Mən sənə dedim ki, onlar evdə deyil_ ⧸ I told you that they are not home</ex>.
 
+## Indicating Suprise (ki)
+
+As a sentence final particle in a question, _ki_ adds a sense surprise or disbelief. It is loosely equivalent to staring sentences in English with "doesn't/didn't/don't", as in "didn't you do that already?"
+
 ## Comparison
 
 There are a few ways to compare things in Azeri.
@@ -910,7 +919,7 @@ Ordinal number are formed with the suffix `-(I)ncI`. For numbers above 10, such 
 9th - doqquzuncu
 10th - onuncu
 
-# Time
+# Time and Dates
 
 ## Time Vocabulary
 
@@ -940,6 +949,8 @@ September - sentyabr
 October - oktyaber
 November - noyabr
 December - dekabr
+
+Full dates, such as June 11th, are written withe POSS/GEN construction. The month takes POSS and the number (non-ordinal) is marked with the GEN. Thus, June 11th is _iyunun on biri_.
 
 ## Time Expressions
 

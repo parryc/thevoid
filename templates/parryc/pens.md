@@ -1,6 +1,6 @@
 # ✒️🗒🎨
 
-A collection of various writing tools that I have used over the years.
+A collection of various writing tools that I have used over the years. ⭐️ means I have particularly enjoyed it.
 
 ## Pens ✒️
 
@@ -24,6 +24,8 @@ A collection of various writing tools that I have used over the years.
 
 ## Paper 🗒
 
+* Kleid 中村印刷所×kleid 2mm flat notes A5
+    * Uses OK Fools paper
 * Leuchtturm1917 Notebook Medium
 * Maruai The Basic Mini
 * Maruman Mnemosyne N192A Memo Pad B7
@@ -40,26 +42,29 @@ A collection of various writing tools that I have used over the years.
 * Tomoe River 52 gsm Kanso Sasshi Booklet
 * Tsubame notebook B5
 * Yamamoto Paper Tasting Egg Shell
-  * Cosmo Air Light B7
-  * ⭐️ New Chiffon Cream A6
-  * Frontier Tough 70 B6
+    * Cosmo Air Light B7
+    * ⭐️ New Chiffon Cream A6
+    * Frontier Tough 70 B6
 * ⭐️ Yamamoto Ro-Biki Notebook 21cm x 9cm
-  * Uses New Chiffon Cream paper
-* Yamamoto Fountain Pen Friendly Paper Collection
-  * 18 different papers, each react to ink in a different way
-  * A lot of fun to write on the different types of paper
+    * Uses New Chiffon Cream paper
+* Yamamoto Fountain Pen Friendly Paper Collection A4
+    * 18 different papers, each react to ink in a different way
+    * A lot of fun to write on the different types of paper
 
 ## Inks 🎨
 
 * 3 Oysters My Color
-  * Fun to make new ink colors!
+    * Fun to make new ink colors!
 * J. Herbin Cassis
-* ⭐️ J. Herbin Rouge Grenat
+* J. Herbin Rouge Grenat
 * ⭐️ Kaweco Pearl Black
 * Kaweco Ruby Red
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Pineapple
+* ⭐️ Lennon Tool Bar Sun Moon Lake Ruby Black
+* Lennon Tool Bar Tieguanyin
 * Lennon Tool Bar Verdant
+* ⭐️ Lennon Tool Bar Wenshan Pouchong
 * Monteverde Midnight Black
 * Noodler's Polar Green
 * Noodler's Sultan Rose

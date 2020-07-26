@@ -83,13 +83,16 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : plural. If the word ends in ა or ი, the final vowel is dropped, otherwise it is preserved. Plural forms always end in `-ი` in NOM, as in the following examples. For example, `გაკვეთილი:lesson` → `გაკვეთილები:lessons` and `სამუშაო:workplace` → `სამუშაოები:workplaces`
 
 თან
-: near to, next to, together with (when used with `ერთად:together`), close to (when used with ახლოს), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
+: near to, next to, together with (when used with `ერთად:together`), "chez".<cite>[Vogt §1.98](#vogt)</cite> When used with a possessive pronoun, such as _ჩემი:mine_, it indicates towards the location one is at. For example, <ex>_სახლი ძალიან ცივია! მე მძინავს ჩემ ძაღლთან ერთად._ ⧸ The house is cold! I am sleeping (together) with my dog.</ex> or <ex>_ჩემთან მოდის._ ⧸ (S/he) is coming to me (e.g. my house, chez moi).</ex>
+
+თან ახლოს
+: near/close to a thing, when near to a person, use "გან ახლოს"
 
 თვის (GEN)
 : for, around/about, by. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`. When used with time phrases, it indicates "by TIME", ex. `კვირისთვის:by Sunday`.
 
 დან (INST)
-: from. For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
+: from (a location, for a direct use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
 მდე (ADV)
 : up to, till, until, before. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
@@ -119,7 +122,13 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : between.
 
 გან (GEN)
-: from how many parts, from, far from (when used with შორს).
+: from how many parts, from (a direction, for location, use -დან).
+
+გან შორს (GEN)
+: far (away) from.
+
+გან ახლოს (GEN)
+: near/close to a person, when close to a thing use "-თან ახლოს".
 
 ვე
 : the same<cite>[Vogt §2.199](#vogt)</cite>, see also the section on cardinal numbers, below.
@@ -657,6 +666,8 @@ Seasons are:
 * Spring – ზაფხული
 * Summer – გაზაფხული
 * Fall – შემოდგომა
+
+<attn>To sy "in" a season, summer and fall use _-ზე_, while winter and spring use _-ში_.</attn>
 
 Months are:
 
