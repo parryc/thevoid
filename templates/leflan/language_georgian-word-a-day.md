@@ -14,7 +14,36 @@ So, starting at page one, on July 9th, here are my selections for the year.
 8. ამოშანთვა _vn_ (<ამოშანთავს) torture with hot iron
 9. ანგალა (-ას) _n_ **1** boned shoulder (_of meat_); **2** goldsmith's hammer; **3** _zoo_ eel (_Anguilla a._)
 10. არახჩინიანი _a_ wearing an under-hat
-11. ასონასი _n Gr_ snap (_card game_)
+11. ასონასი _n_ _Gr_ snap (_card game_)
 12. აუქნელი _np_ not cut into pieces; whole (_piece of meat_)
+13. აღა-დედაკაცი _n_ _Gr_ mannish woman
+14. აღტვირთვა _vn_ _‡_ **1** loading, saddling (_asses_); **2** being with child
+15. აჩხორვა _vn_ (<აჩხორავს) piling into a big untidy heap
+16. აჭოტილა _n_ _a_ _Gr_ tall; beanstalk of a man
+17. ბათურა (-ას) _ა_ _Gu_ plump (_child_); name for fat dog
+18. ბერმუხა _n_ **1** old oak tree; **2** _Ps_ holy oak; **3** venerable old gentleman
+19. ბოჯლიანი _a_ _Kk_ covered in bushes
+20. ბუცუცი _n_ _Saba_ drooping (of) eyelid
+21. გაამკვეთრებს (გაამკვეთრა, გაუმკვეთრებია) _lg_ will make sth (_aspirated consonant_) ejective
+22. გააცუებს (გააცუა, გაუცუებია) _vt1_ © will fart silently
+23. გადააგირავებს (გადააგირავა, გადაუგირავებია) will pawn sth again, will remortgage sth
+24. გადაეჭირება (გადაეჭირა, გადასჭერია) _vi2_ (<გადაუჭერს) **1** (_garment_) will fit sb tightly; **2** will stretch out before sb's sth (_eyes_); sb's sth (_brow_) will stretch
+25. გადამღერება _vn_ triteness; hack-work; clichéd writing
+26. გადაღუპავს (გადაღუპა, გადაუღუპავს) will banish sb (_somewhere grim_)
+27. გადმოებნევა (გადმოებნა, გადმოჰბნევია) _vi2_ (<გადმოაბნევს) will be spilt (unwittingly) by/on sb
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.
+40.
+41. 08/20
 
-Most recent: 07-21, 110
+Most recent: 07-31, pg 200

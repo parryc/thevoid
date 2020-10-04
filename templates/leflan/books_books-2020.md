@@ -19,3 +19,8 @@
 * _ვანო და ნიკო_ - ერლომ ახვლედიანი
 * _Vano and Niko and Other Stories_ - Erlom Akhvlediani
 * _New Georgian Book Design, 1920s-30s_ - Pavel Chepyzhov
+* _Dark Emu_ - Bruce Pascoe
+* _The Lost Future of Pepperharrow_ - Natasha Pulley
+* _Qanemicit Amllerutut, Many Stories to Tell_ - ed. Ann Fienup-Riordan, trans. Alice Rearden and Marie Meade
+* _Lost Japan_ - Alex Kerr
+* _Hummus and Homicide_ - Tina Kashian

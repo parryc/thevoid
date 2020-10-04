@@ -22,7 +22,7 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 115
+English – 116
 Finnish – 2
 French – 4
 Georgian – 10
@@ -51,7 +51,7 @@ Manchu – 1
 Mandarin – 9
 Mandarin Sign Language – 1
 Mingrelian – 1
-Mongolian – 4
+Mongolian – 6
 Multiple Languages – 8
 Ojibwe – 2
 Polish – 1
@@ -61,7 +61,7 @@ Salar – 1
 Scots – 5
 Scottish Gaelic – 4
 Somali – 1
-Spanish – 2
+Spanish – 4
 Squamish – 1
 Svan – 1
 Tagalog – 5
@@ -85,7 +85,7 @@ Bilingual Texts – 7
 Coursebook – 27
 Dictionary – 48
 Grammar – 35
-Phrasebook – 12
+Phrasebook – 13
 Study – 9
 Verb list – 3
 
@@ -530,6 +530,11 @@ Latin for Pharmacists
 
 Colloquial Rumanian
 : Grigore Nandris, 2nd Edition, Routledge, 1953. <tag>romanian→english</tag> <tag>coursebook</tag>
+
+#### Spanish
+
+Latin American Spanish Phrasebook
+: ed. Sally Steward, 3rd Edition, Lonely Planet, 1998. <tag>spanish→english</tag> <tag>phrasebook</tag>
 
 ### Salishan
 

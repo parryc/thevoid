@@ -193,7 +193,7 @@ haqqında
 : about.
 
 ilə (GEN)
-: with (both comitative and instrumental), by way of (with modes of transportation, except feet, that is `piyada:by foot`). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-lA`. This is most often used with people. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
+: with (both comitative and instrumental), by way of (with modes of transportation, except feet, that is `piyada:by foot`). Occasionally, when preceded by a word ending in a consonant, it will become the suffix `-(y)lA`. This is most often used with people. The _y_ appears with words ending in a vowel. For objects or "who", the LOC suffic `-dA` is used. Colloquially, this is often `-nAn`.
 
 olaraq
 : as a. The present participle of to be, "being".
@@ -306,6 +306,8 @@ The 2PL form is most often -sIz is spoken Azeri.
 2|-n   | -(nI)z
 3|∅    | -(lAr)
 
+In some poetic scenarios, e.g. songs, one may hear `x-mAz oldI` to mean the same thing, where _x_ is the verb in question. For example, `sən gəlməz oldun:you didn't come` is equivalent to `sən gəlmədin:you didn't come`, though the former has a more poetic air to it.
+
 ### Imperative (IMP) -∅
 
 &nbsp; |SG |PL
@@ -324,6 +326,8 @@ Outside of the basic imparative form, there are 3 words that can come before an 
 
 The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite> Additionally, the INDEFFUT for 2sg/2pl can be used for an even more polite form. One may also hear `+A` at the end of the sentence as a softener.
 
+In Baku, the suffix _-gInAn_ is often attached to the root in colloquial speech, especially with monosyllabic roots.
+
 ### Future 
 
 Azeri differentiates between two types of future tenses: defnitive and indefinite. The definite future tense "indicates that the action in question definitely will (or will not) occur."<cite>[EoA, 88](#eoa)</cite> Whereas the indefinite future tense is more ambiguous as to the likeliness of occurance.
@@ -334,15 +338,13 @@ Azeri differentiates between two types of future tenses: defnitive and indefinit
 
 An example of the consonant assimilation can be seen in "I will go" and "I will read": `gət-` → `gədəcək-` → `gədəcəyəm`, `oxu-` → `oxuyacaq-` → `oxuyacağam`.
 
-In colloquial speech, the `AQ` ending is dropped and instead the suffix is just `-Ac`.
-
 &nbsp;  |SG |PL
 -|------|--
 1|-Am   | -IQ
 2|-sAn  | -s(In)Iz
 3|-(dIr)| -(lAr)
 
-In 1SG, the suffix is often reduced to `-Ac` in casual speech.
+In 1SG, the suffix is often reduced to `-Ac` in casual speech. In Baku, the `c` in this suffix is often pronounced as `ciy`, thus, _göndərəciyəm_ vs. the more standard colloquial version of _göndərəcəm_.
 
 --EX--
 Mən söz verirəm ki qrupuda yazacam.

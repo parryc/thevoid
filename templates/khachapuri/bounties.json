@@ -1,6 +1,21 @@
 {
   "bounties": [
     {
+      "location": "Georgian Bakery and Cafe, Philadelphia",
+      "country": "USA",
+      "posted": "2020-10"
+    },
+    {
+      "location": "Georgian Bread, Philadelphia",
+      "country": "USA",
+      "posted": "2020-10"
+    },
+    {
+      "location": "Bevri, Palo Alto",
+      "country": "USA",
+      "posted": "2020-10"
+    },
+    {
       "location": "Chacha Dacha, Pyatigorsk",
       "country": "Russia",
       "posted": "2020-05"

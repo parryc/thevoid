@@ -178,8 +178,8 @@ DAT, ACC, POSS ს
 ERG მ(ა)
 : the ergative case, this is used with some verbs in the AOR case and only appears as the subject of a clause. If the subject is ERG, then the object is NOM. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ. Kurtsikidze refers to this as the narrative case.
 
-INS ით or თი
-: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. It is also used with cardinal directions (north, south etc.) to indicate location, such as "in the north". Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INS can also experience syncope – see the note under GEN.
+INST ით or თი
+: the instrumental case, used to mark a noun that is used to do a verb (ex. I rode the bus-`თ`, because the bus is the "instrument" used to ride) or by what something is done (`გეგმით:according to the plan`). When used with time expressions, it indicates length of time, for example <ex>_ლონდონში ერთი წლით მოვდივარ_ ⧸ I am going to London for a year</ex>. It is also used with cardinal directions (north, south etc.) to indicate location, such as "in the north". Nouns ending in ი, ა, or ე lose the ending vowel and add ით. All other endings add თი (`მეტროთი:by metro`). INST can also experience syncope – see the note under GEN.
 
 ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
@@ -572,7 +572,7 @@ In what are you an expert? // i.e. what are you good at?
 მიერ (GEN)
 : by.
 
-სავსე (INS)
+სავსე (INST)
 : full of.
 
 შემდეგ (GEN)
@@ -688,7 +688,7 @@ Dates are given in the form "day-month-year". Thus, `25 აპრილი ო�
 
 ## Time Expressions
 
-General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INS, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
+General time expressions (in the morning, in the evening, on Monday, etc.) are marked with the DAT or INST, thus `morning:დილა` → `in the morning:დილას`. For example, <ex>_დილას არის მზე._ ⧸ It is sunny in the morning.</ex> When used to describe relative time (ex. AM  or PM), the expression is in GEN. For example, <ex>_დილის ცხრა საათია_ ⧸ It is 9am.</ex>
 
 When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
 
@@ -845,12 +845,33 @@ It is read as it is written</ex>. Note that the first clause "it is read" is act
 
 ## Relative Clauses (რომელიც, სადაც, etc.)
 
-TODO
+Relative clauses are clauses such as "who was playing the guitar" in the larger sentence "The man who was playing the guitar was my father". That is, another sentence inside of a sentence, which describes some aspect of the larger sentence.
 
-ველზე იყო ლამაზი ქალი, რომელიც კრეფდა ყვავილებს და მღეროდა...
-In the field there was a beautiful woman, who was picking flowers and singing...
+These types of clauses can be a bit tricky in Georgian because the clause marker, such as `რომელიც:which`, must be declined. For example, in our example sentence, since "man" would be in the ergative case (since it is in the past), so must _რომელიც_. Not every case, however, is represented: both genitive and vocative declensions are rare, if not totally unused.
 
-Review: https://en.wikipedia.org/wiki/Relative_clause#Georgian
+One way to help create more complex sentences with relative clauses is to think of two sentences and then use a clause marker to join them. Using our prior example, it might look like this:
+
+1. The man was my father.
+2. The man was playing the guitar.
+
+"The man" is the overlap between the two sentences, so we can modify "the man" in sentence 2 with the content of sentence 1. Thus, "The man, who was my father (1), was playing the guitar (2)". The same strategy applies to Georgian sentences.
+
+Here is an example from ვანო და ნიკო by ერლომ ახვლედიანი:
+
+1. ველზე იყო ლამაზი ქალი. In the field was a beautiful woman.
+2. ლამაზი ქალი კრეფდა ყვავილებს და მღეროდა... A beautiful woman was picking flowers and singing...
+
+`ლამაზი ქალი:beautiful woman` is the overlapping phrase and is in NOM in both sentences, so we can use _რომელიც_ without declining it to get ველზე იყო ლამაზი ქალი, რომელიც კრეფდა ყვავილებს და მღეროდა... "_In the field there was a beautiful woman, who was picking flowers and singing..._". 
+
+Here are some example declensions and sentences for `რომელიც:which` (GEN and VOC not given).
+
+Case | Word | Example
+-----|------|---------
+NOM  | რომელიც  | ადამიანი რომელიც წერილს წერს ჩემი ძმაა. _The person who is writing the letter is my brother._
+ERG  | რომელმაც | ადამიანმა რომელმაც წერილი დაწერა ჩემი ძმა იყო. _The person who wrote the letter was my brother._
+DAT  | რომელსაც | 10 წიგნი, რომელსაც ცნობილი ადამიანები გვირჩევენ. _10 books which famous people recommend to us._
+INST | რომლითაც | მე მივდივარ ავტობუსით რომლითაც გზა არის უფრო დიდი. _I am taking the bus, by which the road is larger._
+ADV  | რომლადაც | ჩემს ძაღლს ჰყავს პატრონი, რომლადაც ყოფნა რთულია. _I have dog which is hard to be an owner of._
 
 # Adjectives
 
@@ -863,7 +884,7 @@ Adjectives can be divided between consonant-final and vowel-final adjectives. Vo
 
 ## Comparison
 
-More X is expressed with `უფრო` and most X is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმეა, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>. Make sure to include `-ა` at the end of the first clause, preceding `ვიდრე`.
+The comparitive degree (e.g. more/less) is expressed with `უფრო` and the superlative (e.g. most/least) is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმეა, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>. Make sure to include `-ა` at the end of the first clause, preceding `ვიდრე`.
 
 Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
 
@@ -893,7 +914,7 @@ Tbilisi often has various colloquialisms not found elsewhere, as it is the large
 *[ACC]: Accusative
 *[DAT]: Dative
 *[GEN]: Genitive
-*[INS]: Instrumental
+*[INST]: Instrumental
 *[ERG]: Ergative
 *[LOC]: Locative
 *[VOC]: Vocative

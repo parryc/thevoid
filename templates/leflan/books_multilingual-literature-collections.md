@@ -18,6 +18,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * Icelandic – 2
 * Irish – 1
 * Japanese – 1
+* Kabardian – 1
 * Ladino – 1
 * Lithuanian – 1
 * Multiple languages – 1
@@ -97,6 +98,9 @@ _Ævintýri Lísu í Undralandi_
 
 _Alice in a World of Wonderlands: The Translations of Lewis Carroll's Masterpiece_
 : edited by Jon Lindseth and Alan Tannenbaum. Published by Oak Knoll Press, 2015. <tag>multiple languages</tag>
+
+_Адисэ ТелъыджэщӀым зэрышыӀар_
+: translated by Murat Temyr and Murat Brat. Published by Evertype, 2020. <tag>kabardian</tag>
 
 ## Sabriel by Garth Nix
 

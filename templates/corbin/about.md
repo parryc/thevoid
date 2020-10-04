@@ -1,3 +1,3 @@
-Corbin Dewitt lives and writes in Minneapolis. Once, a stranger on the internet called her work "brilliant! and eerie!" 
+corbin dewitt lives and writes in minneapolis. once, a stranger on the internet called her work "brilliant! and eerie!" 
 
-She tweets at <a href="https://twitter.com/corbin_dewitt" target="_blank">@corbin_dewitt</a> and instagrams flowers at <a href="https://instagram.com/corbindewitt" target="_blank">@corbindewitt</a>. You can email her at <a href="mailto:c@corbindewitt.com">c@corbindewitt.com</a>. 
+she tweets at <a href="https://twitter.com/corbin_dewitt" target="_blank">@corbin_dewitt</a> and instagrams flowers at <a href="https://instagram.com/corbindewitt" target="_blank">@corbindewitt</a>. you can email her at <a href="mailto:c@corbindewitt.com">c@corbindewitt.com</a>. 
