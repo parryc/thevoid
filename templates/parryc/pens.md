@@ -5,6 +5,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ## Pens ✒️
 
 * ⭐️ Kaweco Liliput (fine, fireblue)
+* Kuretake No. 40 (brush, black)
 * Lamy Joy (1.5mm italic, black and red)
 * Lamy Safari (1.5mm italic, lime green)
 * TWSBI ECO (fine, clear)
@@ -55,23 +56,51 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 * 3 Oysters My Color
     * Fun to make new ink colors!
-* J. Herbin Cassis
-* J. Herbin Rouge Grenat
+
+### Blacks
+
 * ⭐️ Kaweco Pearl Black
-* Kaweco Ruby Red
-* Lennon Tool Bar Celastrina Sugitanii Shirozui
-* Lennon Tool Bar Pineapple
+* Kyo no Oto Nurebairo
+* Kuretake Black
 * ⭐️ Lennon Tool Bar Sun Moon Lake Ruby Black
-* Lennon Tool Bar Tieguanyin
-* Lennon Tool Bar Verdant
 * ⭐️ Lennon Tool Bar Wenshan Pouchong
 * Monteverde Midnight Black
-* Noodler's Polar Green
-* Noodler's Sultan Rose
-* Pilot Brown
 * Pilot Black
+* Speedball Super Black
+
+### Reds
+
+* J. Herbin Cassis
+* J. Herbin Rouge Grenat
+* Kaweco Ruby Red
+* Kyo no Oto Adzukiiro
+* Lennon Tool Bar Watermelon
+* Noodler's Sultan Rose
 * Pilot Red
+
+### Blues
+
+* Lennon Tool Bar Celastrina Sugitanii Shirozui
+* Lennon Tool Bar Pacific Ocean
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
+
+### Greens
+
+* Lennon Tool Bar Fireflies
+* Lennon Tool Bar Tieguanyin
+* Lennon Tool Bar Verdant
+* Noodler's Polar Green
+
+### Browns
+
+* Kyo no Oto Ochiguriiro
+* Pilot Brown
+
+### Yellows
+
+* Lennon Tool Bar Pineapple
+
+### Purples
+
 * Pilot Iroshizuku Yama-Budo
-* Speedball Super Black

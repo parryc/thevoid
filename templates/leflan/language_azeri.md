@@ -109,7 +109,7 @@ Azeri is an exclusively suffixing language when producing new words.
 : with. See also "ilə" in postpositions.
 
 -lAr
-: plural, only used for animate things, plus some animals.
+: plural, only used for animate things, plus some animals. One exception is when used with number. This is most often heard when describing bus routes, e.g. `85lər:buses on route 85`.
 
 -lI
 : adjectival suffix meaning "possessing X" or "characterized by X". This is used to create adjectives of nationality or birthplace, ex. `bakılı:one from Baku`.
@@ -589,6 +589,8 @@ I must go.
 2|-AsAn | -AsIz
 3|-sIn  | -sInlAr
 
+One may also see forms that have two verbs, one in PFT and one declined like the above, such as _Gərək baxıb deyim_. Compare this form with the expected form _Gərək baxım_. In the first form, two actions are required: 1st one will see (_baxmaq_) and then they will say (_demək_). It could be translated as "I have to see before I say." The 2nd form, without the PFT form, could be translated as "I should see", without out any additional actions.
+
 ## Verbal Suffixes
 
 These suffixes, when appended to the root of the verb, change the meaning from the base meaning of the root. In some cases, additional meanings have become associated with the suffixed form. For example, `yazmaq:to write` → `yazdırmaq:to register`, though `yazdırmaq` could be interpreted as "to make someone write".
@@ -858,6 +860,8 @@ Non-future here means past or present. These participles are often used as relat
 
 Since the suffix ends in `Q`, there will be consonant changes. For example, `oxu-duğ-ım:that which I am reading`. Or a more full example, <ex>_oxuduğun məktub_ ⧸ the letter which you read/are reading</ex>.
 
+This participle can be negated with `-mA`, placed before the suffix. Such as, `baxmadığımız film:the film which we didn't see`.
+
 --EX--
 Nazimin oxuduğu kitab maraqlı idi.
 The book that Nazim read was interesting.
@@ -868,6 +872,8 @@ The film that I couldn't see yesterday, I watched today.
 ## Non-Past (-An)
 
 It is formed by appending `-An` to the verb root and corresponds roughly with the English gerund, ex. "to write" → "writing". Thus, `yazmaq:to write` → `yazan:(who is) writing`.  "The head noun in a participle phrase comes at the end and all words modifying this noun procede it."<cite>[EA, 246](#ea)</cite> Compare `gələn qonaq:the guest who is coming` and `qonaq gələn:she is coming as a guest` (`qonaq gəlmək:to come as a guest`). Sometimes the head noun is omitted and the participle functions as the noun. For example, <ex>_mənə məktub yazanı tanımıram_ ⧸ I don't know (the person) who wrote the letter to me</ex>.
+
+This participle can be negated with `-mA`, such as in `gəlməyən:the one who isn't coming`. Note that _y_ here is used to separate between the ending vowel of the negative marker and the suffix.
 
 --EX--
 Amərikadan gələn qonaq...

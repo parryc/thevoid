@@ -70,7 +70,7 @@ def page(title):
   html = get_html(page)
   if html == '<p>404</p>':
     return abort(404)
-  return render_template('parryc/post.html',html=html)
+  return render_template('parryc/post.html',html=html, lang='ge')
 
 # ---------
 #  KZ Dict

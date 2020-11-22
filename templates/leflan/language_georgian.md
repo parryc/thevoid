@@ -144,14 +144,29 @@ How many people does your group consist of? // -გან indicating "from how m
 
 ## Word Formation
 
-იანი
+-იანი
 : "...-y". For example, <ex>_მზე_ → _მზიანი_ ⧸ sun → sunny</ex>. Often equivalent to the "noun with noun" phrasing in English, such as `ქარაქიანი პური:bread with butter (lit. buttery bread)`.
+
+მე...ე/მე...ური
+: occupations, <ex>_ბაღი_ → _მებაღე_ ⧸ garden → gardener</ex>
 
 მოყვარული
 : fan of, ex. `კინომოყვარული:film fan`
 
-სა
-: creates nouns out of other nouns, most often with an additiona -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
+-ნარი
+: grove of, group of plants, <ex>_ფიჭვი_ → _ფიჭვარი_ ⧸ pine tree → grove of pine trees</ex>
+
+ნა...ევი/არი/ალი
+: the remains of something, <ex>_ნგრევა_ → _ნანგრევი_ ⧸ ruining → a ruin</ex>
+
+-ობა/ება
+: abstract nouns, <ex>_თავისუფალი_ → _თავისუფლება_ ⧸ sun → sunny</ex>
+
+სა...ო/სა...ე
+: creates nouns out of other nouns, most often with an additional -ე or -ო suffix. Generally has the meaning of "the place for the thing" For example, `ფული:money` → `საფულე:wallet` or `კაცი:man` → `საკაცე:stretcher`.<cite>[Vogt §3.29](#vogt)</cite>
+
+სი...ე
+: abstract nouns, <ex>_ნამდვილი_ → _სინამდვილე_ ⧸ real → reality</ex>
 
 უ...ო
 : without, "...-less". For example, <ex>_ღრუბელი_ → _უღრუბლო_ ⧸ cloud → cloudless</ex>.
@@ -642,9 +657,23 @@ Halves are formed with `ნახევარი:half` and the number, minus -�
 
 20+: base + ordinal version of 1-19 (1 reverts back to ერთი for these numbers). Ex. `21st:ოცდამეერთე`.
 
-## Fractions
+## Fractions and Decimals
 
 Fractions are formed by adding `-დი` to ordinal numbers. Ex. `1/4th:მეოთხედი`. 1/2 is more commonly `ნახევარი`.
+
+Decimals can be said in both a colloquial and formal way. Colloquial, the form is `{whole number} მთელი {decimal number}`, where both numbers before and after the decimal are said normally. Thus, 8.3 is `რვა მთელი სამი`.
+
+Formally, though, numbers after the decimal are said with the fractional version of the 10s place. The main fractions used are:
+
+* მეათედი, 1/10
+* მეასედი, 1/100
+* მეათასედი, 1/1000
+
+A few example:
+
+* 1.2, ერთი მთელი ორი მეათედი (1 and 2 tenths)
+* 2.05, ორი მთელი ხუთი მეასედი (2 and 5 thousandths)
+* 7.23, შვიდი მთელი ოცდასამი მეასედი (7 and 23 thousandths)
 
 # Time
 
@@ -759,9 +788,9 @@ I will go to Georgia, while I am learning Georgian.
 She is dancing and singing (at the same time).
 --ENDEX--
 
-## Conditional Sentences (თუ)
+## Conditional Sentences (თუ, რომ)
 
-For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want.
+For sentences expressing, "X will happen, if Y", one uses `თუ:if`. For example, მოვდივარ, **თუ** გინდა:I'm coming, **if** you want. If the condition occurs if the past, such as "if X had happened, I would Y", then use `რომ`.
 
 ## Expressing Desire (მინდა)
 
@@ -887,6 +916,10 @@ Adjectives can be divided between consonant-final and vowel-final adjectives. Vo
 The comparitive degree (e.g. more/less) is expressed with `უფრო` and the superlative (e.g. most/least) is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმეა, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>. Make sure to include `-ა` at the end of the first clause, preceding `ვიდრე`.
 
 Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
+
+When wanting to describe something as "as X as Y", the suffix `-(ა)ვით` is used. The item that is the Y in "as X as Y" is marked with `-(ა)ვით`. For example, in <ex>_ამ საჭმელს დედასაფით კარგად ვერავინ ამზადებს_ ⧸ No one is able to make this food as well as my mom</ex>, "as my mom" is marked with `-(ა)ვით`.
+
+The sentence order can change, such as in `არ არის საქართველოსავით ძველი:(it) is not as old as Georgia`, as long as the adjective/adverb being used in the comparison follows the word marked with `-(ა)ვით`.
 
 # Miscellaneous
 

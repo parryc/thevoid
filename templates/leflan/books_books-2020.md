@@ -24,3 +24,7 @@
 * _Qanemicit Amllerutut, Many Stories to Tell_ - ed. Ann Fienup-Riordan, trans. Alice Rearden and Marie Meade
 * _Lost Japan_ - Alex Kerr
 * _Hummus and Homicide_ - Tina Kashian
+* _Vagabonds_ - Hao Jingfang
+* _The Hidden Girl and Other Stories_ - Ken Liu
+* _The Sunny Night_ - Nodar Dumbadze
+* _The Cart of_ La Providence - Georges Simenon

@@ -22,9 +22,9 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 116
+English – 120
 Finnish – 2
-French – 4
+French – 5
 Georgian – 10
 German – 6
 Halkomelem – 1
@@ -35,7 +35,7 @@ Ilongo – 1
 Inuktitut – 1
 Irish – 1
 Japanese – 8
-Kabardian – 1
+Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
 Kazakh – 6
@@ -56,7 +56,7 @@ Multiple Languages – 8
 Ojibwe – 2
 Polish – 1
 Romanian – 1
-Russian – 12
+Russian – 14
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -68,7 +68,7 @@ Tagalog – 5
 Tahitian – 1
 Tlingit – 2
 Tsakhur – 1
-Turkish – 1
+Turkish – 3
 Tuvan – 1
 Uyghur – 2
 Visayan – 1
@@ -82,9 +82,9 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 7
-Coursebook – 27
-Dictionary – 48
-Grammar – 35
+Coursebook – 28
+Dictionary – 49
+Grammar – 36
 Phrasebook – 13
 Study – 9
 Verb list – 3
@@ -495,12 +495,22 @@ Tsakhur
 აფხუზურ-ქართული/ქართული-აფხუზურ ლექსიკონი
 : თეიმურაზ გვანცელაძე, გამომცემლობა ინტელექტი, 2012. <tag>abkhaz→georgian</tag> <tag>georgian→abkhaz</tag> <tag>dictionary</tag>
 
-### Northwest Circassian
-
 #### Kabardian
 
 Kabardino-Circassian-Russian-English-Turkish Picture Dictionary
 : H. H. Sukhunov I. H. Sukhunova, Nalchik Editorial Center, 1998. <tag>kabardian→english</tag> <tag>kabardian→russian</tag> <tag>kabardian→turkish</tag> <tag>dictionary</tag>
+
+Parlons Tcherkesse
+: Amjad M. Jaimoukha and Michel Malherbe, L'Harmattan, 2009. <tag>kabardian→french</tag> <tag>grammar</tag>
+
+Kabardian
+: John Colarusso, LINCOM, 2006. <tag>kabardian→english</tag> <tag>grammar</tag>
+
+Сопоставительная Грамматика Русского и Адыгейского Языков
+: М. Х. Шхапацева, Адыгейское Ресубликанское Книжное Издательство, 2005. <tag>kabardian→russian</tag> <tag>grammar</tag>
+
+English-Kabardian-Russian Phrase Dictionary
+: A. G. Emouzov, The Kabardino-Balkarian Institute for Raising the Level of the Academic Proficiency of the Spiritual Legacy of the Orient, 1992. <tag>english→kabardian</tag> <tag>english→russian</tag> <tag>dictionary</tag>
 
 ### Pidgin
 
@@ -685,6 +695,14 @@ The Kazakh Phrasebook
 
 民族语言文化研究文集
 : 韩建业, 民族出版社, 2008. <tag>salar→mandarin</tag> <tag>study</tag>
+
+#### Turkish
+
+Colloquial Turkish
+: Yusuf Mardin, Routledge, 1986. <tag>turkish→english</tag> <tag>coursebook</tag>
+
+Essential English-Turkish Dictionary
+: C. E. Eckersley and Sadik Balkan, Longmans, Green and Co., 1956. <tag>english→turkish</tag> <tag>dictionary</tag>
 
 #### Tuvan
 

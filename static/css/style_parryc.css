@@ -50,6 +50,18 @@ tag:before {
   color: rgb(255,110,110);
 }
 
+/* TOPURIA */
+
+span:lang('sva') {
+  font-weight: bold !important;
+}
+
+.unknown {
+  color: cyan;
+  background-color: black;
+}
+
+
 @media screen and (max-width: 40rem) {
   article {
     width: inherit;

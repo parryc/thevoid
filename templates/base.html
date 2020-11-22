@@ -12,7 +12,7 @@
 <body>
   <main>
     <section>{% block header %}{% endblock %}</section>
-    <article>
+    <article {% if lang %}lang="{{lang}}"{% endif %}>
       {% block content %}{% endblock %}
     </article>
   </main>
