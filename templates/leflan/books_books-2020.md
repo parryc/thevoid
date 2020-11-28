@@ -28,3 +28,4 @@
 * _The Hidden Girl and Other Stories_ - Ken Liu
 * _The Sunny Night_ - Nodar Dumbadze
 * _The Cart of_ La Providence - Georges Simenon
+* _Children of Blood and Bone_ - Tomi Adeyemi
