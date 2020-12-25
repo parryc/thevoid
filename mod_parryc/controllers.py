@@ -122,7 +122,12 @@ def get_html(page, dictionary_entry=False):
     text = '404'
   if dictionary_entry:
     text = _clean_dictionary(page.split('/')[1], text)
-  return markdown.markdown(text, extensions=['markdown.extensions.toc'])
+  return markdown.markdown(text, extensions=['markdown.extensions.footnotes'
+                     ,'markdown.extensions.sane_lists'
+                     ,'markdown.extensions.toc'
+                     ,'markdown.extensions.tables'
+                     ,'markdown.extensions.def_list'
+                     ,'markdown.extensions.abbr'])
 
 
 def _clean_dictionary(filename, entry):

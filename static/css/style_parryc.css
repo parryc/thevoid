@@ -53,8 +53,19 @@ tag:before {
 /* TOPURIA */
 
 span:lang('sva') {
-  font-weight: bold !important;
+  border: 1px solid black;
   font-family: "Arial"; /* gotta render the accents correctly */
+}
+
+pre:lang('sva') {
+  background: inherit;
+  font-size: 1.0em;
+  border: 1px solid black;
+  width: max-content;
+}
+
+sup {
+  font-size: 0.6em;
 }
 
 .unknown {

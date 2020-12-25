@@ -54,6 +54,10 @@ blockquote {
   border-left: .4rem solid rgba(255, 110, 110, 0.65);
 }
 
+blockquote em {
+  font-style: normal;
+}
+
 cite {
   vertical-align: super;
   font-size: .6em;
@@ -118,6 +122,10 @@ section {
   margin-bottom: -5px;
 }
 
+strong em {
+  font-size: 1.1em;
+}
+
 sup {
   font-size: .5em;
 }
@@ -128,6 +136,11 @@ table {
 
 td {
   text-align: left;
+}
+
+td strong {
+  border: 1px solid black;
+  background-color: #f7f7f7;
 }
 
 /* Don't allow the PDF page splitting to

@@ -135,3 +135,5 @@ from mod_khachapuri.controllers import mod_khachapuri
 app.register_blueprint(mod_khachapuri)
 from avar_rocks.flask.controllers import mod_avar
 app.register_blueprint(mod_avar)
+from mod_zmnebi.controllers import mod_zmnebi
+app.register_blueprint(mod_zmnebi)

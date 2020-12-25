@@ -29,3 +29,5 @@
 * _The Sunny Night_ - Nodar Dumbadze
 * _The Cart of_ La Providence - Georges Simenon
 * _Children of Blood and Bone_ - Tomi Adeyemi
+* _Georgian Myths and Folktales_ - tr. Shorena Kurtsikidze
+* _Language Planning in the Post-Communist Era_ - ed. Ernest Andrews

@@ -85,13 +85,12 @@ class ExamplesProcessor(BlockProcessor):
           li = etree.SubElement(ol, 'li')
 
 class Examples(Extension):
-  def extendMarkdown(self, md, md_globals):
+  def extendMarkdown(self, md):
     # The normal table extension uses '<hashheader', so why not
-    md.parser.blockprocessors.add('examples',
-                                   ExamplesProcessor(md.parser),
-                                   '<hashheader')
-    md.preprocessors.add('examples', ExamplesPreprocessor(md), '<reference')
+    md.parser.blockprocessors.register(ExamplesProcessor(md.parser),
+                                       'examples', 71)
+    md.preprocessors.register(ExamplesPreprocessor(md), 'examples', 16)
 
 # Enabled string loading of extension
-def makeExtension(*args, **kwargs):
-  return Examples(*args, **kwargs)
+def makeExtension(**kwargs):
+  return Examples(**kwargs)

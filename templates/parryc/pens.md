@@ -5,6 +5,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ## Pens ✒️
 
 * ⭐️ Kaweco Liliput (fine, fireblue)
+* Kaweco Liliput (extra fine, black)
 * Kuretake No. 40 (brush, black)
 * Lamy Joy (1.5mm italic, black and red)
 * Lamy Safari (1.5mm italic, lime green)

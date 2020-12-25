@@ -96,6 +96,9 @@ Azeri is an exclusively suffixing language when producing new words.
 -AndA
 : verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>. Since this suffix does not take a personal marker, speakers will often use the personal pronoun (which may normally be dropped) to indicate who is the actor in the `-AndA` clause.
 
+-ArkAn
+: while.
+
 -cA
 : language of X. Note, cannot be used for countries that take -lI to form their adjective of nationality. It can be affixed to 1st and 2nd person pronouns to mean, "in my/your/our/y'alls opinion".
 
