@@ -204,7 +204,7 @@ VOC (ო/ვ)
 
 # Verbs
 
-There is so much to write about, so I made a separate website. Please see [zmnebi.com](zmnebi.com) (`ზმნები:verbs`) for more information.
+There is so much to write about, so I made a separate website. Please see [zmnebi.com](https://zmnebi.com) (`ზმნები:verbs`) for more information.
 
 # Participles
 

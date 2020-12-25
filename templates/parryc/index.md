@@ -3,7 +3,7 @@
 
 📚 [le_flaneur](https://leflan.eu/r)
 
-📝 [everything is bees](https://everythingisbe.es)
+🇬🇪 [zmnebi – all about georgian verbs](https://zmnebi.com)
 
 💛 [the yelp of khachapuri](https://the-yelp-of-khachapuri.site)
 
