@@ -4,6 +4,16 @@ There are 1727 pages in the Comprehensive Georgian-English Dictionary and just o
 
 So, starting at page one, on July 9th, here are my selections for the year.
 
+Unusual abbreviations used:
+©
+†
+‡
+Gu
+Gr
+Kk
+Saba
+Ju
+
 1. ააბრაგებს (გაააბრაგა, გაუაბრაგებია) _Gu_ makes a brigand of sb
 2. აბაჟურიანი _a_ with a lampshade
 3. ადნება (დაადნა, დასდნობია) _vi2_ (_e.g. pear_) melts on sb's sth (_tongue_)
@@ -31,19 +41,27 @@ So, starting at page one, on July 9th, here are my selections for the year.
 25. გადამღერება _vn_ triteness; hack-work; clichéd writing
 26. გადაღუპავს (გადაღუპა, გადაუღუპავს) will banish sb (_somewhere grim_)
 27. გადმოებნევა (გადმოებნა, გადმოჰბნევია) _vi2_ (<გადმოაბნევს) will be spilt (unwittingly) by/on sb
-28.
-29.
-30.
-31.
-32.
-33.
-34.
-35.
-36.
-37.
-38.
-39.
-40.
-41. 08/20
-
-Most recent: 07-31, pg 200
+28. გაებუტება (გაებუტა, გაჰბუტვია) will sulk with sb:: ბუტე, ბუტე, გაგებუტე, აღარ გეთამაშები Sulk, sulk, I'll sulk at you, I'm not playing with you any more (_said by angry little girl with little fingers stetching lips, then stretched arms_)
+29. გაიბოხებს (გაიბოხა, გაუბოხებია) _vs_ (<გააბოხებს): (ხმას) ~ will speak in a gruff/deep voice
+30. გაიჩენს (გაიჩინა, გაუჩენია) _vs_ (<გააჩენს) **1** will get o.s. sb/sth (_enemy, lover, job, place to live_); **2** will give birth to sb
+31. გამემარცხენდება (გამემარცხენდა, გამემარცხენებულა) will become (more) left-wing
+32. გამოეკერება (გამოეკერა, გამოჰკერებია) _vi2_ (<გამოაკერებს) will be sewn for sb, will be stitched to sth: ცას გამოეკერა is immortal _lit_ sewn to the sky
+33. გამოლოცვა _vn_ (<გამოულოცავს) **1** healing by exorcism/incantation/invocation; **2** ‡ having prayers; **3** _Ju_ finishing prayers
+34. გამოუტენის ( გამოუტენა, გამოუტენია) _vo_ (<გამოტენის) will cram sb's sth: ხახა მტვრით გამომიტენა chocked my mouth with dust
+35. გამოჭექილი _pp_ **1** thundering, loudly echoed, reverberating; **2** © filled to the brim, crammed full
+36. განაყოფიერდება (განაყოფიერდა, განაყოფიერებულა) _vi_ (<გაანაყოფიერებს) (_land_) will be manuered
+37. განსაკაცებელი _fp_ † to be brought up like a human being; to be inculcated with humanity
+38. გარდათხევა (_vn_) ‡ gathering & clearing (_stones_)
+39. გასატეხ([ე]ლ)ი _fp_ _sst_ **1** to be broken; (_nut_) to be cracked; **2** _n_ nutcracker: ენის ~ tongue-twister; სახელის გასატეხად to discredit sb; პურის ~ so as to dine together
+40. გაუკახპდება (გაუკახპდა, გაჰკახპებია) sb's sb (_wife_) will start whoring
+41. გაუწევლობა _n_ not offering: ბოროტებიათვის წინააღმდეგობის ~ non-resistance to evil
+42. გაშაირდება (გაშაირდა, გაშაირებულა) _vi_ will compete in improvizing verse
+43. გჭარხლებული _pp_ © (turned) as red as beetroot
+44. გვიცა _n_ † ~ და არა გვიცა (_lit_ we have and we don't have) two rolls baked for New Year (_if the first stays stuck to the oven wall, the year will be good_)
+45. გულსნეული _a_ ‡ of a perverse heart
+46. დააკერატებს (დააკერატა, დაუკერატებია) will raise sth (_piglet_) into full-grown boar
+47. დაატყაპუნებს (დაატყაპუნა, დაუტყაპუნებია) **1** will cap sth (_one's hands_); **2** _io_ splashes about (_in mud etc._), pottes about (_e.g. bare-foot_)
+48. დაახტება (დაახტა, დახტონია) _vi2_ will leap down on sb/sth: თავზე ~ _fig_ will hit sb like a bolt from the blue; დამახტი ყლეზე! _vn_ I can't be fucking bothered
+49. დაგულ(ვ)ებული _pp_ _sst_ sensed, guessed, intuited (_e.g. sb/sth's whereabouts_): ტყეში სოკოები მქონდა ~ I felt I knew where the mushrooms in the forest were.
+50. დაეწყევლინება (დაეწყევლინა, დასწყევლინებია) _vi2_ (<დააწყევლინებს) will give sb a pretext to curse one
+51. დაივახშმებს (დაივახშმა, დაუვახშმებია) _vt1_: მთვარე ~ the moon will rise late (_i.e. after supper_)

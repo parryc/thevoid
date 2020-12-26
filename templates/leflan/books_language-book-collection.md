@@ -22,11 +22,12 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 120
+English – 121
 Finnish – 2
 French – 5
 Georgian – 10
 German – 6
+Hawaiian – 1
 Halkomelem – 1
 Hebrew – 1
 Hungarian – 4
@@ -83,7 +84,7 @@ Yoruba – 1
 
 Bilingual Texts – 7
 Coursebook – 28
-Dictionary – 49
+Dictionary – 50
 Grammar – 36
 Phrasebook – 13
 Study – 9
@@ -131,6 +132,11 @@ A Concise Dictionary of Minnesota Ojibwe
 : John D. Nichols and Earl Nyholm, University of Minnesota Press, 1995. <tag>ojibwe→english</tag> <tag>dictionary</tag>
 
 ### Austronesian
+
+#### Hawaiian
+
+Hānau Ka Ua: Hawaiian Rain Names
+: Collette Leimomi Akana and Kiele Gonzalez, Kamehameha Publishing, 2015. <tag>hawaiian→english</tag> <tag>dictionary</tag>
 
 #### Tagalog
 

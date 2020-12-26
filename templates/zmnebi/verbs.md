@@ -293,35 +293,35 @@ Compare `უწერს:(vo) writes something for someone`, `იწერს:(v
 
 > Ⓚ: Present series, Aorist series, Perfect series
 Ⓗ: S1 Present, S2 Aorist, S3 Perfect
-Ⓞ: სერია
+Ⓞ: სერია (series), მწკრივი (screeve)
 
 A screeve, from the word _მწკრივი_, meaning "row", is the traditional way naming a verbal tense for Georgian verbs. This document will use tense, since it is a term a learner is more likely to be familiar with. Of the 11 tenses listed below, there are 3 series, denoted by ①, ②, or ③ before the tense name. Tenses in the same series are often clearly derived from each other (e.g. adding a preverb) and share the same case declensions.
 
 Since as a rule each series' base form cannot be derived by knowing a form in a different series, it is in theory necessary to memorize three different forms when learning a new verb. That is, one form from the 1st series, one from the 2nd series, and one from from the 3rd series. However, the 3rd series, as you will read below, is not very commonly used and no one would fault you for not specifically memorizing a 3rd series form, especially when just starting out. Note that entries from CGED will list the two additional necessary forms after the FUT and PRS entries (in order, ② AOR and ③ EVD).
 
-The series and screeves are, as follows:
+The series and screeves are, as follows. You will see that under ① series are grouped into two large sections. There are sometimes referred to in literature as the present and future subseries, respectively. They are so grouped because they are derived from each other – PRS > IMPERF > PRSSBJV, FUT > COND > FUTSBJV. This document will use the same grouping to help make patterns more obvious.
 
 <table>
   <tbody>
-    <tr><td colspan="2"><strong>① Series</strong></td></tr>
+    <tr><td colspan="2" style="background: #f7f7f7">① Series</td></tr>
     <tr>
-      <td><a href="#1-present-prs">Present</a></td>
-      <td><a href="#1-future-fut">Future</a></td>
+      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-present-prs">Present</a></td>
+      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-future-fut">Future</a></td>
      </tr>
     <tr>
-      <td><a href="#1-imperfect-imperf">Imperfect</a></td>
-      <td><a href="#1-conditional-cond">Conditional</a></td>
+      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-imperfect-imperf">Imperfect</a></td>
+      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-conditional-cond">Conditional</a></td>
      </tr>
     <tr>
       <td><a href="#1-present-subjunctive-prssbjv">Present Subjunctive</a></td>
       <td><a href="#1-future-subjunctive-futsbjv">Future Subjunctive</a></td>
     </tr>
-    <tr><td colspan="2"><strong>② Series</strong></td></tr>
+    <tr><td colspan="2" style="background: #f7f7f7">② Series</td></tr>
     <tr>
       <td><a href="#2-aorist-aor">Aorist</a></td>
       <td><a href="#2-optative-opt">Optative</a></td>
     </tr>
-    <tr><td colspan="2"><strong>③ Series</strong></td></tr>
+    <tr><td colspan="2" style="background: #f7f7f7">③ Series</td></tr>
     <tr>
       <td><a href="#3-evidential-evd">Evidential</a></td>
       <td><a href="#3-past-subjunctive-pstsbjv">Past Subjunctive</a></td>
@@ -435,6 +435,144 @@ Much like in other languages, the present tense is used to describe presently oc
 
 As with FUT, the negative imparative (don't!) may be formed with `ნუ:don't` and the verb in FUT.
 
+## ① Imperfect (IMPERF)
+
+> Ⓚ: Past Continuous
+Ⓗ: Imperfect
+Ⓞ: წარსული უწყვეტელი დრო, განგრძობითი დრო, [Kiziria] Imperfect
+
+&nbsp; | trans. | intrans. | მ-class | motion 
+-------|--------|----------|---------|--------
+SUBJ   | NOM    | NOM      | DAT     | NOM
+D.OBJ  | DAT    | (DAT)    | NOM     | ∅
+I.OBJ  | DAT    | DAT      | თვის    | (prep.)
+
+### How to Form
+
+<attn>✎ Derived from PRS, no preverb</attn>
+
+**_ვ-class transitive and intransitive_**
+
+Add -დი to the stem for 1st and 2nd person and then add ვ-class person markers. 3rd person (including person markers) are -და for SG and -დნენ for PL. Note that if the verb adds or changes to _-ებ_ in FUT, it will do so here as well.
+
+* აკეთებს, does → აკეთებდა, was doing
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**ვ**აკეთებ**დი**|**ვ**აკეთებ**დით**
+2|აკეთებ**დი** |აკეთებ**დით**
+3|აკეთებ**და** |აკეთებ**დნენ**
+
+**_მ-class_**
+
+Add -ოდა to the stem and then add the მ-class person markers. Sometimes slightly more needs to be done and in these cases (such as for "to have"), one should just memorize the form. Often times, the initial vowel will differ between 1st/2nd forms and 3rd forms, as seen in the example below. Here 1st and 2nd forms have _ი_, where 3SG and 3PL retain _უ_.
+
+* უხარია, is happy → უხაროდა, was (being) happy
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**მი**ხარ**ოდა**|**გვი**ხარ**ოდა**
+2|**გი**ხარ**ოდა**|**გი**ხარ**ოდათ**
+3|**უ**ხარ**ოდა**|**უ**ხარ**ოდათ**
+
+**_Motion verbs_**
+
+This is a novel stem and can't be derived from PRS. It's kind of like a cross between ვ-class and მ-class.
+
+* მიდიოდა, was going
+
+&nbsp; |SG  |PL
+-|----------|--
+1|მი**ვ**დიოდი|მი**ვ**დიოდი**თ**
+2|მიდიოდი|მიდიოდი**თ**
+3|მიდიოდ**ა**|მიდიოდ**ნენ**
+
+**_to be_**
+
+This is the same as AOR.
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**ვ**იყავი|**ვ**იყავი**თ**
+2|იყავი|იყავი**თ**
+3|**იყო**|იყვ**ნენ**
+
+### How to Use
+
+The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time".<cite>[Kiziria 142](#kiziria)</cite> It may also indicate past actions that were interrupted by another action.<cite>[Kurtsikidze 129](#kurtsikidze)</cite>
+
+As this tense does not have a preverb, it has imperfective aspect.
+
+## ① Present Subjunctive (PRSSBJV)
+
+> Ⓚ: Present Subjunctive
+Ⓗ: Present Subjunctive
+Ⓞ: აწმყოს კავშირებითი, Present Conjunctive
+
+&nbsp; | trans. | intrans. | მ-class | motion 
+-------|--------|----------|---------|--------
+SUBJ   | NOM    | NOM      | DAT     | NOM
+D.OBJ  | DAT    | (DAT)    | NOM     | ∅
+I.OBJ  | DAT    | DAT      | თვის    | (prep.)
+
+### How to Form
+
+<attn>✎ Derived from IMPERF, no preverb</attn>
+
+**_ვ-class transitive and intransitive_**
+
+Change vowels in ending of IMPERF to ე. 3PL in IMPERF and PRSSBJV is the same.
+
+* აკეთებდა, was doing → აკეთებდე, should do (present)
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**ვ**აკეთებდე|**ვ**აკეთებდე**თ**
+2|აკეთებდე |აკეთებდე**თ**
+3|აკეთებდე**ს**|აკეთებდ**ნენ**
+
+**_მ-class_**
+
+Change vowels in ending of IMPERF to ე. Add -ს to SG and 1PL cases.
+
+* უხაროდა, was (being) happy → უხარდეს, should be happy (present)
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**მი**ხარდე**ს**|**გვი**ხარდე**თ**
+2|**გი**ხარდე**ს**|**გი**ხარდე**თ**
+3|**უ**ხარდე**ს**|**უ**ხარდე**თ**
+
+**_Motion verbs_**
+
+Change the ending vowels in IMPERF to ე. Note that 3SG adds -ს and that 3PL is the same as in IMPERF.
+
+* მივდიოდი, was going → მივდიოდე, should go
+
+&nbsp; |SG  |PL
+-|----------|--
+1|მი**ვ**დიოდე|მი**ვ**დიოდე**თ**
+2|მიდიოდე|მიდიოდე**თ**
+3|მიდიოდე**ს**|მიდიოდ**ნენ**
+
+**_to be_**
+
+This is the same form as OPT.
+
+&nbsp; |SG  |PL
+-|----------|--
+1|**ვ**იყო|**ვ**იყო**თ**
+2|იყო|იყო**თ**
+3|იყო**ს**|იყვ**ნენ**
+
+### How to Use
+
+PRSSBJV is used to express wishes, possibilities, or things that could or should be happening, but aren't at the present moment. If there is a chance that it could happen use the IMPERF instead, otherwise, keep using PRSSBJV. It is found in hypothetical conditions and must be followed by `რომ:if` or one of `უნდა:wants`, `უნდა:must`, `იქნებ:perhaps`, `უნატრის:wishes for something`, `შეიძლება:it is possible` or similar words.
+
+Since it _does not_ contain the preverb, it has imperfective aspect.
+
+When paired with COND, PRSSBJV is often the first clause in the condition, and always marked with `რომ:if`. For example, <ex>_რომ ხატავდე, მეც დავხატავდი_ ⧸ If you were drawing, I would also be drawing</ex>.<cite>[Kurtsikidze, p133](#kurtsidikidze)</cite>
+
 ## ① Future (FUT)
 
 > Ⓚ: Future
@@ -516,74 +654,6 @@ In most cases, if the conditions are real (or potentially real), then both claus
 
 As with PRS, the negative imparative (don't!) may be formed with `ნუ:don't` and the verb in FUT.
 
-## ① Imperfect (IMPERF)
-
-> Ⓚ: Past Continuous
-Ⓗ: Imperfect
-Ⓞ: წარსული უწყვეტელი დრო, განგრძობითი დრო, [Kiziria] Imperfect
-
-&nbsp; | trans. | intrans. | მ-class | motion 
--------|--------|----------|---------|--------
-SUBJ   | NOM    | NOM      | DAT     | NOM
-D.OBJ  | DAT    | (DAT)    | NOM     | ∅
-I.OBJ  | DAT    | DAT      | თვის    | (prep.)
-
-### How to Form
-
-<attn>✎ Derived from PRS, no preverb</attn>
-
-**_ვ-class transitive and intransitive_**
-
-Add -დი to the stem for 1st and 2nd person and then add ვ-class person markers. 3rd person (including person markers) are -და for SG and -დნენ for PL. Note that if the verb adds or changes to _-ებ_ in FUT, it will do so here as well.
-
-* აკეთებს, does → აკეთებდა, was doing
-
-&nbsp; |SG  |PL
--|----------|--
-1|**ვ**აკეთებ**დი**|**ვ**აკეთებ**დით**
-2|აკეთებ**დი** |აკეთებ**დით**
-3|აკეთებ**და** |აკეთებ**დნენ**
-
-**_მ-class_**
-
-Add -ოდა to the stem and then add the მ-class person markers. Sometimes slightly more needs to be done and in these cases (such as for "to have"), one should just memorize the form. Often times, the initial vowel will differ between 1st/2nd forms and 3rd forms, as seen in the example below. Here 1st and 2nd forms have _ი_, where 3SG and 3PL retain _უ_.
-
-* უხარია, is happy → უხაროდა, was (being) happy
-
-&nbsp; |SG  |PL
--|----------|--
-1|**მი**ხარ**ოდა**|**გვი**ხარ**ოდა**
-2|**გი**ხარ**ოდა**|**გი**ხარ**ოდათ**
-3|**უ**ხარ**ოდა**|**უ**ხარ**ოდათ**
-
-**_Motion verbs_**
-
-This is a novel stem and can't be derived from PRS. It's kind of like a cross between ვ-class and მ-class.
-
-* მიდიოდა, was going
-
-&nbsp; |SG  |PL
--|----------|--
-1|მი**ვ**დიოდი|მი**ვ**დიოდი**თ**
-2|მიდიოდი|მიდიოდი**თ**
-3|მიდიოდ**ა**|მიდიოდ**ნენ**
-
-**_to be_**
-
-This is the same as AOR.
-
-&nbsp; |SG  |PL
--|----------|--
-1|**ვ**იყავი|**ვ**იყავი**თ**
-2|იყავი|იყავი**თ**
-3|**იყო**|იყვ**ნენ**
-
-### How to Use
-
-The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time".<cite>[Kiziria 142](#kiziria)</cite> It may also indicate past actions that were interrupted by another action.<cite>[Kurtsikidze 129](#kurtsikidze)</cite>
-
-As this tense does not have a preverb, it has imperfective aspect.
-
 ## ① Conditional (COND)
 
 > Ⓚ: Past Frequentive
@@ -661,76 +731,6 @@ If you write, then I could draw. // Kurtsikidze, 130
 She would glance at him with a theivish look. // dictionary.ge
 --ENDEX--
 
-## ① Present Subjunctive (PRSSBJV)
-
-> Ⓚ: Present Subjunctive
-Ⓗ: Present Subjunctive
-Ⓞ: აწმყოს კავშირებითი, Present Conjunctive
-
-&nbsp; | trans. | intrans. | მ-class | motion 
--------|--------|----------|---------|--------
-SUBJ   | NOM    | NOM      | DAT     | NOM
-D.OBJ  | DAT    | (DAT)    | NOM     | ∅
-I.OBJ  | DAT    | DAT      | თვის    | (prep.)
-
-### How to Form
-
-<attn>✎ Derived from IMPERF, no preverb</attn>
-
-**_ვ-class transitive and intransitive_**
-
-Change vowels in ending of IMPERF to ე. 3PL in IMPERF and PRSSBJV is the same.
-
-* აკეთებდა, was doing → აკეთებდე, should do (present)
-
-&nbsp; |SG  |PL
--|----------|--
-1|**ვ**აკეთებდე|**ვ**აკეთებდე**თ**
-2|აკეთებდე |აკეთებდე**თ**
-3|აკეთებდე**ს**|აკეთებდ**ნენ**
-
-**_მ-class_**
-
-Change vowels in ending of IMPERF to ე. Add -ს to SG and 1PL cases.
-
-* უხაროდა, was (being) happy → უხარდეს, should be happy (present)
-
-&nbsp; |SG  |PL
--|----------|--
-1|**მი**ხარდე**ს**|**გვი**ხარდე**თ**
-2|**გი**ხარდე**ს**|**გი**ხარდე**თ**
-3|**უ**ხარდე**ს**|**უ**ხარდე**თ**
-
-**_Motion verbs_**
-
-Change the ending vowels in IMPERF to ე. Note that 3SG adds -ს and that 3PL is the same as in IMPERF.
-
-* მივდიოდი, was going → მივდიოდე, should go
-
-&nbsp; |SG  |PL
--|----------|--
-1|მი**ვ**დიოდე|მი**ვ**დიოდე**თ**
-2|მიდიოდე|მიდიოდე**თ**
-3|მიდიოდე**ს**|მიდიოდ**ნენ**
-
-**_to be_**
-
-This is the same form as OPT.
-
-&nbsp; |SG  |PL
--|----------|--
-1|**ვ**იყო|**ვ**იყო**თ**
-2|იყო|იყო**თ**
-3|იყო**ს**|იყვ**ნენ**
-
-### How to Use
-
-PRSSBJV is used to express wishes, possibilities, or things that could or should be happening, but aren't at the present moment. If there is a chance that it could happen use the IMPERF instead, otherwise, keep using PRSSBJV. It is found in hypothetical conditions and must be followed by `რომ:if` or one of `უნდა:wants`, `უნდა:must`, `იქნებ:perhaps`, `უნატრის:wishes for something`, `შეიძლება:it is possible` or similar words.
-
-Since it _does not_ contain the preverb, it has imperfective aspect.
-
-When paired with COND, PRSSBJV is often the first clause in the condition, and always marked with `რომ:if`. For example, <ex>_რომ ხატავდე, მეც დავხატავდი_ ⧸ If you were drawing, I would also be drawing</ex>.<cite>[Kurtsikidze, p133](#kurtsidikidze)</cite>
-
 ## ① Future Subjunctive (FUTSBJV)
 
 > Ⓚ: Future Subjunctive
@@ -745,7 +745,7 @@ I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
 ### How to Form
 
-<attn>✎ Derived from PRSSBJV with a preverb or derived from COND with ending changes</attn>
+<attn>✎ Derived from COND with ending changes or derived from PRSSBJV with a preverb or </attn>
 
 **_ვ-class transitive and intransitive_**
 
@@ -1282,10 +1282,10 @@ To save on typing, only 1SG and 3SG are provided, as the remaining forms can be 
 &nbsp; | 1SG | 3SG
 -------|-----|------
 PRS    | მაქვს| აქვს
-FUT    | მექნება| ექნება
 IMPERF | მქონდა| ჰქონდა
-COND   | მექნებოდა| ექნებოდა
 PRSSBJV| მქონდეს| ჰქონდეს
+FUT    | მექნება| ექნება
+COND   | მექნებოდა| ექნებოდა
 FUTSBJV| მექნებოდეს| ექნებოდეს
 AOR    | მქონდა| ჰქონდა
 OPT    | მქონდეს| ჰქონდეს
@@ -1298,10 +1298,10 @@ DU     | მქონოდეს| ჰქონოდეს
 &nbsp; | 1SG | 3SG
 -------|-----|------
 PRS    | მყავს| ჰყავს
-FUT    | მეყოლება| ეყოლება
 IMPERF | მყავდა| ჰყავდა
-COND   | მეყოლებოდა| ეყოლებოდა
 PRSSBJV| მყავდეს| ჰყავდეს
+FUT    | მეყოლება| ეყოლება
+COND   | მეყოლებოდა| ეყოლებოდა
 FUTSBJV| მეყოლებოდეს| ეყოლებოდეს
 AOR    | მყავდა| ჰყადა
 OPT    | მყავდეს| ჰყავდეს
@@ -1314,10 +1314,10 @@ DU     | მყოლოდეს| ჰყოლოდეს
 &nbsp; | 1SG | 3SG
 -------|-----|------
 PRS    | ვამბობ| ამბობს
-FUT    | ვიტყვი| იტყვის
 IMPERF | ვამბობდი| ამბობდა
-COND   | ვიტყოდი| იტყოდა
 PRSSBJV| ვამბობდე| ამბობდეს
+FUT    | ვიტყვი| იტყვის
+COND   | ვიტყოდი| იტყოდა
 FUTSBJV| ვიტყოდე| იტყოდეს
 AOR    | ვთქვი| თქვა
 OPT    | ვთქვა| თქვას
@@ -1330,10 +1330,10 @@ DU     | მეთქვას| ეთქვას
 &nbsp; | 1SG | 3SG
 -------|-----|------
 PRS    | ვაძლევ| აძლევს
-FUT    | მივცემ| მისცემს
 IMPERF | ვაძლევდი| აძლევდა
-COND   | მივცემდი| მისცემდა
 PRSSBJV| ვაძლევდე| აძლევდეს
+FUT    | მივცემ| მისცემს
+COND   | მივცემდი| მისცემდა
 FUTSBJV| მივცემდე| მისცემდეს
 AOR    | მივეცი| მისცა
 OPT    | მივსცე| მისცეს
@@ -1348,10 +1348,10 @@ Note that in all tenses except for EVD, PRSSBJV, and DU, the subjec is in ERG. F
 &nbsp; | 1SG | 3SG
 -------|-----|------
 PRS    | ვიცი| იცის
-FUT    | მეცოდინება| ეცოდინება
 IMPERF | ვიცოდი| იცოდა
-COND   | მეცოდინებოდა| ეცოდინებოდა
 PRSSBJV| ვიცოდე| იცოდეს
+FUT    | მეცოდინება| ეცოდინება
+COND   | მეცოდინებოდა| ეცოდინებოდა
 FUTSBJV| მეცოდინებოდეს| ეცოდინებოდეს
 AOR    | ვიცოდი| იცოდა
 OPT    | ვიცოდე| იცოდეს
