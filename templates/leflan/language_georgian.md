@@ -63,8 +63,7 @@ It is not read as it is written.
 
 ## Prefixes
 
-გადა
-: over, motion across
+Prefixes are mostly used with verbs to indicate direction, but may appear elsewhere, especially if derived from verbs which contain them. In many cases, their meaning is not obvious (or perhaps, never had a directional component at all). See the list of [preverbs](https://zmnebi.com/#preverb) here for more information.
 
 ## Suffixes
 
@@ -188,7 +187,7 @@ GEN (ი)ს
 <attn>Syncope, or the loss of word-internal vowels, can occur in GEN. In particular, when the NOM stem ends in [აეო][ლმნრ], ex. არ or ელ, then the vowel before the ending will be lost. For example, `მეგობარი → მეგობრის`.
 
 DAT, ACC, POSS ს
-: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb. When the subject is DAT, then the object is NOM.
+: the dative/accusative/possesive case, usually used to indicate the object of a transitive verb. When the subject is DAT, then the object is NOM. In old or dialetical speech (such as in folktales), DAT may be realized as -სა.
 
 ERG მ(ა)
 : the ergative case, this is used with some verbs in the AOR case and only appears as the subject of a clause. If the subject is ERG, then the object is NOM. Nouns ending in ი drop the ი and decline with მა. All other vowel endings end with მ. Kurtsikidze refers to this as the narrative case.

@@ -1,16 +1,20 @@
 @font-face {font-family: 'Cormorant'; 
-  src: url('/css/fonts/cormorant/Cormorant-Regular.ttf') format('truetype');}
+  src: url('/css/fonts/cormorant/Cormorant-Regular.ttf') format('truetype');
+  font-display: swap;}
 
 @font-face {font-family: 'Cormorant';
   font-style: normal;
   font-weight: bold; 
-  src: url('/css/fonts/cormorant/Cormorant-Bold.ttf') format('truetype');}
+  src: url('/css/fonts/cormorant/Cormorant-Bold.ttf') format('truetype');
+  font-display: swap;}
 
 @font-face {font-family: 'Cormorant';
   font-style: italic;
   font-weight: bold; 
-  src: url('/css/fonts/cormorant/Cormorant-BoldItalic.ttf') format('truetype');}
+  src: url('/css/fonts/cormorant/Cormorant-BoldItalic.ttf') format('truetype');
+  font-display: swap;}
 
 @font-face {font-family: 'Cormorant';
   font-style: italic;
-  src: url('/css/fonts/cormorant/Cormorant-Italic.ttf') format('truetype');}
+  src: url('/css/fonts/cormorant/Cormorant-Italic.ttf') format('truetype');
+  font-display: swap;}

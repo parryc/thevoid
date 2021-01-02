@@ -1,2 +1,3 @@
 @font-face {font-family: 'MayanNumerals'; 
-  src: url('/css/fonts/mayan/BabelStoneMayanNumerals.ttf') format('truetype');}
+  src: url('/css/fonts/mayan/BabelStoneMayanNumerals.ttf') format('truetype');
+  font-display: swap;}

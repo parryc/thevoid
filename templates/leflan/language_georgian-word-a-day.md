@@ -65,3 +65,52 @@ Ju
 49. დაგულ(ვ)ებული _pp_ _sst_ sensed, guessed, intuited (_e.g. sb/sth's whereabouts_): ტყეში სოკოები მქონდა ~ I felt I knew where the mushrooms in the forest were.
 50. დაეწყევლინება (დაეწყევლინა, დასწყევლინებია) _vi2_ (<დააწყევლინებს) will give sb a pretext to curse one
 51. დაივახშმებს (დაივახშმა, დაუვახშმებია) _vt1_: მთვარე ~ the moon will rise late (_i.e. after supper_)
+52. დაიღერღება (დაიღერღა, დაღერღილა) _vi_ (<დაღერღავს) (_grain, maize_) will be coarse-ground, kibbled
+53. დაკოსებული _pp_ © slapping (_e.g. small hat on big head_)
+54. დამოლოხონი _n_ _bot_ † dragon's blood (_see_ დავალხენი)
+55. დანივრული _pp_ cooked with garlic: ვერ მოგართვეს ~ ბადრიჯანი_iron_ You'll go away empty-handed _lit_ They couldn't offer you aubergines in garlic
+56. დასარყავს (დასარყა, დაუსარყავს) **1** will put stakes round sth (_field_); **2** will put sth (_horse's/ox's head_) on stake (_against evil spirits_); **3** _Ki_ _plu_ _O_ will freeze sb/sth stiff as a post
+57. დატრუხუნებს _io_ (_e.g. pig_) goes about grunting
+58. დაუპატიჟებლობა _n_ failure to invite
+59. დაუჭკვიანდება (დაუჭკვიანდა, დასჭკვიანებია) _vi2_ (<დაჭკვიანდება) sb's sb will become clever
+60. დაყვავილებული _pp_ having stopped blossoming
+61. დაძვრება _io_ **1** moves about (_among/beneath sth, e.g. vines_); **2** _dg_ creeps about furtively
+62. დახეულფარაჯიანი _a_ wearing a torn greatcoat
+63. დესი _a_ † more of a sister (_than a sister_)
+64. დუნდულიანი _a_ with (big) buttocks; buttock (_area_)
+65. ელამაზება **1** (ელამაზა, _no pf_) _vi2_ seems beautiful to sb; **2** _io_ flirts with sb
+66. ერეკლე (-ეს) _N_ Heracles; _man's & king's name_: არ იცი, სად ~ და სად ჩემი ყლე _vu_ You know fuck-all
+67. ეღიმება (გაეღიმა, გაღიმებია) _vi_ a smile comes over sb; sb (_IO_) can't help smiling
+68. ვაჟიბედური _a_ _fl_ with a manly fate
+69. ზამბახ(ებ)იანი _a_ where irises grow
+70. ზრინვა _a_ _Saba_ noise of army/battle
+71. თავსამკ(აულ)ი _n_ _lst_ **1** festive woman's headgear; **2** vignette, title ornament; manuscript illumination
+72. თახუმი _n_ _Ki_ 11 _or_ 19 pairs of boots (_of same size_)
+73. თვლიანი _a_ **1** wheeled; **2** bejewelled; set with gems
+74. იაკამი _n_ _Gu_ very bright moon
+75. იზვავებს (იზვავა, უზვავია) _vt1_ will fall as an avalanche
+76. იმლიკი _n_ _a_ **1** (sb) rude, moody, eccentric; **2** _Ka_ (sb) sly, crafty; **3** _Ka_ fat (lamb)
+77. ირმისტყავაფარებული _a_ covered in deer-skin
+78. იქიანებს (მოიქიანა, მოუქიანებია) _Ju_ hurls sth hard
+79. იწილო-ბიწილო _n_ **1** _chant in, and name of, game: children sit with legs out, one child counts legs on eeny-meeny miny mo principle; last child counted folds legs; game ends when all legs are folded_; **2** drawn-out boring procedure
+80. კალბადე _n_ _Gu_ forked stick for retrieving dynamited fish
+81. კეთილნაკურთხი _a_ _Ju_ _iron_ blessed (_i.e._ cursed)
+82. კიმპლა-კიმპლა _adv_ (_gathering grapes_) a few at a time, where there are only 2-3 grapes on a stalk
+83. კონჩხა _n_ _Ps_ shepherd's wooden drinking bowl
+84. კუკუბრიკი _n_ heretical sectarian
+85. ლეგჩოხა (-ას) _a_ wearing a grey tunic: ~ ბიჭი _eu_ wolf _lit_ lad in a grey tunic
+86. ლხინგადახდილი _a_ who has had a good time
+87. მამაცთმამაცი _a_ of indomitable courage
+88. მაშველი **1** _pa_ rescuer; life-saving; **2** _n_ shoe-horn
+89. მემიმინოვე _n_ † sparrow-hawk handler
+90. მზეთუნახავი **1** _a_ unblemished _lit_ untouched by the sun; **2** _n_ woman of outstanding beauty
+91. მიბნელებული **1** _n_ twilight, half-light **2** _pp_ twilit
+92. მიიწვავს (მიიწვა, მიუწვავს) (_pan_) will burn sth (_food_)
+93. მისაჩქმალავი _fp_ (_scandal etc_) to be hushed up
+94. მიჩერჩეტობს _io_ shambles (aimlessly) along/off
+95. მოაზრაყე _a_ † somewhat blue
+96. მობრტყო _a_ more or less flat, flattish
+97. მოთუთქული _pp_ **1** scalded (_fruit_); **2** anguished
+98. მოიწვავს (მოიწვა, მოუწვავს) _vs_ (<მოწვავს) **1** will fry sth (up) for o.s.; **2** will have one's sth (_mole_) removed (_by caustic liquid_)
+99. მომწუთხო _a_ slightly oversalted
+100. მოსაშუალო _a_ rather middling

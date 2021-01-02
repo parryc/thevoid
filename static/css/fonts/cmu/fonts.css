@@ -2,17 +2,21 @@
 /* Font PT Serif:  Copyright 2010 ParaType Ltd. All rights reserved.*/
 
 @font-face {font-family: 'CMU'; 
-  src: url('/css/fonts/cmu/cmunrm.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunrm.otf') format('opentype');
+  font-display: swap;}
 
 @font-face {font-family: 'CMU'; 
   font-weight: bold;
-  src: url('/css/fonts/cmu/cmunbx.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunbx.otf') format('opentype');
+  font-display: swap;}
 
 @font-face {font-family: 'CMU'; 
   font-style: italic;
-  src: url('/css/fonts/cmu/cmunti.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunti.otf') format('opentype');
+  font-display: swap;}
 
 @font-face {font-family: 'CMU'; 
   font-style: italic;
   font-weight: bold; 
-  src: url('/css/fonts/cmu/cmunbi.otf') format('opentype');}
+  src: url('/css/fonts/cmu/cmunbi.otf') format('opentype');
+  font-display: swap;}

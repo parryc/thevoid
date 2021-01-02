@@ -430,7 +430,7 @@ When emphasizing the on-going nature of past actions.
 
 <attn>The _ş_ is often dropped in the 2nd person in both spoken and written Azeri.<cite>[EoA, 112](#eoa)</cite></attn>
 
-For completed actions that are relevent to the present, e.g. "I have seen it".
+For completed actions that are relevent to the present, e.g. "I have seen it". Often this form will be used with sequential actions, where one is completed before the other one commences. It will be in 3SG regardless of number of people. For example, <ex>_Sonra isə uzanıb bir az istirahət etdik_ ⧸ After, we laid down and took a rest</ex>.
 
 &nbsp; |SG |PL
 -|-----|--

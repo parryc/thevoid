@@ -305,12 +305,12 @@ The series and screeves are, as follows. You will see that under ① series are 
   <tbody>
     <tr><td colspan="2" style="background: #f7f7f7">① Series</td></tr>
     <tr>
-      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-present-prs">Present</a></td>
-      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-future-fut">Future</a></td>
+      <td style="border-bottom-style: hidden"><a href="#1-present-prs">Present</a></td>
+      <td style="border-bottom-style: hidden"><a href="#1-future-fut">Future</a></td>
      </tr>
     <tr>
-      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-imperfect-imperf">Imperfect</a></td>
-      <td style="border-bottom: .1rem solid #fafafa"><a href="#1-conditional-cond">Conditional</a></td>
+      <td style="border-bottom-style: hidden"><a href="#1-imperfect-imperf">Imperfect</a></td>
+      <td style="border-bottom-style: hidden"><a href="#1-conditional-cond">Conditional</a></td>
      </tr>
     <tr>
       <td><a href="#1-present-subjunctive-prssbjv">Present Subjunctive</a></td>
@@ -370,7 +370,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: PRS
 
 <attn>✎ Base form</attn>
 
@@ -429,7 +429,7 @@ This must be memorized as an irregular verb. It is important to note two things:
 2|ხარ|ხართ
 3|არის|არიან
 
-### How to Use
+### How to Use: PRS
 
 Much like in other languages, the present tense is used to describe presently occuring actions or actions that exist out of time. Ex. _I am eating khachapuri_ and _I eat khachapuri_ would both be in PRS.
 
@@ -447,7 +447,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: IMPERF
 
 <attn>✎ Derived from PRS, no preverb</attn>
 
@@ -497,7 +497,7 @@ This is the same as AOR.
 2|იყავი|იყავი**თ**
 3|**იყო**|იყვ**ნენ**
 
-### How to Use
+### How to Use: IMPERF
 
 The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time".<cite>[Kiziria 142](#kiziria)</cite> It may also indicate past actions that were interrupted by another action.<cite>[Kurtsikidze 129](#kurtsikidze)</cite>
 
@@ -515,7 +515,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: PRSSBJV
 
 <attn>✎ Derived from IMPERF, no preverb</attn>
 
@@ -565,7 +565,7 @@ This is the same form as OPT.
 2|იყო|იყო**თ**
 3|იყო**ს**|იყვ**ნენ**
 
-### How to Use
+### How to Use: PRSSBJV
 
 PRSSBJV is used to express wishes, possibilities, or things that could or should be happening, but aren't at the present moment. If there is a chance that it could happen use the IMPERF instead, otherwise, keep using PRSSBJV. It is found in hypothetical conditions and must be followed by `რომ:if` or one of `უნდა:wants`, `უნდა:must`, `იქნებ:perhaps`, `უნატრის:wishes for something`, `შეიძლება:it is possible` or similar words.
 
@@ -585,7 +585,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: FUT
 
 <attn>✎ Derived from PRS, has preverb</attn>
 
@@ -644,7 +644,7 @@ This must be memorized as an irregular verb. It is important to note two things:
 2|იქნები|იქნები**თ**
 3|იქნებ**ა**|იქნები**ან**
 
-### How to Use
+### How to Use: FUT
 
 Similar to other languages, FUT indicates a potential future action. Unlike some languages that have a definite and indefinite future, there is no such distinction in Georgian.
 
@@ -666,7 +666,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: COND
 
 <attn>✎ Derived from FUT, has a preverb. Alternatively, it is IMPERF with a preverb and potentially some adjustments.</attn>
 
@@ -718,7 +718,7 @@ This is the same as FUT, but with _-ოდ_ + person markers added.
 2|იქნებოდი|იქნებოდი**თ**
 3|იქნებოდ**ა**|იქნებოდ**ნენ**
 
-### How to Use
+### How to Use: COND
 
 This the "I would do this" tense – hypothetical or desirious scenarios, that are likely or possible to happen, such as describing future scenarios. These types of sentences are often marked with paris of words such as `ალბათ:maybe, perhaps`/`თუ:if` and `მაშინ:then`. In these types of sentences, the current (PRS) or future clause (FUT) would be marked with `თუ:if` and the COND clause preceded by `მაშინ:then`.
 
@@ -743,7 +743,7 @@ SUBJ   | NOM    | NOM      | DAT     | NOM
 D.OBJ  | DAT    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: FUTSBJV
 
 <attn>✎ Derived from COND with ending changes or derived from PRSSBJV with a preverb or </attn>
 
@@ -794,9 +794,9 @@ Change the ending vowels in COND to ე. Note that 3SG adds -ს and that 3PL is
 3|იქნებოდე**ს**|იქნებოდ**ნენ**
 
 
-### How to Use
+### How to Use: FUTSBJV
 
-FUTSBJV is very similar to PRSBJV, but as indicated by the existence of the preverb and the word "future", it has a perfective aspect and it cannot be used to refer to actions currently going on, but rather only actions in the future. Compare these two examples<cite>[Kurtsikidze, p133](#kurtsikidze)</cite>:
+FUTSBJV is very similar to PRSSBJV, but as indicated by the existence of the preverb and the word "future", it has a perfective aspect and it cannot be used to refer to actions currently going on, but rather only actions in the future. Compare these two examples<cite>[Kurtsikidze, p133](#kurtsikidze)</cite>:
 
 First, in PRSSBJV: <ex>_ნეტავი ვიოლინოს უკრაფდე_ ⧸ I wish that you were playing the violin (currently, as I'm speaking)</ex>. Here is where the idea of imperfective aspect comes in: the action, "playing" does not have an explicit start or end, but rather it is that the sense of wishing is for the violin playing to have been occurring.
 
@@ -816,7 +816,7 @@ SUBJ   | ERG    | NOM      | DAT     | NOM
 D.OBJ  | NOM    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: AOR
 
 <attn>✎ Has preverb. This is another form where it is recommended to memorize, especially as it is a clear way to learn what the preverb is.</attn>
 
@@ -877,7 +877,7 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 2|იყავი|იყავი**თ**
 3|**იყო**|**იყვნენ**
 
-### How to Use
+### How to Use: AOR
 
 The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete.
 
@@ -895,7 +895,7 @@ SUBJ   | ERG    | NOM      | DAT     | NOM
 D.OBJ  | NOM    | (DAT)    | NOM     | ∅
 I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: OPT
 
 <attn>✎ Derived from AOR, has a preverb</attn>
 
@@ -957,7 +957,7 @@ The root in AOR gets swapped out for _იყო_ and 3SG adds and _-ს_.
 2|იყო|იყო**თ**
 3|იყო**ს**|**იყვნენ**
 
-### How to Use
+### How to Use: OPT
 
 The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria, p180](#kiziria)</cite> Kurtsikidze also mentions that the optative plural is used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
 
@@ -988,7 +988,7 @@ SUBJ   | DAT    | NOM      | DAT     | NOM
 D.OBJ  | NOM    | (DAT)    | NOM     | ∅
 I.OBJ  | თვის   | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: EVD
 
 <attn>✎ Derived from FUT, has preverb</attn>
 
@@ -1048,7 +1048,7 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 2|ყოფილ**ხარ**|ყოფილ**ხართ**
 3|ყოფილა|ყოფილა**ნ**
 
-### How to Use
+### How to Use: EVD
 
 Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თორემ:apparently`.
 
@@ -1068,7 +1068,7 @@ SUBJ   | DAT    | NOM      | DAT     | NOM
 D.OBJ  | NOM    | (DAT)    | NOM     | ∅
 I.OBJ  | თვის   | DAT      | თვის    | (prep.)
 
-### How to Form
+### How to Form: PSTSBJV
 
 <attn>✎ Derived from EVD, has preverb</attn>
 
@@ -1127,7 +1127,7 @@ Rather than use the PRS form of _to be_, instead use the AOR form of _to be_ as 
 2|ყოფილიყავი|ყოფილიყავი**თ**
 3|**ყოფილიყო**|**ყოფილიყვნენ**
 
-### How to Use
+### How to Use: PSTSBJV
 
 This is an action that occurs in the past, but prior to a past timeframe already established, i.e. some sort of pluperfect. However, as Ⓗ says, and Ⓚ implies by description, this functions effectively as a Past Subjunctive. That is, expressing wishes of a hypothetical past that cannot be achieved.
 
@@ -1160,7 +1160,7 @@ I.OBJ  | თვის   | DAT      | თვის    | (prep.)
 
 This tense named by [Corbin Dewitt](corbindewitt.com).
 
-### How to Form
+### How to Form: DU
 
 <attn>✎ Derived from PRSSBJV, has preverb</attn>
 
@@ -1210,7 +1210,7 @@ The root becomes _ყოფილიყო_ and follows the normal ვ-class end
 2|ყოფილიყო|ყოფილიყო**თ**
 3|ყოფილიყო**ს**|ყოფილიყო**ნ**
 
-### How to Use
+### How to Use: DU
 
 An uncommonly used tense, restricted mostly to things a drunk uncle would do: talking about past actions the speaker has no memory of doing and giving toasts.
 
