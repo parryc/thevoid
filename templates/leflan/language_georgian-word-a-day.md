@@ -1,18 +1,44 @@
 # A Georgian Word A Day
 
-There are 1727 pages in the Comprehensive Georgian-English Dictionary and just over 172 days left in 2020. I thought, why not see what strange words are on every 10 pages through the end of the year. None of these are likely to be particularly useful, but hopefully you'll find some that make you smile!
+There are 1727 pages in the Comprehensive Georgian-English Dictionary and just over 172 days left in 2020. I thought, why not see what strange words are on every 10 pages through the end of the year. The dictionary itself is incredibly impressive and I would urge you, even if you are not interested in Georgian, to take a gander if you ever get a chance.
 
-So, starting at page one, on July 9th, here are my selections for the year.
+Some of the pages ended up being variations on one word (ex. all derivations on "politic-") so some selections below don't have the same punch as others. Many of what you have below are either ones that I thought were interesting to have as a single entry ("wearing a torn greatcoat"), interesting meanings (boned shoulder, goldsmith's hammer, and eel), or had weird/funny examples ("slapping (_e.g. small hat on big head_)")
 
-Unusual abbreviations used:
-©
-†
-‡
-Gu
-Gr
-Kk
-Saba
-Ju
+None of these are likely to be particularly useful, but hopefully you'll find some that make you smile!
+
+As with any dictionary, there are a number of unusual abbreviations used, some of which are explained below. The number following in parentheses is the number of times it is used.
+
+* _n_ noun (48)
+* _a_ adjective (38)
+* † obsolete (16)
+* _pp_ past participle (16)
+* _vn_ verbal noun (14)
+* _vi2_ intransitive verb with 2 arguments (10)
+* ‡  Old Georgian (to 1100 AD) (7)
+* _io_ present series only (7)
+* _Gu_ Gurian dialect (7)
+* © colloquial (6)
+* _vt1_ transitive verb with 1 argument (6)
+* _lit_ literal (6)
+* _Ka_ Kartlian dialect (6)
+* _vs_ subjective version (5)
+* _vi_ intransitive verb with 1 argument (5)
+* _Saba_ found in Sulkan-Saba Orbeliani's dictionary (5)
+* _Ps_ Pshavian dialect (4)
+* _Ju_ Jewish dialect (4)
+* _Im_ Imeretian dialect (4)
+* _Gr_ form I. Grishashvili's urgan lexicon (4)
+* _Ki_ Kiziqi dialect (3)
+* _Kv_ Khevsur dialect (2)
+* _Kk_ Kakhetian dialect (2)
+* _Tu_ Tush dialect (1)
+* _Mo_ Mokhevi dialect (1)
+* _Me_ Meskhian dialect (1)
+* _Le_ Lechkumi dialect (1)
+* _Ja_ Javakhetian dialect (1)
+* _Ig_ Ingolo dialect (1)
+
+If you are interested in understanding more about the verbal forms below and the abbreviations above you may find the website [zmnebi.com](https://zmnebi.com) useful.
 
 1. ააბრაგებს (გაააბრაგა, გაუაბრაგებია) _Gu_ makes a brigand of sb
 2. აბაჟურიანი _a_ with a lampshade
@@ -27,10 +53,10 @@ Ju
 11. ასონასი _n_ _Gr_ snap (_card game_)
 12. აუქნელი _np_ not cut into pieces; whole (_piece of meat_)
 13. აღა-დედაკაცი _n_ _Gr_ mannish woman
-14. აღტვირთვა _vn_ _‡_ **1** loading, saddling (_asses_); **2** being with child
+14. აღტვირთვა _vn_ ‡ **1** loading, saddling (_asses_); **2** being with child
 15. აჩხორვა _vn_ (<აჩხორავს) piling into a big untidy heap
 16. აჭოტილა _n_ _a_ _Gr_ tall; beanstalk of a man
-17. ბათურა (-ას) _ა_ _Gu_ plump (_child_); name for fat dog
+17. ბათურა (-ას) _a_ _Gu_ plump (_child_); name for fat dog
 18. ბერმუხა _n_ **1** old oak tree; **2** _Ps_ holy oak; **3** venerable old gentleman
 19. ბოჯლიანი _a_ _Kk_ covered in bushes
 20. ბუცუცი _n_ _Saba_ drooping (of) eyelid
@@ -47,7 +73,7 @@ Ju
 31. გამემარცხენდება (გამემარცხენდა, გამემარცხენებულა) will become (more) left-wing
 32. გამოეკერება (გამოეკერა, გამოჰკერებია) _vi2_ (<გამოაკერებს) will be sewn for sb, will be stitched to sth: ცას გამოეკერა is immortal _lit_ sewn to the sky
 33. გამოლოცვა _vn_ (<გამოულოცავს) **1** healing by exorcism/incantation/invocation; **2** ‡ having prayers; **3** _Ju_ finishing prayers
-34. გამოუტენის ( გამოუტენა, გამოუტენია) _vo_ (<გამოტენის) will cram sb's sth: ხახა მტვრით გამომიტენა chocked my mouth with dust
+34. გამოუტენის ( გამოუტენა, გამოუტენია) _vo_ (<გამოტენის) will cram sb's sth: ხახა მტვრით გამომიტენა choked my mouth with dust
 35. გამოჭექილი _pp_ **1** thundering, loudly echoed, reverberating; **2** © filled to the brim, crammed full
 36. განაყოფიერდება (განაყოფიერდა, განაყოფიერებულა) _vi_ (<გაანაყოფიერებს) (_land_) will be manuered
 37. განსაკაცებელი _fp_ † to be brought up like a human being; to be inculcated with humanity
@@ -60,7 +86,7 @@ Ju
 44. გვიცა _n_ † ~ და არა გვიცა (_lit_ we have and we don't have) two rolls baked for New Year (_if the first stays stuck to the oven wall, the year will be good_)
 45. გულსნეული _a_ ‡ of a perverse heart
 46. დააკერატებს (დააკერატა, დაუკერატებია) will raise sth (_piglet_) into full-grown boar
-47. დაატყაპუნებს (დაატყაპუნა, დაუტყაპუნებია) **1** will cap sth (_one's hands_); **2** _io_ splashes about (_in mud etc._), pottes about (_e.g. bare-foot_)
+47. დაატყაპუნებს (დაატყაპუნა, დაუტყაპუნებია) **1** will cap sth (_one's hands_); **2** _io_ splashes about (_in mud etc._), potters about (_e.g. bare-foot_)
 48. დაახტება (დაახტა, დახტონია) _vi2_ will leap down on sb/sth: თავზე ~ _fig_ will hit sb like a bolt from the blue; დამახტი ყლეზე! _vn_ I can't be fucking bothered
 49. დაგულ(ვ)ებული _pp_ _sst_ sensed, guessed, intuited (_e.g. sb/sth's whereabouts_): ტყეში სოკოები მქონდა ~ I felt I knew where the mushrooms in the forest were.
 50. დაეწყევლინება (დაეწყევლინა, დასწყევლინებია) _vi2_ (<დააწყევლინებს) will give sb a pretext to curse one
@@ -114,3 +140,76 @@ Ju
 98. მოიწვავს (მოიწვა, მოუწვავს) _vs_ (<მოწვავს) **1** will fry sth (up) for o.s.; **2** will have one's sth (_mole_) removed (_by caustic liquid_)
 99. მომწუთხო _a_ slightly oversalted
 100. მოსაშუალო _a_ rather middling
+101. მოუტაცებ[ე]ლი _np_ who cannot be abducted/snatched
+102. მოშინაურე _pa_ home-loving
+103. მოხისი **1** _n_ † (thick) oak forest **2** _N Kartlie village renowned for rough speech_
+104. მოქიფი _n_ † court official in charge of gifts
+105. მხარკვერიანი _a_ _Kv_ hammer-winged (_eagle's epithet_)
+106. ნაკორდალი _n_ (site of) former meadow
+107. ~ნაყოლი _sx_ _Tu_ (_sheep_) having lambed (_1-4 times_)
+108. ნიორწყ[ა]ლი _n_ _cul_ sauce of crushed garlic with salt and/or coriander seed: ნიორწყლად აქცევს, ნიორწყალივით გახდის © will beat sb to a pulp
+109. ორღობე _n_ **1** path running between fences; **2** _Ig_ wicker funnel trap-race for fish
+110. პაშტი _n_ † board for decorating bread
+111. პოლიელელო _n_ † large candlestick
+112. რა-ეგე _relative pn_ ‡ what: არცა უწყი, რასა-ეგე შენ იტყვი I know not what thou sayest
+113. რობინზონადა _n_ Robinson-Crusoe-type adventures
+114. საგვერდული _n_ **1** crossbeam (_in sheds, barns_): ~ ბოძი wall pillar (_for shed crossbeam_); **2** _Le_ tree trunk used as roadside curb
+115. საკარგყმო **1** _a_ (_toast_) to a brave man; **2** _n_ † fief; **3** _Kv_ present (_for valour_)
+116. სამსართულიანი **1** _a_ three-storey; **2** _n_ _a_: ~ (გინდა) obscene and extensive swearing
+117. სასპედაოდ _adv_ _Ju_ in order to weep
+118. საციმბირო _a_ punishable by deportation to Siberia
+119. სველ-სველი _a_ **1** quite wet; **2** full (_of drink_)
+120. სიხაფე _n_ † awesome sound/voice
+121. სუსნა _vn_ (<სუსნის) nibbling in secret (_sth delicious_)
+122. ტია-ტია _n_ nightingale's song
+123. ტყუჭი _n_ † twin fruits, two fruits grown together
+124. უთამთამებს _io_ (<თამთამებს) sb's sth (_fat_) wobbles
+125. უმსხვილესი _a_ extremely large/thick: ~ სამრეწველო ცენტრი a major industrial center
+126. უსვენია (ესვენა, სვენებია) _v stat2_ (<ასვენია) lies at rest with sb: ქოხში მკვდარი მისვენია There's a corpse in my hut
+127. უშიშულესი _a_ ‡ more naked
+128. უხარო _a_ having no oxen
+129. ფერ-გნოი _n_ _Ps_ appearance and spirit
+130. ფოსტალიონი _n_ **1** postman; **2** © informer, mole
+131. ფხუწური _n_ _Im_ wandering about from place to place
+132. ქვიქვირჩამოგდებული _a_ _Im_ with drooping lower lip
+133. ღამისმეხრეობა _n_ ox/buffalo-herding by night
+134. ღრინჭი _n_ _Gu_ noise of millstones grinding nothing
+135. ყინტორი _n_ _Saba_ ice around a mountain spring
+136. შარვალგამოხეული _a_ wearing torn trousers
+137. შეაჭრიალებს (შეაჭრიალა, ჭეუჭრიალებია) will open sth (_door inwards_) with a creak
+138. შეეხედება _io_ is not ad-looking; sb (_IO_) can look at sb (_S_): არ ~ is too ugly to look at
+139. შეიქაქანებს (შეიქაქანა, შეუქაქან(ებ)ია) _vt1_ **1** _Ka_ _Mo_ _Kk_ will rest briefly; **2** _Im_ _Gu_ will go in ranting
+140. შემოაბინდდება (შემოაბინდდა, შემოჰბინდებია) _vi2_ twilight/dusk will creep up on sb/sth
+141. შემოიწკაპავს (შემოიწკაპა, შემოუწკაპავს) _vs_ will bring in sb (_e.g. audience_) in a line
+142. შემოცმული _pp_ (hastily) thrown on (_clothing_)
+143. შესაბრაწი _fp_ (_piglet, bread_) to be browned a little
+144. შეუკრთობს (შეუკრთო, შეუკრთია) _vo_ (<შეაკრთობს) will frighten, scare off sb's sth (_e.g. goats_)
+145. შექროლება _vn_ (<შეაქროლებს) taking in at a rush
+146. შეხალისებული _pp_ (put) in a good mood
+147. შოლტაობს (იშოლტავა, უშოლტავია) _vt1_ **1** (_child_) cracks a whip; **2** _fl_ dances like a whip
+148. ჩაარტყამს (ჩაარტყა, ჩაურტყამს) _vt2/3_ will strike sb (_IO_) with sth (_from above_): ქმარს ჩაარტყა თავში ჩაქუჩი hit her husband on the head with a hammer
+149. ჩაეხავსება (ჩაეხავსა, ჩახავსებია) _vi2_ sb's sth will be covered (inside) with moss; _fig_ will be rough with age
+150. ჩაიშლება (შაიშალა, ჩაშლილა) _vi_ (<ჩაშლის) (_e.g. building_) will fall apart, will collapse; (_plan_) will go wrong; (_overboiled ravioli_) will disintegrate
+151. ჩამობარდნილი _pp_ snowed under; bushy (_eyebrows_)
+152. ჩამონაკვესი _pp_ sparked off (by flint and steel)
+153. ჩამრგვალებული _pp_ round as a ball, very fat
+154. ჩატიტავს (ჩატიტა, ჩაუტიტავს) : ჩაგტიტე! _curse_ I hope you drop dead! _lit_ I've oversalted you
+155. ჩაფუთქნული _pp_ plump, well-rounded (_woman_)
+156. ჩახინცული _vn_ _Ki_ _Ps_ (roughly) thrown in (_e.g. flock of sheep into small barn_)
+157. ჩრდილმიყენებული _a_ overshadowed; put in the shade; consigned to oblivion
+158. ციბაკი _n_ _dim_ _Saba_ poor little dog
+159. ცხოვართ-საბანელი _n_ ‡ sheep (dipping) pool
+160. ძიძგინი _vn_ **1** † women's chatter; **2** trembling, shaking; **3** _Gu_ _Im_ loud violent shaking; uproar
+161. წაეფარება (წაეფარა, წაჰფარებია) (_mist etc_) will cloud sth
+162. წამობეზღება _vn_ † duping (_enemy_) by a ruse
+163. წამოყეფება _vn_ (_dog's_) beginning to bark
+164. წასინული _pp_ _Ka_ (_food_) spoiled by cooking in  untinned coopper pan _see_ წაკალული
+165. წენწურა (-ას) _Saba_ thin piglet
+166. წინიდან _adv_ from the front: თხისა ~ გეშინოდეს, ცხენია – უკნიდანაო _prov_ Fear a goat from in front, a horse from behind
+167. წყალნასვამი _a_ having drunk (only) water
+168. ჭირიანობა _n_ time of plague
+169. ხანული _n_ † _Ka_ _Me_ _Ja_ (woman belonging to) guild of dairy milk producers
+170. ხელმოუკიდებ[ე]ლი _a_ untouched by human hand
+171. ხლახუნი _vn_ (_e.g. pig_) rubbing away (_at an itch_)
+172.ხუშურ-ხუშური _a_ **1** a lot of large (_e.g. tear drops_); **2** _Ka_ utterly fearless
+173. ჯოგურობა _n_ **1** gregariousness; **2** living as a herd
