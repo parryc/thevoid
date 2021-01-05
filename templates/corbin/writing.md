@@ -1,6 +1,16 @@
 
 ## SELECTED WORK
 
+## FICTION & POETRY
+
+[Clown Car](https://callmebrackets.net/clown-car/), Call Me [Brackets]
+
+[My Husband's Name](https://www.havehashad.com/hadposts/my-husband-s-name), Hobart After Dark
+
+two poems, August 2019. Dirt Children (print only)
+
+Finalist, NYC Midnight Flash Fiction Contest 2016-2017
+
 ## ESSAYS & REVIEWS
 
 [A Collective Victory for a Radical Bookstore](https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/soapbox/article/83578-a-collective-victory-for-a-radical-bookstore.html),  Publisher's Weekly
@@ -26,9 +36,3 @@
 [Regina Spektor](http://oneweekoneband.tumblr.com/tagged/regina_spektor/chrono) (with Sophia Nyogu), One Week // One Band
 
 [Enya](http://oneweekoneband.tumblr.com/tagged/Enya/chrono), One Week // One Band
-
-## FICTION & POETRY
-
-two poems, August 2019. Dirt Children (print only)
-
-Finalist, NYC Midnight Flash Fiction Contest 2016-2017
