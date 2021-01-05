@@ -31,8 +31,10 @@ else:
 
 @mod_corbin.route('/favicon.ico', host=host)
 def favicon():
+  # return send_from_directory(os.path.join(app.root_path, 'static'),
+  #                            'favicon_corbin.ico', mimetype='image/vnd.microsoft.icon')
   return send_from_directory(os.path.join(app.root_path, 'static'),
-                             'favicon_corbin.ico', mimetype='image/vnd.microsoft.icon')
+                             'favicon_corbin-4-small.png', mimetype='image/png')
 
 @mod_corbin.route('/css/<path:css>', host=host)
 def css(css):
