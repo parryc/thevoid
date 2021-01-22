@@ -3,6 +3,7 @@
 from flask import Flask, render_template, request, send_from_directory
 from flask_assets import Environment, Bundle
 from flask_compress import Compress
+from flask_sqlalchemy import SQLAlchemy
 import os
 import codecs
 import re
@@ -15,6 +16,7 @@ app = Flask(__name__)
 app.config.from_object('config.DevelopmentConfig')
 app.url_map.host_matching = True
 assets = Environment(app)
+db = SQLAlchemy(app)
 Compress(app)
 
 def circle_num_from_jinja_loop(num):

@@ -152,6 +152,9 @@ How many people does your group consist of? // -გან indicating "from how m
 მოყვარული
 : fan of, ex. `კინომოყვარული:film fan`
 
+მო...ო
+: -ish, ex. `მოთეთრო:whitish`
+
 -ნარი
 : grove of, group of plants, <ex>_ფიჭვი_ → _ფიჭვარი_ ⧸ pine tree → grove of pine trees</ex>
 
@@ -615,7 +618,9 @@ ADV  | რომლადაც | ჩემს ძაღლს ჰყავს �
 
 # Adjectives
 
-Adjectives can be divided between consonant-final and vowel-final adjectives. Vowel-final is any adjective ending in ა, ე, უ, ო. Consonant-final is anything else (including -ი, such as `დიდი:big`). When paired with a noun, vowel-final adjectives do not decline, whereas consonant-final will decline in ERG and VOC cases, and will drop -ი in DAT and ADV.<cite>[Kurtsikidze 53](#kurtsikidze)</cite> See, for example, examples of "at a time", where the final ი in the time is dropped.
+Adjectives generally precede the noun in Georgian (`დიდი ტყე:a big tree`). As might be expected for a language with a case system, adjectives in Georgian decline, both when standalone (following normal case rules) and when paired with a noun.
+
+When paired with a noun, adjectives can be divided between those ending in -ი and those not (also known as consonant-final and vowel-final adjectives<cite>[Kurtsikidze 53](#kurtsikidze)</cite>). Those ending in -ი will decline like a noun in ERG and VOC cases, and will drop -ი in DAT and ADV. See, for example, examples of "at a time" below, where the final ი in the time is dropped. All other adjective types will not decline when paired with a noun.
 
 ## National Adjectives
 
@@ -628,7 +633,7 @@ The comparitive degree (e.g. more/less) is expressed with `უფრო` and the
 
 Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
 
-When wanting to describe something as "as X as Y", the suffix `-(ა)ვით` is used. The item that is the Y in "as X as Y" is marked with `-(ა)ვით`. For example, in <ex>_ამ საჭმელს დედასაფით კარგად ვერავინ ამზადებს_ ⧸ No one is able to make this food as well as my mom</ex>, "as my mom" is marked with `-(ა)ვით`.
+When wanting to describe something as "as X as Y", the suffix `-(ა)ვით` is used. The item that is the Y in "as X as Y" is marked with `-(ა)ვით`. For example, in <ex>_ამ საჭმელს დედასავით კარგად ვერავინ ამზადებს_ ⧸ No one is able to make this food as well as my mom</ex>, "as my mom" is marked with `-(ა)ვით`.
 
 The sentence order can change, such as in `არ არის საქართველოსავით ძველი:(it) is not as old as Georgia`, as long as the adjective/adverb being used in the comparison follows the word marked with `-(ა)ვით`.
 

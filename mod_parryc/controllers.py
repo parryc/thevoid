@@ -4,6 +4,8 @@ from flask import Blueprint, render_template, request, jsonify, redirect,\
                   url_for, flash, send_from_directory, abort
 from app import app #, ix
 from datetime import date, timedelta
+from mod_parryc.models import Entry
+from sqlalchemy import or_
 import os
 import markdown
 import codecs
@@ -73,44 +75,49 @@ def page(title):
   return render_template('parryc/post.html',html=html, lang='ge')
 
 # ---------
-#  KZ Dict
+#  Start Dict
 # ---------
 
-@mod_parryc.route('/kz/search', methods=['GET', 'POST'], host=host)
-def dict_search_index():
+@mod_parryc.route('/<lang>/search', methods=['GET', 'POST'], host=host)
+def dict_search_index(lang):
   if request.method == 'POST':
-    return redirect(url_for('.dict_search', search=request.form['search']))
-  return render_template('parryc/dictionary_search.html')
+    return redirect(url_for('.dict_search'
+                           ,search=request.form['search']
+                           ,scope=request.form['scope']
+                           ,lang=lang))
+  return render_template('parryc/dictionary_search.html', lang=lang)
 
-@mod_parryc.route('/kz/<lemma>', methods=['GET'], host=host)
-def dict_lemma(lemma):
+@mod_parryc.route('/<lang>/<lemma>', methods=['GET'], host=host)
+def dict_lemma(lang, lemma):
   page = 'words/%s.txt' % lemma
   html = get_html(page, dictionary_entry=True)
   if html == '<p>404</p>':
     return abort(404)
   return render_template('parryc/post.html',html=html)
 
-@mod_parryc.route('/kz/search/<search>', methods=['GET'], host=host)
-def dict_search(search):
-  hits = []
-  with ix.searcher() as searcher:
-    # Default to prefix search
-    query = QueryParser('title', ix.schema).parse(search)
-    results = searcher.search(query)
-    for result in results:
-      title = re.sub(r'-\d','',result['title'])
-      summary = markdown.markdown(_clean_dictionary(result['title'] + '.txt', result['summary']))
-      link = '<a href="/kz/{0}">{0}</a>'.format(title)
-      summary = re.sub(r'<code>.*?</code>',link,summary)
-      hits.append({
-        'title':title
-       ,'summary':summary
-        })
-
-  return render_template('parryc/dictionary_results.html',hits=hits)
+@mod_parryc.route('/<lang>/search/<search>', methods=['GET'], host=host)
+def dict_search(lang, search):
+  search = f"%{search}%"
+  scope = request.args.get("scope")
+  results = []
+  if scope == "headword":
+    results = Entry.query.filter(
+              Entry.word.ilike(search)
+          )
+  if scope == "meaning":
+    results = Entry.query.filter(
+              Entry.meaning.ilike(search)
+          )
+  if scope == "both":
+    results = Entry.query.filter(
+              or_(Entry.word.ilike(search),
+                  Entry.meaning.ilike(search)
+              )
+          )
+  return render_template('parryc/dictionary_results.html',results=results, lang=lang)
 
 # ---------
-#  End KZ Dict
+#  End Dict
 # ---------
 
 def get_html(page, dictionary_entry=False):

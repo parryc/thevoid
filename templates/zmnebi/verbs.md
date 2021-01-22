@@ -1056,6 +1056,13 @@ Aronson also contransts EVD in the negative versus AOR in the negative. EVD with
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
 
+--EX--
+მთელი ზამთარი მინთია და საწველი ვერ დავაყენე.
+I had been lighting (it) the whole winter and I didn't even fix (the candle's wick) // მინთია is EVD, expressing surprise, მოგზაურობა ყარაბაღში
+მე არ დამწყინია.
+I didn't forget her // Compared with AOR, this is a more neutral "not forget", as it was not intentional that she was not forgotten, მოგზაურობა ყარაბაღში
+--ENDEX--
+
 ## ③ Past Subjunctive (PSTSBJV)
 
 > Ⓚ: 2nd Resultant
@@ -1144,6 +1151,8 @@ I wouldn't have painted the house, if you weren't here.
 I wouldn't have boughten it, if you hadn't recommended it to me.
 მე მომინდებოდა მანქანა, რომ არ ფეხები არ მქონოდა.
 I would want a car, if I didn't have legs.
+უცებ გადავწყვეტე, სახლში წამეყვანა.
+Suddenly, I decided that I should lead her to my home. // წამეყვანა is PSTSBJV, as a past desired action, მოგზაურობა ყარაბაღში
 --ENDEX--
 
 ## ③ Drunk Uncle (DU)
@@ -1213,6 +1222,11 @@ The root becomes _ყოფილიყო_ and follows the normal ვ-class end
 ### How to Use: DU
 
 An uncommonly used tense, restricted mostly to things a drunk uncle would do: talking about past actions the speaker has no memory of doing and giving toasts.
+
+--EX--
+არ მახსოვს, რამე ნორმალურად ეთქვის ან გაეკეთებინოს.
+I didn't remeber what he normally had said or what he had done. // გაეკეთებინოს is in DU as an action not remembered, მოგზაურობა ყარაბაღში
+--ENDEX--
 
 # Common Sentence Patterns
 

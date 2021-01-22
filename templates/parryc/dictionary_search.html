@@ -11,58 +11,31 @@ parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
 {% endblock %}
 {% block content %}
   <h1>Search</h1>
-  <form action="/kz/search" method="post">
+  <form action="/{{lang}}/search" method="post">
     <input type="text" placeholder="search" name="search"/>
+    <br/>
+    <select name="scope" style="width:150px;">
+      <option>headword</option>
+      <option>meaning</option>
+      <option>both</option>
+    </select>
     <input type="submit">Go!</input>
   </form>
 
-  <br/>
-  <em>Etymologies</em>
-  <ul>
-    <li>arabic</li> 
-    <li>arabic-farsi</li> 
-    <li>farsi</li>
-  </ul>
+  <h2>UNDER CONSTRUCTION!</h2>
 
-  <em>Tags</em>
+  This is an on-going project to digitize Amjad Jaimoukha's 1997 Kabardian-English dictionary. It is going to take a while. Please email me with any questions or comments, but please do not email with typos until this notice is gone. :)
+
+  <div style="width: 587px; border: 1px solid black; height: 1.5em; color: white;">
+    <div style="width: 200px; background-color: black; height: 1.5em;">200/587pgs OCR'd</div>
+  </div>
+
+  <div style="width: 587px; border: 1px solid black; height: 1.5em;">
+    <div style="width: 1px; background-color: black; height: 1.5em;">1/587pgs cleaned</div>
+  </div>
+  <br/><br/>
+  <h3>change log</h3>
   <ul>
-    <li>med</li>
-    <li>bot</li>
-    <li>hist</li>
-    <li>neol</li>
-    <li>pol</li>
-    <li>psych</li>
-    <li>folk</li>
-    <li>agric</li>
-    <li>colloq</li>
-    <li>dial</li>
-    <li>mus</li>
-    <li>min</li>
-    <li>lit</li>
-    <li>fig</li>
-    <li>rel</li>
-    <li>poet</li>
-    <li>math</li>
-    <li>geol</li>
-    <li>ethn</li>
-    <li>phys</li>
-    <li>pej</li>
-    <li>myth</li>
-    <li>leg</li>
-    <li>sth</li>
-    <li>econ</li>
-    <li>socio-pol</li>
-    <li>astron</li>
-    <li>ling</li>
-    <li>arch</li>
-    <li>anat</li>
-    <li>expr</li>
-    <li>phil</li>
-    <li>zool</li>
-    <li>collect</li>
-    <li>tech</li>
-    <li>geog</li>
-    <li>iron</li>
-    <li>obs</li>
+    <li>2021-01-21 First version uploaded, ~5000 entries</li>
   </ul>
 {% endblock %}

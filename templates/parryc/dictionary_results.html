@@ -11,9 +11,10 @@ parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
 {% endblock %}
 {% block content  %}
   <h1>Search Results</h1>
-  {% if hits %}
-    {% for hit in hits %}
-      {{hit.summary|trim|safe}}
+  <a href="/{{lang}}/search">Search again</a><br/>
+  {% if results %}
+    {% for result in results %}
+      <strong>{{result.word}}</strong> {{result.meaning|trim|safe}}
       <hr/>
     {% endfor %}
   {% else %}
