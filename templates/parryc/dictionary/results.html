@@ -1,0 +1,24 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/parryc.css" />
+  {% assets "parryc_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
+{% endblock %}
+{% block content  %}
+  <h1>search results</h1>
+  <h2>searching for {{search}}</h2>
+  <a href="/{{lang}}/search">Search again</a><br/>
+  {% if results %}
+    {% for result in results %}
+      <strong>{{result.word}}</strong> {{result.meaning|trim|safe}}
+      <hr/>
+    {% endfor %}
+  {% else %}
+    No results
+  {% endif %}
+{% endblock %}

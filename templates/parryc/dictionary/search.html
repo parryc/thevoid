@@ -1,0 +1,53 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/parryc.css" />
+  {% assets "parryc_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
+{% endblock %}
+{% block content %}
+  <h1>{{dictionary_name}}</h1>
+  <form action="/{{lang}}/search" method="post">
+    <input type="text" placeholder="what do you want to search for?" name="search" style="width: 100%;"/>
+    <br/>
+    search in: 
+    <input type="radio" name="scope" id="both" value="both" checked>
+    <label for="both">word and meaning</label>
+ 
+
+    <input type="radio" name="scope" id="headword" value="headword">
+    <label for="headword">word only</label>
+
+    <input type="radio" name="scope" id="meaning" value="meaning">
+    <label for="meaning">meaning only</label>
+    <br/>
+    <label for="transliterate">transliterate latin to cyrillic:</label>
+    <input type="checkbox" name="transliterate" id="transliterate"/>
+    <br/>
+
+    <input type="submit" value="Search">
+  </form>
+
+  <a href="/{{lang}}/browse">browse dictionary</a>
+
+  <h2>UNDER CONSTRUCTION!</h2>
+
+  This is an on-going project to digitize Amjad Jaimoukha's 1997 Kabardian-English dictionary. It is going to take a while. Please email me with any questions or comments, but please do not email with typos until this notice is gone. :)
+
+  <div style="width: 587px; border: 1px solid black; height: 1.5em; color: white;">
+    <div style="width: 300px; background-color: black; height: 1.5em;">300/587pgs OCR'd</div>
+  </div>
+
+  <div style="width: 587px; border: 1px solid black; height: 1.5em;">
+    <div style="width: 2px; background-color: black; height: 1.5em; white-space: nowrap;">2/587pgs cleaned</div>
+  </div>
+  <br/><br/>
+  <h3>change log</h3>
+  <ul>
+    <li>2021-01-21 First version uploaded, ~5000 entries</li>
+  </ul>
+{% endblock %}

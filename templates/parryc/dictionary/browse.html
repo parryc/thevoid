@@ -1,0 +1,33 @@
+{% extends '/base.html' %}
+{% block page_css %}
+  <link rel="stylesheet" href="/css/parryc.css" />
+  {% assets "parryc_css" %}
+    <!--force assets to compile, while Flask fixes multi-host bug-->
+    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+  {% endassets %}
+{% endblock %}
+{% block header %}
+parryblog . <a href="/">home</a> . <a href="/posts">posts</a>
+{% endblock %}
+{% block content  %}
+  <h1>browse dictionary</h1>
+  <a href="/{{lang}}/search">return to search</a>
+  <br/><br/>
+  {% for let in indices['initial'] %}
+    <a href="/{{lang}}/browse/{{let}}">{{let}}</a> . 
+  {% endfor %}
+  <br/>
+  {% if secondary %}
+    <br/>
+    {% for sec_let in secondary %}
+      <a href="/{{lang}}/browse/{{letter}}/{{sec_let}}">{{letter}}{{sec_let}}</a> . 
+    {% endfor %}
+    <br/><br/>
+    {% for entry in entries %}
+      <strong>{{entry.word}}</strong> {{entry.meaning|trim|safe}}
+      <hr/>
+    {% endfor %}
+  {% else %}
+    {% if not main_page %}no words beginning with this letter have been added yet{% endif %}
+  {% endif %}
+{% endblock %}
