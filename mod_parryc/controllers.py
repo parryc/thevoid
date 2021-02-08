@@ -83,11 +83,16 @@ def dict_search_index(lang):
   dictionary_name = ''
   if lang == 'kb':
     dictionary_name = 'kabardian-english dictionary'
+  print(request.form)
+  if 'transliterate' not in request.form:
+    transliterate = 0
+  else:
+    transliterate = 1
   if request.method == 'POST':
     return redirect(url_for('.dict_search'
                            ,search=request.form['search']
                            ,scope=request.form['scope']
-                           ,transliterate=request.form['transliterate']
+                           ,transliterate=transliterate
                            ,lang=lang
                            ,dictionary_name=dictionary_name))
   return render_template('parryc/dictionary/search.html', lang=lang, dictionary_name=dictionary_name)
@@ -103,7 +108,7 @@ def dict_lemma(lang, lemma):
 @mod_parryc.route('/<lang>/search/<search>', methods=['GET'], host=host)
 def dict_search(lang, search):
   transliterate = request.args.get("transliterate")
-  if transliterate:
+  if transliterate == "1":
     search = _transliterate_kb(search)
   original_search = search
   search = f"%{search}%"
