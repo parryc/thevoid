@@ -1,5 +1,4 @@
 appdirs==1.4.4
-black==20.8b1
 bracket-table==0.1
 Brotli==1.0.9
 certifi==2017.7.27.1
