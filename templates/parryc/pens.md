@@ -11,6 +11,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lamy Safari (1.5mm italic, lime green)
 * TWSBI ECO (fine, clear)
 * ⭐️ TWSBI ECO (stub 1.1mm, clear)
+* TWSBI Diamond 580AL (medium, rose)
 * Pilot Metropolitan (fine, black)
 * Pilot Metropolitan (fine, red)
 * Pilot Penmanship (extra-fine, clear)
@@ -63,6 +64,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * ⭐️ Kaweco Pearl Black
 * Kyo no Oto Nurebairo
 * Kuretake Black
+* Lennon Tool Bar Oyster
 * ⭐️ Lennon Tool Bar Sun Moon Lake Ruby Black
 * ⭐️ Lennon Tool Bar Wenshan Pouchong
 * Monteverde Midnight Black
@@ -82,13 +84,15 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Blues
 
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
-* Lennon Tool Bar Pacific Ocean
+* Lennon Tool Bar Cloudy Day
+* ⭐️ Lennon Tool Bar Pacific Ocean
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
 
 ### Greens
 
 * Lennon Tool Bar Fireflies
+* Lennon Tool Bar Firmament
 * Lennon Tool Bar Tieguanyin
 * Lennon Tool Bar Verdant
 * Noodler's Polar Green
@@ -105,3 +109,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Purples
 
 * Pilot Iroshizuku Yama-Budo
+
+### Oranges
+
+* Lennon Tool Bar Sunset Glow

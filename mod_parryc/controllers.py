@@ -80,12 +80,17 @@ def page(title):
 
 @mod_parryc.route('/<lang>/search', methods=['GET', 'POST'], host=host)
 def dict_search_index(lang):
+  dictionary_name = ''
+  if lang == 'kb':
+    dictionary_name = 'kabardian-english dictionary'
   if request.method == 'POST':
     return redirect(url_for('.dict_search'
                            ,search=request.form['search']
                            ,scope=request.form['scope']
-                           ,lang=lang))
-  return render_template('parryc/dictionary_search.html', lang=lang)
+                           ,transliterate=request.form['transliterate']
+                           ,lang=lang
+                           ,dictionary_name=dictionary_name))
+  return render_template('parryc/dictionary/search.html', lang=lang, dictionary_name=dictionary_name)
 
 @mod_parryc.route('/<lang>/<lemma>', methods=['GET'], host=host)
 def dict_lemma(lang, lemma):
@@ -93,28 +98,74 @@ def dict_lemma(lang, lemma):
   html = get_html(page, dictionary_entry=True)
   if html == '<p>404</p>':
     return abort(404)
-  return render_template('parryc/post.html',html=html)
+  return render_template('parryc/dictionary/entry.html',html=html)
 
 @mod_parryc.route('/<lang>/search/<search>', methods=['GET'], host=host)
 def dict_search(lang, search):
+  transliterate = request.args.get("transliterate")
+  if transliterate:
+    search = _transliterate_kb(search)
+  original_search = search
   search = f"%{search}%"
   scope = request.args.get("scope")
+
   results = []
   if scope == "headword":
     results = Entry.query.filter(
               Entry.word.ilike(search)
-          )
+          ).all()
   if scope == "meaning":
     results = Entry.query.filter(
               Entry.meaning.ilike(search)
-          )
+          ).all()
   if scope == "both":
     results = Entry.query.filter(
               or_(Entry.word.ilike(search),
                   Entry.meaning.ilike(search)
               )
-          )
-  return render_template('parryc/dictionary_results.html',results=results, lang=lang)
+          ).all()
+  return render_template('parryc/dictionary/results.html',results=results, lang=lang, search=original_search)
+
+@mod_parryc.route('/<lang>/browse', methods=['GET'], host=host)
+def dict_browse(lang):
+  browse = f"{lang}_browse.json"
+  filepath = os.path.join(app.root_path, 'templates', 'parryc', 'dictionary', browse)
+  with open(filepath, 'r') as file:
+    indices = json.load(file)
+  return render_template('parryc/dictionary/browse.html', lang=lang, indices=indices, main_page=True)
+
+@mod_parryc.route('/<lang>/browse/<letter>', methods=['GET'], host=host)
+def dict_browse_secondary(lang, letter):
+  browse = f"{lang}_browse.json"
+  filepath = os.path.join(app.root_path, 'templates', 'parryc', 'dictionary', browse)
+  with open(filepath, 'r') as file:
+    indices = json.load(file)
+  if letter:
+    # TODO: need to do something about digraphs/trigraphs/quadgraphs
+    # and filter them out
+    entries  = Entry.query.filter(Entry.word.ilike(f"{letter}%")).all()
+  secondary = None
+  if letter in indices['secondary']:
+    secondary = indices['secondary'][letter]
+  return render_template('parryc/dictionary/browse.html', lang=lang
+                        , indices=indices, entries=entries
+                        , letter=letter
+                        , secondary=secondary)
+
+@mod_parryc.route('/<lang>/browse/<letter>/<sec_letter>', methods=['GET'], host=host)
+def dict_browse_tertiary(lang, letter, sec_letter):
+  browse = f"{lang}_browse.json"
+  filepath = os.path.join(app.root_path, 'templates', 'parryc', 'dictionary', browse)
+  with open(filepath, 'r') as file:
+    indices = json.load(file)
+  if sec_letter:
+    entries  = Entry.query.filter(Entry.word.ilike(f"{letter}{sec_letter}%")).all()
+  return render_template('parryc/dictionary/browse.html', lang=lang
+                        , indices=indices, entries=entries
+                        , letter=letter
+                        , secondary=indices['secondary'][letter])
+
+
 
 # ---------
 #  End Dict
@@ -176,3 +227,52 @@ def _clean_dictionary(filename, entry):
   # Remove extra spaces
   entry = re.sub(r' +',' ',entry)
   return entry
+
+def _transliterate_kb(word):
+  first_pairs = [
+    ("жь", "zhh"),
+    ("щ", "shh"),
+    ("ш", "sh"),
+    ("ч", "ch"),
+    ("ж", "zh"),
+    ("й", "jj"),
+    ("и", "ji"),
+    ("е", "je"),
+    ("я", "ja"),
+    ("ю", "ju")
+  ]
+  second_pairs = [
+    ("хь", "h"),
+    ("ӏ", "1"),
+    ("э", "e"),
+    ("ь", "\""),
+    ("ы", "i"),
+    ("ъ", "'"),
+    ("ц", "c"),
+    ("х", "x"),
+    ("ф", "f"),
+    ("у", "w"),
+    ("т", "t"),
+    ("с", "s"),
+    ("р", "r"),
+    ("п", "p"),
+    ("о", "o"),
+    ("н", "n"),
+    ("м", "m"),
+    ("л", "l"),
+    ("к", "k"),
+    ("з", "z"),
+    ("д", "d"),
+    ("г", "g"),
+    ("в", "v"),
+    ("б", "b"),
+    ("а", "a")
+  ]
+  for cyrillic, latin in first_pairs:
+    word = word.replace(latin, cyrillic)
+  
+  for cyrillic, latin in second_pairs:
+    word = word.replace(latin, cyrillic)
+  
+  print(word)
+  return word

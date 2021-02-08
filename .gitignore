@@ -7,6 +7,7 @@ indexdir/
 static/images/*/*
 templates/topuria
 avar_rocks
+.nova
 
 # Webassets cache
 .webassets-cache/

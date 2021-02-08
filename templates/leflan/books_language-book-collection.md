@@ -53,7 +53,7 @@ Mandarin – 9
 Mandarin Sign Language – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 8
+Multiple Languages – 9
 Ojibwe – 2
 Polish – 1
 Romanian – 1
@@ -87,7 +87,7 @@ Coursebook – 28
 Dictionary – 50
 Grammar – 36
 Phrasebook – 13
-Study – 9
+Study – 10
 Verb list – 3
 
 ## Languages
@@ -456,6 +456,9 @@ Louisiana Place Names of Indian Origin
 
 The Routledge Handbook of North American Languages
 : eds. Daniel Siddiqi and Michael Barrie and Carrie Gillon and Jason Haugen and Eric Mathieu, Routledge, 2020. <tag>study</tag>
+
+The Oxford Handbook of Languages of the Caucasus
+: ed. Maria Polinsky, Oxford University Press, 2020. <tag>study</tag>
 
 ### Na-Dene
 

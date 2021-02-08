@@ -552,13 +552,17 @@ My eyes were shut, as if I said, "I'm sleeping."
 
 When two things happen, but not necessarily at the same time (sometimes I ride my bike, sometimes I take the bus), use `ხან` before each "thing" that is being done.
 
-## (Not) as X, as you (ისე...როგორც)
+## (Not) as X, as you (როგორც...ისე / -ვით)
 
-This structure can be used to express both positive and negative comparisons. If the first clause is negated (`არ ვარ`, for instance), then it will be "Not as X as whoever", whereas if it is a positive clause, then the comparison is "As X as whoever".
+This structure can be used to express both positive and negative comparisons. If the first clause is negated (`არ ვარ`, for instance), then it will be "Not as X as whoever", whereas if it is a positive clause, then the comparison is "As X as whoever". Generally speaking, `X-ვით` is more common that `როგორც X ისე`.
 
 --EX--
 მაგრამ არ ვარ ისე დაკავებული როგორც შენ ხარ.
 But I am not as busy as you are.
+იმ გაზაფუხლზე ნამდვილი ძმებივით ვიყავით.
+That summer we were like true brothers.
+იმ გაზაფუხლზე როგორც ნამდვილი ძმები ისე ვიყავით.
+That summer we were like true brothers. // Less common than the above version of the sentence.
 --ENDEX--
 
 ## The Versatile კი
@@ -571,7 +575,7 @@ But I am not as busy as you are.
 
 ## Impersonal Sentences
 
-Use 3pl, for example, <ex>_ეს ხიდი ათი წლის ჭინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
+Use 3pl, for example, <ex>_ეს ხიდი ათი წლის წინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
 
 ## Infinitives vs. Verbal Nouns
 
@@ -680,6 +684,12 @@ Tbilisi often has various colloquialisms not found elsewhere, as it is the large
 *[DEF]: Definitive
 *[REFL]: Reflexive
 *[PT]: Participle
-*[S]: Singular
-*[PL]: Plural
 *[NOUN]: Noun
+*[1SG]: 1st Person Singular
+*[2SG]: 2nd Person Singular
+*[3SG]: 3rd Person Singular
+*[1PL]: 1st Person Plural
+*[2PL]: 2nd Person Plural
+*[3PL]: 3rd Person Plural
+*[SG]: Singular
+*[PL]: Plural

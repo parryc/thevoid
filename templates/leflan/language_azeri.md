@@ -715,6 +715,10 @@ Similar to English's conjunction "that", _ki_ conjoins two sentences. It is requ
 
 As a sentence final particle in a question, _ki_ adds a sense surprise or disbelief. It is loosely equivalent to staring sentences in English with "doesn't/didn't/don't", as in "didn't you do that already?"
 
+## Emphasis in Negative Sentences (ki)
+
+As a sentence final particle in a negative sentence, _ki_ emphasizes the obvious nature of the sentence. It can be thought of as adding the "of course" part in "of course I didn't do it."
+
 ## Comparison
 
 There are a few ways to compare things in Azeri.
