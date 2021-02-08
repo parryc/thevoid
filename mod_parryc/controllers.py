@@ -83,7 +83,7 @@ def dict_search_index(lang):
   dictionary_name = ''
   if lang == 'kb':
     dictionary_name = 'kabardian-english dictionary'
-  print(request.form)
+
   if 'transliterate' not in request.form:
     transliterate = 0
   else:
@@ -279,5 +279,4 @@ def _transliterate_kb(word):
   for cyrillic, latin in second_pairs:
     word = word.replace(latin, cyrillic)
   
-  print(word)
   return word
