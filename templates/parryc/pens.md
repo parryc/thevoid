@@ -27,6 +27,8 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ## Paper 🗒
 
+* Conifer Yoseka Notebook v1
+* Kamiterior Siccocu Sumi
 * Kleid 中村印刷所×kleid 2mm flat notes A5
     * Uses OK Fools paper
 * Leuchtturm1917 Notebook Medium
@@ -43,6 +45,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Scoutbook
 * Tomoe River 52 gsm A5
 * Tomoe River 52 gsm Kanso Sasshi Booklet
+* TROLLS PAPER Caprice
 * Tsubame notebook B5
 * Yamamoto Paper Tasting Egg Shell
     * Cosmo Air Light B7
@@ -78,6 +81,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Kaweco Ruby Red
 * Kyo no Oto Adzukiiro
 * Lennon Tool Bar Watermelon
+* Nagasawa Kobe Kitano Ijinkan
 * Noodler's Sultan Rose
 * Pilot Red
 
@@ -86,6 +90,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Cloudy Day
 * ⭐️ Lennon Tool Bar Pacific Ocean
+* Nagasawa Kobe Minatojima Island
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
 
@@ -108,8 +113,13 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Purples
 
+* Nagasawa Kobe Sanmomiya Pensée
 * Pilot Iroshizuku Yama-Budo
 
 ### Oranges
 
 * Lennon Tool Bar Sunset Glow
+
+### Silvers
+
+* Kaimei Silver Bokujyu

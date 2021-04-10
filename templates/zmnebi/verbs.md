@@ -650,7 +650,7 @@ Similar to other languages, FUT indicates a potential future action. Unlike some
 
 FUT can be used in conditional sentences – if you build it, they will come – but with some nuance.
 
-In most cases, if the conditions are real (or potentially real), then both clauses must be in FUT. One most often uses `თუ:if` with these types of conditional sentences When using other common conjunctions, such as _რომ_ and _როცა_, they have a sense of "when" or "after". All three words must come before the verb, however _თუ_ and _როცა_ may also come before the subject, where as _რომ_ may not.
+In most cases, if the conditions are real (or potentially real), then both clauses must be in FUT. One most often uses `თუ:if` with these types of conditional sentences. When using other common conjunctions, such as _რომ_ and _როცა_, the conjunctions have a sense of "when" or "after". All three words must come before the verb, however _თუ_ and _როცა_ may also come before the subject, where as _რომ_ may not.
 
 As with PRS, the negative imparative (don't!) may be formed with `ნუ:don't` and the verb in FUT.
 
@@ -879,7 +879,7 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 
 ### How to Use: AOR
 
-The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete.
+The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete, similar to "had been doing" in English.
 
 Additionally, the AOR functions as the imperative when in 2SG. Thus, _გააკეთე_ can be either "you did it" or "do it!".
 
@@ -1028,7 +1028,7 @@ From FUT, contrary to ვ-class, drop the vowel if one follows the subject marke
 
 **_Motion verbs_**
 
-This is a novel root, _სულ_, that must be memorized. It follows conjugation pattern of PRS (using _to be_ forms).
+This is a novel root, _სულ_, that must be memorized. It follows conjugation pattern of PRS (using _to be_ forms). Ⓚ mentions that it comes from the passive participle (`მისული:gone`).
 
 * მისულა had (apparently) went
 
@@ -1050,11 +1050,13 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 
 ### How to Use: EVD
 
-Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თორემ:apparently`.
+Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თურმე:apparently`.
 
 Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action didn't happen intentially. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite>
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
+
+When used with "to be", it is equivalent to "has been" in English. For example, <ex>_საქართველოში არ ვყოფილვარ_ ⧸ I have not been to Georgia</ex>.
 
 --EX--
 მთელი ზამთარი მინთია და საწველი ვერ დავაყენე.
@@ -1114,7 +1116,7 @@ Drop the ending of EVD and replace with _-ოდა_.
 
 **_Motion verbs_**
 
-Rather than use the PRS form of _to be_, instead use the AOR form of _to be_ as the ending of the verb form.
+Rather than use the PRS form of _to be_, instead use the AOR form of _to be_ as the ending of the verb form. Ⓚ mentions that it comes from the passive participle (`მისული:gone`).
 
 * მისულა had (apparently) went → მისულიყო, wanted to go
 
@@ -1136,11 +1138,18 @@ Rather than use the PRS form of _to be_, instead use the AOR form of _to be_ as 
 
 ### How to Use: PSTSBJV
 
-This is an action that occurs in the past, but prior to a past timeframe already established, i.e. some sort of pluperfect. However, as Ⓗ says, and Ⓚ implies by description, this functions effectively as a Past Subjunctive. That is, expressing wishes of a hypothetical past that cannot be achieved.
+The PSTSBJV has two main functions:
 
-Indeed, hypothetical past conditionals is the main place this is used. These conditionals are formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSUBJ. This type of conditional sentence is always marked with რომ in the second clause.
+1. Expressing wishes of a hypothetical past that cannot be achieved (e.g. I was supposed to do it)
+2. Describing an action that occurs in the past, but prior to a past timeframe already established
 
-When not in a conditional sentence, it is often used with `უნდა:want/have to` or `შეიძლება:is able` to indicate it is an action that coulda shoulda woulda happened, but did not.
+As you may guess from the 2nd function and Ⓗ's naming, this could tense could also be called the pluperfect. However, since hypothetical past conditionals is the main place this is used, for the purpose of this document, PSTSBJV will take precedence in naming. Plus, it has nice parallelism with the other subjunctive tenses.
+
+These hypothetical conditionals are often formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSUBJ. This type of conditional sentence is always marked with _რომ_ in the second clause.
+
+When not in a conditional sentence, it is often used with `უნდა:want/have to` or `შეიძლება:is able` to indicate it is an action that was supposed to happened, but did not.
+
+If the sentence describes an action that occurred in the past, but prior to some established time frame (function 2), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?"
 
 --EX--
 მე არ გამოვაცხობდი, შენ რომ არ გამოგეცხო.
@@ -1152,7 +1161,15 @@ I wouldn't have boughten it, if you hadn't recommended it to me.
 მე მომინდებოდა მანქანა, რომ არ ფეხები არ მქონოდა.
 I would want a car, if I didn't have legs.
 უცებ გადავწყვეტე, სახლში წამეყვანა.
-Suddenly, I decided that I should lead her to my home. // წამეყვანა is PSTSBJV, as a past desired action, მოგზაურობა ყარაბაღში
+Suddenly, I decided that I should lead her to my home. // წამეყვანა is PSTSBJV, as a past desired, hypothetical action, from _მოგზაურობა ყარაბაღში_
+ყოფილიყო მთვრალი, მთავარია ვიქნებოდით ერთად.
+(Even if) he were drunk, the important thing is that we'd be together. // ყოფილიყო is PSTSBJV and ვიქნებოდით is COND, from _მე რომ წავალ..._
+რა მექნა? გამეწმინდა!
+What had you done? I had cleaned up! // Both მექნა and გამეწმინდა
+მე უნდა გამეკეთებინა.
+I was supposed to do it (but didn't).
+მე უნდა წავსულიყავი.
+I was supposed to go (but didn't).
 --ENDEX--
 
 ## ③ Drunk Uncle (DU)
@@ -1265,11 +1282,13 @@ Here is an example worked in more detail.
 
 `აპირებს:plans to` takes the standard 2 arguments of subject and object. The subject, we can see is 1SG, from _ვ-_ in `ვაპირებ:I plan to`. That means there are three other words that can be the object – only one of them, `ჩაბარებას:passing of the exam.VN.DAT` is in the DAT. This is a verbal noun form, thus "passing of (an exam)". That means that `გამოცდების:exam.GEN` modifies the VN, leaving `მაგისტრატურისთვის:master's degree=for` as the indirect object of `ჩაბარებას`.
 
-This is a good example of how to take a common verb form and make a verbal phrase the object:
+This is a good example of how to take a common verb form and make a verbal phrase with the object:
 
 1. Decline the verbal noun in the correct object tense (here, DAT).
 2. Decline the direct object of the verbal noun in GEN – e.g. "the exam's passing".
 3. Suffix any indirect objects with `-თვის:for`.
+
+Note that you may also hear the form _რომ {declined verb}_, that is, a sentence like <ex>_მომწონს, სათამაშობს რომ ვაკეთებ_ ⧸ I like to make toys</ex>, rather than _მომწონს, სათამაშობის კეთება_.<cite>[Kurtsikidze, p193](#kurtsikidze)
 
 ## On the verge of doing something (ე- -ებოდეს)
 
@@ -1286,6 +1305,21 @@ Thus, `ტირის:cries` → `ეტირებოდეს:about to cry`.
 ## To make/let someone do something (-ებ/ებინ/ევ)
 
 Also known as the causative, this suffix is placed after the PFSF (e.g. after _-ავ_, _-ებ_, etc.). It adds the sense of "making/letting the object do the action". For example, <ex>_ვაკეთებინებ_ ⧸ I'm making/letting her/him do it</ex>. If the PFSF begins with a vowel other than _ე_ or _ო_, the vowel is dropped. For example, the _ა_ in _-ავ_ is dropped in <ex>ვხატვინებ ⧸ I'm making/letting her/him draw</ex>. As with most things with Georgian verbs, the suffix used varies, but _-ინებ_ is probably a safe choice.
+
+## Have done (Past Participle + to have)
+
+Depending on the tense of `აქვს:to have`, there are various equivalent meanings in English. Examples below from Ⓚ.
+
+PRS = I have done:
+: <ex>_ეს წიგნი წაკითხული მაქვს_ ⧸ I have read this book</ex>.
+
+FUT = I will have done:
+: <ex>_ხვალისათვის ეს წიგნი წაკითხული მექნება_ ⧸ I will have read this book by tomorrow</ex>.
+
+AOR = I had done:
+: <ex>_საქართველოში რომ ჩავედი, ეს ლექსები უკვე წავითხული მქონდა_ ⧸ When I arrived in Georgia, I had already read these poems</ex>.
+
+An exception to this is "had been doing", which corresponds to IMPERF or AOR (without a preverb).
 
 # Common Irregular Verbs
 
@@ -1357,7 +1391,7 @@ DU     | მიმეცეს| მიეცეს
 
 ## To know – იცის
 
-Note that in all tenses except for EVD, PRSSBJV, and DU, the subjec is in ERG. For EVD, PRSSBJV, and DU, the subject is in DAT.
+Note that in all tenses except for EVD, PRSSBJV, and DU, the subjec is ERG. For EVD, PRSSBJV, and DU, the subject is DAT.
 
 &nbsp; | 1SG | 3SG
 -------|-----|------
@@ -1388,6 +1422,31 @@ OPT    | მომინდეს| მოუნდეს
 EVD    | მნდომებია| ნდომებია
 PSTSBJV| მნდომებოდა| ნდომებოდა
 DU     | მნდომებოდეს| ნდომებოდეს
+
+#  To be able, can, manages – შეუძლია
+
+In the table below, there are two forms given for AOR and FUT. In these cases, the meaning changes slightly when using the ვ-forms. The standard მ-forms focuse on the opportunity to be able to do/manage something, but does not imply that the action was actually done. The ვ-forms focus on the results and thus implies that the action was done.
+
+Compare:
+
+* _შევძელი საქართველოში წასვლა_: I managed to go to Georgia (e.g. I was able and also did so).
+* _შემეძლო საქართველოში წასვლა_: I could have gone to Georgia (e.g. I had the opportunity to, but did not do so).
+
+Similarly, since there is no მ-form for OPT, there is a focus on completing the task at hand, rather than on acquiring an opportunity. Thus, <ex>_მე უნდა შევძლო_ ⧸ I must manage to do (and complete) it</ex>, whereas an English translation of "I must be able to do it", may imply that one must have the permission/opportunity to do it.
+
+&nbsp; | 1SG | 3SG
+-------|-----|------
+PRS    | შემიძლია| შეუძლია
+IMPERF | შემეძლოდა| შეეძლოდა
+PRSSBJV| შემეძლოდეს| შეეძლოდეს
+FUT    | შემეძლება / შევძლებ| შეეძლება
+COND   | შემეძლებოდა| შეეძლებოდა
+FUTSBJV| შემეძლებოდეს| შეეძლებოდეს
+AOR    | შემეძლო / შევძელი| შეეძლო
+OPT    | შევძლო| შეძლოს
+EVD    | შემძლებია| შესძლებია
+PSTSBJV| შემძლებოდა| შესძლებოდა
+DU     | შემძლებოდეს| შესძლებოდეს
 
 # Frequently Asked Questions
 

@@ -22,14 +22,14 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 121
+English – 128
 Finnish – 2
-French – 5
+French – 6
 Georgian – 10
-German – 6
+German – 7
 Hawaiian – 1
 Halkomelem – 1
-Hebrew – 1
+Hebrew – 2
 Hungarian – 4
 Icelandic – 2
 Ilongo – 1
@@ -49,7 +49,7 @@ Lithuanian – 3
 Lushootseed – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 9
+Mandarin – 14
 Mandarin Sign Language – 1
 Mingrelian – 1
 Mongolian – 6
@@ -68,13 +68,14 @@ Svan – 1
 Tagalog – 5
 Tahitian – 1
 Tlingit – 2
+Then – 1
 Tsakhur – 1
 Turkish – 3
 Tuvan – 1
 Uyghur – 2
 Visayan – 1
 Welsh – 3
-Wu – 1
+Wu – 2
 Xhosa – 1
 Yakut – 4
 Yiddish – 1
@@ -83,11 +84,11 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 7
-Coursebook – 28
-Dictionary – 50
-Grammar – 36
+Coursebook – 29
+Dictionary – 52
+Grammar – 38
 Phrasebook – 13
-Study – 10
+Study – 14
 Verb list – 3
 
 ## Languages
@@ -110,6 +111,9 @@ Mastering Arabic 1
 
 Hebrew Phrasebook and Dictionary
 : Justin Ben-Adam and Ilana Wistinetzki, 3rd edition, Lonely Planet, 2013. <tag>hebrew→english</tag> <tag>phrasebook</tag>
+
+Ben-Yehuda's Pocket English-Hebrew Hebrew-English Dictionary
+: ed. Ehud Ben-Yehuda and David Weinstein, Pocket Books, 1961. <tag>hebrew→english</tag> <tag>hebrewenglish→hebrew</tag> <tag>dictionary</tag>
 
 #### Maltese
 
@@ -295,6 +299,9 @@ Grammatica Nederlands
 Deutsch als Fremdsprache
 : Dieter Götz, Langenscheidt, 2016. <tag>german→german</tag> <tag>dictionary</tag>
 
+Deutsch heute Grundstufe
+: Jack Moeller and Helmut Liedloff, Houghton Mifflin, 1979. <tag>german→english</tag> <tag>coursebook</tag>
+
 #### Icelandic
 
 Íslensk-Ensk Orðabók
@@ -399,6 +406,13 @@ Svan
 
 Magic Korean
 : Kwack Sangheun, Haneon, 2012. <tag>korean→english</tag> <tag>coursebook</tag>
+
+### Kra-Dai
+
+#### Then
+
+Notes on the T'en or Yanghuang Language: Glossary
+: Li Fang-kuei, Academia Sinica, 1968. <tag>then→english</tag> <tag>dictionary</tag>
 
 ### Mayan
 
@@ -535,6 +549,9 @@ Chinuk Wawa: As our elders teach us to speak it
 Gombo Zhebes: The Dictionary of Creole Proverbs
 : Lafcadio Hearn, Reprint, Applewood Books, 1885. <tag>french→english</tag> <tag>dictionary</tag>
 
+Essential French Grammar
+: Seymour Resnick, Dover, 1965. <tag>french→english</tag> <tag>grammar</tag>
+
 #### Ladino
 
 Diccionario Básico Ladino-Español
@@ -595,6 +612,9 @@ Chinese Grammar Wiki Book – Beginner
 Chinese Grammar Wiki Book – Intermediate
 : ed. John Pasden, AllSet Learning, 2018. <tag>mandarin→english</tag> <tag>grammar</tag>
 
+Chinese Grammar Wiki Book – Upper Intermediate
+: ed. John Pasden, AllSet Learning, 2021. <tag>mandarin→english</tag> <tag>grammar</tag>
+
 北京土话
 : 齐如山, 辽宁教育出版社, 2007. <tag>mandarin→mandarin</tag> <tag>dictionary</tag>
 
@@ -604,10 +624,22 @@ Chinese Grammar Wiki Book – Intermediate
 Modern Mandarin Chinese Grammar: A Practical Guide
 : Claudia Ross and Jing-heng Sheng Ma, Routledge, 2006. <tag>mandarin→english</tag> <tag>grammar</tag>
 
+中国人最易用错的成语
+: 刘靖文, 中国书籍出版社, 2009. <tag>mandarin→mandarin</tag> <tag>study</tag>
+
+汉语书面用语初编
+: 冯胜利, 北京语言大学出版社, 2006. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+Chinese Aspectual Particle Le: A Comprehenisve Guide
+: Chungeng Zhu, HKU Press, 2019. <tag>mandarin→english</tag> <tag>study</tag>
+
 #### Wu
 
 牛康：上海话读本
 : 牛康博士, 东方出版中心, 2007. <tag>wu→mandarin</tag> <tag>coursebook</tag>
+
+吴语江山广丰方言研究
+: 秋容 and 裕幸, 爱媛大学法文学部综合策略学科, 2001. <tag>wu→mandarin</tag> <tag>study</tag>
 
 ### Slavic
 

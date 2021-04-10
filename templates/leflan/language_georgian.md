@@ -6,16 +6,31 @@
 
 ### Personal
 
-Number | NOM    | POSS   | DAT  
--------|--------|--------|-----
-1s.    | მე     |ჩემი    | მე
-2s.    | შენ    |შენი    | შენ
-3s.    | ის     |(ი)მისი | (ი)მას
-1p.    | ჩვენ   |ჩვენი   | ჩვენ
-2p.    | თქვენ  |თქვენი  | თქვენ
-3p.    | ისინი  |(ი)მითი | (ი)მათ
+1st person and 2nd person pronouns do not decline, except when they are possessive pronouns. That is, they are always `1SG:მე`, `2SG:შენ`, `1PL:ჩვენ`, `2PL:თქვენ`.
+
+The 3rd person pronouns, however, do decline when not in NOM.
+
+Number | NOM   | DAT   | ERG   | GEN   | INST   | ADV
+-------|-------|-------|-------|-------|--------|--------
+3SG    | ის    | (ი)მას| (ი)მან| (ი)მის| (ი)მით | (ი)მად
+3PL    | ისინი | (ი)მათ| (ი)მათ| (ი)მათ| (ი)მათ | (ი)მათ
 
 The optional prefix ი- on the 3SG and 3PL pronouns often just means someone far away from the speaker. In educated or formal speech it more specifically implies someone who is a stranger to the speaker. By reflection, in colloquial speech, one may hear ა- as the prefix, to imply someone who is close at hand.
+
+### Possessive
+
+Possessive pronouns decline in some, but not all cases.
+
+Number | NOM    | DAT   | ERG   | GEN   | INST   | ADV   | VOC
+-------|--------|-------|-------|-------|--------|-------|-----
+1SG    | ჩემი   | ჩემს  |ჩემმა  |ჩემი   |ჩემი    |ჩემს   |ჩემო 
+2SG    | შენი   | შენს  |შენმა  |შენი   |შენი    |შენს   | 
+3SG    | მისი   | მის   |მისმა  |მისი   |მისმი   |მის    | 
+1PL    | ჩვენი  | ჩვენს |ჩვენმა |ჩვენი  |ჩენი    |ჩვენს  |ჩვენო
+2PL    | თქვენი | თქვენს|თქვენმა|თქვენი |თქვენი  |თქვენს | 
+3PL    | მათი   | მათს  |მათმა  |მათი   |მათი    |მათი   | 
+
+VOC forms for 2nd person and 3rd person are rare or non-existant in regular speech. Anything's possible in poetry though.
 
 ### Demonstrative
 
@@ -60,7 +75,6 @@ Are we going somewhere?
 It is not read as it is written.
 --ENDEX--
 
-
 ## Prefixes
 
 Prefixes are mostly used with verbs to indicate direction, but may appear elsewhere, especially if derived from verbs which contain them. In many cases, their meaning is not obvious (or perhaps, never had a directional component at all). See the list of [preverbs](https://zmnebi.com/#preverb) here for more information.
@@ -94,7 +108,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : from (a location, for a direct use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
 მდე (ADV)
-: up to, till, until, before. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
+: up to, till, until, before doing X. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
 : on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`. When used with a verb of motion, it indicates the purpose of the motion. For example, <ex>_პურზე მივდივარ_ ⧸ I'm going to get bread.</ex>
@@ -121,7 +135,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : between.
 
 გან (GEN)
-: from how many parts, from (a direction, for location, use -დან).
+: from how many parts, from (a direction/something, when from a location, use -დან).
 
 გან შორს (GEN)
 : far (away) from.
@@ -131,6 +145,15 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 
 ვე
 : the same<cite>[Vogt §2.199](#vogt)</cite>, see also the section on cardinal numbers, below.
+
+ნი (root)
+: collective groups. Used with numbers, thus `ორნი:group of two`, `სამნი:group of three`. When used with a noun to further specify what it is a group of, both the number and the noun are suffixed with _ნი_ (`სამნი დანი:three sisters`). You may also see the forms `ბევრნი:a lot` (from _ბეფრი_) and `ცოტანი:few` (from _ცოტა_).<cite>[Kurtsikidze, p73](#kurtsikidze)</cite>
+
+ავით (DAT)
+: like, or resembling. <ex>_მისავით ჭკვიანი ხარ_ ⧸ You're smart like him/her</ex>.
+
+ოდე
+: approximate number, such as `ორიოდე:approximately two`. Compare `-ვე`, which implies exactly that number.
 
 --EX--
 ორი დღის დროში
@@ -213,6 +236,10 @@ There is so much to write about, so I made a separate website. Please see [zmneb
 ## Future Participles
 
 Future participles are often created with `სა-{word}-ელი` and indicate an action to be done. For example, `სწავლება:learning` → `სასწავლი:to be learned`
+
+## Passive Participles
+
+Formed most often by adding `-ული` to a verbal noun. `-ილი`, `მ...არი`, `მ-ალი` may also be used with some verbal nouns. Thus `წაღება:taking` → `წაღებული:taken`. This can be negated with `-უ`, such as `დაწერილი:written` and `დაუწერელი:not written`. Note that the ending may change to `-ელი`.
 
 ## Expressing Purpose
 
@@ -299,7 +326,7 @@ In what are you an expert? // i.e. what are you good at?
 : after.
 
 მიერ (GEN)
-: by.
+: by (in the sense of the actor in a passive sentence; used infrequently).
 
 სავსე (INST)
 : full of.
@@ -312,6 +339,9 @@ In what are you an expert? // i.e. what are you good at?
 
 წინ (GEN)
 : before, in front of.
+
+გამო (GEN)
+: due to, because of.
 
 --EX--
 რა განსხვავებაა X-ის და Y-ის შორის?
@@ -410,7 +440,7 @@ Seasons are:
 * Summer – გაზაფხული
 * Fall – შემოდგომა
 
-<attn>To sy "in" a season, summer and fall use _-ზე_, while winter and spring use _-ში_.</attn>
+<attn>To say "in" a season, summer and fall use _-ზე_, while winter and spring use _-ში_.</attn>
 
 Months are:
 
@@ -614,11 +644,23 @@ Here are some example declensions and sentences for `რომელიც:which
 
 Case | Word | Example
 -----|------|---------
-NOM  | რომელიც  | ადამიანი რომელიც წერილს წერს ჩემი ძმაა. _The person who is writing the letter is my brother._
-ERG  | რომელმაც | ადამიანმა რომელმაც წერილი დაწერა ჩემი ძმა იყო. _The person who wrote the letter was my brother._
-DAT  | რომელსაც | 10 წიგნი, რომელსაც ცნობილი ადამიანები გვირჩევენ. _10 books which famous people recommend to us._
-INST | რომლითაც | მე მივდივარ ავტობუსით რომლითაც გზა არის უფრო დიდი. _I am taking the bus, by which the road is larger._
-ADV  | რომლადაც | ჩემს ძაღლს ჰყავს პატრონი, რომლადაც ყოფნა რთულია. _I have dog which is hard to be an owner of._
+NOM  | რომელიც  | ადამიანი რომელიც წერილს წერს ჩემი ძმაა. <br/> _The person who is writing the letter is my brother._
+ERG  | რომელმაც | ადამიანმა რომელმაც წერილი დაწერა ჩემი ძმა იყო. <br/> _The person who wrote the letter was my brother._
+DAT  | რომელსაც | 10 წიგნი, რომელსაც ცნობილი ადამიანები გვირჩევენ. <br/> _10 books which famous people recommend to us._
+INST | რომლითაც | მე მივდივარ ავტობუსით რომლითაც გზა არის უფრო დიდი. <br/> _I am taking the bus, by which the road is larger._
+ADV  | რომლადაც | ჩემს ძაღლს ჰყავს პატრონი, რომლადაც ყოფნა რთულია. <br/> _I have dog which is hard to be an owner of._
+
+See below for an alternative form of relative clauses using რომ.
+
+## The Many Uses of რომ
+
+რომ can appear in a variety of situations, which can be summarized under 5 different uses:
+
+1. that – this introduces another clause and is always followed by a comma. In most cases, it can be omitted and the meaning won't change. <ex>_მე ვფიქრობ რომ, ..._ ⧸ I think that...</ex>.
+2. if – when used with a subjunctive tense ([PRSSBJV](https://zmnebi.com/#how-to-use-prssbjv), [FUTSBJV](https://zmnebi.com/#how-to-use-futsbjv), or [PSTSBJV](https://zmnebi.com/#how-to-use-pstsbjv)) the meaning is will be "if". <ex>_რომ დახატავდე, მეც დავხატავდი_ ⧸ If you draw, I will also draw</ex>.<cite>[Kurtsikidze, p133](#kurtsidikidze)</cite>
+3. when – as with "if", რომ precedes the verb of the clause and no comma is used. In many cases, there is no clear distinction between "when" and "if" in the translation to English. <ex>_საქართველოში რომ ჩავედი..._ ⧸ When I went to Georgian...</ex>.
+4. relative clause marker – relative clauses can also be marked with რომ. However rather than following the strategy listed above, instead, one writes the clausal part sentence as if it were not a relative clause and inserts რომ in front of the verb. <ex>_სტუდენტი, ქართული რომ ისწავლა, საქართველოში წავიდა_ ⧸ The student who studied Georgian went to Georgia</ex> rather than _სტუდენტი, რომელიაც ქართული ისწავლა, საქართველოში წავიდა_.<cite>[Kurtsikidze, p192](#kurtsikidze)</cite>
+5. likes doing something – similar to the relative clause marker above, instead of leaving the second verb in a serial verb construction as a [verbal noun](https://zmnebi.com/#using-the-verbal-noun), რომ may be placed in front of the 2nd verb, which is then declined as normal. <ex>_მომწონს, სათამაშობეს რომ ვაკეთებ_ ⧸ I like making toys</ex>.<cite>[Kurtsikidze, p193](#kurtsikidze)
 
 # Adjectives
 
@@ -635,7 +677,7 @@ When paired with a noun, adjectives can be divided between those ending in -ი 
 
 The comparitive degree (e.g. more/less) is expressed with `უფრო` and the superlative (e.g. most/least) is expressed with `ყველაზე`. For example, <ex>_ცხელი → უფრო ცხელი → ყველაზე ცხელი_ ⧸ warm → warmer → warmest</ex>. Than, in the sense of "heavier than Bob", is `ვიდრე`. <ex>_ის უფრო მძიმეა, ვიდრე გიორგი_ ⧸ He is heavier than Giorgi</ex>. Make sure to include `-ა` at the end of the first clause, preceding `ვიდრე`.
 
-Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინლისურად_ ⧸ You are better at speaking English than I am.</ex>
+Comparisons can also be done with the suffix -ზე, in the form of _{noun1} {noun2}-ზე adjective/phrase_. For example, <ex>_შენ ჩემზე კარგად ლაპარაკობ ინგლისურად_ ⧸ You are better at speaking English than I am.</ex>
 
 When wanting to describe something as "as X as Y", the suffix `-(ა)ვით` is used. The item that is the Y in "as X as Y" is marked with `-(ა)ვით`. For example, in <ex>_ამ საჭმელს დედასავით კარგად ვერავინ ამზადებს_ ⧸ No one is able to make this food as well as my mom</ex>, "as my mom" is marked with `-(ა)ვით`.
 

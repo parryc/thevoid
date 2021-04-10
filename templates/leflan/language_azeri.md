@@ -83,6 +83,8 @@ _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish
 -dAn
 : ablative. Indicates motion away from or out of an object or place. It has some additional uses as well. It can be used in comparative sentences and to mean "due to" or "because of". For example, <ex>_Onlar parka yağışdan getmədilər_ ⧸ We didn't go to the park because of the rain</ex>. It can also be used to indicate part of a whole, for example, <ex>_Bu köynəklərdən birni alıram_ ⧸ I am buying one of these shorts</ex>.
 
+While there is no case-marked vocative (e.g. when calling someone's name), the stress on the person's name does change. The stress moves left one syllable. For example, if someone is Əhmèd (stress on _med_) in normal conversation, they would be Ə̀hmed (stress on _əh_) when their name is being called.
+
 # Suffixes
 
 Azeri is an exclusively suffixing language when producing new words. 
@@ -105,7 +107,7 @@ Azeri is an exclusively suffixing language when producing new words.
 -çI
 : one who does X.
 
--dIkcA
+-dIQcA
 : the more one does X, the more Y. It is suffixed to the clause that expresses the "more one does" thought. For example, <ex>_İnsan böyüdükcə başa düşür ki..._ ⧸ The more a person grows up, the more they understand that...</ex>.
 
 -lA
@@ -155,13 +157,18 @@ The child who is reading the book is my son.
 
 ## Relative Suffix (-kI)
 
-<attn>`-kI` can only be attached to nouns in LOC or GEN.<cite>[EoA, 105](#eoa)</cite></attn>
+<attn>`-kI` can only be attached to nouns in LOC and GEN or to time words.<cite>[EoA, 105](#eoa)</cite></attn>
 
 To form relative clauses, add `-kI` to the last word in the clause. For example, <ex>_Yazıçı kitabxanadakı kitabları yazdı_ ⧸ The author wrote the books which are in the library</ex>. `Kitabxanada:in the library` is the clause we want to relativize. Thus, adding `-kı` makes it "which are in the library" and putting it in front of the `kitabları:books.ACC` makes the relative phrase modify the word books. When attached to nouns in GEN, it functions much like the English phrasing "that which is".
+
+When attached to time words, they become adjectives. Thus `indi:now` becomes `indiki:current`.
 
 # Prefixes
 
 Azerbaijani prefixes are generally no longer productive.
+
+bi-
+: "not", from Persian.
 
 na-
 : "un-", from Persian.
@@ -330,6 +337,8 @@ Outside of the basic imparative form, there are 3 words that can come before an 
 The 2PL form of an IMP verb can be used as a polite request.<cite>[EA, 59](#ea)</cite> Additionally, the INDEFFUT for 2sg/2pl can be used for an even more polite form. One may also hear `+A` at the end of the sentence as a softener.
 
 In Baku, the suffix _-gInAn_ is often attached to the root in colloquial speech, especially with monosyllabic roots.
+
+You may also find _ki_ or _görüm_ (more polite than _ki_) at the end of clauses emphasizing the imperative nature of the request. For example, <ex>_Bir də görüm_ ⧸ Tell me one thing</ex>.
 
 ### Future 
 
@@ -546,7 +555,7 @@ The 3PL ending changes based on the subject in question:
 
 ### Past (PST)
 
-In the past, "to be" functions as a standalone verb, following the regular past tense with a root of `i-`. `idi`, the 3SG form, can be paired with `var:there is` to mean `there were`.
+In the past, "to be" functions as a standalone verb, following the regular past tense with a root of `i-`. `idi`, the 3SG form, can be paired with `var:there is` to mean `there were`. One may see _idi_ attached directly to nouns as `-dI` (similar to the standard PST ending), such as <ex>_Qardaşın evdəydi_ ⧸ Your brother was not at home</ex>.
 
 &nbsp; |SG |PL
 -|-----|--
@@ -574,6 +583,8 @@ There are two nuances worth calling out: `-mAlI` with person markers and `-mAlI 
 
 1. Dəməlisən – you musn't tell.
 2. Dəməli deyilsən – you don't have to tell.
+
+In cases where `-mAlI` is affixed to a form of "to be" that isn't in PR, such as _oxumalı imişəm_ (versus _oxumalıymışam_), it indicates that the action was done against the speaker's desires/wishes. It is often said either in anger or ironically.
 
 --EX--
 Getməliyəm.
@@ -934,6 +945,14 @@ Ordinal number are formed with the suffix `-(I)ncI`. For numbers above 10, such 
 9th - doqquzuncu
 10th - onuncu
 
+## Decimals
+
+Decimal numbers are said in the form of `{number} tam {decimal place (10s, 100s etc.)}+dA {number}`. Here are some illustrative examples:
+
+1. 2.3 = 2 tam 10-da 3 = iki tam onda üç
+2. 4.25 = 4 tam 100-də 25 = dörd tam yüzdə iyirmi beş
+3. 6.875 = 6 tam 1000-də 875 = altı tam mində səkkiz yüz yetmiş beş
+
 # Time and Dates
 
 ## Time Vocabulary
@@ -948,7 +967,7 @@ Friday - cümə
 Saturday - şənbə
 Sunday - bazar
 
-In colloquial Azeri, though, starting with Monday, they are simply spoken as `birinci gün:1st day`, etc. If something takes place on a day, the phrase is treated as a [compound noun (see ⑤)](possession). This means that for forms already said as a compound noun: bazar ertəsi, çərşənbə axşamı, and cümə axşamı, no change is needed. For the other days, the day of the week will be followed by `günü`. Thus, `cümə günü:on Friday`.
+In colloquial Azeri, though, starting with Monday, they are simply spoken as `birinci gün:1st day`, etc. If something takes place on a day, the phrase is treated as a [compound noun (see ⑤)](possession). This means that for forms already said as a compound noun: bazar ertəsi, çərşənbə axşamı, and cümə axşamı, no change is needed. For the other days, the day of the week will be followed by `günü`. Thus, `cümə günü:on Friday`. Note that during Nowruz, _su/od/yel/torpaq çərşənbə_ actually refers to Tuesday (_çərşənbə axşamı_): the _axşamı_ is dropped.
 
 Months are listed below. 
 
@@ -994,9 +1013,10 @@ Make sure to pay attention to this, as well as when vowels are lengthened in spe
 
 ### Dialetical Notes
 
+In casual or rapid speech, the final _r_ in `-dIr` or `yoxdur` may be dropped.
+
 Baku
 : ilə may become _-nə_, such as `bizimnə:with us`.
-
 
 # Bibliography
 

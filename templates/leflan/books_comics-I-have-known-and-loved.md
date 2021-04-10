@@ -1,9 +1,7 @@
 # In Progress
 * _Saga_
-* _Sex Criminals_
 * _Deadly Class_
 * _Monstress_
-* _Low_
 * _Lady Mechanika_
 * [_Stand Still, Stay Silent_](http://sssscomic.com/)
 * _Wicked Things_
@@ -30,6 +28,8 @@
 * _The Wicked and The Divine_
 * _Giant Days_
 * _Steeple_
+* _Sex Criminals_
+* _Low_
 
 # Hiatus or Canceled
 * _Sun Bakery_ (Hiatus?)
