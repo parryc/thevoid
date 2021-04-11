@@ -1,9 +1,3 @@
-<style type="text/css">
-  li {
-    list-style: georgian;
-  }
-</style>
-
 [TOC]
 
 # Introduction
