@@ -1,3 +1,9 @@
+<style type="text/css">
+  li {
+    list-style: georgian;
+  }
+</style>
+
 [TOC]
 
 # Introduction
@@ -1407,7 +1413,7 @@ EVD    | მცოდნია| სცოდნია
 PSTSBJV| მცოდნოდა| სცოდნოდა
 DU     | მცოდნოდეს| სცოდნოდეს
 
-#  To want, must – უნდა
+##  To want, must – უნდა
 
 &nbsp; | 1SG | 3SG
 -------|-----|------
@@ -1423,7 +1429,7 @@ EVD    | მნდომებია| ნდომებია
 PSTSBJV| მნდომებოდა| ნდომებოდა
 DU     | მნდომებოდეს| ნდომებოდეს
 
-#  To be able, can, manages – შეუძლია
+##  To be able, can, manages – შეუძლია
 
 In the table below, there are two forms given for AOR and FUT. In these cases, the meaning changes slightly when using the ვ-forms. The standard მ-forms focuse on the opportunity to be able to do/manage something, but does not imply that the action was actually done. The ვ-forms focus on the results and thus implies that the action was done.
 
