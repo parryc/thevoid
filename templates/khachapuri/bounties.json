@@ -1,6 +1,12 @@
 {
   "bounties": [
     {
+      "location": "Skalka, Seattle",
+      "country": "USA",
+      "posted": "2021-04",
+      "fulfilled": "2021-05"
+    },
+    {
       "location": "Georgian Bakery and Cafe, Philadelphia",
       "country": "USA",
       "posted": "2020-10"

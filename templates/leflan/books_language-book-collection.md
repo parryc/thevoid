@@ -22,7 +22,7 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 128
+English – 133
 Finnish – 2
 French – 6
 Georgian – 10
@@ -61,10 +61,10 @@ Russian – 14
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
-Somali – 1
+Somali – 5
 Spanish – 4
 Squamish – 1
-Svan – 1
+Svan – 2
 Tagalog – 5
 Tahitian – 1
 Tlingit – 2
@@ -85,11 +85,11 @@ Yoruba – 1
 
 Bilingual Texts – 7
 Coursebook – 29
-Dictionary – 52
-Grammar – 38
+Dictionary – 55
+Grammar – 39
 Phrasebook – 13
 Study – 14
-Verb list – 3
+Verb list – 4
 
 ## Languages
 
@@ -220,6 +220,18 @@ English-Welsh Pronuncing Dictionary
 
 Colloquial Somali
 : Martin Orwin, Routledge, 1995. <tag>english→somali</tag> <tag>coursebook</tag>
+
+English-Somali/Somali-English Dictionary
+: Mohamud Korshel, Star Publications, 1994. <tag>english→somali</tag> <tag>somali→english</tag> <tag>dictionary</tag>
+
+Somali Student Dictionary
+: Ali Mohamud Omer, Hippocrene, 2019. <tag>english→somali</tag> <tag>somali→english</tag> <tag>dictionary</tag>
+
+Somali Grammar Revision
+: Liban A. Ahmad, AuthorHouse, 2013. <tag>english→somali</tag> <tag>grammar</tag>
+
+A Dictionary of Somali Verbs in Everyday Context
+: Liban A. Ahmad, AuthorHouse, 2012. <tag>english→somali</tag> <tag>verb list</tag>
 
 ### Eskimo-Aleut
 
@@ -399,6 +411,9 @@ Zur Conjugation des Georgischen Verbums
 
 Svan
 : Kevin Tuite, LINCOM, 1997. <tag>svan→english</tag> <tag>grammar</tag>
+
+Svan-English Dictionary
+: Chato Gudjedjiani and Letas Palmaitis, Caravan Books, 1985. <tag>svan→english</tag> <tag>dictionary</tag>
 
 ### Koreanic
 

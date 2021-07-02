@@ -998,6 +998,10 @@ The key thing to know with EVD is that even ვ-class verbs will use მ-class s
 
 The vowel of the endings will be _ია_ in all cases, except for when the verb ends in _ავ_ or _ამ_, in which case there are no vowel endings and instead the endings are _-ს_ (and _-თ_ for plural).
 
+Since the object markers have switched, this begs the question, how does one mark the object on the verb? In almost all cases, the object will not be marked on the verb, but rather the standalone pronoun will be used. If the object is an indirect object, then it will have _-თვის_ suffixed.
+
+However, in some rare cases, where the direct object can be a person, the PRS form of _to be_ is suffixed to the verb. Thus, <ex>_გამიგზავნიხარ_ ⧸ I had sent you (to the store, etc.)</ex>, where `-მი-:1SG.SUBJ` and `-ხარ:2SG.DO`. As well as, <ex>_მინახავხარ_ ⧸ I have seen you</ex>. Compare the first example with <ex>_გამიგზავნია შენთვის_ ⧸ I sent to you (a letter)</ex>, where _შენ_ is standalone, since it is not the direct object of the verb.
+
 * გააკეთებს, will do → გაუკეთებია, had (apparently) done
 
 &nbsp; |SG  |PL
@@ -1052,11 +1056,13 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 
 Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თურმე:apparently`.
 
-Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action didn't happen intentially. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite>
+Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action didn't happen intentially. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense.
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
 
 When used with "to be", it is equivalent to "has been" in English. For example, <ex>_საქართველოში არ ვყოფილვარ_ ⧸ I have not been to Georgia</ex>.
+
+One may also hear the perfect aspect be expressed with a [past passive participle](https://leflan.eu/r/learns/georgian#past-passive-participles) and `აქვს:has`. That is, _წაგიკითხავს?_ and _წაკითხული გაქვს?_ both mean "have you read it?"
 
 --EX--
 მთელი ზამთარი მინთია და საწველი ვერ დავაყენე.
@@ -1302,9 +1308,30 @@ When he was about to cry, he would cry, when he was about to laugh, he would lau
 
 Thus, `ტირის:cries` → `ეტირებოდეს:about to cry`.
 
-## To make/let someone do something (-ებ/ებინ/ევ)
+## Causative verbs / to make/let someone do something (-ებ/ებინ/ევ)
 
-Also known as the causative, this suffix is placed after the PFSF (e.g. after _-ავ_, _-ებ_, etc.). It adds the sense of "making/letting the object do the action". For example, <ex>_ვაკეთებინებ_ ⧸ I'm making/letting her/him do it</ex>. If the PFSF begins with a vowel other than _ე_ or _ო_, the vowel is dropped. For example, the _ა_ in _-ავ_ is dropped in <ex>ვხატვინებ ⧸ I'm making/letting her/him draw</ex>. As with most things with Georgian verbs, the suffix used varies, but _-ინებ_ is probably a safe choice.
+<attn>As with most things with Georgian verbs, the suffix used varies, but _-ინებ_ is a safe choice.</attn>
+
+This suffix is placed after the PFSF (e.g. after _-ავ_, _-ებ_, etc.). It adds the sense of "making/letting the object do the action". For example, `ვაკეთებ:I'm doing` becomes <ex>_ვაკეთებინებ_ ⧸ I'm making/letting her/him do it</ex>. Colloquial Georgian may drop the first _-ებ_, yielding _ვაკეთინებ_
+
+If the PFSF begins with a vowel other than _ე_ or _ო_, the vowel is dropped. For example, the _ა_ in _-ავ_ is dropped in <ex>ვხატვინებ ⧸ I'm making/letting her/him draw</ex>.
+
+Generally speaking, all verbs will have an _ა-_ version marker. For example, `ვაჭმევინებ:I made him eat`, `ვაკითხუბინებ:I made him read`, `ვაწერინებ:I made her write`. This most often manifests with verbs that would not normally have one, such as `წერს:s/he writes`.
+
+Since it is just the suffix of the verb changing, object markers are the same as with other non-causative forms. Here are the forms in PRS, subject on the left, object along the top.
+
+subj/obj| მე | შენ |მას
+--------|----|-----|-----
+მე      | ∅  | გაკეთებინებ | ვაკეთებინებ
+შენ     | მაკეთებინებ  | ∅ | აკეთებინებ
+ის      | მაკეთებინებს | გაკეთებინებს |აკეთებინებს
+
+Note that some verbs cannot be made causitive:
+
+* Verbs of motion
+* მ-class verbs
+* Verbs that have a required object (_vt2_+ verbs in CGED)
+* Verbs in which the object is implied
 
 ## Have done (Past Participle + to have)
 

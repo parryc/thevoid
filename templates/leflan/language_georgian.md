@@ -237,9 +237,11 @@ There is so much to write about, so I made a separate website. Please see [zmneb
 
 Future participles are often created with `სა-{word}-ელი` and indicate an action to be done. For example, `სწავლება:learning` → `სასწავლი:to be learned`
 
-## Passive Participles
+## Past Passive Participles
 
 Formed most often by adding `-ული` to a verbal noun. `-ილი`, `მ...არი`, `მ-ალი` may also be used with some verbal nouns. Thus `წაღება:taking` → `წაღებული:taken`. This can be negated with `-უ`, such as `დაწერილი:written` and `დაუწერელი:not written`. Note that the ending may change to `-ელი`.
+
+Past passive participles are commonly used with `აქვს:has` to [ask questions](https://quizlet.com/360883725/short-dialoguesphrasesverbs-in-present-perfectaoristimperfect-flash-cards/) in the past. For example, <ex>_წაკითხული გაქვს?_ ⧸ Have you read it?</ex>. This equivalent to the [evidential](https://zmnebi.com/#3-evidential-evd) tense.
 
 ## Expressing Purpose
 
@@ -656,7 +658,7 @@ See below for an alternative form of relative clauses using რომ.
 
 რომ can appear in a variety of situations, which can be summarized under 5 different uses:
 
-1. that – this introduces another clause and is always followed by a comma. In most cases, it can be omitted and the meaning won't change. <ex>_მე ვფიქრობ რომ, ..._ ⧸ I think that...</ex>.
+1. that – this introduces another clause and is always preceded by a comma. In most cases, რომ can be omitted and the meaning won't change. <ex>_მე ვფიქრობ, რომ ..._ ⧸ I think that...</ex>.
 2. if – when used with a subjunctive tense ([PRSSBJV](https://zmnebi.com/#how-to-use-prssbjv), [FUTSBJV](https://zmnebi.com/#how-to-use-futsbjv), or [PSTSBJV](https://zmnebi.com/#how-to-use-pstsbjv)) the meaning is will be "if". <ex>_რომ დახატავდე, მეც დავხატავდი_ ⧸ If you draw, I will also draw</ex>.<cite>[Kurtsikidze, p133](#kurtsidikidze)</cite>
 3. when – as with "if", რომ precedes the verb of the clause and no comma is used. In many cases, there is no clear distinction between "when" and "if" in the translation to English. <ex>_საქართველოში რომ ჩავედი..._ ⧸ When I went to Georgian...</ex>.
 4. relative clause marker – relative clauses can also be marked with რომ. However rather than following the strategy listed above, instead, one writes the clausal part sentence as if it were not a relative clause and inserts რომ in front of the verb. <ex>_სტუდენტი, ქართული რომ ისწავლა, საქართველოში წავიდა_ ⧸ The student who studied Georgian went to Georgia</ex> rather than _სტუდენტი, რომელიაც ქართული ისწავლა, საქართველოში წავიდა_.<cite>[Kurtsikidze, p192](#kurtsikidze)</cite>

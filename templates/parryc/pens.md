@@ -43,6 +43,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Nakabayashi Logical Prime A5
 * Rhodia DotPad
 * Scoutbook
+* Stalogy 1/2 Year A5
 * Tomoe River 52 gsm A5
 * Tomoe River 52 gsm Kanso Sasshi Booklet
 * TROLLS PAPER Caprice
@@ -51,6 +52,10 @@ A collection of various writing tools that I have used over the years. ⭐️ me
     * Cosmo Air Light B7
     * ⭐️ New Chiffon Cream A6
     * Frontier Tough 70 B6
+* Yamamoto Paper Tasting Transparent
+    * Glassine B7
+    * Tracing Paper A6
+    * Kinshaci B6
 * ⭐️ Yamamoto Ro-Biki Notebook 21cm x 9cm
     * Uses New Chiffon Cream paper
 * Yamamoto Fountain Pen Friendly Paper Collection A4
@@ -81,6 +86,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Kaweco Ruby Red
 * Kyo no Oto Adzukiiro
 * Lennon Tool Bar Watermelon
+* Nagasawa Kobe Kobe Bordeaux
 * Nagasawa Kobe Kitano Ijinkan
 * Noodler's Sultan Rose
 * Pilot Red
@@ -90,6 +96,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Cloudy Day
 * ⭐️ Lennon Tool Bar Pacific Ocean
+* Nagasawa Kobe Kyomachi Legend Blue
 * Nagasawa Kobe Minatojima Island
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
@@ -105,6 +112,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Browns
 
 * Kyo no Oto Ochiguriiro
+* Nagasawa Kobe Shidya Vintage Sepia
 * Pilot Brown
 
 ### Yellows
@@ -119,6 +127,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Oranges
 
 * Lennon Tool Bar Sunset Glow
+* Nagasawa Kobe Ikuta Orange
 
 ### Silvers
 
