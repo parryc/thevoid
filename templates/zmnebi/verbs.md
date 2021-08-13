@@ -92,13 +92,15 @@ An example, with `აკეთებს:does` in PRS:
 
 **მ-Class Markers**
 
-&nbsp; |SG           |PL
--------|-------------|-----------
-      1|მ+_stem_+ა/ს |გვ+_stem_+ა/ს
-      2|გ+_stem_+ა/ს |გ+_stem_+თ
-      3|_stem_+ა/ს   |_stem_+თ
+&nbsp; |SG               |PL
+-------|-----------------|-----------
+      1|მ+_stem_+ა/ს     |გვ+_stem_+ა/ს
+      2|გ+_stem_+ა/ს     |გ+_stem_+თ
+      3|(ს/ჰ)+_stem_+ა/ს |(ს/ჰ)+_stem_+თ
 
 The SG forms or 1PL will have one of two endings: _-ა_ or _-ს_. There is not a set rule as to which types of verbs have _-ა_ and which have _-ს_, but generally, those with _-ს_ have an implied object, such as `მაქვს:I have (it)`, whereas those with _-ა_ do not (`მშია:I am hungry`). It is this ending that is replaced in 2PL and 3PL.
+
+In 3SG and 3PL, one may find an _ს_ or _ჰ_ pre-stem person marker, such as in `მოსწონს:s/he likes` or `ჰქვია:s/he is called`. CGED has these marked as superscripts which do not disrupt the alphabetical ordering of the dictionary, but should be learned when memorizing the verb, since they are written in the tenses in the 1st series (as described below). In fast or casual speech, the _ს_ and _ჰ_ are dropped by some speakers.
 
 An example, with `აქვს:has (a thing)` in PRS:
 

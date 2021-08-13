@@ -58,7 +58,7 @@ Standalone pronouns follow casemarkings for nouns. When used in the subjective c
 
 Open question: are annagu/innagu in free variation or are there dialect differences?
 
-&nbps; | DEF | SUBJ
+&nbsp; | DEF | SUBJ
 -------|-----|-----
 1SG    |aniga|anigu
 2SG    |adiga|adigu
@@ -72,7 +72,7 @@ Open question: are annagu/innagu in free variation or are there dialect differen
 
 Used when there is no object, such as in sentences with only a subject and an adjective.
 
-&nbps; | SG  | PL
+&nbsp; | SG  | PL
 -------|-----|-----
 1      |waan |waynu
 2      |waad |waydin
@@ -83,7 +83,7 @@ Used when there is no object, such as in sentences with only a subject and an ad
 
 Used when there is an object. Notice how it is the same as the default case, but with _-ax-_ inserted at the beginning.
 
-&nbps; | SG    | PL
+&nbsp; | SG    | PL
 -------|-------|-----
 1      |waxaan |waxaynu
 2      |waxaad |waxaydin
@@ -94,7 +94,7 @@ Used when there is an object. Notice how it is the same as the default case, but
 
 All possessive pronouns are suffixes and change based on the gender of the object being possessed. In their default form, masculine suffixes begin with _-k_ and feminine with _-t_, the exception being 3SG. With sound changes, it is not always static.
 
-&nbps; | SG      | PL
+&nbsp; | SG      | PL
 -------|---------|-----
 1      |-k/tayga |-k/teena, -k/taayaga
 2      |-k/taaga |-k/tiina
@@ -148,7 +148,7 @@ In PRS.CONT/SIMP, Dahir gives _ii_ as the 2PL vowel for the suffix, whereas Saee
 
 _To be_ uses the transitive pronouns.
 
-&nbps; | SG | PL
+&nbsp; | SG | PL
 -------|----|-----
 1      |ahay|nahay
 2      |tahay|tihiin
@@ -180,7 +180,7 @@ Conjugation V1 (-in/ina)
 
 **Positive**
 
-&nbps; | SG  | PL
+&nbsp; | SG  | PL
 -------|-----|-----
 1      |-aa  |-naa
 2      |-taa |-taan
@@ -191,7 +191,7 @@ Conjugation V1 (-in/ina)
 
 Preceded by _ma_ or _aan_.
 
-&nbps; | SG | PL
+&nbsp; | SG | PL
 -------|----|-----
 1      |-ó  |-nó
 2      |-tó/-tíd |-tàan
@@ -205,7 +205,7 @@ Preceded by _ma_ or _aan_.
 
 **Positive**
 
-&nbps; | SG  | PL
+&nbsp; | SG  | PL
 -------|-----|-----
 1      |-ayaa  |-aynaa
 2      |-aysaa |-aysaan
@@ -218,7 +218,7 @@ _-i_ is suffixed to IMP and the following words follow the verb. For example, `k
 
 Preceded by _ma_ or _aan_.
 
-&nbps; | SG | PL
+&nbsp; | SG | PL
 -------|----|-----
 1      |-i màayó  |-i màynó
 2      |-i màysó/màysíd |-i màysàan
