@@ -9,6 +9,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Kuretake No. 40 (brush, black)
 * Lamy Joy (1.5mm italic, black and red)
 * Lamy Safari (1.5mm italic, lime green)
+* Lennon Tool Bar x Opus 88 Halo (medium, green)
 * TWSBI ECO (fine, clear)
 * ⭐️ TWSBI ECO (stub 1.1mm, clear)
 * TWSBI Diamond 580AL (medium, rose)
@@ -28,9 +29,11 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ## Paper 🗒
 
 * Conifer Yoseka Notebook v1
+* Hanaduri Hanji A5
 * Kamiterior Siccocu Sumi
 * Kleid 中村印刷所×kleid 2mm flat notes A5
     * Uses OK Fools paper
+* Lennon Tool Bar Egret Paper
 * Leuchtturm1917 Notebook Medium
 * Maruai The Basic Mini
 * Maruman Mnemosyne N192A Memo Pad B7
@@ -106,6 +109,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Fireflies
 * Lennon Tool Bar Firmament
 * Lennon Tool Bar Tieguanyin
+* Lennon Tool Bar Tsháu-á-kué
 * Lennon Tool Bar Verdant
 * Noodler's Polar Green
 

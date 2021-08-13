@@ -27,3 +27,9 @@
 * _The Art of Hergé - 1937|1949_ - Philippe Goddin
 * _Killing Green: An Account of Hand Papermaking in China_ - Elaine Koretsky
 * _The House Without The Door_ - Elizabeth Daly
+* _The Inugami Curse_ - Seishi Yokomizo
+* _The Art of Hergé - 1950|1983_ - Philippe Goddin
+* _The Decagon House Murders_ - Yukito Ayatsuji
+* _As We Are Now So Shall You One Day Be: Skeleton Motifs in Japanese Kimono_ - Jacqueline Marx Atkins
+* _Suminagashi_ - Don Guyot
+* _Fifteen Poets of the Aztec World_ - Miguel León-Portilla

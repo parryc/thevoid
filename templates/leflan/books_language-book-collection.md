@@ -22,10 +22,10 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 133
+English – 136
 Finnish – 2
 French – 6
-Georgian – 10
+Georgian – 11
 German – 7
 Hawaiian – 1
 Halkomelem – 1
@@ -61,7 +61,7 @@ Russian – 14
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
-Somali – 5
+Somali – 7
 Spanish – 4
 Squamish – 1
 Svan – 2
@@ -83,10 +83,10 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 7
+Bilingual Texts – 8
 Coursebook – 29
-Dictionary – 55
-Grammar – 39
+Dictionary – 56
+Grammar – 40
 Phrasebook – 13
 Study – 14
 Verb list – 4
@@ -232,6 +232,12 @@ Somali Grammar Revision
 
 A Dictionary of Somali Verbs in Everyday Context
 : Liban A. Ahmad, AuthorHouse, 2012. <tag>english→somali</tag> <tag>verb list</tag>
+
+Somali-English Dictionary with English Index
+: R. David Zord and Madina M. Osman, Dunwoody Press, 1993, 3rd edition. <tag>somali→english</tag> <tag>dictionary</tag>
+
+Somali Reference Grammar
+: John Ibrahim Saeed, Dunwoody Press, 1993, Second Revised Edition. <tag>english→somali</tag> <tag>grammar</tag>
 
 ### Eskimo-Aleut
 
@@ -406,6 +412,9 @@ Georgian Newspaper Reader
 
 Zur Conjugation des Georgischen Verbums
 : Friedrich Müller, Der K. K. Hof- und Staatsdruckerei, 1869. <tag>georgian→german</tag> <tag>grammar</tag>
+
+Advanced Georgian Reader
+: Shorena Kurtsikidze, Dunwoody Press, 2014. <tag>georgian→english</tag> <tag>bilingual texts</tag>
 
 #### Svan
 

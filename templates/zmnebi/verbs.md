@@ -92,11 +92,13 @@ An example, with `აკეთებს:does` in PRS:
 
 **მ-Class Markers**
 
-&nbsp; |SG        |PL
--------|----------|-----------
-      1|მ+_stem_  |გვ+_stem_
-      2|გ+_stem_  |გ+_stem_+თ
-      3|_stem_    |_stem_+თ
+&nbsp; |SG           |PL
+-------|-------------|-----------
+      1|მ+_stem_+ა/ს |გვ+_stem_+ა/ს
+      2|გ+_stem_+ა/ს |გ+_stem_+თ
+      3|_stem_+ა/ს   |_stem_+თ
+
+The SG forms or 1PL will have one of two endings: _-ა_ or _-ს_. There is not a set rule as to which types of verbs have _-ა_ and which have _-ს_, but generally, those with _-ს_ have an implied object, such as `მაქვს:I have (it)`, whereas those with _-ა_ do not (`მშია:I am hungry`). It is this ending that is replaced in 2PL and 3PL.
 
 An example, with `აქვს:has (a thing)` in PRS:
 
