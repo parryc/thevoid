@@ -61,6 +61,18 @@ PL     | o    | onlar
 
 _Bu_ and _o_ also function as adjectives, in which case, they do not distinguish between singular and plural form, like all adjectives. Thus, <ex>_Bu kitablar maraqlıdır_ ⧸ These books are interesting.</ex> When used as a demonstrative pronoun, it is often fronted in the sentence and offset with a comma. For example, <ex>_O, yaxşı kitabdır_ ⧸ That is a good book.</ex><cite>[EoA, 29](#eoa)</cite>
 
+### Reflexive (öz)
+
+As a standalone word, _öz_ means "own", as in `öz qardaşım:my own brother`.
+
+When it has personal endings, it means "self", such as `özüm:myself`. If used for emphasis, there are no case markings. However, when used as part of the sentence, such as an object, case markings are used. Compare, <ex>_Sən özün bu iş görməlisən_ ⧸ You must do this work yourself</ex>, in which _özün_ is used emphatically, versus <ex>_Sən özünü yaxşı tanımırsan_ ⧸ You don't know yourself well</ex>.<cite>[EA, 238](#ea)</cite>
+
+&nbsp; | SG  | PL
+-------|-----|-----
+1      |özüm |özümüz
+2      |özün |özünüz
+3      |özü  |özləri
+
 ## Cases
 
 <attn>Case markings occur after suffixes, thus _Leyla şəkil-lər-də-dir_, Leyla is in the pictures.</attn>
@@ -93,10 +105,19 @@ Azeri is an exclusively suffixing language when producing new words.
 : to, towards, DAT.
 
 -(y)An
-: present partiple. _Wiktionary_ refers to this as the "subject non-past particple" and _Elementary Azerbaijani_ calls it the "present subject participle", however with the caveat that it can sometimes be used to express past actions.<cite>[EA, 239]</cite> It appears that the participle can only be used as the subject of the sentence.
+: present partiple. _Wiktionary_ refers to this as the "subject non-past particple" and _Elementary Azerbaijani_ calls it the "present subject participle", however with the caveat that it can sometimes be used to express past actions.<cite>[EA, 239](#ea)</cite> It appears that the participle can only be used as the subject of the sentence.
+
+-(y)An kimi
+: as soon as, that is, indicating two almost simultaneous actions. Suffixed to the verb which in English would follow "as soon as". For example, <ex>_Bakıya çatan kimi, mənə zəng vurun_ ⧸ Call me as soon as you get to Baku</ex>.<cite>[EA, 239](#ea)</cite>
 
 -AndA
 : verbal suffix meaning "when X is happening". For example, <ex>_Qış gələndə, soyuq olur_ ⧸ When winter comes, it becomes cold.</ex>. Since this suffix does not take a personal marker, speakers will often use the personal pronoun (which may normally be dropped) to indicate who is the actor in the `-AndA` clause.
+
+-(y)AndAn
+: since, with a verb.
+
+-(y)Andan sonra
+: after X-ing, where X is a verb stem.
 
 -ArkAn
 : while.
@@ -104,8 +125,14 @@ Azeri is an exclusively suffixing language when producing new words.
 -cA
 : language of X. Note, cannot be used for countries that take -lI to form their adjective of nationality. It can be affixed to 1st and 2nd person pronouns to mean, "in my/your/our/y'alls opinion".
 
+-cAn
+: up to, until, DAT.
+
 -çI
 : one who does X.
+
+-dək
+: as far as, until, DAT.
 
 -dIQcA
 : the more one does X, the more Y. It is suffixed to the clause that expresses the "more one does" thought. For example, <ex>_İnsan böyüdükcə başa düşür ki..._ ⧸ The more a person grows up, the more they understand that...</ex>.
@@ -184,11 +211,20 @@ arasında
 başqa (ABL)
 : except for.
 
+bəri (ABL)
+: since, for (with time in PST). For example, <ex>_Üç ildən bəri..._ ⧸ For three years...</ex>.
+
 birlikdə
 : together.
 
+doğru (DAT)
+: towards.
+
 əlindən
 : because of. Implies blame or fault.
+
+əvvəl (ABL)
+: before.
 
 gil
 : the home of, "chez". Takes additional case and suffixes.
@@ -605,6 +641,12 @@ I must go.
 
 One may also see forms that have two verbs, one in PFT and one declined like the above, such as _Gərək baxıb deyim_. Compare this form with the expected form _Gərək baxım_. In the first form, two actions are required: 1st one will see (_baxmaq_) and then they will say (_demək_). It could be translated as "I have to see before I say." The 2nd form, without the PFT form, could be translated as "I should see", without out any additional actions.
 
+### Should -(y)AsI
+
+"Should" is the translation given by _Elementary Azerbaijani_, whereas Wiktionary lists it as the "hortative". Hortative, in other contexts, is often used to describe the 1st person imperative (e.g. Let's...), which is not appropriate for this use, hence sticking with "should".
+
+It is lesson common than the other two forms and declines the same as PRS.
+
 ## Verbal Suffixes
 
 These suffixes, when appended to the root of the verb, change the meaning from the base meaning of the root. In some cases, additional meanings have become associated with the suffixed form. For example, `yazmaq:to write` → `yazdırmaq:to register`, though `yazdırmaq` could be interpreted as "to make someone write".
@@ -614,13 +656,22 @@ These suffixes, when appended to the root of the verb, change the meaning from t
 
 
 -In
-: reflexive verbal suffix, affixed to stem. Compare `döyür:he is knocking (on the door)` versus `döyürünür:(my heart) is beating`.
+: reflexive suffix, affixed to stem. Compare `döyür:he is knocking (on the door)` versus `döyürünür:(my heart) is beating`.
 
 -Iş
-: reciprical verbal suffix, affixed to stem. Indicates that the action is done between the subjects of the sentence. May have idiomatic meanings, too. Thus, `döyürük:we are knocking` versus `döyürüşük:we are fighting`, that is "knocking/hitting each other".
+: reciprical suffix, affixed to stem. Indicates that the action is done between the subjects of the sentence. May have idiomatic meanings, too. Thus, `döyürük:we are knocking` versus `döyürüşük:we are fighting`, that is "knocking/hitting each other".
 
 -lA
 : "verbs the noun", so to speak. Takes a noun and makes it into a related verb, such as, `soyuq:cold` → `soyuqlamaq:to be cold`.
+
+-lAn
+: reflexive suffix, see _-In_.
+
+-lAş
+: reciprical suffix, see _-Iş_. May also be attached to adjectives and gives the meaning of "to become X", such as `çətinləşmək:to become difficult`, from `çətin:difficult`.
+
+-lAt(dIr)
+: causitive suffix, see _-dIr_.
 
 ### Passive Voice
 
@@ -947,7 +998,7 @@ Ordinal number are formed with the suffix `-(I)ncI`. For numbers above 10, such 
 
 ## Decimals
 
-Decimal numbers are said in the form of `{number} tam {decimal place (10s, 100s etc.)}+dA {number}`. Here are some illustrative examples:
+Decimal numbers are said in the form of `{number} tam {decimal place (10s, 100s etc.)}+dA {number}`. Here are some illustrative examples from _Elemntary Azerbaijani_:
 
 1. 2.3 = 2 tam 10-da 3 = iki tam onda üç
 2. 4.25 = 4 tam 100-də 25 = dörd tam yüzdə iyirmi beş

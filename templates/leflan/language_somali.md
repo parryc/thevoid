@@ -292,6 +292,7 @@ u
 <!-- Abbreviations -->
 *[GEN]: Genitive
 *[SUBJ]: Subject
+*[DEF]: Default
 *[I.OBJ]: Indirect Object
 *[D.OBJ]: Direct Object
 *[OBJ]: Object

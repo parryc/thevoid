@@ -108,7 +108,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : from (a location, for a direct use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
 მდე (ADV)
-: up to, till, until, before doing X. The დ from ADV is dropped. For example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
+: up to, till, until, before doing X. The დ from ADV is dropped. Often used when driving to a place that you won't go into, such as when dropping off people (e.g. `სადგურამდა:to the station`). Commonly heard with time phrases, for example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
 ზე
 : on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`. When used with a verb of motion, it indicates the purpose of the motion. For example, <ex>_პურზე მივდივარ_ ⧸ I'm going to get bread.</ex>

@@ -64,7 +64,7 @@ There are also combination preverbs:
 * ჩამო – downwards toward the speaker
 * წამო – towards the speaker (it is not used with PRS, IMPERF, PRSSBJV<cite>Kurts. 164</cite>)
 
-Both _წა_ and _წამო_ have archaic forms that contain _რ_, _წარ_ and _წარმო_, which can still be seen in some fossilized forms, such as `წარმოიდგენს:will imagine something`.
+Both _წა_ and _წამო_ have archaic forms that contain _რ_, _წარ_ and _წარმო_, which can still be seen in some fossilized forms, such as `წარმოიდგენს:will imagine something`. Similarly, _გა_ has an archaic form of _გან_, such as in `განსაზღვრავს:will set the limits on something`.
 
 ## Person Markers
 

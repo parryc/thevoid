@@ -33,3 +33,4 @@
 * _As We Are Now So Shall You One Day Be: Skeleton Motifs in Japanese Kimono_ - Jacqueline Marx Atkins
 * _Suminagashi_ - Don Guyot
 * _Fifteen Poets of the Aztec World_ - Miguel León-Portilla
+* _A Stranger in Olondria_ - Sofia Samatar
