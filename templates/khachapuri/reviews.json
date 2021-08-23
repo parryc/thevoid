@@ -1,5 +1,27 @@
 {  "reviews": [
     {
+      "location": "Kolchide, Paris",
+      "country": "France",
+      "price": 3,
+      "taste": 4,
+      "type": "imeruli",
+      "date": "2021-08",
+      "rated_by": "ln",
+      "note": "",
+      "img": ""
+    },
+    {
+      "location": "middle brow, Chicago",
+      "country": "USA",
+      "price": 3,
+      "taste": 3,
+      "type": "adjaruli",
+      "date": "2021-06",
+      "rated_by": "pc",
+      "note": "similar to other reviews, could use more cheese. got the 'dessert' khachapuri, which was a very non-traditional maple bacon adjaruli.",
+      "img": ""
+    },
+    {
       "location": "Skalka, Seattle",
       "country": "USA",
       "price": 3,
