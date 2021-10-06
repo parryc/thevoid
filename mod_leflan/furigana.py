@@ -48,26 +48,28 @@ import markdown
 from markdown.inlinepatterns import Pattern
 from markdown.util import etree
 
-RUBY_RE = r'\[(.+?)\]（([\u3040-\u3096]+?)）'
+RUBY_RE = r"\[(.+?)\]（([\u3040-\u3096]+?)）"
+
 
 class FuriganaExtension(markdown.Extension):
     def extendMarkdown(self, md, md_globals):
         ruby = RubyPattern(RUBY_RE)
-        md.inlinePatterns.add('ruby', ruby, '<link')
+        md.inlinePatterns.add("ruby", ruby, "<link")
+
 
 class RubyPattern(Pattern):
     def handleMatch(self, m):
-        el = etree.Element('ruby')
-        el1 = etree.SubElement(el, 'rb')
+        el = etree.Element("ruby")
+        el1 = etree.SubElement(el, "rb")
         el1.text = m.group(2)
-        el2 = etree.SubElement(el, 'rp')
-        el2.text = '('
-        el3 = etree.SubElement(el, 'rt')
+        el2 = etree.SubElement(el, "rp")
+        el2.text = "("
+        el3 = etree.SubElement(el, "rt")
         el3.text = m.group(3)
-        el4 = etree.SubElement(el, 'rp')
-        el4.text = ')'
+        el4 = etree.SubElement(el, "rp")
+        el4.text = ")"
         return el
+
 
 def makeExtension(*args, **kwargs):
     return FuriganaExtension(*args, **kwargs)
-
