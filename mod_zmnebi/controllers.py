@@ -1,89 +1,64 @@
-#!/usr/bin/env python
-# coding: utf-8
-from flask import (
-    Blueprint,
-    render_template,
-    request,
-    jsonify,
-    redirect,
-    url_for,
-    flash,
-    send_from_directory,
-)
-from app import app
+from flask import Blueprint, render_template, send_from_directory, current_app
 from git import Repo
 from bracket_table.bracket_table import BracketTable
-
-# from doctor_leipzig import Leipzig
+from app import testing_site
 import os
 import markdown
 import codecs
-import re
 
-mod_zmnebi = Blueprint("zmnebi.com", __name__)
+mod_zmnebi = Blueprint("zmnebicom", __name__)
 
-testing = app.config["ZMNEBI_TEST"]
-if not testing:
-    host = "zmnebi.com"
-    if not (
-        app.config["ZMNEBI_TEST"]
-        or app.config["LEFLAN_TEST"]
-        or app.config["PARRYC_TEST"]
-        or app.config["CORBIN_TEST"]
-        or app.config["KHACHAPURI_TEST"]
-        or app.config["AVAR_TEST"]
-    ):
-        repo = Repo("/srv/data/vcs/git/default.git")
-        folder = os.path.join("templates", "zmnebi")
+
+if testing_site == "ZMNEBI":
+    _host = "localhost:5000"
 else:
-    host = "localhost:5000"
-    repo = Repo(os.getcwd())
-    folder = os.path.join(os.getcwd(), "templates", "zmnebi")
+    _host = "zmnebi.com"
 
 
-##########
-# Routes #
-##########
-
-
-@mod_zmnebi.route("/favicon.ico", host=host)
+@mod_zmnebi.route("/favicon.ico", host=_host)
 def favicon():
     return send_from_directory(
-        os.path.join(app.root_path, "static"),
+        os.path.join(current_app.root_path, "static"),
         "favicon_zmna.ico",
         mimetype="image/vnd.microsoft.icon",
     )
 
 
-@mod_zmnebi.route("/robots.txt", host=host)
+@mod_zmnebi.route("/robots.txt", host=_host)
 def robots():
     return render_template("robots.txt")
 
 
-@mod_zmnebi.route("/css/<path:css>", host=host)
+@mod_zmnebi.route("/css/<path:css>", host=_host)
 def css(css):
     if "fonts" in css:
-        return send_from_directory(os.path.join(app.root_path, "static/css"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/css"), css
+        )
     else:
-        return send_from_directory(os.path.join(app.root_path, "static/gen"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/gen"), css
+        )
 
 
-@mod_zmnebi.route("/images/<folder>/<image>", host=host)
+@mod_zmnebi.route("/images/<folder>/<image>", host=_host)
 def image_with_folder(folder, image):
     return send_from_directory(
-        os.path.join(app.root_path, "static/images", folder), image
+        os.path.join(current_app.root_path, "static/images", folder), image
     )
 
 
-@mod_zmnebi.route("/images/<image>", host=host)
+@mod_zmnebi.route("/images/<image>", host=_host)
 def image(image):
-    return send_from_directory(os.path.join(app.root_path, "static/images"), image)
+    return send_from_directory(
+        os.path.join(current_app.root_path, "static/images"), image
+    )
 
 
-@mod_zmnebi.route("/", methods=["GET"], host=host)
-def r():
+@mod_zmnebi.route("/", methods=["GET"], host=_host)
+def index():
     page = "zmnebi/verbs.md"
-    html = get_html(page)
+    html = get_html(page, _host)
     return render_template(
         "zmnebi/post.html",
         html=html,
@@ -92,8 +67,14 @@ def r():
     )
 
 
-def get_html(page):
-    filepath = os.path.join(app.root_path, "templates", page)
+def get_html(page, host):
+    if host == "zmnebi.com":
+        repo = Repo("/srv/data/vcs/git/default.git")
+        folder = os.path.join("templates", "zmnebi")
+    else:
+        repo = Repo(os.getcwd())
+        folder = os.path.join(os.getcwd(), "templates", "zmnebi")
+    filepath = os.path.join(current_app.root_path, "templates", page)
     git_page = os.path.join(folder, page.split("/")[-1])
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     text = input_file.read()

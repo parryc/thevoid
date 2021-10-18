@@ -1,95 +1,73 @@
-#!/usr/bin/env python
-# coding: utf-8
 from flask import (
     Blueprint,
     render_template,
     request,
-    jsonify,
     redirect,
     url_for,
-    flash,
     send_from_directory,
     abort,
+    current_app,
 )
-from app import app  # , ix
-from datetime import date, timedelta
+
 from mod_parryc.models import Entry
 from sqlalchemy import or_
+from app import testing_site
 import os
 import markdown
 import codecs
-import requests
 import json
 import re
 import unicodedata
 
-# from whoosh.qparser import QueryParser
-# https://urllib3.readthedocs.io/en/latest/user-guide.html#ssl-py2
-# import urllib3.contrib.pyopenssl
-# urllib3.contrib.pyopenssl.inject_into_urllib3()
-
 mod_parryc = Blueprint("parryc", __name__)
 
-testing = app.config["PARRYC_TEST"]
-if not testing:
-    host = "parryc.com"
+if testing_site == "PARRYC":
+    _host = "localhost:5000"
 else:
-    host = "localhost:5000"
-
-##########
-# Routes #
-##########
-
-# -------
-# Rather than futz with the jekyll code I already have,
-# catch the static paths and send the correct static file
-# /------
+    _host = "parryc.com"
 
 
-@mod_parryc.route("/favicon.ico", host=host)
+@mod_parryc.route("/favicon.ico", host=_host)
 def favicon():
     return send_from_directory(
-        os.path.join(app.root_path, "static"),
+        os.path.join(current_app.root_path, "static"),
         "favicon.ico",
         mimetype="image/vnd.microsoft.icon",
     )
 
 
-@mod_parryc.route("/keybase.txt", host=host)
-def keybase():
-    return send_from_directory(os.path.join(app.root_path, "static"), "keybase.txt")
-
-
-@mod_parryc.route("/css/<css>", host=host)
+@mod_parryc.route("/css/<css>", host=_host)
 def css(css):
-    return send_from_directory(os.path.join(app.root_path, "static/gen"), css)
+    return send_from_directory(os.path.join(current_app.root_path, "static/gen"), css)
 
 
-@mod_parryc.route("/images/<folder>/<image>", host=host)
+@mod_parryc.route("/images/<folder>/<image>", host=_host)
 def image_with_folder(folder, image):
     return send_from_directory(
-        os.path.join(app.root_path, "static/images", folder), image
+        os.path.join(current_app.root_path, "static/images", folder), image
     )
 
 
-@mod_parryc.route("/images/<image>", host=host)
+@mod_parryc.route("/images/<image>", host=_host)
 def image(image):
-    return send_from_directory(os.path.join(app.root_path, "static/images"), image)
+    return send_from_directory(
+        os.path.join(current_app.root_path, "static/images"), image
+    )
 
 
-@mod_parryc.route("/", methods=["GET"], host=host)
+@mod_parryc.route("/", methods=["GET"], host=_host)
 def index():
     page = "parryc/index.md"
     html = get_html(page)
-    return render_template("parryc/post.html", html=html)
+    return render_template("parryc/post.html", html=html, host=_host)
 
 
-@mod_parryc.route("/downloads/<doc>", methods=["GET"], host=host)
+@mod_parryc.route("/downloads/<doc>", methods=["GET"], host=_host)
 def download(doc):
     return send_from_directory("files", doc)
 
 
-@mod_parryc.route("/<title>", methods=["GET"], host=host)
+@mod_parryc.route("/<title>", methods=["GET"], host=_host)
 def page(title):
     page = "parryc/%s.md" % title
     html = get_html(page)
@@ -103,7 +81,7 @@ def page(title):
 # ---------
 
 
-@mod_parryc.route("/<lang>/search", methods=["GET", "POST"], host=host)
+@mod_parryc.route("/<lang>/search", methods=["GET", "POST"], host=_host)
 def dict_search_index(lang):
     dictionary_name = ""
     if lang == "kb":
@@ -117,7 +95,7 @@ def dict_search_index(lang):
         return redirect(
             url_for(
                 ".dict_search",
-                search=request.form["search"],
+                searcsite=request.form["search"],
                 scope=request.form["scope"],
                 transliterate=transliterate,
                 lang=lang,
@@ -129,7 +107,7 @@ def dict_search_index(lang):
     )
 
 
-@mod_parryc.route("/<lang>/<lemma>", methods=["GET"], host=host)
+@mod_parryc.route("/<lang>/<lemma>", methods=["GET"], host=_host)
 def dict_lemma(lang, lemma):
     page = "words/%s.txt" % lemma
     html = get_html(page, dictionary_entry=True)
@@ -138,7 +116,7 @@ def dict_lemma(lang, lemma):
     return render_template("parryc/dictionary/entry.html", html=html)
 
 
-@mod_parryc.route("/<lang>/search/<search>", methods=["GET"], host=host)
+@mod_parryc.route("/<lang>/search/<search>", methods=["GET"], host=_host)
 def dict_search(lang, search):
     transliterate = request.args.get("transliterate")
     if transliterate == "1":
@@ -160,14 +138,16 @@ def dict_search(lang, search):
         "parryc/dictionary/results.html",
         results=results,
         lang=lang,
-        search=original_search,
+        searcsite=original_search,
     )
 
 
-@mod_parryc.route("/<lang>/browse", methods=["GET"], host=host)
+@mod_parryc.route("/<lang>/browse", methods=["GET"], host=_host)
 def dict_browse(lang):
     browse = f"{lang}_browse.json"
-    filepath = os.path.join(app.root_path, "templates", "parryc", "dictionary", browse)
+    filepath = os.path.join(
+        current_app.root_path, "templates", "parryc", "dictionary", browse
+    )
     with open(filepath, "r") as file:
         indices = json.load(file)
     return render_template(
@@ -175,10 +155,12 @@ def dict_browse(lang):
     )
 
 
-@mod_parryc.route("/<lang>/browse/<letter>", methods=["GET"], host=host)
+@mod_parryc.route("/<lang>/browse/<letter>", methods=["GET"], host=_host)
 def dict_browse_secondary(lang, letter):
     browse = f"{lang}_browse.json"
-    filepath = os.path.join(app.root_path, "templates", "parryc", "dictionary", browse)
+    filepath = os.path.join(
+        current_app.root_path, "templates", "parryc", "dictionary", browse
+    )
     with open(filepath, "r") as file:
         indices = json.load(file)
     if letter:
@@ -198,10 +180,16 @@ def dict_browse_secondary(lang, letter):
     )
 
 
-@mod_parryc.route("/<lang>/browse/<letter>/<sec_letter>", methods=["GET"], host=host)
+@mod_parryc.route(
+    "/<lang>/browse/<letter>/<sec_letter>",
+    methods=["GET"],
+    host=_host,
+)
 def dict_browse_tertiary(lang, letter, sec_letter):
     browse = f"{lang}_browse.json"
-    filepath = os.path.join(app.root_path, "templates", "parryc", "dictionary", browse)
+    filepath = os.path.join(
+        current_app.root_path, "templates", "parryc", "dictionary", browse
+    )
     with open(filepath, "r") as file:
         indices = json.load(file)
     if sec_letter:
@@ -222,7 +210,7 @@ def dict_browse_tertiary(lang, letter, sec_letter):
 
 
 def get_html(page, dictionary_entry=False):
-    filepath = os.path.join(app.root_path, "templates", page)
+    filepath = os.path.join(current_app.root_path, "templates", page)
     try:
         input_file = codecs.open(filepath, mode="r", encoding="utf-8")
         text = input_file.read()

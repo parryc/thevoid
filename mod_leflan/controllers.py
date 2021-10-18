@@ -1,44 +1,26 @@
-#!/usr/bin/env python
-# coding: utf-8
 from flask import (
     Blueprint,
     render_template,
-    request,
-    jsonify,
     redirect,
     url_for,
-    flash,
     send_from_directory,
+    current_app,
 )
-from app import app
+
 from git import Repo
 from bracket_table.bracket_table import BracketTable
-
-# from doctor_leipzig import Leipzig
+from app import testing_site
 import os
 import markdown
 import codecs
 import re
 
-mod_leflan = Blueprint("leflan.eu", __name__)
+mod_leflan = Blueprint("leflaneu", __name__)
 
-testing = app.config["LEFLAN_TEST"]
-if not testing:
-    host = "leflan.eu"
-    if not (
-        app.config["ZMNEBI_TEST"]
-        or app.config["LEFLAN_TEST"]
-        or app.config["PARRYC_TEST"]
-        or app.config["CORBIN_TEST"]
-        or app.config["KHACHAPURI_TEST"]
-        or app.config["AVAR_TEST"]
-    ):
-        repo = Repo("/srv/data/vcs/git/default.git")
-        folder = os.path.join("templates", "leflan")
+if testing_site == "LEFLAN":
+    _host = "localhost:5000"
 else:
-    host = "localhost:5000"
-    repo = Repo(os.getcwd())
-    folder = os.path.join(os.getcwd(), "templates", "leflan")
+    _host = "leflan.eu"
 
 ############################
 # The Flaneur's dictionary #
@@ -60,46 +42,52 @@ verb_to_tag = {
 ##########
 
 
-@mod_leflan.route("/favicon.ico", host=host)
+@mod_leflan.route("/favicon.ico", host=_host)
 def favicon():
     return send_from_directory(
-        os.path.join(app.root_path, "static"),
+        os.path.join(current_app.root_path, "static"),
         "favicon.ico",
         mimetype="image/vnd.microsoft.icon",
     )
 
 
-@mod_leflan.route("/robots.txt", host=host)
+@mod_leflan.route("/robots.txt", host=_host)
 def robots():
     return render_template("robots.txt")
 
 
-@mod_leflan.route("/css/<path:css>", host=host)
+@mod_leflan.route("/css/<path:css>", host=_host)
 def css(css):
     if "fonts" in css:
-        return send_from_directory(os.path.join(app.root_path, "static/css"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/css"), css
+        )
     else:
-        return send_from_directory(os.path.join(app.root_path, "static/gen"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/gen"), css
+        )
 
 
-@mod_leflan.route("/images/<folder>/<image>", host=host)
+@mod_leflan.route("/images/<folder>/<image>", host=_host)
 def image_with_folder(folder, image):
     return send_from_directory(
-        os.path.join(app.root_path, "static/images", folder), image
+        os.path.join(current_app.root_path, "static/images", folder), image
     )
 
 
-@mod_leflan.route("/images/<image>", host=host)
+@mod_leflan.route("/images/<image>", host=_host)
 def image(image):
-    return send_from_directory(os.path.join(app.root_path, "static/images"), image)
+    return send_from_directory(
+        os.path.join(current_app.root_path, "static/images"), image
+    )
 
 
-@mod_leflan.route("/", methods=["GET"], host=host)
+@mod_leflan.route("/", methods=["GET"], host=_host)
 def index():
     return redirect(url_for(".r"))
 
 
-@mod_leflan.route("/r", methods=["GET"], host=host)
+@mod_leflan.route("/r", methods=["GET"], host=_host)
 def r():
     page = "leflan/index.md"
     html = get_html(page)
@@ -109,7 +97,7 @@ def r():
     )
 
 
-@mod_leflan.route("/r/topuria", methods=["GET"], host=host)
+@mod_leflan.route("/r/topuria", methods=["GET"], host=_host)
 def topuria():
     page = "topuria/table_of_contents.md"
     html = get_html(page)
@@ -118,7 +106,7 @@ def topuria():
     )
 
 
-@mod_leflan.route("/r/topuria/<chapter>", methods=["GET"], host=host)
+@mod_leflan.route("/r/topuria/<chapter>", methods=["GET"], host=_host)
 def topuria_chapter(chapter):
     page = "topuria/{0}.md".format(chapter)
     html = get_html(page)
@@ -127,7 +115,7 @@ def topuria_chapter(chapter):
     )
 
 
-@mod_leflan.route("/r/<category>", methods=["GET"], host=host)
+@mod_leflan.route("/r/<category>", methods=["GET"], host=_host)
 def category(category):
     html = _add_filelist(category, "")
     return render_template(
@@ -139,7 +127,7 @@ def category(category):
     )
 
 
-@mod_leflan.route("/r/learns/<language>", methods=["GET"], host=host)
+@mod_leflan.route("/r/learns/<language>", methods=["GET"], host=_host)
 def language(language):
     page = "leflan/language_%s.md" % language
     html = get_html(page)
@@ -149,7 +137,7 @@ def language(language):
 
 
 @mod_leflan.route(
-    "/r/learns/<language>/through-<learning_type>", methods=["GET"], host=host
+    "/r/learns/<language>/through-<learning_type>", methods=["GET"], host=_host
 )
 def through_index(language, learning_type):
     page = "leflan/through-%s_%s/index.md" % (learning_type, language)
@@ -161,7 +149,7 @@ def through_index(language, learning_type):
 
 
 @mod_leflan.route(
-    "/r/learns/<language>/through-<learning_type>/<post>", methods=["GET"], host=host
+    "/r/learns/<language>/through-<learning_type>/<post>", methods=["GET"], host=_host
 )
 def through_post(language, learning_type, post):
     page = "leflan/through-%s_%s/%s.md" % (learning_type, language, post)
@@ -176,10 +164,12 @@ def through_post(language, learning_type, post):
     )
 
 
-@mod_leflan.route("/r/learns/<language>/dict", methods=["GET"], host=host)
+@mod_leflan.route("/r/learns/<language>/dict", methods=["GET"], host=_host)
 def dictionary(language):
     page_dict = "leflan/%s.dict" % language
-    filepath = os.path.join(app.root_path, "templates", page_dict).encode("utf-8")
+    filepath = os.path.join(current_app.root_path, "templates", page_dict).encode(
+        "utf-8"
+    )
     input_file_dict = codecs.open(filepath, mode="r", encoding="utf-8")
     dictionary = []
     tag_list = set()
@@ -243,7 +233,7 @@ def dictionary(language):
     )
 
 
-@mod_leflan.route("/r/reads/<book>", methods=["GET"], host=host)
+@mod_leflan.route("/r/reads/<book>", methods=["GET"], host=_host)
 def book(book):
     page = "leflan/books_%s.md" % book
     html = get_html(page)
@@ -253,7 +243,13 @@ def book(book):
 
 
 def get_html(page):
-    filepath = os.path.join(app.root_path, "templates", page)
+    if _host == "leflan.eu":
+        repo = Repo("/srv/data/vcs/git/default.git")
+        folder = os.path.join("templates", "leflan")
+    else:
+        repo = Repo(os.getcwd())
+        folder = os.path.join(os.getcwd(), "templates", "leflan")
+    filepath = os.path.join(current_app.root_path, "templates", page)
     git_page = os.path.join(folder, page.split("/")[-1])
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     text = input_file.read()
@@ -309,6 +305,12 @@ def _url(tag, page):
 
 def _add_filelist(category, html, show_tags=False):
     html += "<p><ul>"
+    if _host == "leflan.eu":
+        repo = Repo("/srv/data/vcs/git/default.git")
+        folder = os.path.join("templates", "leflan")
+    else:
+        repo = Repo(os.getcwd())
+        folder = os.path.join(os.getcwd(), "templates", "leflan")
     for filename in sorted(
         os.listdir(folder),
         key=lambda _file: repo.git.log(

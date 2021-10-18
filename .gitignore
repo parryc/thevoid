@@ -8,6 +8,7 @@ static/images/*/*
 templates/topuria
 avar_rocks
 .nova
+venv/
 
 # Webassets cache
 .webassets-cache/
