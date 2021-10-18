@@ -1,5 +1,27 @@
 {  "reviews": [
     {
+      "location": "Georgian Bakery and Cafe, Philadelphia",
+      "country": "USA",
+      "price": 3,
+      "taste": 5,
+      "type": "imeruli",
+      "date": "2021-10",
+      "rated_by": "ss",
+      "note": "",
+      "img": ""
+    },
+    {
+      "location": "Georgian Bakery and Cafe, Philadelphia",
+      "country": "USA",
+      "price": 3,
+      "taste": 5,
+      "type": "adjaruli",
+      "date": "2021-10",
+      "rated_by": "ss",
+      "note": "",
+      "img": ""
+    },
+    {
       "location": "Kolchide, Paris",
       "country": "France",
       "price": 3,

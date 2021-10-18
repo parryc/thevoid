@@ -1,6 +1,31 @@
 {
   "bounties": [
     {
+      "location": "Tblisi's Hörna, Stockholm",
+      "country": "Sweden",
+      "posted": "2021-10"
+    },
+    {
+      "location": "Khachapuri Bar, Stockholm",
+      "country": "Sweden",
+      "posted": "2021-10"
+    },
+    {
+      "location": "Georgiska café Bar Lela, Stockholm",
+      "country": "Sweden",
+      "posted": "2021-10"
+    },
+    {
+      "location": "Georgian House, Stockholm",
+      "country": "Sweden",
+      "posted": "2021-10"
+    },
+    {
+      "location": "Tiflisi, Stockholm",
+      "country": "Sweden",
+      "posted": "2021-10"
+    },
+    {
       "location": "Skalka, Seattle",
       "country": "USA",
       "posted": "2021-04",
@@ -9,7 +34,8 @@
     {
       "location": "Georgian Bakery and Cafe, Philadelphia",
       "country": "USA",
-      "posted": "2020-10"
+      "posted": "2020-10",
+      "fulfilled": "2021-10"
     },
     {
       "location": "Georgian Bread, Philadelphia",
