@@ -1,69 +1,54 @@
-#!/usr/bin/env python
-# coding: utf-8
-from flask import (
-    Blueprint,
-    render_template,
-    request,
-    jsonify,
-    redirect,
-    url_for,
-    flash,
-    send_from_directory,
-    abort,
-)
-from app import app
-from datetime import date, timedelta
+from flask import Blueprint, render_template, send_from_directory, abort, current_app
+from app import testing_site
 import os
 import markdown
 import codecs
-import requests
 import json
-import re
-import unicodedata
 
 mod_khachapuri = Blueprint("khachapuri", __name__)
 
-testing = app.config["KHACHAPURI_TEST"]
-if not testing:
-    host = "the-yelp-of-khachapuri.site"
+if testing_site == "KHACHAPURI":
+    _host = "localhost:5000"
 else:
-    host = "localhost:5000"
-
-##########
-# Routes #
-##########
+    _host = "the-yelp-of-khachapuri.site"
 
 
-@mod_khachapuri.route("/favicon.ico", host=host)
+@mod_khachapuri.route("/favicon.ico", host=_host)
 def favicon():
     return send_from_directory(
-        os.path.join(app.root_path, "static"),
+        os.path.join(current_app.root_path, "static"),
         "favicon_khachapuri.ico",
         mimetype="image/vnd.microsoft.icon",
     )
 
 
-@mod_khachapuri.route("/css/<path:css>", host=host)
+@mod_khachapuri.route("/css/<path:css>", host=_host)
 def css(css):
     if "fonts" in css:
-        return send_from_directory(os.path.join(app.root_path, "static/css"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/css"), css
+        )
     else:
-        return send_from_directory(os.path.join(app.root_path, "static/gen"), css)
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/gen"), css
+        )
 
 
-@mod_khachapuri.route("/images/<folder>/<image>", host=host)
+@mod_khachapuri.route("/images/<folder>/<image>", host=_host)
 def image_with_folder(folder, image):
     return send_from_directory(
-        os.path.join(app.root_path, "static/images", folder), image
+        os.path.join(current_app.root_path, "static/images", folder), image
     )
 
 
-@mod_khachapuri.route("/images/<image>", host=host)
+@mod_khachapuri.route("/images/<image>", host=_host)
 def image(image):
-    return send_from_directory(os.path.join(app.root_path, "static/images"), image)
+    return send_from_directory(
+        os.path.join(current_app.root_path, "static/images"), image
+    )
 
 
-@mod_khachapuri.route("/", methods=["GET"], host=host)
+@mod_khachapuri.route("/", methods=["GET"], host=_host)
 def index():
     page = "khachapuri/index.md"
     html = get_html(page)
@@ -72,7 +57,7 @@ def index():
     )
 
 
-@mod_khachapuri.route("/downloads/<doc>", methods=["GET"], host=host)
+@mod_khachapuri.route("/downloads/<doc>", methods=["GET"], host=_host)
 def download(doc):
     return send_from_directory("files", doc)
 
@@ -80,14 +65,16 @@ def download(doc):
 @mod_khachapuri.route(
     "/reviews",
     methods=["GET"],
-    host=host,
+    host=_host,
     defaults={"filter_value": None, "filter_type": None},
 )
 @mod_khachapuri.route(
-    "/reviews/<filter_type>/<filter_value>", methods=["GET"], host=host
+    "/reviews/<filter_type>/<filter_value>", methods=["GET"], host=_host
 )
 def reviews(filter_type, filter_value):
-    filepath = os.path.join(app.root_path, "templates", "khachapuri", "reviews.json")
+    filepath = os.path.join(
+        current_app.root_path, "templates", "khachapuri", "reviews.json"
+    )
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     reviews = json.loads(input_file.read())["reviews"]
 
@@ -107,14 +94,16 @@ def reviews(filter_type, filter_value):
 @mod_khachapuri.route(
     "/bounties",
     methods=["GET"],
-    host=host,
+    host=_host,
     defaults={"filter_value": None, "filter_type": None},
 )
 @mod_khachapuri.route(
-    "/bounties/<filter_type>/<filter_value>", methods=["GET"], host=host
+    "/bounties/<filter_type>/<filter_value>", methods=["GET"], host=_host
 )
 def bounties(filter_type, filter_value):
-    filepath = os.path.join(app.root_path, "templates", "khachapuri", "bounties.json")
+    filepath = os.path.join(
+        current_app.root_path, "templates", "khachapuri", "bounties.json"
+    )
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     bounties = json.loads(input_file.read())["bounties"]
 
@@ -137,7 +126,7 @@ def bounties(filter_type, filter_value):
     )
 
 
-@mod_khachapuri.route("/<title>", methods=["GET"], host=host)
+@mod_khachapuri.route("/<title>", methods=["GET"], host=_host)
 def page(title):
     page = "khachapuri/%s.md" % title
     html = get_html(page)
@@ -151,7 +140,7 @@ def page(title):
 
 
 def get_html(page):
-    filepath = os.path.join(app.root_path, "templates", page)
+    filepath = os.path.join(current_app.root_path, "templates", page)
     try:
         input_file = codecs.open(filepath, mode="r", encoding="utf-8")
         text = input_file.read()

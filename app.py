@@ -1,48 +1,13 @@
-from flask import Flask, render_template, request, send_from_directory
+from flask import render_template
 from flask_assets import Environment, Bundle
 from flask_compress import Compress
-from database import db
 from factory import create_app
-from werkzeug.routing import BaseConverter
 
 app = create_app(__name__)
 app.config.from_object("config.DevelopmentConfig")
 assets = Environment(app)
 Compress(app)
-
 testing_site = app.config["TESTING_SITE"]
-
-
-class HostConverter(BaseConverter):
-    app = None
-    test_map = {
-        "LEFLAN": "leflan.eu",
-        "PARRYC": "parryc.com",
-        "CORBIN": "corbindewitt.com",
-        "KHACHAPURI": "the-yelp-of-khachapuri.site",
-        "AVAR": "avar.rocks",
-        "ZMNEBI": "zmnebi.com",
-    }
-
-    def __init__(
-        self,
-        map,
-        site="",
-    ):
-        super().__init__(map)
-        self.site = site
-
-    def to_python(self, value):
-        return value
-
-    def to_url(self, value):
-        with app.app_context():
-            testing = app.config[f"{self.site}_TEST"]
-            if not testing:
-                host = self.test_map[self.site]
-            else:
-                host = "localhost:5000"
-            return host
 
 
 def circle_num_from_jinja_loop(num):
@@ -60,15 +25,6 @@ def price(price_rating):
 app.jinja_env.filters["circle_num"] = circle_num_from_jinja_loop
 app.jinja_env.filters["taste"] = taste
 app.jinja_env.filters["price"] = price
-
-# clear the automatically added route for static
-# https://github.com/mitsuhiko/flask/issues/1559
-# enable host matching and re-add the static route with the desired host
-# app.add_url_rule(
-#     app.static_url_path + "/<path:filename>",
-#     endpoint="static",
-#     view_func=app.send_static_file,
-# )
 
 
 @app.errorhandler(404)
@@ -119,22 +75,21 @@ bundles = {
 }
 assets.register(bundles)
 
-# Import a module / component using its blueprint handler variable
 from mod_parryc.controllers import mod_parryc
 
 app.register_blueprint(mod_parryc)
 from mod_leflan.controllers import mod_leflan
 
 app.register_blueprint(mod_leflan)
-# from mod_corbin.controllers import mod_corbin
-#
-# app.register_blueprint(mod_corbin)
-# from mod_khachapuri.controllers import mod_khachapuri
-#
-# app.register_blueprint(mod_khachapuri)
-# from avar_rocks.flask.controllers import mod_avar
-#
-# app.register_blueprint(mod_avar)
+from mod_corbin.controllers import mod_corbin
+
+app.register_blueprint(mod_corbin)
+from mod_khachapuri.controllers import mod_khachapuri
+
+app.register_blueprint(mod_khachapuri)
+from avar_rocks.flask.controllers import mod_avar
+
+app.register_blueprint(mod_avar)
 from mod_zmnebi.controllers import mod_zmnebi
 
 app.register_blueprint(mod_zmnebi)
