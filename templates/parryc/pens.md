@@ -116,6 +116,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Browns
 
 * Kyo no Oto Ochiguriiro
+* Nagasawa Kobe Goshikiyama Ocher
 * Nagasawa Kobe Shidya Vintage Sepia
 * Pilot Brown
 
@@ -125,7 +126,9 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Purples
 
+* Nagasawa Kobe Rokko Shichidakka
 * Nagasawa Kobe Sanmomiya Pensée
+* Nagasawa Kobe Tamon Purple Grey
 * Pilot Iroshizuku Yama-Budo
 
 ### Oranges

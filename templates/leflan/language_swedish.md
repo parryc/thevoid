@@ -6,7 +6,7 @@
 
 Much like Korean, Swedish has gone through pronunciation changes, but without updating the spelling of the word. As a result, there are lot of letter combinations that reduce down to a different sound.
 
-Before we get to the list, it is helpful to know the "types" of vowels, as they will impact pronunciation. There are two main sounds combinations reduce down to: "[sj](https://en.wikipedia.org/wiki/Sj-sound)" (which is "technically" /ɧ/, but you can probably get away with "sh"/ʃ?) and "j" (/j/, as in yellow).
+Before we get to the list, it is helpful to know the "types" of vowels, as they will impact pronunciation. There are two main sounds combinations reduce down to: "[sj](https://en.wikipedia.org/wiki/Sj-sound)" (which is "technically" /ɧ/, but you can probably get away with "sh"/ʃ/) and "j" (/j/, as in the English word "yellow").
 
 Hard vowels: a, o, u, å
 Soft vowels: e, i, y, ä, ö

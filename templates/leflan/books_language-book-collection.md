@@ -22,10 +22,10 @@ Classical Chinese – 2
 Cornish – 1
 Danish – 3
 Dutch – 8
-English – 136
+English – 137
 Finnish – 2
 French – 6
-Georgian – 11
+Georgian – 12
 German – 7
 Hawaiian – 1
 Halkomelem – 1
@@ -35,7 +35,7 @@ Icelandic – 2
 Ilongo – 1
 Inuktitut – 1
 Irish – 1
-Japanese – 8
+Japanese – 9
 Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
@@ -64,6 +64,7 @@ Scottish Gaelic – 4
 Somali – 7
 Spanish – 4
 Squamish – 1
+Swedish – 1
 Svan – 2
 Tagalog – 5
 Tahitian – 1
@@ -85,7 +86,7 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 29
-Dictionary – 56
+Dictionary – 57
 Grammar – 40
 Phrasebook – 13
 Study – 14
@@ -345,6 +346,11 @@ Sheltand Words: A Dictionary of the Sheltand Dialect
 Orkney and Shetland Weather Words: A Comparative Dictionary
 : John W. Scott, The Shetland Times, 2017. <tag>scots→english</tag> <tag>dictionary</tag>
 
+#### Swedish
+
+Svensk-Englesk Ordbok
+: O. Edmund Wenström and Walter E. Harlock, P. A. Norstedt & Söner, 1924. <tag>swedish→english</tag> <tag>dictionary</tag>
+
 #### Yiddish
 
 Comprehensive English-Yiddish Dictionary
@@ -381,6 +387,9 @@ Essential Japanese Grammar
 
 Japanese for Sinologists
 : Joshua A. Fogel and Fumiko Jōo, University of California Press, 2017. <tag>japanse→english</tag> <tag>coursebook</tag>
+
+იაპონურ-ქართული ლექსიკონი
+: Yasuhiro Kojima, Free and Agricultural University Press, 2015 <tag>japanse→georgian</tag> <tag>dictionary</tag>
 
 ### Kartvelian 
 

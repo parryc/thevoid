@@ -4,6 +4,20 @@
 
 While there is some standardization (especially coming from institutional sources, such as translations), it is often that if being told how to spell something by an individual, there may be dialetical spellings, hypercorrections, or loss of double vowels. To the best of my ability, this page includes standard spellings unless otherwise noted.
 
+# Sentence Particles
+
+Somali has what _Colloquial Somali_ calls "Mood Classifiers". They are particles that often have person markers and are required depending on the type of sentence being said. This is brought up first, since I have found in most cases it is easier to think about them in a less rigorous capacity. For example, `waan:I (in a positive delcarative sentence` is actually _waa_ + _aan_, where _waa_ is the sentence particle and _aan_ is the 1SG marker. I choose to list that as a pronoun in the categorization below, since for a learner, that is a more recognizable term, even if not strictly true.
+
+That said, here are the sentence particles and their uses.
+
+waa
+: positive declarative sentences. When used without a person marker, it imples 3SG, e.g. _waa cuntay_, "s/he ate it".
+
+ma
+: questions. When used with a person marker, it focuses the sentence on the subject of the question.
+
+Note that positive imperative sentences do not have a sentence particle.
+
 # Nouns
 
 ## Cases
@@ -92,16 +106,40 @@ Used when there is an object. Notice how it is the same as the default case, but
 
 ### Possessive
 
-All possessive pronouns are suffixes and change based on the gender of the object being possessed. In their default form, masculine suffixes begin with _-k_ and feminine with _-t_, the exception being 3SG. With sound changes, it is not always static.
+All possessive pronouns are suffixes and change based on the gender of the object being possessed. In their default form, masculine suffixes begin with _-k_ and feminine with _-t_, though with sound changes, it is not always static.
+
+**Masculine**
 
 &nbsp; | SG      | PL
 -------|---------|-----
-1      |-k/tayga |-k/teena, -k/taayaga
-2      |-k/taaga |-k/tiina
-3 M.   |-k/tiisa |-k/tooda
-3 F.   |-k/teeda |-k/tooda
+1      |-kayga |-keena, -kaayaga
+2      |-kaaga |-kiina
+3 M.   |-kiisa |-kooda
+3 F.   |-keeda |-kooda
+
+**Feminine**
+
+Note that while the feminine forms are very similar, but 1SG and 2SG have _d_ instead of _g_.
+
+&nbsp; | SG      | PL
+-------|---------|-----
+1      |-tayda |-teena, -taayaga
+2      |-taada |-tiina
+3 M.   |-tiisa |-tooda
+3 F.   |-teeda |-tooda
 
 These suffixes are inclusive of the definite article (_-ka/ta_) and so they do not need to be additionally suffixed.
+
+### Interogatives
+
+This form is used when the focus of the sentence is on the subject of the question. It is not required and can be left as _ma_.
+
+&nbsp; | SG    | PL
+-------|-------|-----
+1      |miyáan |miyáan(n)(u)
+2      |miyáad |miyáydin
+3 M.   |miyúu  |miyáy
+3 F.   |miyáy  |miyáy
 
 ## Demonstratives
 
@@ -123,6 +161,118 @@ What is that? That is a girl. // that-feminine
 Kuwaani waa maxaay? Kuwaani waa doofaro.
 What are these? These are pigs.
 --ENDEX--
+
+## Plurals
+
+There are 7 declensions in Somali, plus irregulars. The numbers below are respected in both Zorc and Osman's dictionary, as well as _Colloquial Somali_ by Martin Orwin.
+
+Note that tone and gender can change when going from SG to PL.
+
+### Declension 1 (Does not end in 'o')
+
+SG does not end in _-o_. PL add _-o_, if SG ends in _-i_ add _-yo_.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | M penultimate V <br/> F final V | mostly F
+PL     | ∅           | always M
+
+**Examples**
+
+* warqád → warqado
+* saacád → saacado
+* mindí → mindiyo
+
+### Declension 2 (Does not end in 'e', mostly 2+ syl.)
+
+SG does not end in _-e_, mostly 2+ syllables. PL add _-o_, if SG ends in _-i_, "guttural" C, _j_, _s_ add _-yo_, if ends in _b_, _d_, _dh_, _r_, _l_, _n_, double final C and add _-o_.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | M penultimate V <br/> F final V | mostly M
+PL     | ∅           | always F
+
+**Examples**
+
+* albáad → albaabbo
+
+### Declension 3 ((C)V(V)CVC)
+
+SG has the form of (C)V(V)CVC where the last two C are different. PL add _-o_ and delete final V.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | M penultimate V <br/> F final V | M or F
+PL     | ∅           | always M
+
+**Examples**
+
+* qálin → qáln → qalmo
+* hílib → hilbo
+
+### Declension 4 (1 syl ends in C)
+
+SG is one syllable and ends in C. PL add _-a_ and last C.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | penultimate V or only V | always M
+PL     | ∅           | always F
+
+**Examples**
+
+* áf → afaf
+* qóys → qoysas
+* nín → niman
+
+### Declension 5 (1-3 syl)
+
+SG is 1 to 3 syllables, but _never_ 1 syllable with short V. PL change stress and gender.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | penultimate V | always M
+PL     | final V     | always F
+
+In some words, if the last vowel is a dipthong, the dipthong counts as a single V.
+
+**Examples**
+
+* éy → eý
+* mádax → madáx
+* árdey → ardéy
+
+Note that _madax_ can also be declension 2.
+
+### Declension 6 (ends in 'o')
+
+SG ends in _-o_. PL add _-oyin_.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | penultimate V | always F
+PL     | penultimate V | always M
+
+**Examples**
+
+* hoóyo → hooyoóyin
+* wáddo → waddoóyin
+
+### Declension 7 (ends in 'e')
+
+SG ends in _-e_. PL remove _-e_ and add _-ayaal_. Note that since _e_ and _a_ are often confused in writing, this can also be thought of as just adding _-yaal_.
+
+&nbsp; | Stress Tone | Gender
+-------|-------------|---------
+SG     | penultimate V | always M
+PL     | ∅           | always F
+
+**Examples**
+
+* aábbe → aabbayaal
+* báre → barayaal
+
+There are two exceptions: `óday/odayaal:old men` and `bíyo/biyayaal:waters`.
 
 # Verbs
 
@@ -146,7 +296,9 @@ In PRS.CONT/SIMP, Dahir gives _ii_ as the 2PL vowel for the suffix, whereas Saee
 
 ## To Be
 
-_To be_ uses the transitive pronouns.
+### Positive and Question form
+
+This form uses the transitive pronouns in the positive form and the question pronouns in the question form.
 
 &nbsp; | SG | PL
 -------|----|-----
@@ -156,6 +308,8 @@ _To be_ uses the transitive pronouns.
 
 When the sentence is an adjective, the verb is suffixed to the adjective. If the subject is 1PL, then the _n_ of the verbal form is dropped, making it match the 1SG form.
 
+Note that in the question form, when the subject is 3SG, there are two variations, a formal forma, which uses the question pronouns listed above and a colloquial form which uses _miyaa_. In the colloquial form, the pronoun _cannot_ go in front. Thus, <ex>_Arayad miyaa?_ ⧸ Is she a student</ex>.
+
 --EX--
 (Anigu) waxaan ahay arday.
 I am a student. // Standalone pronouns are optional, note the vowel change at the end (_a_ to _u_).
@@ -163,9 +317,30 @@ Wuu fiicanyahay.
 He is well/good.
 --ENDEX--
 
+### Negative form
+
+This form uses the pronoun _ma_ for all persons.
+
+&nbsp; | SG  | PL
+-------|-----|-----
+1      |ihi  |nihin
+2      |tihid|tihidiin
+3      |aha  |aha
+
+--EX--
+Ma ihi ardahy.
+I am not a student.
+Ma aha arday.
+He is not a student. // if it were feminine, it would be ardayad (a female student)
+--ENDEX--
+
 ## Imparative (IMP)
 
 This is the default form of the verb and the lemma form found in most dictionaries. It is often used where other languages might have overt politeness markers, e.g. in requests.
+
+Stress is on the penultimate vowel if multi-syllabic or on the only vowel if there is only one vowel. Ex, `kéen:(you) bring`.
+
+The plural positive form is formed by adding _+a_ or _+ya_ if the verb ends in a vowel. The stress stays on the penultimate vowel. Thus, `kéen:(you) bring` becomes `keéna:(you all) bring`.
 
 ### Negative Forms
 
@@ -198,8 +373,11 @@ Preceded by _ma_ or _aan_.
 3 M.   |-ó  |-àan
 3 F.   |-ó  |-àan
 
+## Present Continuous/Progressive (PRS.CONT)
 
-## Present Continuous/Progress (PRS.CONT)
+<attn>This is referred to as the Present Progressive in _Colloquial Somali_.</attn>
+
+This tense indicates action that is still on going or about to happen, e.g. "I am making a pie" or "I am about to make a pie". Stress tone is on the vowel before the suffix.
 
 ### Conjugation V1
 
@@ -211,6 +389,8 @@ Preceded by _ma_ or _aan_.
 2      |-aysaa |-aysaan
 3 M.   |-ayaa  |-ayaan
 3 F.   |-aysaa |-ayaan
+
+Note that some books may list this suffix with a _-t_ (e.g. _-aytaa_) instead of _-s_, but due to the ever pervasive sound change rules, it will _always_ turn to _s_ in actual speech/writing.
 
 **Negative**
 
@@ -224,6 +404,20 @@ Preceded by _ma_ or _aan_.
 2      |-i màysó/màysíd |-i màysàan
 3 M.   |-i màayó  |-i màayàan
 3 F.   |-i màysó  |-i màayàan
+
+## Past Simple (PST.SIMP)
+
+### Conjugation V1
+
+**Positive**
+
+&nbsp; | SG  | PL
+-------|-----|-----
+1      |-ay  |-nay
+2      |-aytaa |-teen
+3 M.   |-ay  |-een
+3 F.   |-aytaa |-een
+
 
 # Question Words
 
@@ -266,13 +460,22 @@ My name is Parry and I was born in America. // -na is attached to `waxaan:I`.
 
 The generic question marker is _ma_. For example, <ex>Ma waxaad tahay macalin? ⧸ Are you a teacher?</ex>.
 
-**Is it X? (ma X -(b)aa?)**
+**Is it X? (ma X -(b)aa? OR miyaa)**
 
-A demonstrative, suffixed with `-i`, can be placed in front of `ma`. For example, <ex>_Kaasi ma eyaa?_ ⧸ Is that a dog?</ex> (`kaas:that`).
+A demonstrative, suffixed with `-i`, can be placed in front of `ma`. For example, <ex>_Kaasi ma eyaa?_ ⧸ Is that a dog?</ex> (`kaas:that`). _Miyaa_ can also be used, such as <ex>_Kursi miyaa?_ ⧸ Is that a chair?</ex>
 
 The response to questions of this form is either `waa X:it is X` (positive form), or `ma aha X:it is not X` (negative form).
 
 Northern (Somaliland) dialects will use `-baa`, whereas Southern dialects will use `-aa`.
+
+## Ability to do A Verb (kar)
+
+Ability to do a verb, such as "I can speak", is expressed with the verb _kar_. It is used in two ways, either with _in ann_ or with the 2nd verb in INF.
+
+Thus, for "I can speak", one can say either:
+
+1. Waan in aan hadlo.
+2. Waan hadli karaa.
 
 # Prepositions
 
@@ -284,6 +487,42 @@ ku
 
 u
 : to
+
+# Numbers
+
+## Kow versus Hal
+
+There are two words for one: _kow_ and _hal_. _Kow_ is used when counting in the abstract or as part of large numbers. _Hal_ is used when there is a quantity, such as `one friend:hal saxiib`.
+
+## Cardinal
+
+0 - ebar
+1 - kow
+2 - labo
+3 - sadex
+4 - afar
+5 - shan
+6 - lix
+7 - todobo
+8 - sideed
+9 - sagaal
+10 - toban
+11 - kow iyo toban OR toban iyo kow
+
+Note that only the teens can have their number order optionally reversed.
+
+20 - labaatan
+30 - soddon
+40 - afartan
+50 - konton
+60 - lixdan
+70 - todobaatan
+80 - sideetan
+90 - sagaashan
+100 - boqol
+1000 - kun
+
+Large numbers have one `iyo:and` per number grouping. The groupings are hundreds or less, thousands, and millions. That is `11:toban iyo kow` and `111:kow boqol toban iyo kow`, `1111:kow kun kow boqol toban iyo kow`, and `11111:toban iyo kow kun, kow boqol toban iyo kow`.
 
 # Bibliography
 

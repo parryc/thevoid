@@ -34,3 +34,10 @@
 * _Suminagashi_ - Don Guyot
 * _Fifteen Poets of the Aztec World_ - Miguel León-Portilla
 * _A Stranger in Olondria_ - Sofia Samatar
+* _The Honjin Murders_ - Seishi Yokomizo
+* _Violet on the Mountain_ - trs. Kevin Tuite
+* _The Museum of Whales You Will Never See_ - A. Kendra Greene
+* _Drama and Desire: Japanese Painting from the Floating World_ - Anne Nishimura Morse
+* _The Red Locked Room_ - Tetsuya Ayukawa
+* _The Master of Djinn_ - P. Djèlí Clark
+* _The Hermit, a Legend by Prince Ilia Chavchavadze_ - trs. Marjory Wardrop

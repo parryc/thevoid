@@ -22,8 +22,9 @@ Over the years, I've found myself drawn to a few different books that are always
 * Ladino – 1
 * Lithuanian – 1
 * Multiple languages – 1
+* Norwegian – 1
 * Russian – 1
-* Scottish Gaelic - 1
+* Scottish Gaelic – 1
 * Vietnamese – 1
 * Yiddish – 1
 
@@ -54,7 +55,10 @@ _Historia de Winny de Puh_
 : translated by Isabel Gortázar and Juan Ramón Azaola. Published by Valdemar, 2009. <tag>spanish</tag>
 
 _Pu der Bär_
-: translated by Harry Rowohlt. Published by Dressler Verlag, 2009.
+: translated by Harry Rowohlt. Published by Dressler Verlag, 2009. <tag>german</tag>
+
+_Her Kommer Ole Brumm_
+: translateg by Union Design AS. Published by Gyldendal Norsk Forlag, 1996. <tag>norwegian</tag>
 
 ## Le Petit Prince by Antione de Saint-Exupéry
 
