@@ -1,5 +1,16 @@
 {  "reviews": [
     {
+      "location": "Tblisi Hörna, Stockholm",
+      "country": "Sweden",
+      "price": 4,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2021-10",
+      "rated_by": "wpc",
+      "note": "",
+      "img": ""
+    },
+    {
       "location": "Georgian Bakery and Cafe, Philadelphia",
       "country": "USA",
       "price": 3,
