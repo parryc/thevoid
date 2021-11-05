@@ -488,6 +488,12 @@ ku
 u
 : to
 
+# Adjectives
+
+## Formation of Adjectives from Verbs
+
+Adjectives can be formed by verbs by adding `-an` or `-san`.
+
 # Numbers
 
 ## Kow versus Hal

@@ -61,10 +61,10 @@ Russian – 14
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
-Somali – 7
+Somali – 8
 Spanish – 4
 Squamish – 1
-Swedish – 1
+Swedish – 2
 Svan – 2
 Tagalog – 5
 Tahitian – 1
@@ -87,7 +87,7 @@ Yoruba – 1
 Bilingual Texts – 8
 Coursebook – 29
 Dictionary – 57
-Grammar – 40
+Grammar – 41
 Phrasebook – 13
 Study – 14
 Verb list – 4
@@ -239,6 +239,9 @@ Somali-English Dictionary with English Index
 
 Somali Reference Grammar
 : John Ibrahim Saeed, Dunwoody Press, 1993, Second Revised Edition. <tag>english→somali</tag> <tag>grammar</tag>
+
+Naxwaha Iswiidhishka Oo Ku Qoran Af-Soomaali
+: Åke Viberg et al, Natur & Kultur, 2017. <tag>somali→swedish</tag> <tag>grammar</tag>
 
 ### Eskimo-Aleut
 

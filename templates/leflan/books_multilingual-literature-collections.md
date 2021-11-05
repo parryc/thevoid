@@ -25,6 +25,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * Norwegian – 1
 * Russian – 1
 * Scottish Gaelic – 1
+* Swedish – 1
 * Vietnamese – 1
 * Yiddish – 1
 
@@ -58,7 +59,10 @@ _Pu der Bär_
 : translated by Harry Rowohlt. Published by Dressler Verlag, 2009. <tag>german</tag>
 
 _Her Kommer Ole Brumm_
-: translateg by Union Design AS. Published by Gyldendal Norsk Forlag, 1996. <tag>norwegian</tag>
+: translated by Union Design AS. Published by Gyldendal Norsk Forlag, 1996. <tag>norwegian</tag>
+
+_Nalle Puhs hörna_
+: translated by Brita af Geijerstam. Published by Bonnier Carlsen, 2016. <tag>swedish</tag>
 
 ## Le Petit Prince by Antione de Saint-Exupéry
 
