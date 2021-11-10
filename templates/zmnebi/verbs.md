@@ -266,7 +266,7 @@ vt2
 : (default marker), transitive verb, subject and direct object. Only marked if not obvious. Ex. `აკეთებს:does something`.
 
 vt3
-: transitive verb, subject, direct object, and indirect object. Ex. `აძკევს:gives something to someone`.
+: transitive verb, subject, direct object, and indirect object. Ex. `აძლევს:gives something to someone`.
 
 vt4
 : transitive verb, subject, direct object, indirect object, and the person on whose behalf the action was done. Ex. `დაუჭმევს:will let somebody's something be eaten by something`. As you can imagine, these types of verbs are rare.
