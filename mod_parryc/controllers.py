@@ -12,6 +12,8 @@ from flask import (
 from mod_parryc.models import Entry
 from sqlalchemy import or_
 from app import testing_site
+from bracket_table.bracket_table import BracketTable
+from git import Repo
 import os
 import markdown
 import codecs
@@ -36,9 +38,17 @@ def favicon():
     )
 
 
-@mod_parryc.route("/css/<css>", host=_host)
+@mod_parryc.route("/css/<path:css>", host=_host)
 def css(css):
-    return send_from_directory(os.path.join(current_app.root_path, "static/gen"), css)
+    print(css)
+    if "fonts" in css:
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/css"), css
+        )
+    else:
+        return send_from_directory(
+            os.path.join(current_app.root_path, "static/gen"), css
+        )
 
 
 @mod_parryc.route("/images/<folder>/<image>", host=_host)
@@ -67,9 +77,22 @@ def download(doc):
     return send_from_directory("files", doc)
 
 
-@mod_parryc.route("/<title>", methods=["GET"], host=_host)
+@mod_parryc.route("/archive", methods=["GET"], host=_host)
+def archive():
+    page = os.path.join("parryc", f"archive.md")
+    html = get_html(page)
+    if html == "<p>404</p>":
+        return abort(404)
+    return render_template("parryc/post.html", html=html, lang="ge")
+
+
+@mod_parryc.route("/<path:title>", methods=["GET"], host=_host)
+@mod_parryc.route("/archive/<path:title>", methods=["GET"], host=_host)
 def page(title):
-    page = "parryc/%s.md" % title
+    path = "parryc"
+    if "/" in title:
+        path = os.path.join(path, "archive")
+    page = os.path.join(path, f"{title}.md")
     html = get_html(page)
     if html == "<p>404</p>":
         return abort(404)
@@ -210,6 +233,34 @@ def dict_browse_tertiary(lang, letter, sec_letter):
 
 
 def get_html(page, dictionary_entry=False):
+    if _host == "parryc.com":
+        repo = Repo("/srv/data/vcs/git/default.git")
+        folder = os.path.join("templates", "leflan")
+    else:
+        repo = Repo(os.getcwd())
+        folder = os.path.join(os.getcwd(), "templates", "leflan")
+    filepath = os.path.join(current_app.root_path, "templates", page)
+    git_page = os.path.join(folder, page.split("/")[-1])
+    input_file = codecs.open(filepath, mode="r", encoding="utf-8")
+    text = input_file.read()
+    print(page)
+    if page == "leflan/index.md":
+        time = repo.git.log("-n 1", "--format=%ci")
+    elif "through-reading" in page or "through-writing" in page:
+        path_parts = page.split("/")
+        if "index.md" in page:
+            # go up to the folder level to get the most recent subpage's change
+            # page_parts = page.split('/')
+            git_page = os.path.join(folder, path_parts[-2])
+            time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
+        else:
+            git_page = os.path.join(folder, path_parts[-2], path_parts[-1])
+            time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
+    else:
+        time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
+    time = " ".join(time.split(" ")[0:2])
+    text = "_Last updated {0}_\n\n".format(time) + text
+
     filepath = os.path.join(current_app.root_path, "templates", page)
     try:
         input_file = codecs.open(filepath, mode="r", encoding="utf-8")
@@ -227,6 +278,11 @@ def get_html(page, dictionary_entry=False):
             "markdown.extensions.tables",
             "markdown.extensions.def_list",
             "markdown.extensions.abbr",
+            "markdown.extensions.nl2br",
+            "mod_leflan.furigana",
+            BracketTable(),
+            "doctor_leipzig.doctor_leipzig",
+            "mod_leflan.examples",
         ],
     )
 

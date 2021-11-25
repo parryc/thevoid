@@ -65,6 +65,10 @@ A collection of various writing tools that I have used over the years. ⭐️ me
     * 18 different papers, each react to ink in a different way
     * A lot of fun to write on the different types of paper
 
+### Printer Paper
+
+* Neenah Recycled 100 Bring White (104gsm, Letter, Long)
+
 ## Inks 🎨
 
 * 3 Oysters My Color

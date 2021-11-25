@@ -1,3 +1,5 @@
+# Language Book Collection
+
 [TOC]
 
 ## Introduction
@@ -24,8 +26,8 @@ Danish – 3
 Dutch – 8
 English – 137
 Finnish – 2
-French – 6
-Georgian – 12
+French – 7
+Georgian – 13
 German – 7
 Hawaiian – 1
 Halkomelem – 1
@@ -87,7 +89,7 @@ Yoruba – 1
 Bilingual Texts – 8
 Coursebook – 29
 Dictionary – 57
-Grammar – 41
+Grammar – 42
 Phrasebook – 13
 Study – 14
 Verb list – 4
@@ -427,6 +429,11 @@ Zur Conjugation des Georgischen Verbums
 
 Advanced Georgian Reader
 : Shorena Kurtsikidze, Dunwoody Press, 2014. <tag>georgian→english</tag> <tag>bilingual texts</tag>
+
+La Langue Géorgienne
+: Nikolai Marr and Maurice Brière, Firmin-Didot, 1931. <tag>georgian→french</tag> <tag>grammar</tag>
+
+
 
 #### Svan
 

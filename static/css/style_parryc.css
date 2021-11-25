@@ -1,29 +1,72 @@
+h1,h2,h3,h4,h5,h6,body {
+  font-family: "Source Code Pro", "BPG Ingiri", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 body {
-  font-size: 22px;
+  font-size: 20px;
   line-height: 1.4;
-  font-family: "Segoe UI Emoji", "PT Serif","Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: rgb(250,250,250);
+  counter-reset: leipzig;
+  background-color: #fffffa;
 }
 
 a {
   color: rgb(255,110,110);
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
+abbr {
+  font-variant: small-caps;
+  font-variant-numeric: oldstyle-nums;
+  font-size: 0.8em;
+}
+
 article {
-  width: 85%;
-  max-width: calc(85% - 1rem);
+  width: 80%;
+  max-width: 88ch;/*calc(80% - 1rem)*/;
 }
 
 aside {
-  width: 15%;
-  max-width: calc(15% - 1rem);
+  width: 20%;
+  /*max-width: calc(20% - 1rem);*/
   padding-top: 25px;
+}
+
+attn {
+  display: block;
+  padding-left: .66em;
+  margin-left: -1.8em;
+  margin-top: -0.3em;
+  background: #fff7f7;
+  padding: 0.33em;
+  border-right: solid #c5c5c5 10px;
+  border-bottom: solid #afafaf 10px;
+  border-radius: 0.4em;
+}
+
+attn:before {
+  content: '☛ ';
+}
+
+blockquote {
+  border-left: .4rem solid rgba(255, 110, 110, 0.65);
+}
+
+blockquote em {
+  font-style: normal;
+}
+
+cite {
+  vertical-align: super;
+  font-size: .6em;
 }
 
 code {
   color: #444;
   background: #efefef;
-  font-family: "Source Code Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Source Code Pro", "BPG Ingiri", "Helvetica Neue", Helvetica, Arial, sans-serif;
   word-break: break-all;
   word-wrap: break-word;
   font-size: inherit !important;
@@ -31,13 +74,47 @@ code {
   padding: 0.15rem;
 }
 
-h1 {
+dt:before, note:before {
+  content: '❧';
+  padding-right: 5px;
+}
+
+ex {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  background-color: #ffecec;
+}
+
+h1, #post-header > p {
   padding-top: 20px;
   padding-bottom: 10px;
   padding-left: 15px;
   background-color: rgb(255,110,110);
   color: white;
   border-bottom: none;
+  font-size: 3.6rem;
+  font-style: normal;
+  line-height: inherit;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+pt:before {
+  content: '(pt. ';
+  font-variant: small-caps;
+}
+
+pt:after {
+  content: ')';
+}
+
+pt {
+  font-style: italic;
+  padding-left: 0.8em;
+}
+
+rt {
+  font-size: 0.6em;
 }
 
 section {
@@ -45,9 +122,382 @@ section {
   margin-bottom: -5px;
 }
 
+strong em {
+  font-size: 1.1em;
+}
+
+sup {
+  font-size: .5em;
+}
+
+table {
+  white-space: nowrap;
+}
+
+td {
+  text-align: left;
+}
+
+td strong {
+  border: 1px solid black;
+  background-color: #f7f7f7;
+}
+
+/* Don't allow the PDF page splitting to
+   break inside of a table row */
+tr {
+  page-break-inside: avoid !important;
+  background: rgb(250,250,250);
+}
+
 tag:before {
   content: '#';
-  color: rgb(255,110,110);
+  color: black;
+  /* Shift the :before back up to baseline for middle vertical align*/
+  vertical-align: 0px;
+}
+
+tag {
+  font-style: italic;
+}
+
+dd > tag {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.footnote > ol {
+  margin-left: 1em;
+}
+
+.maya {
+  font-family: 'MayanNumerals';
+  text-orientation: upright;
+  writing-mode: vertical-rl;
+  font-size: 0.75;
+}
+
+#to-top {
+  position: fixed;
+  bottom: 15px;
+  left: 3%;
+}
+
+/************
+Examples
+************/
+
+/* https://siongui.github.io/2017/02/27/css-only-toggle-dom-element/ */
+label {
+  cursor: pointer;
+}
+
+#example-toggle-1, #example-toggle-1:not(:checked) ~ .example-block,
+#example-toggle-2, #example-toggle-2:not(:checked) ~ .example-block,
+#example-toggle-3, #example-toggle-3:not(:checked) ~ .example-block,
+#example-toggle-4, #example-toggle-4:not(:checked) ~ .example-block,
+#example-toggle-5, #example-toggle-5:not(:checked) ~ .example-block,
+#example-toggle-6, #example-toggle-6:not(:checked) ~ .example-block,
+#example-toggle-7, #example-toggle-7:not(:checked) ~ .example-block,
+#example-toggle-8, #example-toggle-8:not(:checked) ~ .example-block,
+#example-toggle-9, #example-toggle-9:not(:checked) ~ .example-block,
+#example-toggle-10, #example-toggle-10:not(:checked) ~ .example-block,
+#example-toggle-11, #example-toggle-11:not(:checked) ~ .example-block,
+#example-toggle-12, #example-toggle-12:not(:checked) ~ .example-block,
+#example-toggle-13, #example-toggle-13:not(:checked) ~ .example-block,
+#example-toggle-14, #example-toggle-14:not(:checked) ~ .example-block,
+#example-toggle-15, #example-toggle-15:not(:checked) ~ .example-block,
+#example-toggle-16, #example-toggle-16:not(:checked) ~ .example-block,
+#example-toggle-17, #example-toggle-17:not(:checked) ~ .example-block,
+#example-toggle-18, #example-toggle-18:not(:checked) ~ .example-block,
+#example-toggle-19, #example-toggle-19:not(:checked) ~ .example-block,
+#example-toggle-20, #example-toggle-20:not(:checked) ~ .example-block {
+  display: none;
+}
+
+.example-block {
+  border-left: .4rem dotted rgba(255,110,110,0.65);
+}
+
+.example-header {
+  font-size: 0.6em;
+  padding: 5px 8px 5px 8px;
+  background: #444;
+  color: white;
+  border-radius: 15px;
+}
+
+.example-header:hover {
+  background: black;
+}
+
+.example-list {
+  margin-left: 1.6em;
+  list-style-type: upper-alpha;
+}
+
+.example-list li {
+  margin-top: 0.4em;
+}
+
+.example-note:before {
+  content: "⇾ ";
+}
+
+.example-note {
+  font-size: 0.7em;
+}
+
+.example-target {
+  font-style: italic;
+  font-size: 0.85em;
+}
+
+/*************
+Bracket Table
+*************/
+
+.bracket_table tbody tr td {
+  border: none !important;
+}
+
+.bracket_table td {
+  padding: 0rem 1.6rem;
+}
+
+.bracket_table .bracket {
+  margin-right: -60px;
+  margin-left: -20px;
+  margin-top: -15px;
+  display: block;
+}
+
+.bracket_table .bracket_text {
+  margin-left: -40px;
+  display: block;
+  /* should probably switch the
+     Python code to make it a div */
+}
+
+/*************
+Leipzig
+*************/
+
+.leipzig-alt-font {
+  font-family: monospace;
+}
+
+.leipzig-table tbody tr td {
+  border: none !important;
+  font-family: "CMU", serif;
+}
+
+.leipzig-table td {
+  padding: 0rem 1rem;
+}
+
+.leipzig-num::before {
+  counter-increment: leipzig;
+  content: "(" counters(leipzig, ".") ")"
+}
+
+.leipzig-morpheme {
+  text-transform: lowercase;
+  font-variant: small-caps;
+  -moz-font-feature-settings: "onum";
+  -webkit-font-feature-settings: "onum";
+  font-feature-settings: "onum";
+}
+
+.leipzig-source {
+  font-weight: bold;
+}
+
+.leipzig-translation {
+  font-style: italic;
+}
+
+/* Make sure scroll bar appears on mobile */
+/* Doesn't work on Android Chrome - just shows a black and white bar, alas */
+/*.leipzig-table::-webkit-scrollbar {
+  -webkit-appearance: none;
+  width: 7px;
+}
+
+.leipzig-table::-webkit-scrollbar-track {
+    background: #000;
+    border: 8px solid transparent;
+    background-clip: content-box;
+}
+
+.leipzig-table::-webkit-scrollbar-thumb {
+    background: rgba(255,110,110,.5);
+    border-top: 7px solid #fff;
+    border-bottom: 7px solid #fff;
+}*/
+
+/*************
+Typesetting for Lithuanian pitch accents
+
+When adding pitch accent marks, the tittle must still be there
+as well as having the actual accent mark look nice. Most fonts,
+since I can't imagine they know much about Lithuanian pitch accent
+typography, render these groups of combining marks quite poorly.
+
+The usage of these is _mažai<grave></grave>s_ which would be rendered
+as _mažai`s_, but with the ` over the dot of the i.
+**************/
+
+ac:before {
+  content: '´';
+}
+
+ac {
+  position: relative;
+  left: -.57em;
+  top: -.2em;
+  margin-right: -.57em;
+}
+
+gr:before {
+  content: '`';
+}
+
+gr {
+  position: relative;
+  left: -.57em;
+  top: -.2em;
+  margin-right: -.57em;
+}
+
+ti:before {
+  content: '˜';
+}
+
+ti {
+  position: relative;
+  left: -.57em;
+  top: -.25em;
+  margin-right: -.57em;
+}
+
+
+/******************
+Dictionary entries
+******************/
+
+/*.declensions table {
+  display: none;
+}*/
+
+.declensions table {
+  overflow-x: scroll;
+  width: 130% !important;
+  display: none;
+}
+
+.dictionary-tag {
+  font-size: .65em;
+  vertical-align: middle;
+  display: inline-block;
+  cursor: pointer;
+  padding: 0 2px 0 2px;
+  background-color: #f9bbbb;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.filter, #show-all {
+  font-style: italic;
+  cursor: pointer;
+  color: #ff6e6e/*960d0d*/;
+  text-decoration: underline;
+}
+
+.filter:hover, #show-all:hover {
+  text-decoration: line-through;
+}
+
+.headword {
+  font-weight: bold;
+  /*cursor: help;*/
+}
+
+.pos {
+  font-style: italic;
+}
+
+.headword-info>.declensions table {
+  color: none;
+}
+
+.headword-info:hover>.declensions table {
+  display: block;
+}
+
+@media screen and (max-width: 40rem) {
+  article {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  aside {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  table {
+    overflow-x: scroll;
+    max-width: inherit !important;
+    display: block;
+  }
+
+  dd>table {
+    display:none;
+  }
+
+  dt:hover+dd>table {
+    margin-top: .75em;
+    margin-left: -1em;
+    display:table;
+  }
+
+  .headword-info:hover>.declensions table {
+    display: block;
+    max-width: calc(100% - 1rem) !important;
+  }
+
+  .bracket_table table {
+    overflow-x: visible;
+    margin-left: 0.3em !important;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  attn {
+    margin-left: 0em;
+  }
+
+  #to-top {
+    padding: 3px;
+    color: #444;
+    background: #efefef;
+    border: solid black 2px;
+  }
+}
+
+@media print {
+  table {
+    white-space: normal;
+  }
+
+  main {
+    max-width: 100% !important;
+  }
+
+  #to-top {
+    display: none;
+  }
 }
 
 /* TOPURIA */
@@ -71,17 +521,4 @@ sup {
 .unknown {
   color: cyan;
   background-color: black;
-}
-
-
-@media screen and (max-width: 40rem) {
-  article {
-    width: inherit;
-    max-width: inherit;
-  }
-
-  aside {
-    width: inherit;
-    max-width: inherit;
-  }
 }

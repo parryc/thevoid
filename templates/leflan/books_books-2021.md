@@ -42,3 +42,5 @@
 * _The Master of Djinn_ - P. Djèlí Clark
 * _The Hermit, a Legend by Prince Ilia Chavchavadze_ - trs. Marjory Wardrop
 * _Paper: An Elegy_ - Ian Sansom (did not finish)
+* _パプリカ: 梦侦探_ - 筒井康隆
+* _Paprika_ - Tasutaka Tsutsui
