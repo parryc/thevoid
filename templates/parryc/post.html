@@ -1,14 +1,22 @@
 {% extends '/base.html' %}
 {% block page_css %}
-  <link rel="stylesheet" href="/css/parryc.css" />
-  {% assets "parryc_css" %}
-    <!--force assets to compile, while Flask fixes multi-host bug-->
-    <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
-  {% endassets %}
+    <link rel="stylesheet" href="/css/parryc.css" />
+    {% assets "parryc_css" %}
+        <!--force assets to compile, while Flask fixes multi-host bug-->
+        <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+    {% endassets %}
 {% endblock %}
 {% block header %}
-parryblog . <a href="/">home</a> . <a href="/posts">posts</a> . <a href="/language-notes">language notes</a>
+    parryblog . <a href="/">home</a> . <a href="/posts">posts</a> . <a href="/language-notes">language notes</a>
 {% endblock %}
 {% block content  %}
-  {{html|safe}}
+    {% if override_title %}<h1>{{ override_title }}</h1>{% endif %}
+    {% if time %}
+        <p>
+           <em>Last Updated: {{ time }}</em>
+        </p>
+    {% endif %}
+    <div id="to-top"><a href="#top-link">[top]</a></div>
+    {{html|safe}}
+    <br/>
 {% endblock %}

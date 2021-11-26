@@ -1,28 +1,37 @@
-# posts
+lists of pictures, but no pictures of lists – yet.
 
-## Travel
+---
 
-* [October 2021 // Sweden and Åland](2021-sweden)
-* [February 2020 // Switzerland & Liechtenstein](2020-switzerland)
-* [August 2019 // Georgia & Azerbaijan](2019-georgia-and-azerbaijan)
-* [Summer 2019 // Edinburgh & Shetland](2019-shetland)
-* [March 2019 // Madrid & Toledo](2019-madrid)
-* [Fall 2018 // Europe](2018-europe)
-* [August 2018 // Washington](2018-washington)
-* [June 2018 // Philippines & Japan](2018-philippines-and-japan)
+## travel
 
-## Lists
+* [october 2021 // sweden & åland](2021-sweden)
+* [february 2020 // switzerland & liechtenstein](2020-switzerland)
+* [august 2019 // georgia & azerbaijan](2019-georgia-and-azerbaijan)
+* [summer 2019 // scotland – edinburgh & shetland](2019-shetland)
+* [march 2019 // spain – madrid & toledo](2019-madrid)
+* [fall 2018 // netherlands, germany, austria, & belgium](2018-europe)
+* [august 2018 // usa - washington](2018-washington)
+* [june 2018 // philippines & japan](2018-philippines-and-japan)
 
-* [Pen Stuff](pens)
-* [Language Book Collection](language-book-collection)
-* [Multilingual Literature Collection](multilingual-literature-collections)
-* [Comics I Have Known and Loved](comics-I-have-known-and-loved)
+## lists
 
-## Elsewhere on the Web
+* [pen stuff](pens)
+* [language book collection](language-book-collection)
+* [multilingual literature collection](multilingual-literature-collections)
+* [comics i have known and loved](comics-I-have-known-and-loved)
+* [a georgian word a day](georgian-word-a-day)
 
-* [Build a WhatsApp Flashcard Bot With Python, Flask and Twilio](https://www.twilio.com/blog/build-whatsapp-flashcard-bot-python-flask-twilio)
+### books i've read
+
+[2021](/books/2021) | [2020](/books/2020) | [2019](/books/2019) 
+[2018](/books/2018) | [2017](/books/2017) | [2016](/books/2016)
+[2015](/books/2015)
+
+## elsewhere on the web
+
+* [build a whatsApp flashcard bot with python, flask and twilio](https://www.twilio.com/blog/build-whatsapp-flashcard-bot-python-flask-twilio)
 
 
 ----
 
-☞ [See the archive](archive) ☜
+☞ [see the archive](archive) ☜

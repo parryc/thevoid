@@ -9,6 +9,7 @@ templates/topuria
 avar_rocks
 .nova
 venv/
+testing/
 
 # Webassets cache
 .webassets-cache/

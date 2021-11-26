@@ -11,8 +11,8 @@
 </head>
 <body>
   <main>
-    <section>{% block header %}{% endblock %}</section>
-    <article {% if lang %}lang="{{lang}}"{% endif %}>
+    <section style="margin-bottom: 1em;">{% block header %}{% endblock %}</section>
+    <article {% if lang %}lang="{{lang}}"{% endif %} id="top-link">
       {% block content %}{% endblock %}
     </article>
   </main>

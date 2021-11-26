@@ -1,15 +1,29 @@
-<br/>
-hello! welcome to my site – hopefully you will find something of interest. if you have any questions, my email is `parry`@`parryc.com`. 
+hello! welcome to my site – hopefully you'll find something of interest. if you have any questions, my email is `parry`@`parryc.com`. 
 
+----
+<div style="display:flex; flex-wrap:wrap;" markdown="1">
+<style scoped>
+@media (max-width: 600px) {
+  div {
+    flex-direction: column;
+  }
+}
+</style>
+
+<div style="flex:50%;" markdown="1">
 ## here
 
-📚 [language notes](https://parryc.com/language-notes)
+📚 [language notes](language-notes)
 
-🖼 [posts & pictures](https://parryc.com/posts)
+🖼 [posts & pictures](posts)
 
-🈲 [playing 《谜宫》](https://parryc.com/migong) [in progress]
+🈲 [playing 《谜宫》](migong) [in progress]
 
-🌄 [a course of the svan language](https://parryc.com/svan) [under construction]
+🌄 [a course of the svan language](svan) [under construction]
+
+</div>
+
+<div style="flex:50%;" markdown="1">
 
 ## elsewhere
 
@@ -22,3 +36,6 @@ hello! welcome to my site – hopefully you will find something of interest. if 
 👩‍💻 [github](https://github.com/parryc)
 
 ⛰ [avar.rocks](https://avar.rocks) [under construction]
+
+</div>
+</div>

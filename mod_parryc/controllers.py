@@ -69,7 +69,9 @@ def image(image):
 def index():
     page = "parryc/index.md"
     html = get_html(page)
-    return render_template("parryc/post.html", html=html, host=_host)
+    return render_template(
+        "parryc/post.html", html=html["html"], time=html["time"], host=_host
+    )
 
 
 @mod_parryc.route("/downloads/<doc>", methods=["GET"], host=_host)
@@ -83,7 +85,52 @@ def archive():
     html = get_html(page)
     if html == "<p>404</p>":
         return abort(404)
-    return render_template("parryc/post.html", html=html, lang="ge")
+    return render_template("parryc/post.html", html=html["html"], time=html["time"])
+
+
+@mod_parryc.route("/language/texts/<language>/<title>", host=_host)
+def language_texts(language, title):
+    path = "leflan"
+    path = os.path.join(path, f"through-reading_{language}")
+    page = os.path.join(path, f"{title}.md")
+    html = get_html(page)
+    if html == "<p>404</p>":
+        return abort(404)
+    override_titles = {"bayau": "Bayau/Баяу/Slowly", "mooz": "Mooz/Мұз/Ice"}
+    if title not in override_titles:
+        title = title.replace("_", " ")
+    else:
+        title = override_titles[title]
+    return render_template(
+        "parryc/post.html", html=html["html"], time=html["time"], override_title=title
+    )
+
+
+@mod_parryc.route("/language/<title>", host=_host)
+def language(title):
+    path = "leflan"
+    page = os.path.join(path, f"language_{title}.md")
+    html = get_html(page)
+    if html == "<p>404</p>":
+        return abort(404)
+    return render_template(
+        "parryc/post.html", html=html["html"], time=html["time"], override_title=title
+    )
+
+
+@mod_parryc.route("/books/<year>", host=_host)
+def books(year):
+    path = "leflan"
+    page = os.path.join(path, f"books_books-{year}.md")
+    html = get_html(page)
+    if html == "<p>404</p>":
+        return abort(404)
+    return render_template(
+        "parryc/post.html",
+        html=html["html"],
+        time=html["time"],
+        override_title=f"books: {year}",
+    )
 
 
 @mod_parryc.route("/<path:title>", methods=["GET"], host=_host)
@@ -94,9 +141,9 @@ def page(title):
         path = os.path.join(path, "archive")
     page = os.path.join(path, f"{title}.md")
     html = get_html(page)
-    if html == "<p>404</p>":
+    if html["html"] == "<p>404</p>":
         return abort(404)
-    return render_template("parryc/post.html", html=html, lang="ge")
+    return render_template("parryc/post.html", html=html["html"], time=html["time"])
 
 
 # ---------
@@ -203,11 +250,7 @@ def dict_browse_secondary(lang, letter):
     )
 
 
-@mod_parryc.route(
-    "/<lang>/browse/<letter>/<sec_letter>",
-    methods=["GET"],
-    host=_host,
-)
+@mod_parryc.route("/<lang>/browse/<letter>/<sec_letter>", methods=["GET"], host=_host)
 def dict_browse_tertiary(lang, letter, sec_letter):
     browse = f"{lang}_browse.json"
     filepath = os.path.join(
@@ -243,9 +286,8 @@ def get_html(page, dictionary_entry=False):
     git_page = os.path.join(folder, page.split("/")[-1])
     input_file = codecs.open(filepath, mode="r", encoding="utf-8")
     text = input_file.read()
-    print(page)
-    if page == "leflan/index.md":
-        time = repo.git.log("-n 1", "--format=%ci")
+    if page == "parryc/index.md":
+        time = ""  # no last updated for index
     elif "through-reading" in page or "through-writing" in page:
         path_parts = page.split("/")
         if "index.md" in page:
@@ -259,8 +301,6 @@ def get_html(page, dictionary_entry=False):
     else:
         time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
     time = " ".join(time.split(" ")[0:2])
-    text = "_Last updated {0}_\n\n".format(time) + text
-
     filepath = os.path.join(current_app.root_path, "templates", page)
     try:
         input_file = codecs.open(filepath, mode="r", encoding="utf-8")
@@ -269,22 +309,27 @@ def get_html(page, dictionary_entry=False):
         text = "404"
     if dictionary_entry:
         text = _clean_dictionary(page.split("/")[1], text)
-    return markdown.markdown(
-        text,
-        extensions=[
-            "markdown.extensions.footnotes",
-            "markdown.extensions.sane_lists",
-            "markdown.extensions.toc",
-            "markdown.extensions.tables",
-            "markdown.extensions.def_list",
-            "markdown.extensions.abbr",
-            "markdown.extensions.nl2br",
-            "mod_leflan.furigana",
-            BracketTable(),
-            "doctor_leipzig.doctor_leipzig",
-            "mod_leflan.examples",
-        ],
-    )
+
+    return {
+        "html": markdown.markdown(
+            text,
+            extensions=[
+                "markdown.extensions.footnotes",
+                "markdown.extensions.sane_lists",
+                "markdown.extensions.toc",
+                "markdown.extensions.tables",
+                "markdown.extensions.def_list",
+                "markdown.extensions.abbr",
+                "markdown.extensions.nl2br",
+                "mod_leflan.furigana",
+                BracketTable(),
+                "doctor_leipzig.doctor_leipzig",
+                "mod_leflan.examples",
+                "md_in_html",
+            ],
+        ),
+        "time": time,
+    }
 
 
 def _clean_dictionary(filename, entry):
