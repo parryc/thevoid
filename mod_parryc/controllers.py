@@ -40,7 +40,6 @@ def favicon():
 
 @mod_parryc.route("/css/<path:css>", host=_host)
 def css(css):
-    print(css)
     if "fonts" in css:
         return send_from_directory(
             os.path.join(current_app.root_path, "static/css"), css
