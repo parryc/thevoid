@@ -73,6 +73,12 @@ def index():
     )
 
 
+@mod_parryc.route("/r", host=_host, defaults={"leflan": ""})
+@mod_parryc.route("/r/<path:leflan>", host=_host)
+def leflan_reroute(leflan):
+    return redirect(url_for(".index"))
+
+
 @mod_parryc.route("/downloads/<doc>", methods=["GET"], host=_host)
 def download(doc):
     return send_from_directory("files", doc)
