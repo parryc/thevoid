@@ -9,7 +9,7 @@ sub-bullets link to annotated texts.
 
 these languages are actively being learned and so the notes are more likely to be updated.
 
-### pretty complete
+### extensive
 
 * [georgian](/language/georgian)
     * [at the busstop](/language/texts/georgian/dialogue_-_at_the_busstop)
@@ -24,13 +24,13 @@ these languages are actively being learned and so the notes are more likely to b
 
 language studies that are gone, but not forgotten. except all the rules, vocabulary, and phonetics. those have been forgotten.
 
-### hearty
+### comprehensive
 
 robust notes that cover a lot of topics.
 
 * [azeri](/language/azeri)
 * [lithuanian](/language/lithuanian)
-    * [Ronja, the Robber's Daughter, chp 1](/language/texts/lithuanian/ronja_chapter_1)
+    * [ronja, the robber's daughter, chp 1](/language/texts/lithuanian/ronja_chapter_1)
 
 ### haphazard
 
@@ -38,8 +38,8 @@ some topics are more filled out than others. most likely to be verbs or pronouns
 
 * [k'iche'](/language/k&apos;iche&apos;)
 * [kazakh](/language/kazakh)
-    * [Bayau/Баяу/Slowly by Ninety One](/language/texts/kazakh/bayau)
-    * [Mooz/Мұз/Ice by Ninety One](/language/texts/kazakh/mooz)
+    * [bayau/баяу/slowly by ninety one](/language/texts/kazakh/bayau)
+    * [mooz/мұз/ice by ninety one](/language/texts/kazakh/mooz)
 * [kabardian](/language/kabardian)
 * [hawaiian](/language/hawaiian)
 * [swiss german](/language/swiss-german)

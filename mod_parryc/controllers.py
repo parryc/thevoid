@@ -96,7 +96,7 @@ def language_texts(language, title):
     html = get_html(page)
     if html == "<p>404</p>":
         return abort(404)
-    override_titles = {"bayau": "Bayau/Баяу/Slowly", "mooz": "Mooz/Мұз/Ice"}
+    override_titles = {"bayau": "bayau/баяу/slowly", "mooz": "mooz/мұз/ice"}
     if title not in override_titles:
         title = title.replace("_", " ")
     else:
@@ -278,14 +278,13 @@ def dict_browse_tertiary(lang, letter, sec_letter):
 def get_html(page, dictionary_entry=False):
     if _host == "parryc.com":
         repo = Repo("/srv/data/vcs/git/default.git")
-        folder = os.path.join("templates", "leflan")
+        folder_leflan = os.path.join("templates", "leflan")
+        folder_parryc = os.path.join("templates", "parryc")
     else:
         repo = Repo(os.getcwd())
-        folder = os.path.join(os.getcwd(), "templates", "leflan")
-    filepath = os.path.join(current_app.root_path, "templates", page)
-    git_page = os.path.join(folder, page.split("/")[-1])
-    input_file = codecs.open(filepath, mode="r", encoding="utf-8")
-    text = input_file.read()
+        folder_leflan = os.path.join(os.getcwd(), "templates", "leflan")
+        folder_parryc = os.path.join(os.getcwd(), "templates", "parryc")
+    git_page = os.path.join(folder_leflan, page.split("/")[-1])
     if page == "parryc/index.md":
         time = ""  # no last updated for index
     elif "through-reading" in page or "through-writing" in page:
@@ -293,13 +292,16 @@ def get_html(page, dictionary_entry=False):
         if "index.md" in page:
             # go up to the folder level to get the most recent subpage's change
             # page_parts = page.split('/')
-            git_page = os.path.join(folder, path_parts[-2])
+            git_page = os.path.join(folder_leflan, path_parts[-2])
             time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
         else:
-            git_page = os.path.join(folder, path_parts[-2], path_parts[-1])
+            git_page = os.path.join(folder_leflan, path_parts[-2], path_parts[-1])
             time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
     else:
         time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
+        if not time:
+            git_page = os.path.join(folder_parryc, page.split("/")[-1])
+            time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
     time = " ".join(time.split(" ")[0:2])
     filepath = os.path.join(current_app.root_path, "templates", page)
     try:
