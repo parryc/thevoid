@@ -724,7 +724,7 @@ This is the same as FUT, but with _-ოდ_ + person markers added.
 
 ### How to Use: COND
 
-This the "I would do this" tense – hypothetical or desirious scenarios, that are likely or possible to happen, such as describing future scenarios. These types of sentences are often marked with paris of words such as `ალბათ:maybe, perhaps`/`თუ:if` and `მაშინ:then`. In these types of sentences, the current (PRS) or future clause (FUT) would be marked with `თუ:if` and the COND clause preceded by `მაშინ:then`.
+This the "I would do this" tense – hypothetical or desirious scenarios, that are likely or possible to happen, such as describing future scenarios. These types of sentences are often marked with pairs of words such as `ალბათ:maybe, perhaps`/`თუ:if` and `მაშინ:then`. In these types of sentences, the current (PRS) or future clause (FUT) would be marked with `თუ:if` and the COND clause preceded by `მაშინ:then`.
 
 COND is also used for frequent actions in the past that are completed. Indeed, due the preverb, this is perfective, and thus refers to whole actions. Compared to IMPERF, which is imperfective, and thus refers to actions that do not yet contain their own end. These types of sentences often contain `ხოლმე:normally` immediately after the verb.
 
@@ -1354,7 +1354,7 @@ An exception to this is "had been doing", which corresponds to IMPERF or AOR (wi
 
 # Common Irregular Verbs
 
-To save on typing, only 1SG and 3SG are provided, as the remaining forms can be derived from those. If you would like to provide more irrigular forms, please contact me at `parry (ათ) parryc.com`.
+To save on typing, only 1SG and 3SG are provided, as the remaining forms can be derived from those. If you would like to provide more irregular forms, please contact me at `parry (ათ) parryc.com`.
 
 ## To have (a thing) - აქვს
 

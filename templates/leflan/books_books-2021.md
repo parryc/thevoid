@@ -44,3 +44,5 @@
 * _Paper: An Elegy_ - Ian Sansom (did not finish)
 * _パプリカ: 梦侦探_ - 筒井康隆
 * _Paprika_ - Tasutaka Tsutsui
+* _Liberating Sápmi_ - Gabriel Kuhn
+* _Parlons Tcherkesse_ - Amjad M. Jaimoukha and Michel Malherbe 

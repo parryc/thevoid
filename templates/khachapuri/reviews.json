@@ -1,5 +1,16 @@
 {  "reviews": [
     {
+      "location": "Bevri, Palo Alto",
+      "country": "USA",
+      "price": 4,
+      "taste": 3,
+      "type": "imeruli",
+      "date": "2021-11",
+      "rated_by": "wpc",
+      "note": "",
+      "img": ""
+    },
+    {
       "location": "Tblisi Hörna, Stockholm",
       "country": "Sweden",
       "price": 4,

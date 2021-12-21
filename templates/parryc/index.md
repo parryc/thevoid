@@ -19,7 +19,7 @@ hello! welcome to my site – hopefully you'll find something of interest. if yo
 
 🈲 [playing 《谜宫》](migong) [in progress]
 
-🌄 [a course of the svan language](svan) [under construction]
+🌄 [varlam topuria's a course of the svan language](svan) [under construction]
 
 </div>
 

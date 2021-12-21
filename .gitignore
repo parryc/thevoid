@@ -1,7 +1,6 @@
 search.db/
 gen/
 config.py
-files/
 templates/words
 indexdir/
 static/images/*/*
@@ -10,6 +9,8 @@ avar_rocks
 .nova
 venv/
 testing/
+*.mp3
+*.m4a
 
 # Webassets cache
 .webassets-cache/

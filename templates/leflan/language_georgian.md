@@ -467,7 +467,7 @@ General time expressions (in the morning, in the evening, on Monday, etc.) are m
 
 When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
 
-Expressions such as "2 days ago" or "in 3 years" are expressed with `წინ:prior` and `შემდეგ:next`, respectively. The time expression is in GEN. For example, <ex>_საუსტად ორი წლის წინ_ ⧸ Exactly two years ago</ex> or <ex>_ერთი თვეს შემდეგ_ ⧸ In one month</ex>.<cite>[Taranov, 32](#taranov)</cite>
+Expressions such as "2 days ago" or "in 3 years" are expressed with `წინ:prior` and `შემდეგ:next`, respectively. The time expression is in GEN. For example, <ex>_ზუსტად ორი წლის წინ_ ⧸ Exactly two years ago</ex> or <ex>_ერთი თვეს შემდეგ_ ⧸ In one month</ex>.<cite>[Taranov, 32](#taranov)</cite>
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 

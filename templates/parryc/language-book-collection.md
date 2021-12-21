@@ -45,6 +45,7 @@ Kazakh – 6
 Korean – 1
 K'iche' – 4
 Ladino – 1
+Lao – 1
 Latin – 1
 Laz – 1
 Lithuanian – 3
@@ -53,6 +54,7 @@ Maltese – 1
 Manchu – 1
 Mandarin – 14
 Mandarin Sign Language – 1
+Māori – 1
 Mingrelian – 1
 Mongolian – 6
 Multiple Languages – 9
@@ -87,8 +89,8 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 8
-Coursebook – 29
-Dictionary – 57
+Coursebook – 30
+Dictionary – 58
 Grammar – 42
 Phrasebook – 13
 Study – 14
@@ -144,6 +146,11 @@ A Concise Dictionary of Minnesota Ojibwe
 
 Hānau Ka Ua: Hawaiian Rain Names
 : Collette Leimomi Akana and Kiele Gonzalez, Kamehameha Publishing, 2015. <tag>hawaiian→english</tag> <tag>dictionary</tag>
+
+#### Māori
+
+A Dictionary of Maori Place Names
+: A. W. Reed, A. H. & A. W. Reed, 1963. <tag>māori→english</tag> <tag>dictionary</tag>
 
 #### Tagalog
 
@@ -721,6 +728,13 @@ A Short Russian Reference Grammar
 
 Russian for Reading
 : Patricia M. Arant, Slavica, 1981. <tag>russian→english</tag> <tag>coursebook</tag>
+
+### Kra-Dai
+
+#### Lao
+
+Lao Basics
+: Sam Brier and Phouphnomlack Sangkhampone, Tuttle, 2010. <tag>lao→english</tag> <tag>coursebook</tag>
 
 ### Tungusic
 
