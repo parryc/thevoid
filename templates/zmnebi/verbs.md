@@ -883,9 +883,11 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 
 ### How to Use: AOR
 
-The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete, similar to "had been doing" in English.
+The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete, similar to "had been doing" in English. When expressing a negative past action (e.g. "I didn't see her"), often EVD is used instead.
 
-Additionally, the AOR functions as the imperative when in 2SG. Thus, _გააკეთე_ can be either "you did it" or "do it!".
+AOR also functions as the imperative when in 2SG. Thus, _გააკეთე_ can be either "you did it" or "do it!".
+
+Note that `იყო:was` may be affixed to past participles, eliding the last _-ი_ of the past participle, as in `გაყინულიყო:it was frozen` versus `გაყინული იყო`.
 
 ## ② Optative (OPT)
 
@@ -1060,7 +1062,7 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 
 Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თურმე:apparently`.
 
-Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense.
+Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense. Some speakers may not make the distinction between EVD and AOR and will default to AOR negative past events. This lack of distinction may be perceived as "uneducated".
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
 

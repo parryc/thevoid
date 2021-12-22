@@ -395,6 +395,8 @@ Cardinal numbers can be emphasized with the suffix `-ვე` to mean "all X", th
 
 Halves are formed with `ნახევარი:half` and the number, minus -ი. If greater than 1.5, then the amount is unconnected to the noun, ex. `სამ-ნახევარი ხაჭაპური:3.5 khachapuris`. Otherwise, ნახევარი is simply attached to the noun, ex. `ლარ-ნახევარი:1.5 lari`.
 
+The phrase "X x X" (such as 3x3) is indicated by affixing _-ზე_ to the 2nd number. The common phrase designator "4x4" for cars would thus be _ოთხი ოთხზე_.
+
 ## Ordinal Numbers
 
 1st - პირველი
@@ -402,6 +404,8 @@ Halves are formed with `ნახევარი:half` and the number, minus -�
 2-19: `მე` + # - `ი` + `ე`. Ex. `13th:მეცამეტე`.
 
 20+: base + ordinal version of 1-19 (1 reverts back to ერთი for these numbers). Ex. `21st:ოცდამეერთე`.
+
+Phrases such as "xth from the beginning/end" are `თავიდანვე მე-x` and `ბოლოდან მე-x`, respectively.
 
 ## Fractions and Decimals
 
