@@ -12,19 +12,21 @@ A count of languages used throughout the books, even if non-primary. For example
 
 Abkhaz – 1
 Alemmanic – 3
-Arabic – 1
+Arabic – 2
 Avar – 2
 Azeri – 4
-Bosnian-Croatian-Serbian (BCS) – 2
+Bosnian-Croatian-Serbian (BCS) – 3
+Cantonese – 2
 Cebuano – 1
 Chaghatay – 1
 Chinuk Wawa – 1
 Chuvash – 1
 Classical Chinese – 2
 Cornish – 1
+Czech – 1
 Danish – 3
-Dutch – 8
-English – 137
+Dutch – 9
+English – 149
 Finnish – 2
 French – 7
 Georgian – 13
@@ -32,12 +34,14 @@ German – 7
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 2
+Hindustani – 1
 Hungarian – 4
 Icelandic – 2
 Ilongo – 1
 Inuktitut – 1
 Irish – 1
-Japanese – 9
+Italian – 1
+Japanese – 10
 Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
@@ -50,18 +54,21 @@ Latin – 1
 Laz – 1
 Lithuanian – 3
 Lushootseed – 1
+Malay – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 14
+Mandarin – 19
 Mandarin Sign Language – 1
 Māori – 1
+Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 9
+Multiple Languages – 10
+Norse – 1
 Ojibwe – 2
 Polish – 1
 Romanian – 1
-Russian – 14
+Russian – 15
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -79,8 +86,8 @@ Turkish – 3
 Tuvan – 1
 Uyghur – 2
 Visayan – 1
-Welsh – 3
-Wu – 2
+Welsh – 4
+Wu – 3
 Xhosa – 1
 Yakut – 4
 Yiddish – 1
@@ -89,11 +96,11 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 8
-Coursebook – 30
-Dictionary – 58
-Grammar – 42
-Phrasebook – 13
-Study – 14
+Coursebook – 34
+Dictionary – 62
+Grammar – 43
+Phrasebook – 19
+Study – 16
 Verb list – 4
 
 ## Languages
@@ -111,6 +118,9 @@ With the current exception of Indo-European, all languages are grouped under the
 
 Mastering Arabic 1
 : Jane Wightwick and Mahmoud Gaafar, 2nd edition, Hippocrene Books, 2013. <tag>arabic→english</tag> <tag>coursebook</tag>
+
+Write it in Arabic
+: Naglaa Ghali, Fun with Arabic, 2004. <tag>arabic→english</tag> <tag>coursebook</tag>
 
 #### Hebrew
 
@@ -151,6 +161,11 @@ Hānau Ka Ua: Hawaiian Rain Names
 
 A Dictionary of Maori Place Names
 : A. W. Reed, A. H. & A. W. Reed, 1963. <tag>māori→english</tag> <tag>dictionary</tag>
+
+#### Malay
+
+Mempelajari Perbualan Bahasa Malaysia Bersendiri / Learning Malay Conversation By Yourself / 自学马来语会话
+: IPC Editorial Board, Intellectual Publishing Co., 1994. <tag>malay→english</tag> <tag>malay→mandarin</tag> <tag>phrasebook</tag>
 
 #### Tagalog
 
@@ -223,6 +238,9 @@ Modern Welsh
 
 English-Welsh Pronuncing Dictionary
 : Robert Ioan Prys, Dinbych T. Gee, 1857. <tag>english→welsh</tag> <tag>dictionary</tag>
+
+Welsh-English English-Welsh (A Phrase-Book)
+: Degwel Owen, Emeralda Ltd., 1985. <tag>welsh→english</tag> <tag>english→welsh</tag> <tag>phrasebook</tag>
 
 ### Cushitic
 
@@ -325,6 +343,9 @@ Polytechnisch Handwoordenboek
 Grammatica Nederlands
 : Henriëtte Houët, 23rd edition, Prisma, 2018. <tag>dutch→dutch</tag> <tag>grammar</tag>
 
+Dutch Phrasebook
+: Annelies Mertens, Lonely Planet, 2007. <tag>dutch→english</tag> <tag>phrasebook</tag>
+
 #### German
 
 Deutsch als Fremdsprache
@@ -340,6 +361,16 @@ Deutsch heute Grundstufe
 
 Icelandic
 : Stefán Einarsson, 2nd edition reprint, John Hopkins Press, 1949. <tag>icelandic→english</tag> <tag>coursebook</tag>
+
+#### Middle English
+
+Word Order Patterning in Middle English
+: Walerian Świeczkowski, Mouton, 1962. <tag>middle english→english</tag> <tag>study</tag>
+
+#### Norse
+
+An Introduction to Old Norse
+: E. V. Gordon, 2nd Edition, Oxford, 1992. <tag>norse→english</tag> <tag>coursebook</tag>
 
 #### Scots
 
@@ -367,6 +398,13 @@ Svensk-Englesk Ordbok
 
 Comprehensive English-Yiddish Dictionary
 : ed. Gitl Schaechter-Viswanath and Paul Glasser, Indiana University Press, 2016. <tag>english→yiddish</tag> <tag>dictionary</tag>
+
+### Indo-Aryan
+
+#### Hindustani
+
+The Popular Dictionary
+: Rev. T. Craven, Revised and Expanded, Lucknow Publishing House, 1935. <tag>hindustani→english</tag> <tag>english→hindustani</tag> <tag>dictionary</tag>
 
 ### Isolate
 
@@ -402,6 +440,9 @@ Japanese for Sinologists
 
 იაპონურ-ქართული ლექსიკონი
 : Yasuhiro Kojima, Free and Agricultural University Press, 2015 <tag>japanse→georgian</tag> <tag>dictionary</tag>
+
+日本語広東語辞典
+: 孔碧儀 and 施仲謀, 東方書店, 2001. <tag>japanse→cantonese</tag> <tag>dictionary</tag>
 
 ### Kartvelian 
 
@@ -524,6 +565,9 @@ The Routledge Handbook of North American Languages
 The Oxford Handbook of Languages of the Caucasus
 : ed. Maria Polinsky, Oxford University Press, 2020. <tag>study</tag>
 
+China Phrasebook
+: Lonely Planet, 2009. <tag>phrasebook</tag>
+
 ### Na-Dene
 
 #### Tlingit
@@ -602,6 +646,11 @@ Gombo Zhebes: The Dictionary of Creole Proverbs
 Essential French Grammar
 : Seymour Resnick, Dover, 1965. <tag>french→english</tag> <tag>grammar</tag>
 
+#### Italian
+
+Collins Italian-English English-Italian Dictionary
+: Isopel May, Collins, 1956. <tag>italian→english</tag> <tag>english→italian</tag> <tag>dictionary</tag>
+
 #### Ladino
 
 Diccionario Básico Ladino-Español
@@ -646,6 +695,11 @@ Sḵwx̱wú7mesh Sníchim-Xwelíten Sníchim Sḵexwts ⧸ Squamish-English Dict
 
 ### Sino-Tibetan
 
+#### Cantonese
+
+粤語(香港話)
+:鄭定歐 et al., Joint Publishing, 2005. <tag>cantonese→mandarin</tag> <tag>coursebook</tag>
+
 #### Classical Chinese
 
 A Student's Dictionary of Classical and Medieval Chinese
@@ -683,6 +737,12 @@ Modern Mandarin Chinese Grammar: A Practical Guide
 Chinese Aspectual Particle Le: A Comprehenisve Guide
 : Chungeng Zhu, HKU Press, 2019. <tag>mandarin→english</tag> <tag>study</tag>
 
+250条必考成语手册
+: 杨学敏, Singapore Asian Publications, 2001. <tag>mandarin→english</tag> <tag>mandarin→mandarin</tag> <tag>study</tag>
+
+HSK Strategies Grammar Handbook
+: 徐文娟 and 赵菁, 商务印书出版, 2007. <tag>mandarin→mandarin</tag> <tag>grammar</tag>
+
 #### Wu
 
 牛康：上海话读本
@@ -690,6 +750,10 @@ Chinese Aspectual Particle Le: A Comprehenisve Guide
 
 吴语江山广丰方言研究
 : 秋容 and 裕幸, 爱媛大学法文学部综合策略学科, 2001. <tag>wu→mandarin</tag> <tag>study</tag>
+
+应急口语通
+: 吕蕾 and 牛振芳, 天津大学出版社, 2007. <tag>wu→mandarin</tag> <tag>phrasebook</tag>
+
 
 ### Slavic
 
@@ -700,6 +764,14 @@ Beginner's Serbian
 
 Croatian
 : Gordana Ivetac and Ivan Ivetac, 2nd edition, Lonely Planet, 2010. <tag>bcs→english</tag> <tag>phrasebook</tag>
+
+Teach Yourself Croatian
+: David Norris, Teach Yourself, 2003. <tag>bcs→english</tag> <tag>coursebook</tag>
+
+#### Czech
+
+Czech Phrasebook
+: Richard Nebeský, Lonely Planet, 2007. <tag>czech→english</tag> <tag>phrasebook</tag>
 
 #### Multiple Languages
 
@@ -728,6 +800,9 @@ A Short Russian Reference Grammar
 
 Russian for Reading
 : Patricia M. Arant, Slavica, 1981. <tag>russian→english</tag> <tag>coursebook</tag>
+
+Russian-English English-Russian Dictionary
+: M. A. O'brien, Reprint, Dover, 1954. <tag>russian→english</tag> <tag>english→russian</tag> <tag>dictionary</tag>
 
 ### Kra-Dai
 

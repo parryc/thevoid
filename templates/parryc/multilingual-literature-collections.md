@@ -20,6 +20,7 @@ Over the years, I've found myself drawn to a few different books that are always
 * Japanese – 1
 * Kabardian – 1
 * Ladino – 1
+* Latin – 1
 * Lithuanian – 1
 * Multiple languages – 1
 * Norwegian – 1
@@ -63,6 +64,9 @@ _Her Kommer Ole Brumm_
 
 _Nalle Puhs hörna_
 : translated by Brita af Geijerstam. Published by Bonnier Carlsen, 2016. <tag>swedish</tag>
+
+_Winnie Ille Pu_
+: translated by Alexaner Lenard, Dutton, 1961. <tag>latin</tag>
 
 ## Le Petit Prince by Antione de Saint-Exupéry
 
