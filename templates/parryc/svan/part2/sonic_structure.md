@@ -1,0 +1,59 @@
+<h3><a name="bookmark48"></a><span lang="sva"><a name="bookmark49"></a>ნაკვეთი II</span></h3>
+<h4><a name="bookmark50"></a><span lang="sva"><a name="bookmark51"></a>სასაუბრო მასალები, საუბრები და მათი თარგმანები</span></h4>
+ბ გ ე რ ი თ ი შ ე დ გ ე ნ ი ლ ო ბ ა<a name="footnote12"></a><sup><a href="#bookmark52">12</a></sup><sup> </sup>ხ მ ო ვ ნ ე ბ ი
+
+ჩვეულებრივი: <span lang="sva">ა ე ი ო უ ჷ</span>
+
+გრძელი: &nbsp;&nbsp;&nbsp;&nbsp;<span lang="sva">ა̄ ე̄ ი̄ ო̄ უ̄ ჷ̄</span>
+
+უმლაუტიანი ჩვეულებრივი:
+
+უმლაუტიანი გრძელი:
+
+მაგალითები:
+
+<span lang="sva">ა̄</span>: <span lang="sva">მა̄რე </span>კაცი, <span lang="sva">ზურა̄ლ </span>ქალი...
+
+<span lang="sva">ე̄</span>: <span lang="sva">მე̄რმე </span>მეორე, <span lang="sva">მე̄რე </span>ღრუბელი...
+
+<span lang="sva">ო̄</span>: <span lang="sva">ყო̄რ </span>კარი, <span lang="sva">ყო̄შ </span>კოვზი...
+
+<span lang="sva">ი̄</span>: <span lang="sva">დი̄ნა </span>გოგონა, <span lang="sva">ჩი̄ჟე </span>სიძე...
+
+<span lang="sva">უ̄: ტუ̄ნუ </span>ქოთანი, <span lang="sva">ქუთუ̄ლ </span>მუხლი...
+
+<span lang="sva">ჷ</span>: <span lang="sva">ბჷგი </span>მაგარი, <span lang="sva">ძღჷდ </span>დიდი, ძალიან...
+
+<span lang="sva">ჷ̄</span>: <span lang="sva">ლეჭშჷ̄რი </span>საქმრო...
+
+<span lang="sva">ა̈</span>: <span lang="sva">ა̈რი </span>არის, <span lang="sva">და̈უ̂ით </span>დავითი, <span lang="sva">შუ̂ა̈ნ </span>სვანეთი...
+
+<span lang="sva">ო̈</span>: <span lang="sva">ლო̈მ </span>ლომი, <span lang="sva">მინდო̈რ </span>მინდორი, <span lang="sva">ჰო̈დი </span>ყიდის...
+
+<ul style="list-style:none;"><li>
+<span lang="sva"><span class="unknown">т</span></span>: <span lang="sva">ფუ̈რ </span>ფური, <span lang="sva">მუ̈წუ̂ </span>რქა, <span lang="sva">მუბუ̈რ </span>ბნელი... <span lang="sva">სუ̈ბდ </span>ცეკვავდა...
+</li></ul>
+<span lang="sva">ა̄̈</span>: &nbsp;<span lang="sva">ჩა̄̈ჟ </span>ცხენი, <span lang="sva">კუ̂ა̄̈ში </span>მჭადი, <span lang="sva">იმა̄̈რი </span>მზადდება...
+
+<span lang="sva">ო̄̈</span>: &nbsp;&nbsp;<span lang="sva">სო̄̈ღ </span>გიჟდება, <span lang="sva">ო̄̈დ </span>იწევა...
+
+<span lang="sva">უ̄̈</span>: <span lang="sva">ტუ̄̈ლდ </span>იძახდა, <span lang="sva">ხ ღლუ̄̈ნდ </span>ეშინოდა...
+
+<span lang="sva">ო̈ </span>და <span lang="sva">ო̄̈ </span>უპირატესად ისმის <span lang="sva">უ̂ე </span>და <span lang="sva">უ̂ე̄</span>-ს სახით: <span lang="sva">გო̈ჭ </span>&gt;<span lang="sva">გუ̂ეჭ</span>, <span lang="sva">თო̈ფ</span>&gt;/<span lang="sva">თუ̂ეფ</span>... <span lang="sva">წო̄̈რ </span>&gt;&nbsp;<span lang="sva">ჭუ̂ე̄რ </span>ყვავი...
+
+ასევე <span lang="sva">უ̈ </span>და <span lang="sva">უ̄̈ </span>ხშირად ისმის და იწერება კიდეც <span lang="sva">უ̂ი </span>და <span lang="sva">უ̂ი̄</span>-ს სახით: <span lang="sva">თხუ̈მ</span>&gt;<span lang="sva">თხუ̂იმ </span>თავი, <span lang="sva">უ̈სგუ̂</span>&gt;<span lang="sva">უ̂ისგუ̂ </span>ვაშლი /შდრ. ზანური <span lang="sva">უშქური</span>/... <span lang="sva">ტუ̄̈ლდ </span>&gt;<span lang="sva">ტუ̂ი̄ლდა </span>იძახდა...
+
+წყვილბაგისმიერ თანხმოვანთა მეზობლად <span lang="sva">უ̂ </span>სუსტად ისმის ან სულ არ ისმის: <span lang="sva">მუ̈წუ̂</span><span lang="sva">&gt;</span><span lang="sva">მიჭუ̂ </span>რქა...
+
+თ ა ნ ხ მ ო ვ ნ ე ბ ი
+
+<span lang="sva">ბ გ დ უ̂ შ თ &nbsp;&nbsp;&nbsp;ლ მ ნ <span class="unknown">О</span> <span class="unknown">Р</span> <span class="unknown">С</span> რ ს ტ უ <span class="unknown">Ч</span> ქ ღ ყ შ <span class="unknown">ჩ</span></span>
+
+<span lang="sva">ც <span class="unknown">Ю</span> ჭ ხ ჴ ჯ ჰ</span>
+
+<span lang="sva"><span class="unknown">О</span> </span>უმარცვლო <span lang="sva">ი </span>არის: <span lang="sva"><span class="unknown">О</span>ეყდ </span>ათი... <span lang="sva">მა̈ჲ </span>რა...
+
+<span lang="sva">ჴ </span>იხმარება ქართულთან საერთო ძირებში: <span lang="sva">ჴა̈ნ – </span>ჴარი,
+
+<span lang="sva">იჴმა̈რი – </span>იჴმარება...
+

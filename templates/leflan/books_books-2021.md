@@ -47,3 +47,5 @@
 * _Liberating Sápmi_ - Gabriel Kuhn
 * _Parlons Tcherkesse_ - Amjad M. Jaimoukha and Michel Malherbe
 * _Legend of the Condor Heroes 4: A Heart Divided_ - Jin Yong
+* _Lupin the Third: Greatest Heists_ - Monkey Punch
+* _Heirloom Wood_ - Max Bainbridge

@@ -138,6 +138,17 @@ def books(year):
     )
 
 
+@mod_parryc.route("/svan/<path:title>", methods=["GET"], host=_host)
+def svan(title):
+    path = "parryc"
+    path = os.path.join(path, "svan")
+    page = os.path.join(path, f"{title}.md")
+    html = get_html(page)
+    if html["html"] == "<p>404</p>":
+        return abort(404)
+    return render_template("parryc/post.html", html=html["html"], time=html["time"])
+
+
 @mod_parryc.route("/<path:title>", methods=["GET"], host=_host)
 @mod_parryc.route("/archive/<path:title>", methods=["GET"], host=_host)
 def page(title):

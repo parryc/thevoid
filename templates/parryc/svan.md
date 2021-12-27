@@ -1,100 +1,51 @@
-<h2 style="color: red">Under construction</h2>
-<h3 style="color: red">Last update: 2020-12-21</h3>
-<h3 style="color: red">Reencoded and formated by Parry [parry (ათ) parryc.com]</h3>
+# A Svan Textbook by Varlam Topuria
 
-<br/>This page
+This is a digitization of [_სვანური ენის სახელმძღვანელო_](/downloads/Topuria.pdf) (A Svan Textbook) by Varlam Topuria. It is currently a work in progress, last updated 2021-12-26.
 
-[TOC]
+**Why does it need to be digitized?**
 
-Other parts
+It doesn't, but I thought it would be useful to have more resources on the web in a searchable format. The PDF version is encoded strangely to support the additionaly characters Svan requires.
 
-* [ნაკვეთი I](svan_part1_intro)
-* [yet to be cleaned up](svan_remaining)
+**What has been done so far?**
 
-# სვანური ენის სახელმძღვანელო
+The title page, ზოგადი ცნობები, and ფონეტიკა have all been cleaned up. The rest have been broken up by headings.
 
-<span lang="en">
-Ivane Javakhishvili Tbilisi State University
+**Is the rest usable?**
 
-Proceedings of the Institute of the Georgian Language
+More or less.
 
-<span style="font-size: 1.3em;">Varlam Topuria
-<span style="font-size: 1.2em;">A Course of the Svan Language
+**When will the rest be done?**
 
-(A brief review of grammar, conversational materials with the glossary, texts with translations)
-The book completed and prepared for publication by Guram Topuria and Iza Chantladze
-</span>
+Who knows – it's kind of a slow process, but it's getting there. Please reach out if you'd like to help clean up.
 
-ივანე ჯავახიშვილის სახელობის თბილისის სახელმწიფო უნივერსიტეტი
-ქართული ენის ინსტიტუტის შრომები N1
+**What's up with the random Russian letters?**
 
-<span style="font-size: 1.3em;">ვარლამ თოფურია</span>
-<span style="font-size: 1.2em;">სვანური ენის სახელმძღვანელო</span>
+The original PDF mapped Russian letters to different Georgian characters. I've replaced probably 95% of them, but there may still be some random letters than need to be mapped correctly.
 
-(მოკლე გრამატიკული მიმოხილვა, სასაუბრო მასალები მცირე ლექსიკონითურთ, ტექსტები და მათი თარგმანები)
+## Table of Contents
 
-წიგნი დაასრულეს და გამოსაცემად მოამზადეს
-
-**გურამ თოფურიამ** და **იზა ჩანტლაძემ**
-
-**სვანური ენის სახელმძღვანელო გამოდის პირველად.** შესაბამისი სა-ლექციო კურსი იკითხება საქართველოს უმაღლესი სასწავლებლების ჰუმა-ნიტარულ მეცნიერებათა ფაკულტეტებზე. წინამდებარე პუბლიკაცია გან-კუთვნილია არა მხოლოდ სტუდენტებისათვის, არამედ საზოგადოდ ქარ-თველოლოგებისა და კავკასიოლოგებისათვის.
-
-რედაქტორები: **ქეთევან მარგიანი-დადვანი ქეთევან მარგიანი-სუბარი ივანე ლეჟავა**
-
-რეცენზენტები: **ირინე მელიქიშვილი**
-
-**ეთერ სოსელია რუსუდან ასათიანი ვინფრიდ ბოედერი**
-
-<span lang="en">
-The textbook of the Svan language is published for the first time. The course is delivered at almost all Humanities faculties of different universities in Georgia. The following publication will be beneficial not only for students, but also for Kartvelologists and Caucasiologists in general.
-
-Editors:
-
- * K. Margiani-Dadvani
- * K. Margiani-Subari
- * I. Lezhava
-
-Critics:
-
- * I. Meliqishvili
- * E. Soselia
- * R. Asatiani
- * V. Boeder
-</span>
-
-<img src="/images/topuria.png" alt="Image of Varlam Topuria"/>
-
-## წინასიტყვაობა (Foreward)
-
-აკადემიკოს ვარლამ თოფურიას "სვანური ენის სახელმძღვანელო" თბი-ლისის სახელმწიფო უნივერსიტეტის ფილოლოგიის ფაკულტეტის ქართვე-ლურ და კავკასიურ ენათა განყოფილებების სტუდენტ-ასპირანტებისთვის მომზადდა 1957-1965 წლებში როგორც ახალი ქართული ენის კათედრის შრომების N7 ტომი.
-
-"სვანური ზმნის" მეორე გამოცემის წინასიტყვაობაში (ვ. თოფურია, შრომები, I, თბილისი, 1967, გვ. XXIII), რომელიც დათარიღებულია 1965 წლის დეკემბრის თვით, ნათქვამია: "შედგენილია და სასტამბოდ მზადდება სვანური ენის სახელმძღვანელო (გრამატიკული მიმოხილვა, საუბრები, ტექს-ტები, ლექსიკონი)". სამწუხაროდ, ბატონმა ვარლამმა ვეღარ დაასრულა ქართველოლოგიაში ყველა სახელმძღვანელოს შორის ყოველმხრივ გამორჩე-ული, ესოდენ დიდი რუდუნებით შექმნილი ნაშრომი და ვეღარც მის გამო-ცემას მოესწრო.
-
-დიდხანს მუშაობდა წინამდებარე წიგნის დასრულებასა და კორექტირე-ბაზე ცნობილი კავკასიოლოგი, საქართველოს მეცნიერებათა აკადემიის წევრ-კორესპონდენტი **გურამ თოფურია** – ბატონი ვარლამის ვაჟი, მაგრამ, სამწუხაროდ, ვერც მან იხილა სახელმძღვანელოს პუბლიკაცია.
-
-სათაყვანებელი მოძღვართმოძღვრის მოწაფეებსა და მოწაფეთა მოწაფე-ებს არანაირი ძალა და ენერგია არ დაგვიშურებია იმისთვის, რომ ეს წიგნი სანიმუშო ყოფილიყო ყოველგვარი თვალსაზრისით. დავამატეთ ზოგი ტექს-ტი თუ სასაუბრო მასალა, რომელთა დედანში გადატანა-გადათეთრება ავ-ტორმა ვეღარ მოასწრო.
-
-ნაშრომში წარმოდგენილ ტექსტებს ახლდა შესაბამისი ლექსიკონიც, მაგრამ, დიდი მოცულობის გამო (434 გვ.), გადავწყვიტეთ მისი ცალკე გამო-ცემა; სამაგიეროდ, სვანურ ტექსტებს, ენის უკეთ შესწავლის მიზნით, დავუ-რთეთ პწკარედი (ძირითადად) ქართული თარგმანები, რომლებიც თავიდა-ნვე არ ყოფილა გათვალისწინებული სახელმძღვანელოში.
-
-რამდენადმე შევცვალეთ ორთოგრაფიაც; მორფემათა ზღვარზე წარმო-ქმნილ ზოგ სიტუაციათა აღსანიშნავად, წინამდებარე ნაშრომზე დაყრდნო-ბით, ჩვენ შემოგვაქვს ორი ახალი სიმბოლო – <span lang="sva">ა̄̀</span> და <span lang="sva">ე̄̀</span>, ურომლისოდაც დღემ-დე არსებულ პუბლიკაციებში არაერთი გაუგებრობაა. მათ შესაბამის ბგე-რებს დისტინქციური ღირებულება აქვს; შდრ. <span lang="sva">ალა</span> "ეს", <span lang="sva">ალა̄</span> (<<span lang="sva">ალა</span>+<span lang="sva">ა</span>)?
-
-"ეს?", <span lang="sva">ალა̄̀</span> (< <span lang="sva">ალა</span>+ა̀) "ეს, აი!", ერთი მხრივ, და <span lang="sva">ეჯე̄</span> (< <span lang="sva">ეჯა</span>+ <span lang="sva">ე</span> <&nbsp;<span lang="sva">ერ</span> <&nbsp;<span lang="sva">ერე</span>)
-
-"ის, რომ", <span lang="sva">ეჯე̄̀</span> (< <span lang="sva">ეჯა</span>+<span lang="sva">ე̀</span>) "ის, ე!"
-
-კომპიუტერული შესაძლებლობის გათვალისწინებით სახელმძღვანელოს დედნის <span lang="sva">ვ</span> გრაფემა ყველგან შეცვლილია <span lang="sva">უ̂</span> ასოთი, რადგანაც ქართული კბილბაგისმიერი ბგერის შესაბამისი ფონემა მხოლოდ ცაგერის რაიონის მო-საზღვრე სვანურ (ლენტეხურ) სოფლებშია დადასტურებული და იქაც ქარ-თულის გავლენით.
-
-სხვათა სიტყვა სვანურში, ძირითადად, მესამეპირისეული კონსტრუქცი-ით გადმოიცემა. ჩვენ შევეცადეთ ქართულ თარგმანებში ფრჩხილებში გვე-ჩვენებინა შესაბამის ზმნათა თუ ნაცვალსახელთა ფორმები, რომ სვანური ტექსტები უფრო ადვილად გასაგები ყოფილიყო.
-
-დასასრულ, უღრმესი მადლობის გრძნობით გვინდა მოვიხსენიოთ ქალბა-ტონები **ნანა თოფურია** და **დოდო აბაშიძე**, ჰუმანიტარულ მეცნიერებათა ფაკულტეტის დეკანი, ასოცირებული პროფესორი **დარეჯან თვალთვაძე**, სრული პროფესორები **დამანა მელიქიშვილი** და **შუქია აფრიდონიძე** გულ-წრფელი თანადგომისათვის წინამდებარე წიგნის გამოცემასთან დაკავშირე-ბული არაერთი პრობლემის გადაწყვეტისას.
-
-საგანგებოდ უნდა აღინიშნოს ივანე ჯავახიშვილის სახელობის თბილისის სახელმწიფო უნივერსიტეტის გამომცემლობის დირექტორის ბატონ **ნუგზარ წიკლაურისა** და ამავე გამომცემლობის რედაქტორის ქალბატონ **ცირა ჯიშ-კარიანის** დიდი ამაგი. სწორედ მათი დამსახურებაა პოლიგრაფიული თვალ-საზრისით ძალზე რთული სახელმძღვანელოს გამოცემა.
-
-<table>
-  <tbody>
-  <tr><td>საპატიო პროფესორი</td><td>იზა ჩანტლაძე</td></tr>
-  <tr><td>ასოცირებული პროფესორი</td><td>ქეთევან მარგიანი-დადვანი</td></tr>
-  <tr><td>მეცნიერი თანამშრომელი</td><td>ქეთევან მარგიანი-სუბარი</td></tr>
-  <tr><td> ფილოლოგიის მეცნ. დოქტორი</td><td>ივანე ლეჟავა</td></tr>
-  </tbody>
-</table>
+* [სვანური ენის სახელმძღვანელო](/svan/title)
+* ნაკვეთი I – მოკლე გრამატიკული მიმოხილვა
+    * [ზოგადი ცნობები](/svan/part1/intro)
+    * [ფონეტიკა](/svan/part1/phonetics)
+    * [მორფოლოგია](/svan/part1/morphology)
+    * [ზმნა](/svan/part1/verbs)
+        * [მოქმედებითი გვარი](/svan/part1/active_voice)
+        * [ვნებითი გვარი](/svan/part1/passive_voice)
+        * [საშუალი ზმნები](/svan/part1/middle_verbs)
+    * [ნაზმნარი სახელები](/svan/part1/verbal_nouns)
+    * [ფორმაუცვლელი და დამხმარე სიტყვები](/svan/part1/fixed_and_helper_words)
+    * [სინტაქსი](/svan/part1/syntax)
+    * [ლექსიკა](/svan/part1/vocabulary)
+    * [მოკლე ცნობები დიალექტთა შესახებ](/svan/part1/brief_report_on_dialects)
+* ნაკლეთი II - სასაუბრო მასალები, საუბრები და მათი თარგმანები
+    * [ბგერითი შედგენილობა](/svan/part2/sonic_structure)
+    * [სასაუბრო მასალა](/svan/part2/lessons)
+* ნაკეთი III - ტექსტები
+    * პროზა
+        * [წეს-ჩვეულებანი](/svan/part3/traditional_stories)
+        * [რწმენა-წარმოდგენები](/svan/part3/fables)
+        * [თავგადასავლები](/svan/part3/adventure_stories)
+        * [ზღაპრები](/svan/part3/fairytales)
+    * [ხალხური პოეზია](/svan/part3/poems)
+    * [ანდაზები](/svan/part3/proverbs)
