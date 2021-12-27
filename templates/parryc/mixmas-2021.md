@@ -4,11 +4,11 @@ why don't you own a cd player?
 
 ## the songs
 
-1. [welcome to the christmas parade - mariah carey & my chemical romance](/downloads/01 Welcome To The Christmas Parade.mp3)
+1. [welcome to the christmas parade - mariah carey & my chemical romance](/downloads/01 Welcome To The Xmas Parade.mp3)
 2. [how do you spell channukkahh? - the leevees](/downloads/02 How Do You Spell Channukkahh.mp3)
 3. [feliz naviska - skatune network](/downloads/03 Feliz Naviska.mp3)
 4. [hanukkah dance - woody guthrie](/downloads/04 Hanukkah Dance.mp3)
-5. [að grafa sig í fönn (head in the snow) - ásgeir](/downloads/05 Að grafa sig í fönn.m4a)
+5. [að grafa sig í fönn (head in the snow) - ásgeir](/downloads/05 Head In The Snow.m4a)
 6. [merry christmas mr. lawrence - utada](/downloads/06 Merry Christmas Mr. Lawrence.mp3)
 7. [together we'll ring in the new year - motion city soundtrack](/downloads/07 Together We'll Ring in the New Year.mp3)
 8. [new years - asobi seksu](/downloads/08 New Years.mp3)
