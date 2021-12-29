@@ -29,6 +29,10 @@ else:
     _host = "parryc.com"
 
 
+def _t(title):
+    return f"parryc - {title}"
+
+
 @mod_parryc.route("/favicon.ico", host=_host)
 def favicon():
     return send_from_directory(
@@ -69,7 +73,11 @@ def index():
     page = "parryc/index.md"
     html = get_html(page)
     return render_template(
-        "parryc/post.html", html=html["html"], time=html["time"], host=_host
+        "parryc/post.html",
+        html=html["html"],
+        time=html["time"],
+        host=_host,
+        t=_t("home"),
     )
 
 
@@ -90,7 +98,9 @@ def archive():
     html = get_html(page)
     if html == "<p>404</p>":
         return abort(404)
-    return render_template("parryc/post.html", html=html["html"], time=html["time"])
+    return render_template(
+        "parryc/post.html", html=html["html"], time=html["time"], t=_t("posts archive")
+    )
 
 
 @mod_parryc.route("/language/texts/<language>/<title>", host=_host)
@@ -107,7 +117,11 @@ def language_texts(language, title):
     else:
         title = override_titles[title]
     return render_template(
-        "parryc/post.html", html=html["html"], time=html["time"], override_title=title
+        "parryc/post.html",
+        html=html["html"],
+        time=html["time"],
+        override_title=title,
+        t=_t(title),
     )
 
 
@@ -119,7 +133,11 @@ def language(title):
     if html == "<p>404</p>":
         return abort(404)
     return render_template(
-        "parryc/post.html", html=html["html"], time=html["time"], override_title=title
+        "parryc/post.html",
+        html=html["html"],
+        time=html["time"],
+        override_title=title,
+        t=_t(title),
     )
 
 
@@ -135,6 +153,7 @@ def books(year):
         html=html["html"],
         time=html["time"],
         override_title=f"books: {year}",
+        t=_t(f"books: {year}"),
     )
 
 
@@ -146,7 +165,9 @@ def svan(title):
     html = get_html(page)
     if html["html"] == "<p>404</p>":
         return abort(404)
-    return render_template("parryc/post.html", html=html["html"], time=html["time"])
+    return render_template(
+        "parryc/post.html", html=html["html"], time=html["time"], t=_t(title)
+    )
 
 
 @mod_parryc.route("/<path:title>", methods=["GET"], host=_host)
@@ -159,7 +180,12 @@ def page(title):
     html = get_html(page)
     if html["html"] == "<p>404</p>":
         return abort(404)
-    return render_template("parryc/post.html", html=html["html"], time=html["time"])
+    return render_template(
+        "parryc/post.html",
+        html=html["html"],
+        time=html["time"],
+        t=_t(title.replace("-", " ")),
+    )
 
 
 # ---------
