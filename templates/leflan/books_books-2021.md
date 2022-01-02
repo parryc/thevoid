@@ -49,3 +49,5 @@
 * _Legend of the Condor Heroes 4: A Heart Divided_ - Jin Yong
 * _Lupin the Third: Greatest Heists_ - Monkey Punch
 * _Heirloom Wood_ - Max Bainbridge
+* _Make Ink_ - Jason Logan
+* _Slöjd in Wood_ - Jögge Sundqvist
