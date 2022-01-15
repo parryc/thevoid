@@ -1,12 +1,13 @@
 {% extends '/base.html' %}
 {% block page_css %}
-    <link rel="stylesheet" href="/css/parryc.css" />
-    <link rel="preload" href="/css/parryc-2.css" as="font" type="font/woff2" crossorigin/>
+    <link rel="stylesheet" href="/css/parryc.css"/>
+    <link rel="preload" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Regular.ttf.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Medium.ttf.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/bpg-ingiri/bpg-ingiri-webfont.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Bold.ttf.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-It.ttf.woff2" as="font" type="font/woff2" crossorigin/>
+
     {% assets "parryc_css" %}
-        <!--force assets to compile, while Flask fixes multi-host bug-->
-        <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
-    {% endassets %}
-    {% assets "parryc_fonts" %}
         <!--force assets to compile, while Flask fixes multi-host bug-->
         <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
     {% endassets %}

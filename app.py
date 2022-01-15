@@ -42,15 +42,6 @@ def add_header(response):
 
 # Define static asset bundles to be minimized and deployed
 bundles = {
-    "parryc_fonts": Bundle(
-        "css/fonts/ptsans/fonts.css",
-        "css/fonts/source-code-pro/source-code-pro.css",
-        "css/fonts/cmu/fonts.css",
-        "css/fonts/bpg-ingiri/bpg-ingiri.css",
-        "css/fonts/mayan/fonts.css",
-        filters="cssmin",
-        output="gen/parryc-2.css",
-    ),
     "parryc_css": Bundle(
         "css/marx.min.css",
         "css/style_parryc.css",
