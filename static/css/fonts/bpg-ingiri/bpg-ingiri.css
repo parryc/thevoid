@@ -6,5 +6,5 @@
          url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.woff') format('woff'), /* Pretty Modern Browsers */
          url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
          url('/css/fonts/bpg-ingiri/bpg-ingiri-webfont.svg#bpg_ingiriregular') format('svg'); /* Legacy iOS */
-    font-display: optional;
+    font-display: swap;
 }
