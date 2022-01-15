@@ -668,6 +668,17 @@ See below for an alternative form of relative clauses using რომ.
 4. relative clause marker – relative clauses can also be marked with რომ. However rather than following the strategy listed above, instead, one writes the clausal part sentence as if it were not a relative clause and inserts რომ in front of the verb. <ex>_სტუდენტი, ქართული რომ ისწავლა, საქართველოში წავიდა_ ⧸ The student who studied Georgian went to Georgia</ex> rather than _სტუდენტი, რომელიაც ქართული ისწავლა, საქართველოში წავიდა_.<cite>[Kurtsikidze, p192](#kurtsikidze)</cite>
 5. likes doing something – similar to the relative clause marker above, instead of leaving the second verb in a serial verb construction as a [verbal noun](https://zmnebi.com/#using-the-verbal-noun), რომ may be placed in front of the 2nd verb, which is then declined as normal. <ex>_მომწონს, სათამაშობეს რომ ვაკეთებ_ ⧸ I like making toys</ex>.<cite>[Kurtsikidze, p193](#kurtsikidze)
 
+## Referring to the self
+
+There are a few different ways to refer to oneself depending on what specific sense of "self" is needed. The examples below are for "myself", but these all work with the other possessive pronouns.
+
+When the object of the verb is one's self, e.g. "made for oneself", there are two main ways of indicating this:
+
+* _ჩემთვის_ - for myself. <ex>_მე გავკეთე პიცა ჩემთვის_ ⧸ I made the pizza for myself</ex>.
+* _ჩემი თავი_ - for myself. <ex>_მე გავუკეთე პიცა ჩემ თავს_ ⧸ I made the pizza for myself</ex>. Note that this differs from _ჩემთვის_ in that _ჩემ თავს_ is an object and thus the verb includes the _-უ-_ 3rd-person version, as well as being in DAT.
+
+If indicating that one did an action themself, it is done with _მარტო_. When used in this way, it is declined like the SUBJ of the sentence. <ex>_მე მარტომ გავაკეთე პიცა ჩემთვის_ ⧸ I made the pizza by myself for myself</ex>. Note _-მ_ on _მარტო_, indicating it is the SUBJ of a sentence in the past.
+
 # Adjectives
 
 Adjectives generally precede the noun in Georgian (`დიდი ტყე:a big tree`). As might be expected for a language with a case system, adjectives in Georgian decline, both when standalone (following normal case rules) and when paired with a noun.

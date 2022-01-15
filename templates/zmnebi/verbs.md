@@ -41,7 +41,7 @@ Of all these parts, personally, I don't think trying to explicitly remember the 
 
 ## Preverb
 
-The preverb is affixed to front of the verb, before the person markers. It is used with all tenses, except PRS, IMPERF, PRSSBJV. In most cases, it functions as a perfective marker (versus imperfective, without it), meaning that the action is a complete action with a start and end. If that doesn't make intuitive sense for you, read up on the term to get examples for your language of choice. For verbs of motion, it indicates the direction of motion. It is VERY important as a learner to learn the preverb when learning a new verb. I recommend always learning a preverb form of the verb along with the present tense when learning a new verb.
+The preverb is affixed to front of the verb, before the person markers. It is used with all tenses, except PRS, IMPERF, PRSSBJV. In most cases, it functions as a perfective marker (versus imperfective, without it), meaning that the action is a complete action with a start and end. If that doesn't make intuitive sense for you, read up on the term to get examples for your language of choice. For verbs of motion, it indicates the direction of motion. It is VERY important as a learner to learn the preverb when learning a new verb. I recommend always learning a preverb form of the verb along with the present tense when learning a new verb. This is often best accomplished by also learning the 3SG AOR form of the verb.
 
 Additionally, the preverb used may change based on the meaning of the verb, even when directionality is not involved. That is, a non-preverb form, such as `ქრება:disappears, goes out`, will use a preverb of _გა-_ when verb means "goes out (of a light)", but _ჩა-_ when it means "goes out (of a fire)". In tenses where a preverb is not used, context will indicate the meaning.
 
@@ -59,12 +59,35 @@ The list of preverbs is:
 There are also combination preverbs:
 
 * გადა – going over
+* გამო - away from the speaker or inside going to outside
 * გადმო – going over towards the speaker
 * შემო – inside towards the speaker or things done by accident
+* ამო - upwards towards the speaker
 * ჩამო – downwards toward the speaker
 * წამო – towards the speaker (it is not used with PRS, IMPERF, PRSSBJV<cite>Kurts. 164</cite>)
 
-Both _წა_ and _წამო_ have archaic forms that contain _რ_, _წარ_ and _წარმო_, which can still be seen in some fossilized forms, such as `წარმოიდგენს:will imagine something`. Similarly, _გა_ has an archaic form of _გან_, such as in `განსაზღვრავს:will set the limits on something`.
+The speaker, here, may also be the 2nd person in the conversation. That is, it is often necessary to use the _-მო-_ version of the preverb when responding to a question from someone.
+
+To illustrate this nuance, let's first look at `გზავნის:sends`. Assume that someone has asked you if you've sent something. The most basic form in the past tense for 1SG would be _მე გავგზავნე_, I sent it. _გა-_ is the base preverb and there is no recipient. However, if you sent it to the person you're talking to, it's not enough to add the 2SG object marker _-გ-_. It is also necessary to add _-მო-_ to the preverb since the action is directed , giving _მე გამოგიგზავნე_, I sent it to you.
+
+This can be further seen in the following dialogues. Pretend your are meeting a friend at a restaurant and friend has called you on the phone as you have reached the door.
+
+* Friend: სალამი, მე ვარ რესტორანში. სად ხარ შენ? (Hello, I'm at the restaurant, where are you?)
+* You: მე ახლა შე*მო*ვდივარ რესტორანში. (Hello, I'm going into the restaurant now.)
+
+Notice the _-მო-_ infixed in `შევდივარ:I'm going in`. The _-მო-_ here is necessary since you are going in towards where your friend is, aka the restaurant.
+
+Compare this 2nd scenario, where your friend is running late.
+
+* Friend: სალამი, მე მაგვიანდება, შენ სად ხარ? (Hello, I'm running late, where are you?)
+* You: სალამი, მე ახლა შევდივარ რესტორანში. (Hello, I'm going into the restaurant now).
+
+Note that there is no _-მო-_ necessary here, since the friend you are responding to is not in the restaurant and thus the direction of your action is not towards the speaker.
+
+In addition to what was outlined above, there are also three archaic preverbs that are used in fossilized forms:
+
+* წარ/წარმო - ex. `წარმოიდგენს:will imagine something`
+* გან - ex. `განსაზღვრავს:will set the limits on something`
 
 ## Person Markers
 
@@ -159,7 +182,7 @@ This version is a reflexive version, indicating that the object is also the subj
 > Ⓚ: Objective version
 Ⓗ: Unnamed
 
-This version indicates that the object is for a third party. Compare `ვუკეთებ:I'm doing it (for her)` versus `ვაკეთებ:I'm doing it`.
+This version indicates that the object is for a third party. Compare `ვუკეთებ:I'm doing it (for her)` versus `ვაკეთებ:I'm doing it`. _-უ-_ is also seen often when the object of the action is one's self, ex. <ex>_მე გავუკეთე პიცა ჩემ თავს_ ⧸ I made the pizza for myself</ex>. (Note, here, that if `ჩემთვის:for me` was used instead _-უ-_ would not be used, since _ჩემთვის_ is not a noun.)
 
 ## Root
 

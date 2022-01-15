@@ -1,7 +1,12 @@
 {% extends '/base.html' %}
 {% block page_css %}
     <link rel="stylesheet" href="/css/parryc.css" />
+    <link rel="preload" href="/css/parryc-2.css" as="font" type="font/woff2" crossorigin/>
     {% assets "parryc_css" %}
+        <!--force assets to compile, while Flask fixes multi-host bug-->
+        <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+    {% endassets %}
+    {% assets "parryc_fonts" %}
         <!--force assets to compile, while Flask fixes multi-host bug-->
         <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
     {% endassets %}
