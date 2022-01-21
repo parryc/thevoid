@@ -1,5 +1,16 @@
 {  "reviews": [
     {
+      "location": "Chama Mama, New York City",
+      "country": "USA",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2022-01",
+      "rated_by": "aj",
+      "note": "",
+      "img": ""
+    },
+    {
       "location": "Bevri, Palo Alto",
       "country": "USA",
       "price": 4,

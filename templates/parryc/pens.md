@@ -104,6 +104,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Cloudy Day
 * ⭐️ Lennon Tool Bar Pacific Ocean
 * Nagasawa Kobe Kyomachi Legend Blue
+* Nagasawa Kobe Maya Lapis Lazuli
 * Nagasawa Kobe Minatojima Island
 * Pilot Iroshizuku Asa-Gao
 * Pilot Iroshizuku Shin-Kai
@@ -130,9 +131,10 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Purples
 
+* Lennon Tool Bar Grape
 * Nagasawa Kobe Rokko Shichidakka
 * Nagasawa Kobe Sanmomiya Pensée
-* Nagasawa Kobe Tamon Purple Grey
+* ⭐ Nagasawa Kobe Tamon Purple Grey
 * Pilot Iroshizuku Yama-Budo
 
 ### Oranges
@@ -140,6 +142,9 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Sunset Glow
 * Nagasawa Kobe Ikuta Orange
 
-### Silvers
+### Silver and Grey
 
 * Kaimei Silver Bokujyu
+* Kyo-Iro Soft Snow of Ohara
+* Kyo-Iro Stone Road of Gion
+* Nagasawa Kobe Hirano Gion Romance Grey
