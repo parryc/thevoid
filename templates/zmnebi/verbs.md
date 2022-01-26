@@ -32,7 +32,7 @@ preverb|person|root "do"|PFSF|person
 These parts are:
 
 * **preverb**: a prefix used in some tenses.
-* **person markers**: can either be before, after, or on both sides of the root, depending on the person. Georgian verbs distinguish between 1st, 2nd, and 3rd person, as well as singular or pluarl. There is no distinction in gender.
+* **person markers**: can either be before, after, or on both sides of the root, depending on the person. Georgian verbs distinguish between 1st, 2nd, and 3rd person, as well as singular or plural. There is no distinction in gender.
 * **version**: a vowel before the root that can indicate to whom the action is directed, among other things.
 * **root**: the core part of the word that everything is tacked on to.
 * **PFSF**: the "Present Future Stem Format", which is a vowel+consonant syllable (vowel is optional) that appears after the root in some tenses.
