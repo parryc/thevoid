@@ -1,59 +1,69 @@
 [TOC]
 
+<attn>Feb 2022: As I have restarted my Lithuanian studies, this document is going to look a bit messy until all the sections have been re-reviewed for accuracy and formatting.</attn>
+
 # Nouns
 
-## Declension paradigms 
+## Grammatical Cases
 
-### -as, -is (m.), -ys
+NOM
+: This is the default case and marks the subject of the sentence. When learning Lithuanian, it's important to learn the gender of the noun, as the case endings for NOM are not gender specific (cf. _-is_).
 
-num. | NOM | GEN | DAT    | ACC                | INS | LOC                        | VOC
------|-----|-----|--------|--------------------|-----|----------------------------|-------
-_s._ | *** | -o  | -ui    | -ą/į/į<sup>*</sup> | -u  | -e/y(je)/y(je)<sup>*</sup> | -e/∅/y
-_p._ | -ai | -ų  | -am(s) | -us                | -ais| -uose                      | -ai
+GEN
+: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language).
 
-<sup>*</sup> For the singular ACC/LOC, the _i_ is removed from the stem for -is/ys nouns. E.g. _brolį_, _arkylį_ in the ACC or _brolyje_, _arklyje_ in the LOC. This is because iį and iy are not valid dipthongs.
+DAT
+: Often translated as "for". It may also mark the indirect object of a sentence.
 
-_is_ and _ys_ retain their palatalization, e.g. medis > mediai.
+ACC
+: Often marks the object of the sentence.
 
-### -us
+INS
+: Indicates with what the action is done. May be translated as "with", "by" (for transportation), or "along" (when discussing actions across surfaces, such as "along the road"). Some verbs also mark the object with INS, such as `tikėti:to believe in`.
 
-num. | NOM | GEN | DAT | ACC | INS  | LOC
------|-----|-----|-----|-----|------|------
-_s._ | *** | -aus| -ui | -ų  | -imi | -uje
-_p._ | -ūs | -ų  | -ums| -us | -umis| -uose
+LOC
+: Marks the location an action takes place. When a living being is marked with LOC, it means "inside of".
 
+VOC
+: Used when calling out to a person, or poetically, to objects. It is always surrounded by commas (barring a left or right comma when at the beginning or end of a sentence).
 
-### -a
+## Declension Paradigms
 
-num. | NOM | GEN | DAT | ACC | INS | LOC
------|-----|-----|-----|-----|-----|-----
-_s._ | *** | -os | -ai | -ą  | -a  | -oje
-_p._ | -os | -ų  | -oms| -as |-omis| -ose
+ case   | -as | -is (m.)| -ys | -us | -a  | -ė  | -uo | -is (f.)
+ -------|-----|---------|-----|-----|-----|-----|-----|-----
+ NOM.SG | ∅   | ∅       | ∅   | ∅   | ∅   | ∅   | ∅   | ∅   
+ GEN.SG | -o  | -io     | -io | -aus| -os | -ės | -s  | -ies
+ DAT.SG | -ui | -iui    | -iui| -ui | -ai | -ei | -ui | -iai
+ ACC.SG | -ą  | -į      | -į  | -ų  | -ą  | -ę  | -į  | -į
+ INS.SG | -u  | -iu     | -iu | -imi| -a  | -e  | -iu | -imi
+ LOC.SG | -e  | -yje    | -yje| -uje| -oje| -ėje| -yje| -yje
+ VOC.SG | -e  | -i      | -y  | -au | -a  | -e  | -ie | -ie
+ –––––––|–––––|–––––––––|–––––|–––––|–––––|–––––|–––––|–––––|
+ NOM.PL | -ai | -iai    | -iai| -ūs | -os | -ės | -ys | -ys
+ GEN.PL | -ų  | -ių     | -ių | -ų  | -ų  | -ių | -ų  | -ų
+ DAT.PL | -ams| -iams   |-iams| -ums| -oms| -ėms|-ims | -ims
+ ACC.PL | -us | -ius    | -ius| -us | -as | -es | -is | -is
+ INS.PL | -ais| -iais   |-iais|-umis|-omis|-ėmis|-imis| -imis
+ LOC.PL |-uose| -iuose |-iuose|-uose|-ose | -ėse| -yse| -yse
+ VOC.PL | -ai | -iai    | -iai| -ūs | -os | -ės | -ys | -ys
 
-### -ė
+<attn>Some words ending in _-ė_ will add _er_ before the ending, such as `duktė:daughter`, ex. _dukters_</attn>
 
-num. | NOM | GEN | DAT | ACC | INS | LOC
------|-----|-----|-----|-----|-----|-----
-_s._ | *** | -ės | -ei | -ę  | -e  | -ėje
-_p._ | -ės | -ių | -ėms| -es |-ėmis| -ėse
+<attn>Most words ending in _-uo_ will add _en_ before the ending, such as `akmuõ:rock`, ex. _akmens_. Less commonly, will the word add _er_, such as `sesuõ:sister`, ex. _seser̃s_.</attn>
 
-Some words ending in _-ė_ will add _er_ before the ending, such as duktė.
+There are a few patterns worth calling out, especially when getting started trying to memorize the declensions:
 
-### -uo
-num. | NOM | GEN | DAT | ACC | INS | LOC
------|-----|-----|-----|-----|-----|-----
-_s._ | *** | -s  | -ui | -į  | -iu | -yje
-_p._ | -ys | -ų  | -ims| -is |-imis| -yse
-
-Some words ending in _-uo_ will add _en_ before the ending, such as akmuõ, ex. akmens. Others will add _er_, like _-ė_, such as sesuõ or duktė̃, ex. seser̃s.
-
-### -is (f.)
-num. | NOM | GEN | DAT | ACC | INS  | LOC
------|-----|-----|-----|-----|------|------
-_s._ | *** | -ies| -iai| -į  | -imi | -yje
-_p._ | -ys | -ų  | -ims| -is | -imis| -yse
-
-While most _-is_ nouns are masculine, some are feminine, ex. ugnis
+* ACC.SG is always a nosinė vowel (ą, į, etc.).
+* With the exception of the common masculine endings, _-as/-is/-ys_, the GEN.SG ends in _-s_.
+* DAT.SG always ends in _-i_, most often _-ui_.
+* LOC.SG ends in _-je_ except for -as endings.
+* GEN.PL always ends in _-ų_.
+* DAT.PL always ends in _-ms_ – constrast this with INS.PL which always ends in _-(m)is_. I remember the difference by rementering that INS has I and S in it.
+* ACC.PL always ends in _-s_.
+* LOC.PL always ends in _-se_.
+* The VOC.PL is the same as NOM.PL.
+* -as/-is (m.)/-ys are mostly the same, but with an _i_ in _-is_ and _-ys_ to represent the palatalization of the stem (the "i-ness"). This retained "i" is not seen in ACC.SG because _ii_ and _iy_ are not valid dipthongs.
+* _-a_ and _-ė_ are very similar: where _-a_ has "o", _-ė_ has "ė" and where _-a_ has "a", _-ė_ has "e".
 
 ## Pronouns
 
@@ -61,21 +71,24 @@ _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
 ### Nominative
-s.    | pl.
+
+SG    | PL
 ------|------
 aš    |mes
 tu    |jūs
 jis/ji|jie/jos
 
 ### Genitive
-s.    | pl.
+
+SG    | PL
 ------|------
 mano  |mūsų
 tavo  |jūsų
 jo/jos|jų
 
 ### Dative
-s.     | pl.
+
+SG     | PL
 -------|------
 man    |mums
 jau    |jums
@@ -84,18 +97,26 @@ jam/jai|jiems/joms
 ## Definite Articles
 
 ### This
-num. | m. | f. 
+
+num. | M  | F 
 -----|----|------
-s.   | šis| ši
-pl.  | šie| šios
+SG   | šis| ši
+PL   | šie| šios
 
 ### That
-num. | m.  | f. 
+
+num. | M   | F 
 -----|-----|------
-s.   | tas | ta
-pl.  | tie | tos
+SG   | tas | ta
+PL   | tie | tos
 
 ## Common Nouns Types
+
+### Compound Nouns
+
+When two nouns are placed together to form another noun, the first noun in the pair is in GEN and the second noun in the pair takes the appropriate case marking for its position in the sentence (ACC, INS, etc.).
+
+Let's look at the word _peanut butter_ to illustrate this. A single peanut is literally an "earth nut", which means the word is: `earth:žemė` + GEN + `nut:riešutas` or `peanut:žemės rieǔstas`. _Peanut butter_ then is `peanut` + PL + GEN + `butter:sviestas`. This gives us then `žemės riešutų sviestas:peanut butter`. Note the PL – food stuffs are normally in the plural, since we're not making peanut butter from a single peanut.
 
 ### Numbers and Quantities
 
@@ -117,7 +138,7 @@ Quantities are expressed by the quantity word + NOUN.GEN
 
 #### Nominative
 
-_m._   | _f._
+M      | F
 -------|------
 vienas | vienas
 du     | dvi
@@ -128,7 +149,7 @@ e.g. keturi/keturios
 
 #### Accusative
 
-_m._   | _f._
+M      | F
 -------|------
 vieną  | vieną
 du     | dvi
@@ -164,7 +185,7 @@ kóvas    | biržẽlis  | rugsėjis  | grúodis
 : = 者
 
 +tojas/a
-: =  者, derived from 3rd person present
+: = 者, derived from 3rd person present
 : valgyti - valgytojas
 : mokyti - mokytojas
 
@@ -192,7 +213,7 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount.
 : aš valgau obuolių - I ate some apples vs. aš valgau obuolį - I ate an apple 
 
-* _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
+Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement.
 
 ## Present Tense
 
@@ -261,48 +282,64 @@ tu neini   | jūs neinate
 3p. neina  | 3p. neina
 
 ## Reflexive Verbs
-Have the ending _-is_. In the negative, one must use the _si_ prefix, ex. praustis > nesiprausti)
+
+Reflexive verbs have the ending _-is_. Whenever there is a prefix, such as in the negative, one must use the _si_ prefix, ex. _praustis_ > _nesiprausti_).
 
 There are 5 types of reflexive verbs:
 
-1. Hygiene or self-care (prausti:to wash something vs. praustis:to wash oneself)
-2. Active vs. static (nešti:to carry vs. neštis:to hold)
-3. Internal action (sukti:to rotate an object vs. suktis:to rotate oneself, e.g. the earth rotates on its axis)
-4. Speech related (kalbėti:to speak vs. kalbėtis:to speak with each other)
-5. Internal feelings (džiaugtis:to be happy)
+1. Hygiene or self-care (`prausti:to wash something` vs. `praustis:to wash oneself`)
+2. Active vs. static (`nešti:to carry` vs. `neštis:to hold`)
+3. Internal action (`sukti:to rotate an object` vs. `suktis:to rotate oneself`, e.g. the earth rotates on its axis)
+4. Speech related (`kalbėti:to speak` vs. `kalbėtis:to speak with each other`)
+5. Internal feelings (`džiaugtis:to be happy`)
 
+Reflexive forms are formed like non-reflexive verb, but with an additional suffix, as listed below. For plural forms, drop the final _-e_, ex. _dirbame_ → _dirbamės_.
 
-PRS
-: singular | plural
------------|----------
--osi       | -ės
--(e)si     | -ės
--si        | -si
+One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others.
 
-A/I verbs use -esi in the 2sg., O verbs do not, ex. _šukuojiesi_ vs. _maudaisi_. For the plural, remove the standard ending _e_, ex. mes tikimės. 
+### Present Tense (PRS)
 
-PST
-: singular | plural
------------|----------
--si        | -ės
+&nbsp; |SG      |PL
+-------|--------|------
+      1| -(o)si | -ės
+      2| -(e)si | -ės
+      3| -si    | -si
 
-ex. _šukavausi_ and _šukavomės_. Same conjugation for both O and Ė past tense verbs.
+A/I verbs use the vowel in parentheses for 1SG and 2SG, O verbs do not. For example, _šukuojiesi_ vs. _maudaisi_.
 
-FUT
-: singular | plural
------------|----------
--osi       | -ės
--esi       | -ės
--is        | -is
+### Past Tense (PST)
 
-Subjunctive add +si/ės and imparative add +is/ės using the rules for plural found above.
+&nbsp; |SG   |PL
+-------|-----|------
+ all # | -si | -ės
 
+For example, _šukavausi_ and _šukavomės_. Same conjugation for both O and Ė past tense verbs.
+
+### Future Tense (FUT)
+
+&nbsp; |SG      |PL
+-------|--------|------
+      1| -osi   | -ės
+      2| -esi   | -ės
+      3| -si    | -si
+
+### Subjunctive (SUBJ)
+
+&nbsp; |SG   |PL
+-------|-----|------
+ all # | -si | -ės
+
+### Imparative (IMP)
+
+&nbsp; |SG   |PL
+-------|-----|------
+ all # | -is | -ės
 
 ## Future Tense
 
 [stem] + _s_ + ending
 
- singular  | plural
+ SG        | PL
 -----------|----------
 aš -iu     | mes -ime
 tu -i      | jūs -ite
@@ -331,14 +368,14 @@ There are 5 main endings in the past tense, based on the infinitive:
 This means that a verb like _kalbėti_ will be _kalbėjo_ in the 3rd person.
 
 Verbs ending in _o_ in 3rd person past
-: singular | plural
+: SG       | PL
 -----------|----------
 aš -au     | mes -ome
 tu -ai     | jūs -ote
 3p. ∅      | 3p. ∅
 
 Verbs ending in _ė_ in 3rd person past
-: singular | plural
+: SG       | PL
 -----------|----------
 aš -au     | mes -ėme
 tu -ei     | jūs -ėte
@@ -346,8 +383,11 @@ tu -ei     | jūs -ėte
 
 ## Verbal Prefixes
 
+Verbal prefixes often make the action perfective. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
+
 _at_ - to come (future), e.g. *at*eiga, to come
 _į_ - outward prefix, e.g. *į*sakyti, to command
+_nebe_ - no longer
 _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
 _per_ - across (for verbs of movement)
 _pra_ - past (pratetis)
@@ -391,11 +431,18 @@ The final _e_ for 1pl and 2pl is usually dropped in speech.
 
 ex. valgy+k = eat!, valgy+k+ime = let's eat!
 
+### Usage Notes
+
+* _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
+* The _-iškai_ form for languages is _only_ used with `kalbėti:to speak`.
+
 # Prepositions
 
 Most prepositions require the GEN.
 
-## Prepositions in GEN<cite>[DBK, pg293](#DBK)</cite>
+## Prepositions in GEN
+
+See also [DBK, pg293](#DBK).
 
 * abipas - on both sides
 * anàpas - on the other side
@@ -505,7 +552,7 @@ Singular time nouns are in the ACC.
 ...Except for _rytoj_ and _vakar_
 : DAT - _ryte_ and _vakare_
 
-Repetitive time uses INS.
+Repetitive time and plural time expressions use INS.
 
 # Questions
 
@@ -601,7 +648,9 @@ eC (mixed dipthong)
 : _él_ = /æl/
 : _el̃_ = /ɛl/
 
-### Accent shifting<cite>[HJ](#HJ-5-7)</cite> for nouns
+### Accent shifting for nouns
+
+Per [HJ](#HJ-5-7).
 
 There are two types of accents, _tvirtapradė_ and _tvirtagalė_, and four accentuation patterns, which I will call ①, ②, ③, & ④. 
 
@@ -610,7 +659,9 @@ _Tvirtapradė_ ("firm beginning") means that the accent is on the first part of 
 _Tvirtagalė_ ("firm ending") means that the accent is on the second part of a dipthong. Patterns ② and ④ deal with tvirtagalė accentuation.
 
 
-### Tips<cite>[HJ](#HJ)</cite>
+### Tips
+
+Per [HJ](#HJ).
 
 1. All ACC.S cases end in V nosine, ex. _kãtę_, and are never accented
 2. GEN.S ending with "o" never accents finaly syllable, ex. _brólio_, _nãmo_
@@ -716,6 +767,8 @@ _d_ or _t_ when pallatalized and followed by a vowel become _dž_ and _č_ respe
 
 Ex. _medis_ > _medžio_, _viešbutis_ > _viešbučio_
 
+Native Lithuanian words do not contain double "e", whereas international words may include them.
+
 ## Interjections
 
 begėdis - shame on him!
@@ -799,6 +852,6 @@ Vyriškoji giminė
 *[DEF]: Definitive
 *[REFL]: Reflexive
 *[PT]: Participle
-*[S]: Singular
+*[SG]: Singular
 *[PL]: Plural
 *[NOUN]: Noun

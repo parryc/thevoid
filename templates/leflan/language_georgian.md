@@ -471,13 +471,14 @@ General time expressions (in the morning, in the evening, on Monday, etc.) are m
 
 When discussing a specific day, such as March 3rd, the expression is in DAT. For example, <ex>_სამ მარტს_ ⧸ March, 3rd</ex>. Notice the final `-ი` is dropped in სამი, as it is an `-ი` adjective in the dative case. See also minutes 31-59 described below.
 
-Expressions such as "2 days ago" or "in 3 years" are expressed with `წინ:prior` and `შემდეგ:next`, respectively. The time expression is in GEN. For example, <ex>_ზუსტად ორი წლის წინ_ ⧸ Exactly two years ago</ex> or <ex>_ერთი თვეს შემდეგ_ ⧸ In one month</ex>.<cite>[Taranov, 32](#taranov)</cite>
+Expressions such as "2 days ago" or "in 3 years" are expressed with `წინ:prior` and `შემდეგ:next`, respectively. The time expression is in GEN. For example, <ex>_ზუსტად ორი წლის წინ_ ⧸ Exactly two years ago</ex> or <ex>_ერთი თვეს შემდეგ_ ⧸ 
+After one month</ex>.<cite>[Taranov, 32](#taranov)</cite>" This logic applies equally to other prepositional time phrases, such as `in one hour:ერთ საათში`. Note that half hours are conjoined with the number of hours, such as `საათნახევარი:one and a half hours`.
 
 Full hours are simply with the cardinal number plus `is # hours:საათია`. The exception is 1 o'clock is "1st hour", `პირველი საათია`. Thus, `2 o'clock:ორი საათია`. In spoken Georgian, the 12-hour clock is used, whereas written Georgian uses a 24-hour clock.
 
-Minutes within hours can be expressed literally as "1 hour + 15 minutes", but that sounds unnatural. Instead, minutes should be given relative to the hour that owns them – in Georgia, the "owning" hour is the hour that has yet to pass on the clock. So a time like 1:35, all of those 35 minutes below to 2, since 2 has not yet been hit on the clock. 
+Minutes within hours can be expressed literally as "1 hour + 15 minutes", but that sounds unnatural. Instead, minutes should be given relative to the hour that owns them – in Georgia, the "owning" hour is the hour that has yet to pass on the clock. So a time like 1:35, all of those 35 minutes below to 2, since 2 has not yet been hit on the clock.
 
-This ownership is expressed in two different ways, depending on if it's before or after the 30 minute mark. 
+This ownership is expressed in two different ways, depending on if it's before or after the 30 minute mark.
 
 1-29
 : hour's (GEN `+ს`) + #, so 1:24 would be "2's 24 minutes", thus `ორის ოცდაოთხი`

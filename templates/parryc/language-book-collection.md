@@ -26,10 +26,10 @@ Cornish – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 149
+English – 150
 Finnish – 2
-French – 7
-Georgian – 13
+French – 9
+Georgian – 15
 German – 7
 Hawaiian – 1
 Halkomelem – 1
@@ -65,7 +65,7 @@ Mingrelian – 1
 Mongolian – 6
 Multiple Languages – 10
 Norse – 1
-Ojibwe – 2
+Ojibwe – 3
 Polish – 1
 Romanian – 1
 Russian – 15
@@ -97,8 +97,8 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 34
-Dictionary – 62
-Grammar – 43
+Dictionary – 64
+Grammar – 44
 Phrasebook – 19
 Study – 16
 Verb list – 4
@@ -149,6 +149,9 @@ Talking Gookom's Language
 
 A Concise Dictionary of Minnesota Ojibwe
 : John D. Nichols and Earl Nyholm, University of Minnesota Press, 1995. <tag>ojibwe→english</tag> <tag>dictionary</tag>
+
+A Dictionary of the Chippewa Indian Language
+: Harry Hill, The Patterson Press, 1943. <tag>ojibwe→english</tag> <tag>dictionary</tag>
 
 ### Austronesian
 
@@ -481,7 +484,11 @@ Advanced Georgian Reader
 La Langue Géorgienne
 : Nikolai Marr and Maurice Brière, Firmin-Didot, 1931. <tag>georgian→french</tag> <tag>grammar</tag>
 
+Vocabulaire et Grammaire de la Langue Géorgienne
+: M. Klaproth, Société Asiatique, 1827. <tag>georgian→french</tag> <tag>french→georgian</tag> <tag>dictionary</tag>
 
+Éléments de la Langue Géorgienne
+: Marie-Félicité Brosset, Paris, 1837. <tag>georgian→french</tag> <tag>grammar</tag>
 
 #### Svan
 

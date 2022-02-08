@@ -11,6 +11,75 @@
         <!--force assets to compile, while Flask fixes multi-host bug-->
         <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
     {% endassets %}
+    <style type="text/css">
+        /* page specific overrides */
+        #declension-paradigms + table, #of-motion + table {
+            overflow-x: scroll;
+            max-width: 100% !important;
+            display: block;
+        }
+        @media (min-width: 800px) {
+            .toc {
+                position: fixed;
+                left: 30px;
+                top: 45px;
+                width: 21%;
+                height: 80%;
+                overflow-y: auto;
+                word-wrap: break-word;
+            }
+
+            .toc::before {
+                content: 'Table of Contents';
+            }
+            article {
+                margin-left: 28%;
+                max-width: inherit;
+                padding: inherit;
+            }
+            table {
+                overflow-x: scroll;
+                max-width: inherit !important;
+                display: block;
+            }
+            /* for the nested bracket table */
+            .bracket_table {
+                max-width: 100% !important;
+                display: block !important;
+            }
+            td > table {
+                margin-left: 15px;
+                border-right: none;
+                display: table;
+            }
+            main {
+                max-width: 82%;
+            }
+        }
+         @media (min-width: 850px) {
+            main {
+                max-width: 67%;
+            }
+            .toc {
+                left: 5%;
+            }
+            .bracket_table {
+                max-width: 100% !important;
+                display: block !important;
+            }
+            table {
+                overflow-x: scroll;
+                max-width: inherit !important;
+                display: table;
+                border-right: 1px black dashed;
+            }
+            /* for the nested bracket table */
+            td > table {
+                margin-left: 15px;
+                border-right: none;
+            }
+         }
+    </style>
 {% endblock %}
 {% block header %}
     parryblog · <a href="/">home</a> · <a href="/posts">posts</a> · <a href="/language-notes">language notes</a>
