@@ -11,6 +11,7 @@
         <!--force assets to compile, while Flask fixes multi-host bug-->
         <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
     {% endassets %}
+    {%  if has_toc %}
     <style type="text/css">
         /* page specific overrides */
         #declension-paradigms + table, #of-motion + table {
@@ -80,6 +81,7 @@
             }
          }
     </style>
+    {% endif %}
 {% endblock %}
 {% block header %}
     parryblog · <a href="/">home</a> · <a href="/posts">posts</a> · <a href="/language-notes">language notes</a>

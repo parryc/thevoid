@@ -23,9 +23,9 @@ lists of pictures, but no pictures of lists – yet.
 
 ### books i've read
 
-[2021](/books/2021) · [2020](/books/2020) · [2019](/books/2019) 
-[2018](/books/2018) · [2017](/books/2017) · [2016](/books/2016)
-[2015](/books/2015)
+[2022](/books/2022) · [2021](/books/2021) · [2020](/books/2020)
+[2019](/books/2019) · [2018](/books/2018) · [2017](/books/2017)
+[2016](/books/2016) · [2015](/books/2015)
 
 ## elsewhere on the web
 

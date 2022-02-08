@@ -138,6 +138,7 @@ def language(title):
         time=html["time"],
         override_title=title,
         t=_t(title),
+        has_toc=True,
     )
 
 
