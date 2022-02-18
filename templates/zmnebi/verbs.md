@@ -61,10 +61,11 @@ There are also combination preverbs:
 * გადა – going over
 * გამო - away from the speaker or inside going to outside
 * გადმო – going over towards the speaker
-* შემო – inside towards the speaker or things done by accident
+* შემო – inside towards the speaker, things done by accident, or around something
 * ამო - upwards towards the speaker
 * ჩამო – downwards toward the speaker
-* წამო – towards the speaker (it is not used with PRS, IMPERF, PRSSBJV<cite>Kurts. 164</cite>)
+* წამო – towards the speaker (it is not used with PRS, IMPERF, PRSSBJV<cite>Kurts. 164</cite>). When used with "to go", it indicates the going has not yet compeleted, ex. `წამოვა:will set out (but not necessarily reach the destination)`.
+* მიმო – back and forth
 
 The speaker, here, may also be the 2nd person in the conversation. That is, it is often necessary to use the _-მო-_ version of the preverb when responding to a question from someone.
 
@@ -383,7 +384,7 @@ It is important, but not critical, to learn the verbal noun form when learning a
 
 For example, `აკეთებს:does` → `კეთ` → `კეთება:doing`. This doesn't always work (ex. `ლაპარაკი:talking`), but will often work in a pinch if you cannot remember (or never knew) the verbanl noun form.
 
-There are more examples about how and when to use the verbal noun below, in the section [Using the Verbal Noun](#using-the-verbal-noun).
+There are more examples about how and when to use the verbal noun below, in the section [Using the Verbal Noun](#using-the-verbal-noun). In translations of commands (such as on the computer), the verbal noun is often equivalent to English imparatives.
 
 ## ① Present (PRS)
 
@@ -526,7 +527,7 @@ This is the same as AOR.
 
 ### How to Use: IMPERF
 
-The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time".<cite>[Kiziria 142](#kiziria)</cite> It may also indicate past actions that were interrupted by another action.<cite>[Kurtsikidze 129](#kurtsikidze)</cite>
+The imperfect, as described by Kiziria, is for "actions in the past that occurred frequently, habitually, or for certain periods of time".<cite>[Kiziria 142](#kiziria)</cite> It may also indicate past actions that were interrupted by another action.<cite>[Kurtsikidze 129](#kurtsikidze)</cite> These interrupted actions often take the form of `როცა IMPF, AOR`, where the IMPF is the tense for the interrupted action and AOR is the tense for the interrupting action.
 
 As this tense does not have a preverb, it has imperfective aspect.
 
@@ -681,6 +682,8 @@ In most cases, if the conditions are real (or potentially real), then both claus
 
 As with PRS, the negative imparative (don't!) may be formed with `ნუ:don't` and the verb in FUT.
 
+A polite suggestion can be formed with _ხომ_ and FUT. For example, <ex>_ხომ შეჭამ სენდვიჩს?_ ⧸ will you eat a sandwich?</ex> This is considered more suggestive and less formal than the similar form using COND.
+
 ## ① Conditional (COND)
 
 > Ⓚ: Past Frequentive
@@ -750,6 +753,8 @@ This is the same as FUT, but with _-ოდ_ + person markers added.
 This the "I would do this" tense – hypothetical or desirious scenarios, that are likely or possible to happen, such as describing future scenarios. These types of sentences are often marked with pairs of words such as `ალბათ:maybe, perhaps`/`თუ:if` and `მაშინ:then`. In these types of sentences, the current (PRS) or future clause (FUT) would be marked with `თუ:if` and the COND clause preceded by `მაშინ:then`.
 
 COND is also used for frequent actions in the past that are completed. Indeed, due the preverb, this is perfective, and thus refers to whole actions. Compared to IMPERF, which is imperfective, and thus refers to actions that do not yet contain their own end. These types of sentences often contain `ხოლმე:normally` immediately after the verb.
+
+One can also form a polite suggestion, akin to "won't you...?" with _ხომ_ and the negative COND. For example, <ex>_ხომ არ შეჭამდი სენდვიჩს?_ ⧸ Won't you eat a sandwich?</ex> This is considered more polite than a similar form with _ხომ_ but with FUT.
 
 --EX--
 თუ შენ დაწერ, მაშინ მე დავხატავდი.
@@ -906,9 +911,11 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 
 ### How to Use: AOR
 
-The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). There is an uncommon form without the preverb that indicates the action took place in the past and may be incomplete, similar to "had been doing" in English. When expressing a negative past action (e.g. "I didn't see her"), often EVD is used instead.
+The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). When expressing a negative past action (e.g. "I didn't see her"), often EVD is used instead.
 
-AOR also functions as the imperative when in 2SG. Thus, _გააკეთე_ can be either "you did it" or "do it!".
+There is an uncommon form without the preverb that indicates the action took place in the past and was incomplete, similar to "had been doing" in English. It occurs often in the form of "{AOR without prefix}, {AOR without prefix}, და {AOR with prefix}" to mean that someone or something "did and did and (finally) completed it". This is illustrated in the saying <ex>_თაგვმა თხარა, თხარაო, კატა გამოთახრაო_ ⧸ (They say) the mouse dug and dug, and dug up a cat</ex>. `თხარა:dug` is unprefixed and implies that the action of digging was not completed. `გადათხარა:dug (up)`, with the prefix, indicates the action of digging was done and compeleted – in this case because the mouse dug up a cat. The saying is used to warn someone they might get in trouble if they keep doing what they're doing.
+
+AOR also functions as the imperative when in 2SG. Thus, _გააკეთე_ can be either "you did it" or "do it!". The imperative is negated with _ნუ_.
 
 Note that `იყო:was` may be affixed to past participles, eliding the last _-ი_ of the past participle, as in `გაყინულიყო:it was frozen` versus `გაყინული იყო`.
 
@@ -1337,7 +1344,7 @@ When he was about to cry, he would cry, when he was about to laugh, he would lau
 
 Thus, `ტირის:cries` → `ეტირებოდეს:about to cry`.
 
-## Causative verbs / to make/let someone do something (-ებ/ებინ/ევ)
+## Causative verbs / to make/let someone do something (-ებ/ინებ/ევ)
 
 <attn>As with most things with Georgian verbs, the suffix used varies, but _-ინებ_ is a safe choice.</attn>
 
@@ -1376,6 +1383,10 @@ AOR = I had done:
 : <ex>_საქართველოში რომ ჩავედი, ეს ლექსები უკვე წავითხული მქონდა_ ⧸ When I arrived in Georgia, I had already read these poems</ex>.
 
 An exception to this is "had been doing", which corresponds to IMPERF or AOR (without a preverb).
+
+## Keep doing (მიდი + IMP/გააგრძელებს + VN)
+
+There are two ways of saying "to keep doing something", depending on the meaning. If it is for encouragement, such as "keep going!", it is `მიდი:go` plus the imperative form of the action (same as AOR). For the other meaning of "to continue doing something", then it is the verb `გააგრძელებს:will continue` (FUT form) with the verbal noun of the action.
 
 # Common Irregular Verbs
 
@@ -1532,6 +1543,10 @@ If you are learning Georgian via a language other than English, you may find tha
 ## Why do some resources say a form doesn't exist, but one is provided anyways?
 
 Usually when a resource says a form doesn't exist, it means that it doesn't have a unique form. It is almost invariably that AOR and OPT don't exist, which are then often the same as the IMPERF and PRSSBJV respectively. I include them since for a learner, it is not useful to know that formally there is no unique form. Rather, it is more important to know "when I mentally think 'use OPT', that I should use the form listed here".
+
+## What about the imperative?
+
+The imperative is the same form as [AOR](#2-aorist-aor). Check there for more information.
 
 # Resources
 

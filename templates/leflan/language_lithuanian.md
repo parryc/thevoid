@@ -213,7 +213,7 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount.
 : aš valgau obuolių - I ate some apples vs. aš valgau obuolį - I ate an apple 
 
-Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement.
+Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`.
 
 ## Present Tense
 
@@ -295,7 +295,7 @@ There are 5 types of reflexive verbs:
 
 Reflexive forms are formed like non-reflexive verb, but with an additional suffix, as listed below. For plural forms, drop the final _-e_, ex. _dirbame_ → _dirbamės_.
 
-One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others.
+One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others. If no reflexive form of the verb exists, than using the reflexive pronoun is sufficient.
 
 ### Present Tense (PRS)
 
@@ -385,6 +385,12 @@ tu -ei     | jūs -ėte
 
 Verbal prefixes often make the action perfective. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
 
+Compare for example, _Ryte aš atsikeliu_ and _Šiuo metu aš keliuosi_: the first, with a prefix means "In the morning, I wake up" - the action of waking up has a clear start and end in the context of the sentence. The second, without a prefix, is "Right now, I'm waking up" – the action of waking up has started, but has no clear ending in the context of the sentence.
+
+As a result, the subsequent verbs in sequential strings of verbs often have a preverb, since the actions found in the infitive in English often are the full and complete action. One can see this in the difference between <ex>_Man rekia pasiruošti..._ ⧸ I need to prepare...</ex> and <ex>_Man rekia ruoštis..._ ⧸ I need to be preparing...</ex>.
+
+For verbs that do not take a verbal prefix, it should be assumed that there is a different form that expresses continous action, e.g. `grįžti:to come back` and `grįžinėti:to be coming back`.
+
 _at_ - to come (future), e.g. *at*eiga, to come
 _į_ - outward prefix, e.g. *į*sakyti, to command
 _nebe_ - no longer
@@ -450,9 +456,11 @@ See also [DBK, pg293](#DBK).
 * añt - on; expressing feelings towards smth
 * àrti - close to
 * bè - without
+* daug - a lot of
 * dėl - due to
 * įstižai - diagonal
 * iš - out of; from; since (movement from in to out)
+* mažai - a bit of
 * nuõ - from (outside of - no movement)
 * põ - after
 * prie - next to
@@ -697,7 +705,22 @@ Conditional sentences use the same tense in both clauses
 Jei rytoj lis, reikos skėčio
 : If tomorrow rain+FUT, need+FUT umbrellas
 
-## Passive Voice<cite>[DBK, pg268](#DBK)</cite>
+## Clause Connections (ir, o, and bet)
+
+There are three main ways to connect clauses, each with slightly different uses. Correct usage is something that is difficult for learners and just needs to be learned by practice and repeated exposure to the language.
+
+ir
+: Closest to a neutral "and" in English, implies that the two clauses are similar in tone or idea. For example, <ex>_Mano draugui/draugei ir man patinka valgyti cepelinus_ ⧸ My friend and I like to eat cepelinai</ex>.
+
+o
+: Could be translated by "and" or "but", _o_ is used to indicate contrasting clauses. <ex>_Man patinka valgyti cepelinus, o mano draugui - sumuštinius_ ⧸ I like to eat cepelinai, but my friend (like to eat) sandwiches</ex>.
+
+bet
+: More strongly contrastive than _o_. <ex>_Kasdien einu į biurą bet, man nepatinka dirbti ten_ ⧸ Everyday I go to the office, but I don't like working there</ex>.
+
+## Passive Voice
+
+See also [DBK, pg268](#DBK).
 
 Uses _būti_ as auxiliary verb
 
@@ -757,6 +780,7 @@ _kada sustinkame?_, expecting an "at ... o'clock" reply
 * at 2:00 - antrą (valandą)
 * at 4:25 - be penkių pusę penkių
 * at 4:35 - penkios po pusės penkių
+
 # Errata
 
 Can use a man's first name in the plural to refer to the man's family.

@@ -263,7 +263,7 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 : how much
 
 როგორ
-: how
+: how (when expecting an action/verb as a response, see როგორი)
 
 როდის
 : when
@@ -290,7 +290,7 @@ Occasionally, `სა-` may occur after the first syllable, such as `დალ�
 : which
 
 როგორი
-: what kind
+: what kind, how (when inquiring on the quality of something, e.g. expecting an adjective/description as a response, see როგორ)
 
 ვისი
 : whose
@@ -341,6 +341,9 @@ In what are you an expert? // i.e. what are you good at?
 
 წინ (GEN)
 : before, in front of.
+
+წინააღმდეგ (GEN)
+: against, anti.
 
 გამო (GEN)
 : due to, because of.
