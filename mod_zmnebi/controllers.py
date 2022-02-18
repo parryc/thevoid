@@ -87,13 +87,21 @@ def rss():
     fg.link(href=_url)
     updates = [
         {
+            "title": "Added RSS feed",
+            "description": "Added an RSS feed :)",
+            "link": f"{_url}",
+            "date": datetime(
+                2022, 2, 18, 14, 55, 0, tzinfo=timezone(-timedelta(hours=6))
+            ),
+        },
+        {
             "title": "Unprefixed AOR form added",
             "description": "Added information on how to use the unprefixed AOR form.",
             "link": f"{_url}#how-to-use-aor",
             "date": datetime(
-                2022, 2, 18, 3, 0, 0, tzinfo=timezone(-timedelta(hours=6))
+                2022, 2, 18, 15, 0, 0, tzinfo=timezone(-timedelta(hours=6))
             ),
-        }
+        },
     ]
 
     for update in updates:
@@ -124,7 +132,9 @@ def get_html(page, host):
     text = input_file.read()
     time = repo.git.log("-n 1", "--format=%ci", "--", git_page)
     time = " ".join(time.split(" ")[0:2])
-    text = "_Last updated {0}_\n\n".format(time) + text
+    text = (
+        "_Last updated {0}_\n".format(time) + "<a href='/rss'>RSS feed</a>\n\n" + text
+    )
     return markdown.markdown(
         text,
         extensions=[
