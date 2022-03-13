@@ -23,10 +23,11 @@ Chinuk Wawa – 1
 Chuvash – 1
 Classical Chinese – 2
 Cornish – 1
+Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 150
+English – 152
 Finnish – 2
 French – 9
 Georgian – 15
@@ -49,6 +50,7 @@ Kazakh – 6
 Korean – 1
 K'iche' – 4
 Ladino – 1
+Lakota – 1
 Lao – 1
 Latin – 1
 Laz – 1
@@ -97,7 +99,7 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 34
-Dictionary – 64
+Dictionary – 66
 Grammar – 44
 Phrasebook – 19
 Study – 16
@@ -761,6 +763,17 @@ HSK Strategies Grammar Handbook
 应急口语通
 : 吕蕾 and 牛振芳, 天津大学出版社, 2007. <tag>wu→mandarin</tag> <tag>phrasebook</tag>
 
+### Siouan
+
+#### Crow
+
+A Dictionary of Everyday Crow
+: Ishtaléeschia Báachiia Héleetaalawe, Bilingual Materials Development Center, 1987. <tag>crow→english</tag> <tag>english→crow</tag> <tag>dictionary</tag>
+
+#### Lakota
+
+Lakota-English Dictionary
+: Eugene Buechel, Red Cloud Indian School, 1970. <tag>lakota→english</tag> <tag>dictionary</tag>
 
 ### Slavic
 

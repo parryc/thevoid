@@ -5,3 +5,4 @@
 * _Citizens of Beauty: Drawing Democratic Dreams in Republican China_ - Louise Edwards
 * _Ferdydurke_ - Witold Gombrowicz
 * _Netsuke_ - Matthew Welch
+* _Poetic Imagination in Japanese Art_ - ed. Maribeth Graybill

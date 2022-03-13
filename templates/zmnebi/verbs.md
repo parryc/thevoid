@@ -258,12 +258,12 @@ My go-to online dictionary is [translate.ge](translate.ge) because it is a more 
 
 There are, however, some caveats:
 
-1. It doesn't support what CGED has as superscripted ს or ჰ, indicated the, occasionally optional, prefixed 3SG person marker. Examples of this are ჰყავს, where ჰ in the print edition is superscripted.
+1. It doesn't support what CGED has as superscripted ს or ჰ, indicating the, occasionally optional, prefixed 3SG person marker. Examples of this are ჰყავს, where ჰ in the print edition is superscripted (<sup>ჰ</sup>ყავს).
 2. Some entries are randomly truncated.
-3. Some entries were poorly entered, and contain Latin text that needs to be "transliterated" (aka, pretend you're typing it), to see what was intended.
+3. Some entries were poorly entered, and contain Latin text that needs to be "transliterated" (aka, pretend you're typing it on a Georgian keyboard), to see what was intended.
 4. It doesn't contain any of the very important front-matter that the print edition contains.
 
-I can't fix 1-3, but I can provide what from the front-matter I found helpful.
+I can't fix 1-3, but I can provide what information from the front-matter I found helpful.
 
 Almost all verbs are listed sepatately in their 3SG PRS (unprefixed) form and 3SG FUT (prefixed) form. Future tense definitions are written in the future tense in English (e.g. will write). The present tense form can often be found simply by removing the prefix.
 

@@ -610,8 +610,8 @@ That summer we were like true brothers. // Less common than the above version of
 კი performs 3 functions<cite>[Kiziria 128](#kiziria)</cite>:
 
 1. It is a neutral form of saying yes.
-2. "This/that one". When a noun has already been stated, კი can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
-3. "However". When two clauses of a sentence contrast, კი serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
+2. "This/that one". When a noun has already been stated, _კი_ can refer back to the same noun later in the sentence. For example, <ex>_ეს ჩემი ლექსიკონია, ეს კი შენი_ ⧸ This is my dictionary, that one is yours.</ex>
+3. "However". When two clauses of a sentence contrast, _კი_ serves as a contrastive marker. For example, <ex>_გუშინ კარგი ამინდი იყო, დღეს კი წვიმს_ ⧸ Yesterday was good weather, today, however, it's raining.</ex> 
 
 ## Impersonal Sentences
 
@@ -708,7 +708,9 @@ The sentence order can change, such as in `არ არის საქარ�
 
 ## Dialect Note
 
-In a Gori accent, many individuals drop the final _ს_, in `არის:is`, as well as adding _ა_ to words such as `სად:where`.
+In Gori, individuals may drop the final _ს_, in `არის:is`, as well as adding _ა_ to words such as `სად:where`.
+
+In Kharshuri, indivuals often will add _-ი_ to the ends of words ending in _-ა_, making a word like _ჭამა_ sound like _ჭამაი_.
 
 Tbilisi often has various colloquialisms not found elsewhere, as it is the largest urban area in Georgia. Some examples:
 

@@ -2,6 +2,8 @@
 
 <attn>Feb 2022: As I have restarted my Lithuanian studies, this document is going to look a bit messy until all the sections have been re-reviewed for accuracy and formatting.</attn>
 
+<attn>A note on _Accentuation_ subheadings: accentuation is complicated in Lithuanian, so it is certainly possible that the general notes here do not cover specific scenarios or exceptions. If they are missing an exception (or are completely wrong!), please send me an email so I can correct them, thank you!</attn>
+
 # Nouns
 
 ## Grammatical Cases
@@ -10,7 +12,7 @@ NOM
 : This is the default case and marks the subject of the sentence. When learning Lithuanian, it's important to learn the gender of the noun, as the case endings for NOM are not gender specific (cf. _-is_).
 
 GEN
-: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language).
+: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language). When used for posession, the possessor is in GEN, the possessed in NOM. For example, Jonas' book (`Jonas:Jonas` `knyga:book`) becomes _Jono knyga_.
 
 DAT
 : Often translated as "for". It may also mark the indirect object of a sentence.
@@ -58,7 +60,7 @@ There are a few patterns worth calling out, especially when getting started tryi
 * DAT.SG always ends in _-i_, most often _-ui_.
 * LOC.SG ends in _-je_ except for -as endings.
 * GEN.PL always ends in _-ų_.
-* DAT.PL always ends in _-ms_ – constrast this with INS.PL which always ends in _-(m)is_. I remember the difference by rementering that INS has I and S in it.
+* DAT.PL always ends in _-ms_ – constrast this with INS.PL which always ends in _-(m)is_. I remember the difference by remembering that INS has I and S in it.
 * ACC.PL always ends in _-s_.
 * LOC.PL always ends in _-se_.
 * The VOC.PL is the same as NOM.PL.
@@ -118,7 +120,21 @@ When two nouns are placed together to form another noun, the first noun in the p
 
 Let's look at the word _peanut butter_ to illustrate this. A single peanut is literally an "earth nut", which means the word is: `earth:žemė` + GEN + `nut:riešutas` or `peanut:žemės rieǔstas`. _Peanut butter_ then is `peanut` + PL + GEN + `butter:sviestas`. This gives us then `žemės riešutų sviestas:peanut butter`. Note the PL – food stuffs are normally in the plural, since we're not making peanut butter from a single peanut.
 
-### Numbers and Quantities
+### Professions
+
++inikas/ė
+: = 者
+
++tojas/a
+: = 者, derived from 3rd person present
+: valgyti - valgytojas
+: mokyti - mokytojas
+
++ėjas/a
+: = 者, derived from 3rd person past
+: duoti - davo - davėjas
+
+# Numbers and Quantities
 
 Numbers match the object in both case and gender.
 
@@ -158,41 +174,6 @@ tris   | tris
 
 e.g. keturis/keturias
 
-### Days of the week
-
-Cardinal number + _dienis_
-
-* Primà (Monday)
-* Antrà
-* Trečià
-* Ketvirtà
-* Penktà
-* Šeštà
-* Septinskà
-
-### Months
-
-
-1-3      | 4-6       | 7-9       | 10-12
----------|-----------|-----------|-----------
-saũsis   | balañdis  | lı̇́epa     | spãlis
-vasãris  | gegužė    | rugpjūtis | lãpkritis
-kóvas    | biržẽlis  | rugsėjis  | grúodis
-
-### Professions
-
-+inikas/ė
-: = 者
-
-+tojas/a
-: = 者, derived from 3rd person present
-: valgyti - valgytojas
-: mokyti - mokytojas
-
-+ėjas/a
-: = 者, derived from 3rd person past
-: duoti - davo - davėjas
-
 # Verbs
 
 The third person form of the verb determines which conjugation is used. Ex., if the verb ends in an _a_ it is the 1st conjugation.
@@ -201,161 +182,77 @@ Transitive verbs are usually followed by the ACC. However, if the verb is negati
 
 ex. _rašyti laišką_ vs. _nerašyti laiško_<cite>[365, pg19](#365)</cite>
 
-The last verb before noun determines case
-: _Aš noriu skaityti ACC_, rather than GEN, which _norėti_ requires.
+The last verb before noun determines case, such as in _Aš noriu skaityti ACC_, rather than GEN, which _norėti_ requires.
 
-If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to the stem. If a pure dipthong, must be followed by a consonant other than _ti_
-: baigti - baigia
-: laukti - laukia
-: *not* griauti
-: gerti - gertia
+If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to the stem. If a pure dipthong, must be followed by a consonant other than _ti_. Thus, _baigti_ → _baigia_ and _laukti_ → _laukia_, but _not_ for _griauti_, since the dipthong is not followed by something other than _ti_.
 
-Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount.
-: aš valgau obuolių - I ate some apples vs. aš valgau obuolį - I ate an apple 
+Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount. For example, <ex>_Aš valgau obuolių_ ⧸ I ate some apples</ex> vs. <ex>_Aš valgau obuolį_ ⧸ I ate an apple</ex>. Note that this does not happen when the action (e.g. the verb) is the focus of the sentence, rather than the result (e.g. the object). In that case, the direct object will always be whatever the verb requires (most often ACC).
 
 Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`.
 
-## Present Tense
+## Present Tense (PRS)
 
 There are three types of classes for verbs in the present tense. Which class a verb belongs to is dictated by the final vowel in the 3rd person. It is either _A_, _I_, or _O_, which can be remembered with the word _alio_.
 
-If you don't know the 3rd person, there are a few hard and fast rules: 
-
-* Verbs of two syllables (ex. _dirbti_) are always 1st conjugation.
-* Verbs ending in _uoti_/_auti_ are 1st conjugation and ending _uoja_ or _auja_ in 3rd person
-* Verbs ending in _ėti_ are 2nd conjugation.
-* Verbs ending in _yti_ are 3rd conjugation.
-
 Knowing the 3rd person conjugation gives you the stem, just remove the final vowel. 
 
-Ex. _gyveña_ => stem:_gyven_, vowel:_a_
+Ex. _gyveña_ → stem:_gyven_, vowel:_a_
 
-The plurals & 3rd person verbs are the same for all conjugations: 
+&nbsp; | A | I | O
+-------|---|---|---
+1SG    | -u|-iu| -au
+2SG    | -i| -i| -ai
+3SG    | -a| -i| -o
+1PL    |-ame|-ime|-ome
+2PL    |-ate|-ite|-ote
+3PL    | -a| -i| -o
 
-1st person, pluarl: V + _me_ (ex., -ame)
-2nd person, plural: V + _te_ (ex., -ate)
-3rd person: V
+### Accentuation
 
-### A verbs
+In general, the accentuation of all forms follows the accentuation of the 3rd person. However, when the 3rd person either has:
 
-1st person, singular: stem + _u_
-2nd person, singular: stem + _i_
+* an accented penultimate syllable (exclusing REFL-suffix), which has a short vowel
+* a raising tone
 
-### I verbs
+1SG and 2SG will both have an accented final syllable.
 
-1st person, singular: stem + _iu_
-2nd person, singular: stem + _i_
+* `gãli:s/he can` → `galiù:I can`/`gali̇̀:you can`
+* `skaĩto:s/he reads` → `skaĩto:I read`/`skaitaĩ:you read`
 
-### O verbs
-
-1st person, singular: stem + _au_
-2nd person, singular: stem + _ai_
-
-## Irregular
-
-### buti - _to be_
-_yra, buvo_, normally followed by the NOM, ex. _Aš yra gydytojas_
-
-PRS
-: singular | plural
------------|----------
-aš esu     | mes esame
-tu esi     | jūs esate
-3p. yra    | 3p. yra
-
-Imperative: būk!
-
-### Negatives
-
-PRS - būti
-: singular | plural
------------|----------
-aš nesu    | mes nesame
-tu nesi    | jūs nesate
-3p. nėra   | 3p. nėra
-
-PRS - eiti
-: singular | plural
------------|----------
-aš neinu   | mes neiname
-tu neini   | jūs neinate
-3p. neina  | 3p. neina
-
-## Reflexive Verbs
-
-Reflexive verbs have the ending _-is_. Whenever there is a prefix, such as in the negative, one must use the _si_ prefix, ex. _praustis_ > _nesiprausti_).
-
-There are 5 types of reflexive verbs:
-
-1. Hygiene or self-care (`prausti:to wash something` vs. `praustis:to wash oneself`)
-2. Active vs. static (`nešti:to carry` vs. `neštis:to hold`)
-3. Internal action (`sukti:to rotate an object` vs. `suktis:to rotate oneself`, e.g. the earth rotates on its axis)
-4. Speech related (`kalbėti:to speak` vs. `kalbėtis:to speak with each other`)
-5. Internal feelings (`džiaugtis:to be happy`)
-
-Reflexive forms are formed like non-reflexive verb, but with an additional suffix, as listed below. For plural forms, drop the final _-e_, ex. _dirbame_ → _dirbamės_.
-
-One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others. If no reflexive form of the verb exists, than using the reflexive pronoun is sufficient.
-
-### Present Tense (PRS)
-
-&nbsp; |SG      |PL
--------|--------|------
-      1| -(o)si | -ės
-      2| -(e)si | -ės
-      3| -si    | -si
-
-A/I verbs use the vowel in parentheses for 1SG and 2SG, O verbs do not. For example, _šukuojiesi_ vs. _maudaisi_.
-
-### Past Tense (PST)
-
-&nbsp; |SG   |PL
--------|-----|------
- all # | -si | -ės
-
-For example, _šukavausi_ and _šukavomės_. Same conjugation for both O and Ė past tense verbs.
-
-### Future Tense (FUT)
-
-&nbsp; |SG      |PL
--------|--------|------
-      1| -osi   | -ės
-      2| -esi   | -ės
-      3| -si    | -si
-
-### Subjunctive (SUBJ)
-
-&nbsp; |SG   |PL
--------|-----|------
- all # | -si | -ės
-
-### Imparative (IMP)
-
-&nbsp; |SG   |PL
--------|-----|------
- all # | -is | -ės
-
-## Future Tense
+## Future Tense (FUT)
 
 [stem] + _s_ + ending
 
- SG        | PL
------------|----------
-aš -iu     | mes -ime
-tu -i      | jūs -ite
-3p. ∅      | 3p. ∅
+&nbsp; |SG   | PL
+-------|-----|-----
+      1| -iu | -ime
+      2| -i  | -ite
+      3| ∅   | ∅
 
 ex. li+s = (it) will rain, valgysiu = (I) will eat
 
-Verbs with _ū_ or _y_ in the stem are likely irregular (cf. lyti > lis, būti > bus).
+Verbs with _ū_ or _y_ in the stem will have a short vowel in PST/FUT (cf. lyti → lis, būti → bus).
 
 Depending on the ending of the stem, some combinations of s, z, š, or ž merge together
-: s + s = s
-: z + s = s
-: š + s = š
-: ž + s = š
+
+* s + s = s
+* z + s = s
+* š + s = š
+* ž + s = š
+
+### Accentuation
+
+The accentuation pattern follows the accentuation of INF except for the 3rd person:
+
+When the 3rd person's FUT form's _last_ (or only) syllable – ignoring the reflexive suffixe – is stressed with a falling tone (´), it is replaced with a rising tone (˜). For example, kalbė́ti → kalbė̃s.
 
 ## Past Tense
+
+There are two past tenses in Lithuanian, the past simple (PST) and the past frequentative (PSTFREQ). The past frequentative is only used when it is an action that: 1) took place a long time ago, 2) was done throughout the whole time, 3) and was sometimes interrupted throughout that period.
+
+### Past Simple (PST)
+
+<attn>The stem of the verb can differ from PRS – make sure to learn the 3SG PST when learning a new verb.</attn>
 
 There are 5 main endings in the past tense, based on the infinitive:
 
@@ -367,23 +264,51 @@ There are 5 main endings in the past tense, based on the infinitive:
 
 This means that a verb like _kalbėti_ will be _kalbėjo_ in the 3rd person.
 
-Verbs ending in _o_ in 3rd person past
-: SG       | PL
------------|----------
-aš -au     | mes -ome
-tu -ai     | jūs -ote
-3p. ∅      | 3p. ∅
+Verbs ending in _o_ in 3rd person past.
 
-Verbs ending in _ė_ in 3rd person past
-: SG       | PL
------------|----------
-aš -au     | mes -ėme
-tu -ei     | jūs -ėte
-3p. ∅      | 3p. ∅
+&nbsp; | SG  | PL
+-------|-----|------
+      1| -au | -ome
+      2| -ai | -ote
+      3| ∅   | ∅
+
+Verbs ending in _ė_ in 3rd person past. Note that if the verb stem ends in _t_ or _d_, in 1SG, it will be _-čiau_ or _džiau_ due to the palatalization (such as <ex>_Aš skaičiau_ ⧸ I read</ex>.
+
+&nbsp; | SG  | PL
+-------|-----|------
+      1| -au | -ėme
+      2| -ei | -ėte
+      3| ∅   | ∅
+
+#### Accentuation
+
+In general, the accentuation of all forms follows the accentuation of the 3rd person. However, when the 3rd person either has:
+
+* an accented penultimate syllable (exclusing REFL-suffix), which has a short vowel
+* a raising tone
+
+1SG and 2SG will both have an accented final syllable.
+
+* `bùvo:s/he was` → `buvaũ:I was`/`buvaĩ:you were`
+* `skaĩtė:s/he read` → `skaičiaũ:I read`/`skaiteĩ:you read`
+
+### Past Frequentative (PSTFREQ)
+
+Remove _-ti_ from INF and add _-dav_ and the appropriate suffix.
+
+&nbsp; | SG  | PL
+-------|-----|------
+      1| -au | -ome
+      2| -ai | -ote
+      3| ∅   | ∅
+
+#### Accentuation
+
+Same as INF.
 
 ## Verbal Prefixes
 
-Verbal prefixes often make the action perfective. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
+Verbal prefixes can have two different impacts on an unprefixed verb. First of all, there is often one prefix that is the neutral perfective marker (see below for examples). The other is to slightly change the meaning, for which the list of prefixes below give the most common meaning for the prefix. Dictionaries, especially those aimed at learners or foreigners, will list the perfective prefix for the verb, often under the unprefixed entry. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
 
 Compare for example, _Ryte aš atsikeliu_ and _Šiuo metu aš keliuosi_: the first, with a prefix means "In the morning, I wake up" - the action of waking up has a clear start and end in the context of the sentence. The second, without a prefix, is "Right now, I'm waking up" – the action of waking up has started, but has no clear ending in the context of the sentence.
 
@@ -397,6 +322,7 @@ _nebe_ - no longer
 _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
 _per_ - across (for verbs of movement)
 _pra_ - past (pratetis)
+_pri_ - a lot; worked a lot at
 _pro_ - through (for verbs of movement)
 _pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
@@ -442,6 +368,74 @@ ex. valgy+k = eat!, valgy+k+ime = let's eat!
 * _eiti_ is specifically to go by foot, _važiuoti_ is to go by some sort of wheeled transportation. Like a scooter, or wheelies.
 * The _-iškai_ form for languages is _only_ used with `kalbėti:to speak`.
 
+## Reflexive Verbs
+
+Reflexive verbs have the ending _-is_. Whenever there is a prefix, such as in the negative, one must use the _si_ prefix, ex. _praustis_ > _nesiprausti_).
+
+There are 5 types of reflexive verbs:
+
+1. Hygiene or self-care (`prausti:to wash something` vs. `praustis:to wash oneself`)
+2. Active vs. static (`nešti:to carry` vs. `neštis:to hold`)
+3. Internal action (`sukti:to rotate an object` vs. `suktis:to rotate oneself`, e.g. the earth rotates on its axis)
+4. Speech related (`kalbėti:to speak` vs. `kalbėtis:to speak with each other`)
+5. Internal feelings (`džiaugtis:to be happy`)
+
+Reflexive forms are formed like non-reflexive verb, but with an additional suffix, as listed below. For plural forms, drop the final _-e_, ex. _dirbame_ → _dirbamės_.
+
+One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others. If no reflexive form of the verb exists, than using the reflexive pronoun is sufficient.
+
+### Present Tense (PRS)
+
+&nbsp; |SG      |PL
+-------|--------|------
+      1| -(o)si | -ės
+      2| -(e)si | -ės
+      3| -si    | -si
+
+A/I verbs use the vowel in parentheses for 1SG and 2SG, O verbs do not. For example, _šukuojiesi_ vs. _maudaisi_.
+
+### Past Simple (PST)
+
+Add endings to non-reflexive stem.
+
+&nbsp; |SG   |PL
+-------|-----|------
+      1| -si | -mės
+      2| -si | -tės
+      3| -si | -si
+
+For example, _šukavausi_ and _šukavomės_. Same conjugation for both O and Ė past tense verbs.
+
+### Past Frequentative (PSTFREQ)
+
+Add endings to non-reflexive stem.
+
+&nbsp; |SG   |PL
+-------|-----|------
+      1| -si | -mės
+      2| -si | -tės
+      3| -si | -si
+
+### Future Tense (FUT)
+
+&nbsp; |SG      |PL
+-------|--------|------
+      1| -osi   | -ės
+      2| -esi   | -ės
+      3| -si    | -si
+
+### Subjunctive (SUBJ)
+
+&nbsp; |SG   |PL
+-------|-----|------
+ all # | -si | -ės
+
+### Imparative (IMP)
+
+&nbsp; |SG   |PL
+-------|-----|------
+ all # | -is | -ės
+
 # Prepositions
 
 Most prepositions require the GEN.
@@ -458,10 +452,11 @@ See also [DBK, pg293](#DBK).
 * bè - without
 * daug - a lot of
 * dėl - due to
+* iki - to
 * įstižai - diagonal
 * iš - out of; from; since (movement from in to out)
 * mažai - a bit of
-* nuõ - from (outside of - no movement)
+* nuõ - from (outside of - no movement), paired with _iki_ for time expressions like "from... to..."
 * põ - after
 * prie - next to
     * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vanenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
@@ -475,9 +470,9 @@ V + už - take/grab už N.
 ## Prepositions in ACC
 
 * apiẽ/apliñk - around by (_aplink_ is physical only)
-* į̇̃ - in (location/place); into
+* į̇̃ - in (location/place); into (will often cause the verb to take the same prefix)
 * pas - to a person
-* per̃ - through; across; during; throughout; over (over the fence); for the duration of
+* per̃ - through; across; during; throughout; over (over the fence); for the duration of; via/on (for technology, e.g. via Skype, on TV)
 * põ - round about; through (through the fence); after (time wise)
 * prieš - opposite of, across from
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
@@ -485,7 +480,7 @@ V + už - take/grab už N.
 ## Prepositions in INS
 
 * põ - under
-* su - with
+* su - with (will often cause the verb to take the same prefix)
 
 # Adjectives
 
@@ -552,7 +547,7 @@ namõ (homewards)  | namiẽ (at home)
 Aš einù laukañ vs. Aš esu laukè
 I am going outside vs. I am outside
 
-## Time
+# Time
 
 Singular time nouns are in the ACC.
 : vasãra - Vasãrą aš... - In summer I... 
@@ -561,6 +556,65 @@ Singular time nouns are in the ACC.
 : DAT - _ryte_ and _vakare_
 
 Repetitive time and plural time expressions use INS.
+
+## Telling Time
+
+There are two main ways of telling time: listing all of the components (one thirty seven), or describing the time relatively (seven after half of two).
+
+Relative time uses two prepositions, _be_ for before, and _po_ for after. _Be_ is used from :35 to :00 and _po_ is used from :00 to :25. Both take the genitive.
+
+Exact hours (1:00, 2:00...) use oridnal numbers, ex. 1:00 _yra pirma_, 4:00 _yra ketvirta_.
+
+Do not decline minutes when the time expression should be in ACC (such as in an "at ... o'clock" expression. No reason, just cause. Ex. at 4:35 - penkios po pusės penkių 
+
+### Examples
+
+_yra..._
+
+* 4:15 - keturious (valandos) ir penkiolika (minučių)
+* 10:25 - dešimt valandų ir dvidešimt penkios minutės
+* 11:11 - vienolika valandų ir vienolika minučių
+* 2:33 - dvi valandos ir trisdešimt trys minutės
+* 1:35 - _pirma_ valanda ir trisdešimt penkios
+* 10:15 - penkiolika po dešimt; po dešimt penkolika
+* 10:45 - be penkilikos vieniolika 
+* 2:05 - penkios po dviejų
+* 4:47 - be trylikos penkios
+* 2:30 - pusė trijų (quantity word _pusė_ takes GEN)
+* 4:30 - pusė penkių
+* 10:30 - pusė vieniolikos
+* 6:26 - be keturių pusė septynių
+* 7:37 - septynios po pusės aštuonių
+
+_kada sustinkame?_, expecting an "at ... o'clock" reply
+
+* at 9:30 - pusę dešimt
+* at 11:45 - be penkiolikos dvyliktą
+* at 2:00 - antrą (valandą)
+* at 4:25 - be penkių pusę penkių
+* at 4:35 - penkios po pusės penkių
+
+Colloquially, the number may be in GEN, ex <ex>_pusę dešimtos vakare_ ⧸ 9:30pm</ex>.
+
+## Days of the week
+
+Cardinal number + _dienis_
+
+* Primà (Monday)
+* Antrà
+* Trečià
+* Ketvirtà
+* Penktà
+* Šeštà
+* Septinskà
+
+## Months
+
+1-3      | 4-6       | 7-9       | 10-12
+---------|-----------|-----------|-----------
+saũsis   | balañdis  | lı̇́epa     | spãlis
+vasãris  | gegužė    | rugpjūtis | lãpkritis
+kóvas    | biržẽlis  | rugsėjis  | grúodis
 
 # Questions
 
@@ -635,18 +689,21 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 ## Pitch Accent
 
 There are three types of accentuation marks:
-: ` = accent is on a short vowel that is _always_ short (stressed)
-: ´ = accent is on a long vowel that in this case can be short (_a_ or _e_) (falling)
-: ˜ = accent is on a long vowel that is _always_ long or consonant in a mixed dipthong (rising)
 
-_au_ is tricky. 
+1. ̀ = accent is on a short vowel that is _always_ short (stressed)
+2. ´ = accent is on a long vowel that in this case can be short (_a_ or _e_) (falling)
+3. ˜ = accent is on a long vowel that is _always_ long or consonant in a mixed dipthong (rising)
+
+Some vowels will change pronunciation depending what part of the dipthong is accented.
+
+au
 : _aũ_/_au_ = /oː/
 : _áu_ = /au/
-: the "real" phonology is obviously much more IPA-tastic, but this is close enough. The main thing to know is that rising (~) and accentless are pronounced the same.
+: the "real" phonology is obviously much more complex than this, but what's listed is close enough. The main thing to know is that rising (̃) and accentless are pronounced the same.
 
 e
 : _ẽ_ = /æ/
-: _e_ = /ɛ/ 
+: _e_ = /ɛ/
 
 ei
 : _ei̇̃_ = /eɪ/
@@ -666,7 +723,6 @@ _Tvirtapradė_ ("firm beginning") means that the accent is on the first part of 
 
 _Tvirtagalė_ ("firm ending") means that the accent is on the second part of a dipthong. Patterns ② and ④ deal with tvirtagalė accentuation.
 
-
 ### Tips
 
 Per [HJ](#HJ).
@@ -683,7 +739,7 @@ Per [HJ](#HJ).
 
 Contrary to most methods, Lithuanians count syllables from the end of the word. There are two things to keep in mind: 1. the ending counts as 1 syllable, even if it's pronounced as two (e.g. _yje_). 2. the last syllable of the stem is the most important. (Why? We'll find out later!)
 
-# Sentences
+# Sentence Structures
 
 Use _negi_ to emphasize/indicate surprise of a sentence
 : Nègi nežinai? _You don't know??_
@@ -707,10 +763,10 @@ Jei rytoj lis, reikos skėčio
 
 ## Clause Connections (ir, o, and bet)
 
-There are three main ways to connect clauses, each with slightly different uses. Correct usage is something that is difficult for learners and just needs to be learned by practice and repeated exposure to the language.
+There are three ways to connect clauses, each with slightly different uses. Correct usage is something that is difficult for learners and just needs to be learned by practice and repeated exposure to the language.
 
 ir
-: Closest to a neutral "and" in English, implies that the two clauses are similar in tone or idea. For example, <ex>_Mano draugui/draugei ir man patinka valgyti cepelinus_ ⧸ My friend and I like to eat cepelinai</ex>.
+: Closest to a neutral "and" in English, implies that the two clauses are similar in tone or idea. For example, <ex>_Mano draugui/draugei ir man patinka valgyti cepelinus_ ⧸ My friend and I like to eat cepelinai</ex>. Note that `bei:and` is used between similar words, rather than between clauses, especially as a way to avoid repeating _ir_.
 
 o
 : Could be translated by "and" or "but", _o_ is used to indicate contrasting clauses. <ex>_Man patinka valgyti cepelinus, o mano draugui - sumuštinius_ ⧸ I like to eat cepelinai, but my friend (like to eat) sandwiches</ex>.
@@ -744,44 +800,7 @@ Uses _būti_ as auxiliary verb
 
 Man tas pats - 无所谓
 
-## Telling Time
-
-There are two main ways of telling time: listing all of the components (one thirty seven), or describing the time relatively (seven after half of two).
-
-Relative time uses two prepositions, _be_ for before, and _po_ for after. _Be_ is used from :35 to :00 and _po_ is used from :00 to :25. Both take the genitive.
-
-Exact hours (1:00, 2:00...) use oridnal numbers, ex. 1:00 _yra pirma_, 4:00 _yra ketvirta_.
-
-Do not decline minutes when the time expression should be in ACC (such as in an "at ... o'clock" expression. No reason, just cause. Ex. at 4:35 - penkios po pusės penkių 
-
-### Examples
-
-_yra..._
-
-* 4:15 - keturious (valandos) ir penkiolika (minučių)
-* 10:25 - dešimt valandų ir dvidešimt penkios minutės
-* 11:11 - vienolika valandų ir vienolika minučių
-* 2:33 - dvi valandos ir trisdešimt trys minutės
-* 1:35 - _pirma_ valanda ir trisdešimt penkios
-* 10:15 - penkiolika po dešimt; po dešimt penkolika
-* 10:45 - be penkilikos vieniolika 
-* 2:05 - penkios po dviejų
-* 4:47 - be trylikos penkios
-* 2:30 - pusė trijų (quantity word _pusė_ takes GEN)
-* 4:30 - pusė penkių
-* 10:30 - pusė vieniolikos
-* 6:26 - be keturių pusė septynių
-* 7:37 - septynios po pusės aštuonių
-
-_kada sustinkame?_, expecting an "at ... o'clock" reply
-
-* at 9:30 - pusę dešimt
-* at 11:45 - be penkiolikos dvyliktą
-* at 2:00 - antrą (valandą)
-* at 4:25 - be penkių pusę penkių
-* at 4:35 - penkios po pusės penkių
-
-# Errata
+# Miscellaneous
 
 Can use a man's first name in the plural to refer to the man's family.
 
@@ -806,13 +825,6 @@ puiku! - great
 prašo - please
 prašom - you're welcome
 velnią minint - speak of the devil
-
-## Possession 
-
-Possessor is in GEN, the possessed in NOM
-: Jonas, knyga - Jono knyga
-
-Multiple possession is in GEN for all possessors
 
 ## Language notes
 
@@ -850,15 +862,13 @@ Moteriškoji giminė
 Vyriškoji giminė
 : Masculine gender (_v._)
 
-## Bibliography
+# Bibliography
 * <source id="Ambrazas">Vytautas Ambrazas and E. Geniušienė and A. Girdenis and N. Sližienė and D. Tekorienė and A. Valeckienė and E. Valiulytė. _Lithuanian Grammar_. Baltos Lankos, 1997</source>
 * <source id="DBK">Leonardas Dambriūnas and A. Klimas and W. R. Schmalstieg. _Beginner's Lithuanian_. Hippocrene Books, 2006.</source>
 * <source id="HJ-5-7">Henry Jason. Class lecture. 2016 May 7.</source>
 * <source id="HJ">Henry Jason. Personal communication. 2016.</source>
 * <source id="365">Virginija Stumbrienė, L. Vilkienė, and W. Roebuck. _365 Lithuanian Verbs_. Tyto Alba, 2008.</source>
 
-## Dictionary
-[le flaneur's lithuanian dictionary](lithuanian/dict)
 <!-- Abbreviations -->
 *[NOM]: Nominative
 *[ACC]: Accusative
@@ -879,3 +889,5 @@ Vyriškoji giminė
 *[SG]: Singular
 *[PL]: Plural
 *[NOUN]: Noun
+*[M]: Male
+*[F]: Female
