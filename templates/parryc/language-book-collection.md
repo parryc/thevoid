@@ -27,7 +27,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 152
+English – 155
 Finnish – 2
 French – 9
 Georgian – 15
@@ -54,7 +54,7 @@ Lakota – 1
 Lao – 1
 Latin – 1
 Laz – 1
-Lithuanian – 3
+Lithuanian – 6
 Lushootseed – 1
 Malay – 1
 Maltese – 1
@@ -98,11 +98,11 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 8
-Coursebook – 34
-Dictionary – 66
+Coursebook – 35
+Dictionary – 67
 Grammar – 44
 Phrasebook – 19
-Study – 16
+Study – 17
 Verb list – 4
 
 ## Languages
@@ -206,6 +206,16 @@ Mokomasis Lietuvių Kalbos Žodynas
 
 Lithuanian Dictionary & Phrasebook
 : Jurgita Baltrušaitytė, Hippocrene, 2004. <tag>lithuanian→english</tag> <tag>phrasebook</tag> <tag>dictionary</tag>
+
+Introduction to Modern Lithuanian
+: Leonardas Dambriūnas and Antanas Klimas and William R. Schmalstieg, 3rd edition, Franciscan Fathers, 1980. <tag>lithuanian→english</tag> <tag>coursebook</tag>
+
+The Lithuanian Language
+: Alfred Senn, The Lithuanian Cultural Institute, 1942. <tag>lithuanian→english</tag> <tag>study</tag>
+
+A Dictionary of the English and Lithuanian Languages, Part Second: English-Lithuanian
+: Anthony Lalis, Lietuva, 1915. <tag>english→lithuanian</tag> <tag>dictionary</tag>
+
 
 ### Celtic
 

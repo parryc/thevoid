@@ -120,6 +120,8 @@ When two nouns are placed together to form another noun, the first noun in the p
 
 Let's look at the word _peanut butter_ to illustrate this. A single peanut is literally an "earth nut", which means the word is: `earth:žemė` + GEN + `nut:riešutas` or `peanut:žemės rieǔstas`. _Peanut butter_ then is `peanut` + PL + GEN + `butter:sviestas`. This gives us then `žemės riešutų sviestas:peanut butter`. Note the PL – food stuffs are normally in the plural, since we're not making peanut butter from a single peanut.
 
+One may find the order reversed (but the meaning the same), when the 2nd noun is a quantity, such as in <ex>_stiklinė sulčių_ ⧸ a glass of juice</ex>.
+
 ### Professions
 
 +inikas/ė
@@ -327,6 +329,7 @@ _pro_ - through (for verbs of movement)
 _pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
 _su_ - all together (PERF)
+_tebe_ - still
 
 ## Moods
 
@@ -337,23 +340,52 @@ There are four moods in Lithuanian:
 3. Imparative
 4. Oblique
 
-Both clauses tend to use the same mood. Ex. _jei_ SUBJ, _tai_ SUBJ.
+Both clauses tend to use the same mood. Ex. _jei_ SBJV, _tai_ SUBJ.
 
-### Subjunctive
+### Subjunctive (SBJV)
 
-The subjunctive consists of two forms: simple and compound. The simple form indicates actions "which under certain circumstances would be possible or desirable in the present or in the future." The compound perfect form conveys "a possible or imaginary action in the past or a state resulting from such action".<cite>[Ambrazas §5.47](#Ambrazas)</cite> 
+The subjunctive is used in the ways:
 
-This mood is predominantly used in polite speech, such as _norėčiau_, "I would like".
+1. Hypothetical conditionals
+2. Should, would, could
+3. Expressing purpose
+
+**Hypothetical Conditionals**
+
+It is important to note that it is hypothetical, rather than real, conditionals that use SBJV. Real conditionals will use either FUT or PRS. For example, <ex>_Jei aš eičiau į šokių pamokas, tai būčiau lankstesnis_ ⧸ If I went to dance class, I'd be more flexible</ex>. Note, too, that both clauses use SBJV, in contrast to the English translation.
+
+This is what Ambrazas refers to as the "simple subjunctive" – actions "which under certain circumstances would be possible or desirable in the present or in the future."<cite>[Ambrazas §5.47](#Ambrazas)</cite>
+
+**Should, would, could**
+
+Most commonly seen with `norėti:to want`, the subjunctive gives a sense of politeness to the sentence or question. As such, it is also often used when giving advice.
+
+This gives rise to natural English translations for some common verbs:
+
+*Should*: reikėti or turėti
+*Could*: galėti
+*Would*: any other verb in SBJV\
+
+--EX--
+Ar tu galėtum man atnešti stiklinę sulčių?
+Could you please bring me a glass of juice?
+Aš norėčiau, kad (tu) ateitum anksti.
+I would like you to come early.
+Tu turėtum būti griežtesnis mano tarimui.
+You should be more strict with my pronunciation.
+--ENDEX--
 
 #### Conjugation
 
-: singular | plural
------------|----------
-aš -iau    | mes -tu(mė)me
-tu -tum(ei)| jūs -tu(mė)te
-3p. -tų    | 3p. -tų
+Formed by removing the _-ti_ from the infinitive.
 
-The final _e_ for 1pl and 2pl is usually dropped in speech.
+&nbsp; | SG    | PL
+-------|-------|------
+      1| -čiau | -tume/tumėm/tumėme
+      2| -tum(ei) | -tumėt/tumėte
+      3| -tų   | -tų
+
+For 1PL and 2PL, the shorter forms are often used in speech, while the longer may be seen in written works.
 
 ### Imparative
 
@@ -424,11 +456,13 @@ Add endings to non-reflexive stem.
       2| -esi   | -ės
       3| -si    | -si
 
-### Subjunctive (SUBJ)
+### Subjunctive (SBJV)
 
-&nbsp; |SG   |PL
--------|-----|------
- all # | -si | -ės
+&nbsp; |SG      |PL
+-------|--------|------
+      1| -si   | -ės
+      2| -eisi   | -ės
+      3| -si    | -si
 
 ### Imparative (IMP)
 
@@ -469,7 +503,8 @@ V + už - take/grab už N.
 
 ## Prepositions in ACC
 
-* apiẽ/apliñk - around by (_aplink_ is physical only)
+* apiẽ - around, about (e.g. when referring to time)
+* apliñk - around by (physical location only)
 * į̇̃ - in (location/place); into (will often cause the verb to take the same prefix)
 * pas - to a person
 * per̃ - through; across; during; throughout; over (over the fence); for the duration of; via/on (for technology, e.g. via Skype, on TV)
@@ -881,6 +916,8 @@ Vyriškoji giminė
 *[PST]: Past/Preterite
 *[FUT]: Future
 *[INF]: Infinite
+*[SBJV]: Subjunctive
+*[PSTFREQ]: Past Frequentative
 *[C]: Consonant
 *[V]: Vowel
 *[DEF]: Definitive

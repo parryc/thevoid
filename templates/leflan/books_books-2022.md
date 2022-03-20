@@ -6,3 +6,4 @@
 * _Ferdydurke_ - Witold Gombrowicz
 * _Netsuke_ - Matthew Welch
 * _Poetic Imagination in Japanese Art_ - ed. Maribeth Graybill
+* _Lithuanian Beer: A Rough Guide_ - Lars Marius Garshol
