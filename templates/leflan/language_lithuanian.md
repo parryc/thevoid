@@ -266,7 +266,7 @@ There are 5 main endings in the past tense, based on the infinitive:
 
 This means that a verb like _kalbėti_ will be _kalbėjo_ in the 3rd person.
 
-Verbs ending in _o_ in 3rd person past.
+**Verbs ending in _o_ in 3rd person past**
 
 &nbsp; | SG  | PL
 -------|-----|------
@@ -274,7 +274,9 @@ Verbs ending in _o_ in 3rd person past.
       2| -ai | -ote
       3| ∅   | ∅
 
-Verbs ending in _ė_ in 3rd person past. Note that if the verb stem ends in _t_ or _d_, in 1SG, it will be _-čiau_ or _džiau_ due to the palatalization (such as <ex>_Aš skaičiau_ ⧸ I read</ex>.
+**Verbs ending in _ė_ in 3rd person past**
+
+Note that if the verb stem ends in _t_ or _d_, in 1SG, it will be _-čiau_ or _džiau_ due to the palatalization (such as <ex>_Aš skaičiau_ ⧸ I read</ex>.
 
 &nbsp; | SG  | PL
 -------|-----|------
@@ -928,3 +930,11 @@ Vyriškoji giminė
 *[NOUN]: Noun
 *[M]: Male
 *[F]: Female
+*[1SG]: 1st Person Singular
+*[2SG]: 2nd Person Singular
+*[3SG]: 3rd Person Singular
+*[1PL]: 1st Person Plural
+*[2PL]: 2nd Person Plural
+*[3PL]: 3rd Person Plural
+*[SG]: Singular
+*[PL]: Plural
