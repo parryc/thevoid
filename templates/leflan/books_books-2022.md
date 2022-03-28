@@ -7,3 +7,4 @@
 * _Netsuke_ - Matthew Welch
 * _Poetic Imagination in Japanese Art_ - ed. Maribeth Graybill
 * _Lithuanian Beer: A Rough Guide_ - Lars Marius Garshol
+* _The Last Bookseller_ - Gary Goodman

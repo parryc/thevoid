@@ -1,6 +1,11 @@
 {
   "bounties": [
     {
+      "location": "Tamari, San Carlos, CA",
+      "country": "USA",
+      "posted": "2022-03"
+    },
+    {
       "location": "Tblisi's Hörna, Stockholm",
       "country": "Sweden",
       "posted": "2021-10",

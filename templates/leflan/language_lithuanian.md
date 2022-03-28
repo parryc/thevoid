@@ -12,7 +12,7 @@ NOM
 : This is the default case and marks the subject of the sentence. When learning Lithuanian, it's important to learn the gender of the noun, as the case endings for NOM are not gender specific (cf. _-is_).
 
 GEN
-: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language). When used for posession, the possessor is in GEN, the possessed in NOM. For example, Jonas' book (`Jonas:Jonas` `knyga:book`) becomes _Jono knyga_.
+: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language). When used for posession, the possessor is in GEN, the possessed in NOM. For example, Jonas' book (`Jonas:Jonas` `knyga:book`) becomes _Jono knyga_. In casual speech, some words that are not normally declined, such as `rytoj:tomorrow`, may find themselves with GEN endings. For example, <ex>_Perskaitykit šią knygą iki rytojaus_ ⧸ Read this book for tomorrow</ex>.
 
 DAT
 : Often translated as "for". It may also mark the indirect object of a sentence.
@@ -192,6 +192,10 @@ Some verbs of quantity can either take ACC or GEN objects. When it the object is
 
 Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`.
 
+## Infinitive (INF)
+
+The infinitive is the standard dictionary form and ends in _-ti_. It is used much the same way as the English INF. In casual speech, the final _-i_ in the INF form is dropped.
+
 ## Present Tense (PRS)
 
 There are three types of classes for verbs in the present tense. Which class a verb belongs to is dictated by the final vowel in the 3rd person. It is either _A_, _I_, or _O_, which can be remembered with the word _alio_.
@@ -322,6 +326,7 @@ For verbs that do not take a verbal prefix, it should be assumed that there is a
 
 _at_ - to come (future), e.g. *at*eiga, to come
 _į_ - outward prefix, e.g. *į*sakyti, to command
+_ne_ - not/NEG marker. May cause PERF prefix (whichever it may be for a verb) to be dropped.
 _nebe_ - no longer
 _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
 _per_ - across (for verbs of movement)
@@ -389,13 +394,23 @@ Formed by removing the _-ti_ from the infinitive.
 
 For 1PL and 2PL, the shorter forms are often used in speech, while the longer may be seen in written works.
 
-### Imparative
+### Imparative (IMP)
 
-[stem] + _k_
-: Add _-ite_ or _-ime_ for 1p. or 2p.
-: g+k becomes k, ex. raugti > raugk > rauk!
+<attn>Excluding the verbal prefix (when applicable) is often considered rude, so make sure to include it!</attn>
 
-ex. valgy+k = eat!, valgy+k+ime = let's eat!
+Formed by removing the _-ti_ from the infinitive. This form is easily recognizable due to the _k_ in the affix. Note there is no 1SG or 3P forms.
+
+&nbsp; | SG   | PL
+-------|-------|------
+      1| n/a  | -kim(e)
+      2| -k   | -kit(e)
+      3| n/a  | n/a
+
+Note that the combination _g+k_ becomes _k_, ex. _raugti_ > _raugk_ > _rauk_!
+
+Colloquially, the 1PL form (_Let's..._) can also be the 1PL.PRS without the ending _-e_. Thus, `varom:let's go`/`einam:let's go`.
+
+In terms of politness, IMP is less polite than SBJV and IMP without a verbal prefix is less polite than IMP with a verbal prefix, as noted at the top of this section.
 
 ### Usage Notes
 
@@ -490,9 +505,9 @@ See also [DBK, pg293](#DBK).
 * dėl - due to
 * iki - to
 * įstižai - diagonal
-* iš - out of; from; since (movement from in to out)
+* iš - out of; from (a place); since (movement from in to out)
 * mažai - a bit of
-* nuõ - from (outside of - no movement), paired with _iki_ for time expressions like "from... to..."
+* nuõ - from (a surface, outside of - no movement), paired with _iki_ for time expressions like "from... to..."
 * põ - after
 * prie - next to
     * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vanenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).

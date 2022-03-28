@@ -27,11 +27,11 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 155
+English – 157
 Finnish – 2
 French – 9
-Georgian – 15
-German – 7
+Georgian – 18
+German – 8
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 2
@@ -47,6 +47,7 @@ Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
 Kazakh – 6
+Komi – 1
 Korean – 1
 K'iche' – 4
 Ladino – 1
@@ -54,12 +55,12 @@ Lakota – 1
 Lao – 1
 Latin – 1
 Laz – 1
-Lithuanian – 6
+Lithuanian – 7
 Lushootseed – 1
 Malay – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 19
+Mandarin – 20
 Mandarin Sign Language – 1
 Māori – 1
 Middle English – 1
@@ -70,7 +71,7 @@ Norse – 1
 Ojibwe – 3
 Polish – 1
 Romanian – 1
-Russian – 15
+Russian – 19
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -91,7 +92,7 @@ Visayan – 1
 Welsh – 4
 Wu – 3
 Xhosa – 1
-Yakut – 4
+Yakut – 5
 Yiddish – 1
 Yoruba – 1
 
@@ -99,10 +100,10 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 35
-Dictionary – 67
+Dictionary – 73
 Grammar – 44
 Phrasebook – 19
-Study – 17
+Study – 18
 Verb list – 4
 
 ## Languages
@@ -212,6 +213,9 @@ Introduction to Modern Lithuanian
 
 The Lithuanian Language
 : Alfred Senn, The Lithuanian Cultural Institute, 1942. <tag>lithuanian→english</tag> <tag>study</tag>
+
+A Dictionary of the English and Lithuanian Languages, First Part: Lithuanian-English
+: Anthony Lalis, Lietuva, 1903. <tag>lithuanian→english</tag> <tag>dictionary</tag>
 
 A Dictionary of the English and Lithuanian Languages, Part Second: English-Lithuanian
 : Anthony Lalis, Lietuva, 1915. <tag>english→lithuanian</tag> <tag>dictionary</tag>
@@ -502,6 +506,15 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 Éléments de la Langue Géorgienne
 : Marie-Félicité Brosset, Paris, 1837. <tag>georgian→french</tag> <tag>grammar</tag>
 
+ქართულ-რუსული ლექსიკონი / Georgian-Russian Dictionary
+: დავით ჩუბინაშვილი, საბჭოთა საქართველო, 1984. <tag>georgian→russian</tag> <tag>dictionary</tag>
+
+ხელოვნების ლექსიკონი-მინიმუმი გერმანულ-რუსულ-ქართული / A Minimal Dictionary for the Arts
+: ელენა ცაგარეიშვილი. განათლება, 1969. <tag>georgian→russian</tag> <tag>georgian→german</tag> <tag>dictionary</tag>
+
+ვაჟა-ფშაველას მცირე ლექსიკონი / Vazha-Pshavela's Little Dictionary
+: ალექსი ჭინჭარაული, თბილისის უნივერსტეტის გამომცემლობა, 1969. <tag>georgian→georgian</tag> <tag>dictionary</tag>
+
 #### Svan
 
 Svan
@@ -762,6 +775,9 @@ Chinese Aspectual Particle Le: A Comprehenisve Guide
 HSK Strategies Grammar Handbook
 : 徐文娟 and 赵菁, 商务印书出版, 2007. <tag>mandarin→mandarin</tag> <tag>grammar</tag>
 
+The Chinese Unicorn: Notes from a Chinese Dictionary
+: Anthony Blond, Dông-Nam-A, 1957. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
 #### Wu
 
 牛康：上海话读本
@@ -934,6 +950,9 @@ Parlons Sakha
 Yakut Manual
 : John Krueger, Indiana University, 1962. <tag>yakut→english</tag> <tag>coursebook</tag>
 
+Центральная Группа Говоров Якутского Языка / Central Group of Dialects of the Yakut Language
+: С. А. Иванов, Наука, 1993. <tag>yakut→russian</tag> <tag>study</tag>
+
 ### Uralic
 
 #### Finnish
@@ -957,3 +976,8 @@ Hungarian Grammar
 
 Hungarian: An Essential Grammar
 : Carol H. Rounds, 2nd edition, Routledge, 2009. <tag>hungarian→english</tag> <tag>grammar</tag>
+
+#### Komi
+
+Коми-Пермяцко Русскӧй Словарь
+: Р. М. Баталова and А. С. Кривощекова-Гантман, Русский Яазык, 1985. <tag>komi→russian</tag> <tag>dictionary</tag>
