@@ -510,7 +510,7 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 : დავით ჩუბინაშვილი, საბჭოთა საქართველო, 1984. <tag>georgian→russian</tag> <tag>dictionary</tag>
 
 ხელოვნების ლექსიკონი-მინიმუმი გერმანულ-რუსულ-ქართული / A Minimal Dictionary for the Arts
-: ელენა ცაგარეიშვილი. განათლება, 1969. <tag>georgian→russian</tag> <tag>georgian→german</tag> <tag>dictionary</tag>
+: ელენა ცაგარეიშვილი, განათლება, 1969. <tag>georgian→russian</tag> <tag>georgian→german</tag> <tag>dictionary</tag>
 
 ვაჟა-ფშაველას მცირე ლექსიკონი / Vazha-Pshavela's Little Dictionary
 : ალექსი ჭინჭარაული, თბილისის უნივერსტეტის გამომცემლობა, 1969. <tag>georgian→georgian</tag> <tag>dictionary</tag>

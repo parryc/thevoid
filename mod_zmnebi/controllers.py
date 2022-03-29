@@ -95,11 +95,19 @@ def rss():
             ),
         },
         {
-            "title": "Unprefixed AOR form added",
+            "title": "Added unprefixed AOR form",
             "description": "Added information on how to use the unprefixed AOR form.",
             "link": f"{_url}#how-to-use-aor",
             "date": datetime(
                 2022, 2, 18, 15, 0, 0, tzinfo=timezone(-timedelta(hours=6))
+            ),
+        },
+        {
+            "title": "Added FAQ item on saying 'to go'",
+            "description": "Added information on when to use მი- versus წა- forms for saying 'to go'.",
+            "link": f"{_url}#how-to-use-aor",
+            "date": datetime(
+                2022, 3, 28, 7, 0, 0, tzinfo=timezone(-timedelta(hours=6))
             ),
         },
     ]

@@ -1548,6 +1548,20 @@ Usually when a resource says a form doesn't exist, it means that it doesn't have
 
 The imperative is the same form as [AOR](#2-aorist-aor). Check there for more information.
 
+## Which motion verb should be used for "to go"?
+
+There are two ways to translate the generic act of "going" into Georgian using the _წა-_ form and the _მი-_ form of motion verbs. Here are the two forms, in PRS, FUT, and AOR, for 1SG.
+
+&nbsp; | _წა-_ form| _მი- form_
+-------|---------|---------
+PRS    | ∅       | მივდივარ
+FUT    | წავალ   | მივალ
+AOR    | წავედი  | მივედი
+
+Generally speaking, the _წა-_ form is more common and should be the default, especially for the FUT screeve forms (FUT, COND, FUTSBJV) and AOR. It **cannot** be used in the PRS or related screeves, as the form simply does not exist.
+
+The _მი-_ form should be used when emphasizing the destination (<ex>_მივიდა სკოლაში_ ⧸ He went to the store</ex>), in the PRS screeve (PRS, IMPERF, PRSSBJV), or IMP (<ex>_მიდი მიდი მიდი!_ ⧸ go, go, go!</ex>).
+
 # Resources
 
 If you know of additional resources that contain good information on Georgian verbs which should be added, please let me know at `parry (ათ) parryc.com`. Any language is OK!
