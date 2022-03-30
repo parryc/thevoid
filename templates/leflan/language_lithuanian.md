@@ -316,7 +316,7 @@ Same as INF.
 
 ## Verbal Prefixes
 
-Verbal prefixes can have two different impacts on an unprefixed verb. First of all, there is often one prefix that is the neutral perfective marker (see below for examples). The other is to slightly change the meaning, for which the list of prefixes below give the most common meaning for the prefix. Dictionaries, especially those aimed at learners or foreigners, will list the perfective prefix for the verb, often under the unprefixed entry. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
+Verbal prefixes can have two different impacts on an unprefixed verb. First of all, there is often one prefix that is the neutral perfective marker (see below for examples). The other is to slightly change the meaning, for which the list of prefixes below give the most common meaning for the prefix. Some dictionaries, especially those aimed at learners or foreigners, may list the perfective prefix for the verb, often under the unprefixed entry or as an IMP form. If a verbal prefix is used on one verb in a sentence, most often, a prefix should be used on other verbs in the sentence.
 
 Compare for example, _Ryte aš atsikeliu_ and _Šiuo metu aš keliuosi_: the first, with a prefix means "In the morning, I wake up" - the action of waking up has a clear start and end in the context of the sentence. The second, without a prefix, is "Right now, I'm waking up" – the action of waking up has started, but has no clear ending in the context of the sentence.
 
@@ -347,7 +347,7 @@ There are four moods in Lithuanian:
 3. Imparative
 4. Oblique
 
-Both clauses tend to use the same mood. Ex. _jei_ SBJV, _tai_ SUBJ.
+Both clauses tend to use the same mood. Ex. _jei_ SBJV, _tai_ SBJV.
 
 ### Subjunctive (SBJV)
 
