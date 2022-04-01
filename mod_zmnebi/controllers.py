@@ -104,8 +104,8 @@ def rss():
         },
         {
             "title": "Added FAQ item on saying 'to go'",
-            "description": "Added information on when to use მი- versus წა- forms for saying 'to go'.",
-            "link": f"{_url}#how-to-use-aor",
+            "description": "Added information on when to use the two different forms for saying 'to go'.",
+            "link": f"{_url}#which-motion-verb-should-be-used-for-to-go",
             "date": datetime(
                 2022, 3, 28, 7, 0, 0, tzinfo=timezone(-timedelta(hours=6))
             ),

@@ -11,8 +11,9 @@ If you can't tell by now, I like languages, and I like listing things. So here's
 A count of languages used throughout the books, even if non-primary. For example, a K'iche' to Spanish dictionary will be listed below under K'iche', as it the primary language of the text, but also be counted here under Spanish. If a book contains multiple languages (ex. a 7 way dictionary), it will be listed once under "multiple languages"
 
 Abkhaz – 1
+Adyge – 1
 Alemmanic – 3
-Arabic – 2
+Arabic – 3
 Avar – 2
 Azeri – 4
 Bosnian-Croatian-Serbian (BCS) – 3
@@ -27,7 +28,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 157
+English – 158
 Finnish – 2
 French – 9
 Georgian – 18
@@ -100,7 +101,7 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 35
-Dictionary – 73
+Dictionary – 74
 Grammar – 44
 Phrasebook – 19
 Study – 18
@@ -643,6 +644,11 @@ Tsakhur
 
 აფხუზურ-ქართული/ქართული-აფხუზურ ლექსიკონი
 : თეიმურაზ გვანცელაძე, გამომცემლობა ინტელექტი, 2012. <tag>abkhaz→georgian</tag> <tag>georgian→abkhaz</tag> <tag>dictionary</tag>
+
+#### Adyge
+
+ГущэӀалъ Адыгэ-Арапыбз-Ӏинглизыбз / The Dictionary Circassian-Arabic-English
+: Bard Al-Din Ramadan Taher, Dar al-Hikma, 2007. <tag>adyge→english</tag> <tag>adyge→arabic</tag> <tag>dictionary</tag>
 
 #### Kabardian
 

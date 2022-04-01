@@ -23,7 +23,7 @@ lists of pictures, but no pictures of lists – yet.
 * [multilingual literature collection](multilingual-literature-collections)
 * [comics i have known and loved](comics-I-have-known-and-loved)
 * [a georgian word a day](georgian-word-a-day)
-* [lupin IIIrd](lupin)
+* [lupin the IIIrd](lupin)
 
 ### books i've read
 
