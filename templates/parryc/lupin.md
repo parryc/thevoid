@@ -1,4 +1,4 @@
-One day in December 2019 I decided to watch an episode of Lupin IIIrd, because, why not? I had heard the name and knew nothing about it, only that it was a "classic" anime and I was feeling nostalgic for the rare anime that showed up on Cartoon Network as a kid. 2 and a half years later, I've watched...well, every single piece of published Lupin IIIrd content I can find. It's been a lot of content, but I don't regret more than a few hours of it. 😁 If I'm missing something, let me know (I'm waiting for the Part VI blurays, rather than trying to stream it).
+One day in December 2019 I decided to watch an episode of Lupin IIIrd, because, why not? I had heard the name and knew nothing about it, only that it was a "classic" anime and I was feeling nostalgic for the rare anime that showed up on Cartoon Network as a kid. 2 and a half years later, I've watched...well, every single piece of published Lupin IIIrd content I can find. It's been a lot of content, but I don't regret more than a few hours of it. 😁 If I'm missing something, let me know.
 
 To help set the stage for the ratings below, I'm big on hijinks and not so hot on the violence. For the columns, I've given a ✅ if something was particularly good, ❌ if it was particularly bad, and nothing if it was neutral/uninteresting. In the "Other" column, I've added occasional additional ratings: the opening (usually what occurs before the title screen), the ending (usually the last third), fanservice (references to other Lupin movies or otherwise), and violence (generally blood or too much fighting).
 
@@ -8,8 +8,18 @@ The overall ratings are as below. 0.5s are mostly meant to help provide a bit mo
 * 4 - Very good, with some moments less than stellar
 * 3 - Fine, would watch again with others, but would not seek out
 * 2 - Meh, mostly mediocre, would probably not watch again
-* 1 - Bad, actively bad, would encourage people to not watch
+* 1 - Bad or uninteresting, would encourage people to not watch
 * 0 - There is no reason to watch this and I almost regret the time spent watching it
+
+Since they're spread out in the list below, here's my order for the animated series.
+
+* (5) Lupin III: Part 2
+* (5) Lupin III: Part V
+* (4) A Woman Called Fujiko Mine
+* (3.5) Lupin III: Part 3
+* (3.5) Lupin III: Part VI
+* (3) Lupin III: Part IV
+* (1) Lupin III: Part 1
 
 ----
 
@@ -625,6 +635,25 @@ The overall ratings are as below. 0.5s are mostly meant to help provide a bit mo
                 <td>❌ violence</td>
             </tr>
             <tr>
+                <td>Lupin III: Part VI</td>
+                <td>2021</td>
+                <td>TV Series</td>
+                <td>2022-04-15 to 2022-04-17</td>
+                <td>3.5</td>
+                <td>This one is a bit tricky – there were lots of parts I liked, but a number that I didn't. The animation style for characters was cool, with bold outlines on watercolor backgrounds, but the series was very static and the CGI was tragic. Plot wise, there was a lot of exposition, which was disappointing for such a normally high-octane series. The 2nd part was more interesting than the 1st, for what it's worth. Sadly, not a lot of Goemon or Zenigata. Binge watched while I was stuck inside with COVID. Good eps: 0, 3, 9, 10, 16.</td>
+                <td>Sub</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td></td>
+                <td>✅</td>
+                <td></td>
+                <td>✅/❌</td>
+                <td>❌</td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>The Fuma Conspiracy</td>
                 <td>1987</td>
                 <td>Film</td>
@@ -1144,25 +1173,6 @@ The overall ratings are as below. 0.5s are mostly meant to help provide a bit mo
                 <td>❌</td>
                 <td></td>
                 <td>✅ opening</td>
-            </tr>
-            <tr>
-                <td>Lupin III: Part VI</td>
-                <td>2021</td>
-                <td>TV Series</td>
-                <td></td>
-                <td>(not yet watched)</td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
-                <td></td>
             </tr>
             <tr>
                 <td>Lupin Shanshei (Lupin the Thiiiirrrd)</td>

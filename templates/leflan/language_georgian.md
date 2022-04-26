@@ -26,7 +26,7 @@ Number | NOM    | DAT   | ERG   | GEN   | INST   | ADV   | VOC
 1SG    | ჩემი   | ჩემს  |ჩემმა  |ჩემი   |ჩემი    |ჩემს   |ჩემო 
 2SG    | შენი   | შენს  |შენმა  |შენი   |შენი    |შენს   | 
 3SG    | მისი   | მის   |მისმა  |მისი   |მისმი   |მის    | 
-1PL    | ჩვენი  | ჩვენს |ჩვენმა |ჩვენი  |ჩენი    |ჩვენს  |ჩვენო
+1PL    | ჩვენი  | ჩვენს |ჩვენმა |ჩვენი  |ჩვენი    |ჩვენს  |ჩვენო
 2PL    | თქვენი | თქვენს|თქვენმა|თქვენი |თქვენი  |თქვენს | 
 3PL    | მათი   | მათს  |მათმა  |მათი   |მათი    |მათი   | 
 
@@ -36,8 +36,8 @@ VOC forms for 2nd person and 3rd person are rare or non-existant in regular spee
 
 &nbsp; | near | far
 -------|------|------
-sg     | ეს   | ის
-pl     | ესინი| ისინი
+SG     | ეს   | ის
+PL     | ესინი| ისინი
 
 <attn>ეგ is used when the object in question is in possession by the person being spoken to. Ex. `ეგ წიგნი:that book` implies the book is owned by the person being spoken to.</attn>
 
@@ -84,7 +84,7 @@ Prefixes are mostly used with verbs to indicate direction, but may appear elsewh
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
 
 ა
-: functions as the 3sg copula (and colloquially, as 3pl copula), meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3sg.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`. For the words ეს, ის, აქ, იქ, არ, სად, and ვინ, two აs at the end are used.<cite>[Kurtsikidze, p19](#kurtsikidze)</cite>
+: functions as the 3SG copula (and colloquially, as 3PL copula), meaning that "is" in a simple sentence like "She is a girl", "is" is attached to the noun. Using this example, rather than _ის არის გოგო_ (`არის:is.3SG.PRS`), instead one can say _ის გოგოა_. When attached to an adjective, it is equivalent to "it is", ex. `კარგია:it is good`. For the words ეს, ის, აქ, იქ, არ, სად, and ვინ, two აs at the end are used.<cite>[Kurtsikidze, p19](#kurtsikidze)</cite>
 
 ა
 : "the euphonic ა", it is attached to some words, such as `არ:negative marker`, in front of one syllable words. For example, <ex>არა ვარ ⧸ _I am not_</ex>.
@@ -147,7 +147,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : the same<cite>[Vogt §2.199](#vogt)</cite>, see also the section on cardinal numbers, below.
 
 ნი (root)
-: collective groups. Used with numbers, thus `ორნი:group of two`, `სამნი:group of three`. When used with a noun to further specify what it is a group of, both the number and the noun are suffixed with _ნი_ (`სამნი დანი:three sisters`). You may also see the forms `ბევრნი:a lot` (from _ბეფრი_) and `ცოტანი:few` (from _ცოტა_).<cite>[Kurtsikidze, p73](#kurtsikidze)</cite>
+: collective groups. Used with numbers, thus `ორნი:group of two`, `სამნი:group of three`. When used with a noun to further specify what it is a group of, both the number and the noun are suffixed with _ნი_ (`სამნი დანი:three sisters`). You may also see the forms `ბევრნი:a lot` (from _ბევრი_) and `ცოტანი:few` (from _ცოტა_).<cite>[Kurtsikidze, p73](#kurtsikidze)</cite>
 
 ავით (DAT)
 : like, or resembling. <ex>_მისავით ჭკვიანი ხარ_ ⧸ You're smart like him/her</ex>.
@@ -306,7 +306,7 @@ Who is this?
 რა საინტერესოა!
 How interesting!
 რომელი საათია?
-What time is it? // note the 3sg suffix `ა`
+What time is it? // note the 3SG suffix `ა`
 რომელ საათზე?
 At what time?
 რაში ექსპერტი?
@@ -615,7 +615,7 @@ That summer we were like true brothers. // Less common than the above version of
 
 ## Impersonal Sentences
 
-Use 3pl, for example, <ex>_ეს ხიდი ათი წლის წინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
+Use 3PL, for example, <ex>_ეს ხიდი ათი წლის წინ დაიწყეს_ ⧸ This bridge was built 10 years ago.</ex>
 
 ## Infinitives vs. Verbal Nouns
 

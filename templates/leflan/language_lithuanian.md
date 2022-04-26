@@ -122,18 +122,41 @@ Let's look at the word _peanut butter_ to illustrate this. A single peanut is li
 
 One may find the order reversed (but the meaning the same), when the 2nd noun is a quantity, such as in <ex>_stiklinė sulčių_ ⧸ a glass of juice</ex>.
 
+### Dimunitives/Hypercoristics
+
+Dimunitives are an important part of the Lithuanian language. They can:
+
+1. Add a sense of closeness to the subject or object
+2. Give an emotional resonance to the sentence
+3. Used ironically or sarcastically (such as asking `Kaip tavo atostogėlės?:How was your lil' trip?`, after a two month long holiday)
+4. Derive new terms (now often fossilized forms, for example, `žibintas:lamp` + _ėlis_ = `žibintuvėlis:flashlight`)
+
+To form the dimunitive form, one replaces the noun's ending with the dimunitive ending (those listed below are common ones, but it is not an exhaustive list). In many cases, it is the speaker's preference as to which diminutive form is used, though one may also be told that one form or the other sounds better. In this, as in many other cases, practice makes perfect.
+
+* _-as/-is_ (m.) – (i)ukas, elis, ėlis
+* _-is_ (f.) – aitė (also indicates an unmarried woman), aitis
+* _-a/-ė_ – elė, ytė, (i)utė
+* _-aitė_ – ė (indicates a woman's married status is unknown)
+
+Note that in some cases, the adjectives describing a hypercoristic will also take the diminutive endings (_mažiukas puodukas_, a little cup).
+
+--EX--
+Namai namučiai
+Home sweet home // Note that "home" (namučiai) has a different dimunitive that "house" (nameliai)
+--ENDEX--
+
 ### Professions
 
 +inikas/ė
-: = 者
+: = one who does (zh: 者)
 
 +tojas/a
-: = 者, derived from 3rd person present
+: = one who does (zh: 者), derived from 3rd person present
 : valgyti - valgytojas
 : mokyti - mokytojas
 
 +ėjas/a
-: = 者, derived from 3rd person past
+: = one who does (zh: 者), derived from 3rd person past
 : duoti - davo - davėjas
 
 # Numbers and Quantities
@@ -190,7 +213,7 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 
 Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount. For example, <ex>_Aš valgau obuolių_ ⧸ I ate some apples</ex> vs. <ex>_Aš valgau obuolį_ ⧸ I ate an apple</ex>. Note that this does not happen when the action (e.g. the verb) is the focus of the sentence, rather than the result (e.g. the object). In that case, the direct object will always be whatever the verb requires (most often ACC).
 
-Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition, or enjoyment, especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`.
+Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition (_-io-_ form), or enjoyment (_-inė-_ form), especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`. A verb will usually have one preferred form over the other 
 
 ## Infinitive (INF)
 
@@ -324,8 +347,9 @@ As a result, the subsequent verbs in sequential strings of verbs often have a pr
 
 For verbs that do not take a verbal prefix, it should be assumed that there is a different form that expresses continous action, e.g. `grįžti:to come back` and `grįžinėti:to be coming back`.
 
-_at_ - to come (future), e.g. *at*eiga, to come
+_at_ - coming (from there to here), e.g. *at*eiga, to come
 _į_ - outward prefix, e.g. *į*sakyti, to command
+_iš_ - leaving (from here to there)
 _ne_ - not/NEG marker. May cause PERF prefix (whichever it may be for a verb) to be dropped.
 _nebe_ - no longer
 _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
@@ -344,7 +368,7 @@ There are four moods in Lithuanian:
 
 1. Indicative
 2. Subjunctive
-3. Imparative
+3. Imperative
 4. Oblique
 
 Both clauses tend to use the same mood. Ex. _jei_ SBJV, _tai_ SBJV.
@@ -394,7 +418,7 @@ Formed by removing the _-ti_ from the infinitive.
 
 For 1PL and 2PL, the shorter forms are often used in speech, while the longer may be seen in written works.
 
-### Imparative (IMP)
+### Imperative (IMP)
 
 <attn>Excluding the verbal prefix (when applicable) is often considered rude, so make sure to include it!</attn>
 
@@ -481,7 +505,7 @@ Add endings to non-reflexive stem.
       2| -eisi   | -ės
       3| -si    | -si
 
-### Imparative (IMP)
+### Imperative (IMP)
 
 &nbsp; |SG   |PL
 -------|-----|------
@@ -498,7 +522,7 @@ See also [DBK, pg293](#DBK).
 * abipas - on both sides
 * anàpas - on the other side
 * anót - according to
-* añt - on; expressing feelings towards smth
+* añt - on; expressing feelings towards smth; exactly at a time (coll.)
 * àrti - close to
 * bè - without
 * daug - a lot of
@@ -525,7 +549,7 @@ V + už - take/grab už N.
 * į̇̃ - in (location/place); into (will often cause the verb to take the same prefix)
 * pas - to a person
 * per̃ - through; across; during; throughout; over (over the fence); for the duration of; via/on (for technology, e.g. via Skype, on TV)
-* põ - round about; through (through the fence); after (time wise)
+* põ - round about; through (through the fence); after (time wise); around (both physically in a circle and metaphorically, like "around the city")
 * prieš - opposite of, across from
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
 
@@ -933,6 +957,7 @@ Vyriškoji giminė
 *[PST]: Past/Preterite
 *[FUT]: Future
 *[INF]: Infinite
+*[IMP]: Imperative
 *[SBJV]: Subjunctive
 *[PSTFREQ]: Past Frequentative
 *[C]: Consonant

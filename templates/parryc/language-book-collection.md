@@ -28,7 +28,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 158
+English – 159
 Finnish – 2
 French – 9
 Georgian – 18
@@ -43,7 +43,7 @@ Ilongo – 1
 Inuktitut – 1
 Irish – 1
 Italian – 1
-Japanese – 10
+Japanese – 11
 Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
@@ -103,7 +103,7 @@ Bilingual Texts – 8
 Coursebook – 35
 Dictionary – 74
 Grammar – 44
-Phrasebook – 19
+Phrasebook – 20
 Study – 18
 Verb list – 4
 
@@ -463,6 +463,9 @@ Japanese for Sinologists
 
 日本語広東語辞典
 : 孔碧儀 and 施仲謀, 東方書店, 2001. <tag>japanse→cantonese</tag> <tag>dictionary</tag>
+
+Everyday Japanese Characters
+: Michael Pye, Kokuseido Press, 1977. <tag>japanse→english</tag> <tag>phrasebook</tag>
 
 ### Kartvelian 
 

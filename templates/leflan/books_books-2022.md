@@ -9,3 +9,8 @@
 * _Lithuanian Beer: A Rough Guide_ - Lars Marius Garshol
 * _The Last Bookseller_ - Gary Goodman
 * _The Lithuanian Language_ - Alfred Senn
+* _The Daily Life of Ku-poh the Novelist_ - In-hoon Choi
+* _Sleeping Murder_ - Agatha Christie
+* _The Social Life of Inkstones_ - Dorothy Ko
+* _The Art of Resistance: Painting by Candlelight in Mao's China_ - Shelley Drake Hawks
+* _A Profound Waste of Time: Volume 1_ - ed. Caspian Whistler
