@@ -72,29 +72,16 @@ There are a few patterns worth calling out, especially when getting started tryi
 _savo_ is used when the possessive pronoun is the same as the subject
 : Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
-### Nominative
-
-SG    | PL
-------|------
-aš    |mes
-tu    |jūs
-jis/ji|jie/jos
-
-### Genitive
-
-SG    | PL
-------|------
-mano  |mūsų
-tavo  |jūsų
-jo/jos|jų
-
-### Dative
-
-SG     | PL
--------|------
-man    |mums
-jau    |jums
-jam/jai|jiems/joms
+&nbps; | NOM | ACC | GEN | DAT | INS  | LOC  | POSS
+-------|-----|-----|-----|-----|------|------|------
+1SG    | aš  | mane|manęs| man |manimi|manyje| mano
+2SG    | tu  | tave|tavęs| tau |tavimi|tavyje| tavo
+3SG M  | jis | jį  |  jo | jam | juo  | jame | jo
+3SG F  | ji  | ją  | jos | jai | ja   | joje | jos
+1PL    | mes | mus | mūsų| mums| mumis|mumyse| mūsų
+2PL    | jūs | jus | jūsų| jums| jumis|jumyse| jūsų
+3PL M  | jie | juos| jų  |jiems| jais | juose| jų
+3PL F  | jos | jas | jų  | joms| jomis| jose | jų
 
 ## Definite Articles
 
@@ -175,7 +162,6 @@ Numbers above 10 are formed by adding the feminine ACC form of the tens place to
 
 Quantities are expressed by the quantity word + NOUN.GEN
 : indẽlis grietı̇̀nės, gabaĺiukas pı̇̀cos
-
 
 #### Nominative
 
@@ -530,6 +516,7 @@ See also [DBK, pg293](#DBK).
 * iki - to
 * įstižai - diagonal
 * iš - out of; from (a place); since (movement from in to out)
+* link - towards
 * mažai - a bit of
 * nuõ - from (a surface, outside of - no movement), paired with _iki_ for time expressions like "from... to..."
 * põ - after
@@ -538,6 +525,7 @@ See also [DBK, pg293](#DBK).
 * skersai̇̃ - across
 * tarp - between
 * vidury - in the middle of
+* vietoj - instead of
 
 V + už - take/grab už N.
 : Ji pàšmė manè ùž rañkos - _She took me by the hand_
@@ -550,7 +538,7 @@ V + už - take/grab už N.
 * pas - to a person
 * per̃ - through; across; during; throughout; over (over the fence); for the duration of; via/on (for technology, e.g. via Skype, on TV)
 * põ - round about; through (through the fence); after (time wise); around (both physically in a circle and metaphorically, like "around the city")
-* prieš - opposite of, across from
+* prieš - opposite of, across from, before
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
 
 ## Prepositions in INS
@@ -560,7 +548,7 @@ V + už - take/grab už N.
 
 # Adjectives
 
-Adjectives match noun's case, gender, and number.
+Adjectives match a noun's case, gender, and number.
 
 Use a neuter adjective for impersonal or state of being statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
 
@@ -571,13 +559,13 @@ Use a neuter adjective for impersonal or state of being statements. Neuter gende
 
 ## Declension
 
-sg.m | sg.f | pl.m | pl.f
+SG M | SG F | PL M | PL F
 -----|------|------|-------
 -as  | -a   | -i   | -os
 -us  | -i   | -ūs  | -ios
 -is  | -ė   | -iai | -ės
 
-ex. laimingas vyras, laiminga moteris, laimingi vaikiai, mergaitės. 
+ex. laimingas vyras, laiminga moteris, laimingi vaikiai, mergaitės.
 
 ## Formation
 
@@ -705,14 +693,14 @@ kelintas/kelinta
 : Used with ordinal numbers
 : Kiek dabar valandų? Antras valandų
 
-kiek - how much
+kiek - how much (GEN)
 : Always requires a quantity
 
 kieno - whose
 : Requires [GEN pronoun](#genitive)
 : Kieno sūnus yra tas berniukas?
 
-koks/kokie; kokia/kokios - how
+koks/kokie (m.); kokia/kokios (f.) - how
 : Expects an adjective
 : Koks yra tavo brolis? - Mano brolis yra linksmas
 
