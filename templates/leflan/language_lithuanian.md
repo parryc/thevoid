@@ -69,10 +69,7 @@ There are a few patterns worth calling out, especially when getting started tryi
 
 ## Pronouns
 
-_savo_ is used when the possessive pronoun is the same as the subject
-: Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
-
-&nbps; | NOM | ACC | GEN | DAT | INS  | LOC  | POSS
+&nbsp; | NOM | ACC | GEN | DAT | INS  | LOC  | POSS
 -------|-----|-----|-----|-----|------|------|------
 1SG    | aš  | mane|manęs| man |manimi|manyje| mano
 2SG    | tu  | tave|tavęs| tau |tavimi|tavyje| tavo
@@ -82,6 +79,9 @@ _savo_ is used when the possessive pronoun is the same as the subject
 2PL    | jūs | jus | jūsų| jums| jumis|jumyse| jūsų
 3PL M  | jie | juos| jų  |jiems| jais | juose| jų
 3PL F  | jos | jas | jų  | joms| jomis| jose | jų
+
+_savo_ is used when the possessive pronoun is the same as the subject
+: Pirmandienį, aš einu aplankau savo tevą - On Monday, I'm going to see my father
 
 ## Definite Articles
 

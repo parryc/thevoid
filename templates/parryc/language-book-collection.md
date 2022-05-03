@@ -31,7 +31,7 @@ Dutch – 9
 English – 159
 Finnish – 2
 French – 9
-Georgian – 18
+Georgian – 19
 German – 8
 Hawaiian – 1
 Halkomelem – 1
@@ -72,7 +72,7 @@ Norse – 1
 Ojibwe – 3
 Polish – 1
 Romanian – 1
-Russian – 19
+Russian – 20
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -518,6 +518,9 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 
 ვაჟა-ფშაველას მცირე ლექსიკონი / Vazha-Pshavela's Little Dictionary
 : ალექსი ჭინჭარაული, თბილისის უნივერსტეტის გამომცემლობა, 1969. <tag>georgian→georgian</tag> <tag>dictionary</tag>
+
+ქართულ-რუსული ლექსიკონი / Georgian-Russian Dictionary
+: დავით ჩუბინაშვილი, Тинографiя Императорской Академiн Наукъ, 1887. <tag>georgian→russian</tag> <tag>dictionary</tag>
 
 #### Svan
 
