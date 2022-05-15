@@ -381,7 +381,7 @@ This gives rise to natural English translations for some common verbs:
 
 *Should*: reikėti or turėti
 *Could*: galėti
-*Would*: any other verb in SBJV\
+*Would*: any other verb in SBJV
 
 --EX--
 Ar tu galėtum man atnešti stiklinę sulčių?
@@ -548,39 +548,178 @@ V + už - take/grab už N.
 
 # Adjectives
 
-Adjectives match a noun's case, gender, and number.
+<attn>Adjectives match a noun's case, gender, and number.</attn>
 
-Use a neuter adjective for impersonal or state of being statements. Neuter gender adjectives are the same as masculine gender adjectives, but drops the _S_. Accent stays in the same spot.
+For impersonal or state of being statements, use a neuter adjective. Neuter gender adjectives are the same as masculine gender adjectives, but drops the final _s_ (_geras_ → _gera_). Accent stays in the same spot.
 
 * Man yra gera - I feel good
 * Jam yra liūdna - He feels sad
 * Man yra linksma - I feel happy
 * Yra karšta lauke - It is hot outside
 
-## Declension
+## Declensions
 
-SG M | SG F | PL M | PL F
------|------|------|-------
--as  | -a   | -i   | -os
--us  | -i   | -ūs  | -ios
--is  | -ė   | -iai | -ės
+There are three declension paradigms for adjectives in Lithuanian. The 3rd declension, which is used to describe "made of"/"belonging to" (e.g. `medinis:made of wood, wooden`) has some unique properties, which are described further below.
 
-ex. laimingas vyras, laiminga moteris, laimingi vaikiai, mergaitės.
+At a glance, here are the nominative endings for the declensions.
 
-## Formation
+Declension|SG M | SG F | PL M | PL F
+----------|-----|------|------|-------
+1st       | -as | -a   | -i   | -os
+2nd       | -us | -i   | -ūs  | -ios
+3rd       | -is | -ė   | -iai | -ės
 
-Adjective ending | Adverbial ending
------------------|--------------------
-us               | iai
-as               | ai
-is               | no adverb
+### First Declension
 
-_is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
+For masculine nouns, use the _-as_ form and for feminine nouns, use the _-a_ form. Thus, laimingas vyras (SG M), laiminga moteris (SG F), laimingi vaikiai (PL M), laimingos mergaitės (PL F).
+
+ case   | -as | -a
+ -------|-----|-----
+ NOM.SG | -as | -a
+ GEN.SG | -o  | -os
+ DAT.SG | -am | -ai
+ ACC.SG | -ą  | -ą
+ INS.SG | -u  | -a
+ LOC.SG | -ame| -oje
+ VOC.SG | -as | -a
+ –––––––|–––––|–––––––
+ NOM.PL | -i  | -os
+ GEN.PL | -ų  | -ų
+ DAT.PL |-iems| -oms
+ ACC.PL | -us | -as
+ INS.PL | -ais| -omis
+ LOC.PL |-uose| -ose
+ VOC.PL | -i  | -os
+
+### Second Declension
+
+For masculine nouns, use the _-us_ form and for feminine nouns, use the _-i_ form. Thus, sunkus vyras (SG M), sunki moteris (SG F), sunkūs vaikiai (PL M), sunkios mergaitės (PL F).
+
+This declension is very similar to the 1st declension, but with the addition of the palatalizing _-i_ before most endings.
+
+ case   | -us | -i
+ -------|-----|-----
+ NOM.SG | -us | -i
+ GEN.SG | -aus| -ios
+ DAT.SG | -iam| -iai
+ ACC.SG | -ų  | -ią
+ INS.SG | -iu | -ia
+ LOC.SG |-iame| -ioje
+ VOC.SG | -us | -i
+ –––––––|–––––|–––––––
+ NOM.PL | -ūs | -ios 
+ GEN.PL | -ių | -ių   
+ DAT.PL |-iems| -ioms
+ ACC.PL | -ius| -ias
+ INS.PL |-iais| -iomis 
+ LOC.PL |-iuose| -iose
+ VOC.PL | -ūs | -ios 
+
+### Third Declension
+
+Adjectives in this declension mean "made of" or "belonging to". A common example is _medinis_, from `medis:wood`, thus "made of wood; wooden". Many random nouns can be made into a 3rd declension by adding _-inis_, such as `protas:brain` → `protinis:made of/belonging to the brain`.
+
+For masculine nouns, use the _-is_ form and for feminine nouns, use the _-ė_ form. Thus, medinis vyras (SG M), medinė moteris (SG F), mediniai vaikiai (PL M), medinės mergaitės (PL F).
+
+Third declension adjectives differ from 1st and 2nd declensions in a few ways:
+
+* cannot form adverbs
+* non-comparable (e.g. no "more wooden")
+* cannot form pronominal adjectives
+* there is no neuter gender form
+
+Note that a number of 3rd declension adjectives also are the same as nouns, ex. _stiklinė_ means both "made of glass, SG F" and "a glass".
+
+ case   | -is | -ė
+ -------|-----|-----
+ NOM.SG | -is | -ė
+ GEN.SG | -io | -ės
+ DAT.SG | -iam| -ei
+ ACC.SG | -į  | -ę
+ INS.SG | -iu | -e
+ LOC.SG |-iame| -ėje
+ VOC.SG | -is | -ė
+ –––––––|–––––|–––––––
+ NOM.PL | -iai| -ės
+ GEN.PL | -ių | -ių
+ DAT.PL |-iams| -ėms
+ ACC.PL | -ius| -es
+ INS.PL |-iais| -ėmis
+ LOC.PL |-iuose| -ėse
+ VOC.PL | -iai| -ės
 
 ## Comparison
 
-Comparative ends in _-iau_, superlative ends in _-iausia_
-: gera > geriau > geriausia
+All adjectives form comparative and superlative forms regularly.
+
+**Comparitive degree (more)**
+
+Drop ending, add suffix _-esn_, and then _-is_ for masculine adjectives and _-ė_ for feminine adjectives. Masculine: `geras:good` → `geresnis:better`, feminine: `gera:good` → `geresnė:better`.
+
+To say something is "more X (adj.) than Y (noun)", there are three forms:
+
+* X už Y (ACC)
+* X nei Y (NOM)
+* X negu Y (NOM)
+
+The _nei_ form is used with shorter words than _negu_, though there isn't a strict cut off for what is considered "short".
+
+**Superlative degree (most)**
+
+Drop ending, add suffix _-iaus_, and then _-ias_ for masculine adjectives and _-ia_ for feminine adjectives. Masculine: `geras:good` → `geriausias:best`, feminine: `gera:good` → `geriausia:best`.
+
+## Pronominal Adjectives
+
+Pronominal (sometimes just "nominal") adjectives serve two functions: they can act as a way of emphasizing the adjective (ex. the _red_ one) or standing in place of the noun in its entirety (ex. the _red one_). In English, this distinction is not entirely clear, but as seen in the preceding examples, mostly corresponds with the use of "the" before an adjective+noun pair.
+
+As with normal adjectives, pronominal adjectives also match in case, gender, and number. The declensions for pronominal adjectives are based on the adjectival declension. That is, a first declension adjective follows the first declension list below. Third declension adjectives cannot form pronominal adjectives.
+
+--EX--
+Baltoji Drobulė
+The White Shroud // by Škėma
+--ENDEX--
+
+### First Declension
+
+ case   | -asis | -oji
+ -------|-------|-----
+ NOM.SG | -asis | -oji
+ GEN.SG | -ojo  | -osios
+ DAT.SG | -ajam | -ajai
+ ACC.SG | -ąjį  | -ąją
+ INS.SG | -uoju | -ąja
+ LOC.SG | -ajame| -ojoje
+ VOC.SG | -asis | -oji
+ –––––––|–––––––|–––––––
+ NOM.PL | -ieji | -osios
+ GEN.PL | -ųjų  | -ųjų
+ DAT.PL |-iesiems | -osioms
+ ACC.PL | -uosius | -ąsias
+ INS.PL | -aisiais| -osiomis
+ LOC.PL |-uosiuose| -osiose
+ VOC.PL | -ieji | -osios
+
+### Second Declension
+
+Similar to normal adjectives, the 2nd declension often has an _-i-_ at the beginning of the suffix.
+
+ case   | -usis | -ioji
+ -------|-------|-----
+ NOM.SG | -usis | -ioji
+ GEN.SG | -iojo | -iosios
+ DAT.SG | -iajam| -iajai
+ ACC.SG | -ųjį  | -iąją
+ INS.SG | -iuoju| -iąja
+ LOC.SG |-iajame| -iojoje
+ VOC.SG | -usis | -ioji
+ –––––––|–––––––|–––––––
+ NOM.PL | -ieji | -iosios
+ GEN.PL | -iųjų | -iųjų
+ DAT.PL |-iesiems| -iosioms
+ ACC.PL |-iuosius| -iąsias
+ INS.PL |-iaisiais| -iosiomis
+ LOC.PL |-iuosiuose| -iosiose
+ VOC.PL | -ieji | -iosios
 
 # Adverbs
 
@@ -596,7 +735,17 @@ Comparative ends in _-iau_, superlative ends in _-iausia_
 ## Comparison
 
 Comparative ends in _-iau_, superlative ends in _-iausia_
-: gerai > geriau > geriausiai
+: gerai > geriau > geriausia
+
+## Formation
+
+Adjective ending | Adverbial ending
+-----------------|--------------------
+-as              | -ai
+-us              | -iai
+-is              | no adverb
+
+_-is_ does not form an adverb because it was dervied from a noun originally. For example _medinis_ (wooden) – the adjectival form that is productive is _mediniškas_, which becomes _mediniškiai_.
 
 ## Of Motion
 

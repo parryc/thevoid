@@ -14,3 +14,5 @@
 * _The Social Life of Inkstones_ - Dorothy Ko
 * _The Art of Resistance: Painting by Candlelight in Mao's China_ - Shelley Drake Hawks
 * _A Profound Waste of Time: Volume 1_ - ed. Caspian Whistler
+* _The 7 1/2 Deaths of Evelyn Hardcastle_ - Stuart Turton
+* _A Profound Waste of Time: Volume 2_ - ed. Caspian Whistler
