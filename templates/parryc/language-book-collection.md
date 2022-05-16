@@ -30,8 +30,8 @@ Danish – 3
 Dutch – 9
 English – 159
 Finnish – 2
-French – 9
-Georgian – 19
+French – 10
+Georgian – 20
 German – 8
 Hawaiian – 1
 Halkomelem – 1
@@ -72,7 +72,7 @@ Norse – 1
 Ojibwe – 3
 Polish – 1
 Romanian – 1
-Russian – 20
+Russian – 21
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -101,7 +101,7 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 35
-Dictionary – 74
+Dictionary – 75
 Grammar – 44
 Phrasebook – 20
 Study – 18
@@ -521,6 +521,9 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 
 ქართულ-რუსული ლექსიკონი / Georgian-Russian Dictionary
 : დავით ჩუბინაშვილი, Тинографiя Императорской Академiн Наукъ, 1887. <tag>georgian→russian</tag> <tag>dictionary</tag>
+
+ქართულ-რუსულ-ჶრანციცული ლექსიკონი
+: დავით ჩუბინაშვილი, Тинографiя Императорской Академiн Наукъ, 1840. <tag>georgian→russian</tag> <tag>georgian→french</tag> <tag>dictionary</tag>
 
 #### Svan
 

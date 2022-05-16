@@ -670,7 +670,7 @@ Drop ending, add suffix _-iaus_, and then _-ias_ for masculine adjectives and _-
 
 ## Pronominal Adjectives
 
-Pronominal (sometimes just "nominal") adjectives serve two functions: they can act as a way of emphasizing the adjective (ex. the _red_ one) or standing in place of the noun in its entirety (ex. the _red one_). In English, this distinction is not entirely clear, but as seen in the preceding examples, mostly corresponds with the use of "the" before an adjective+noun pair.
+Pronominal (also known as "definite" or "norminal") adjectives serve two functions: they can act as a way of emphasizing the adjective (ex. the _red_ one) or standing in place of the noun in its entirety (ex. the _red one_). In English, this distinction is not entirely clear, but as seen in the preceding examples, mostly corresponds with the use of "the" before an adjective+noun pair.
 
 As with normal adjectives, pronominal adjectives also match in case, gender, and number. The declensions for pronominal adjectives are based on the adjectival declension. That is, a first declension adjective follows the first declension list below. Third declension adjectives cannot form pronominal adjectives.
 
