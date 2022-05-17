@@ -122,7 +122,7 @@ An example, with `აკეთებს:does` in PRS:
       2|გ+_stem_+ა/ს     |გ+_stem_+თ
       3|(ს/ჰ)+_stem_+ა/ს |(ს/ჰ)+_stem_+თ
 
-The SG forms or 1PL will have one of two endings: _-ა_ or _-ს_. There is not a set rule as to which types of verbs have _-ა_ and which have _-ს_, but generally, those with _-ს_ have an implied object, such as `მაქვს:I have (it)`, whereas those with _-ა_ do not (`მშია:I am hungry`). It is this ending that is replaced in 2PL and 3PL.
+The SG forms and 1PL will have one of two endings: _-ა_ or _-ს_. There is not a set rule as to which types of verbs have _-ა_ and which have _-ს_, but generally, those with _-ს_ have an implied object, such as `მაქვს:I have (it)`, whereas those with _-ა_ do not (`მშია:I am hungry`). It is this ending that is replaced in 2PL and 3PL.
 
 In 3SG and 3PL, one may find an _ს_ or _ჰ_ pre-stem person marker, such as in `მოსწონს:s/he likes` or `ჰქვია:s/he is called`. CGED has these marked as superscripts which do not disrupt the alphabetical ordering of the dictionary, but should be learned when memorizing the verb, since they are written in the tenses in the 1st series (as described below). In fast or casual speech, the _ს_ and _ჰ_ are dropped by some speakers.
 
@@ -154,6 +154,22 @@ It is clear for when both of the მ/ვ-class markers are used, such as in exam
 2. The object cannot be the same as the subject, meaning `გ-ხედავ` cannot be "you saw yourself". Reflexiveness is indicated in other ways, such as with `თავი:head` or the _ი_ version (see below).
 
 Therefore, the strangely ambiguous `გ-ხედავ` would be analyzed as _I see you_, because of the two principals above: there is no overt subject marker (so it can be either 1SG – before-root person marker and thus obfuscated by the object – or 2SG, which is ∅) and the subject and object can never match. Thus, the subject must be 1SG.
+
+In addition to all of this, many მ-class verbs that can logically take a 1st or 2nd person object (such as "I love you", "We desire y'all", etc.) may also mark the object of the verb with [the PRS "to be" form](#how-to-form-prs) for the person which is the object (1SG = ვარ, 2SG = ხარ, etc.). For example, in "I love you", "I" is the subject and "you" is the object. This gives:
+
+{მიყვარხარ<br/>_I love you_}
+_მ_|_ი_|_ყვარ_|_ხარ_
+1SG (SUBJ)|version|root "love"|2SG (OBJ)
+{/}
+
+Or in the case where the subject would be marked by _ს/ჰ-_ (i.e. 3rd person), then these prefixed person markers will be replaced by the ვ-class marker if the object is 1SG or 1PL.
+
+{მოვწონვარ<br/>_She likes me_}
+_მო_|_ვ_|_წონ_|_ვარ_
+preverb|1SG (OBJ)|root "like"|1SG (OBJ)
+{/}
+
+One will still often find the pronoun for the object in the sentence. Thus, <ex>_მე შენ მიყვარხარ_ ⧸ I love you</ex>. This form of marking the object _does not_ occur outside of PRS. In the case where the affixed verb form would have two ვs (such as `გყავვარ:you have me`), only one ვ is written (_გყავარ_). Verbs that commonly have this form are those which express interpersonal emotions: `უყვარს:loves`, `სძულს:hates`, `უნდება:desires`, or `მოსწონს:likes`. However, in theory, any მ-class verb could take this form, if contextually relevant.
 
 ## Version
 

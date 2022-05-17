@@ -1,6 +1,11 @@
 {
   "bounties": [
     {
+      "location": "Supra, Washington, D.C.",
+      "country": "USA",
+      "posted": "2022-05"
+    },
+    {
       "location": "Tamari, San Carlos, CA",
       "country": "USA",
       "posted": "2022-03"

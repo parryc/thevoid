@@ -9,7 +9,7 @@ adjaruli (ადჯარული)
 : shaped like a boat with a raw egg and butter on top
 
 megruli (მეგრული)
-: similar to imeruli, but if you can believe it, _more cheese_
+: similar to imeruli, but if you can believe it, _more cheese_. based on its name, one can presume it originated or was popular in mingrelia.
 
 achma (აჩმა)
 : "has multiple layers and looks more like a sauceless lasagna" (from wikipedia)
@@ -38,8 +38,15 @@ khachapuri shampurze (ხაჭაპური შამფურზე)
 chakhrakina (ჭახრაკინა)
 : similar to _mkhlovana_, most often found in the broader Kartli region (ქართლი). may be in an imeruli or adjaruli shape. also spelled chakhrakini (ჭახრაკინი).
 
-khachapuri burger
-: it's khachapuri... but a burger. found only at Patsatina in Almaty, Kazakhstan.
+khachapuri burger (ხაჭაპური ბურგერი)
+: it's khachapuri... but a burger. found only at Patsatsina in Almaty, Kazakhstan.
+
+pkhlovani (ფხლოვანი)
+: contains spinach. depending on where the spinach is it could be like an imeruli (if inside) or megruli (if outside).
+
+sokos (სოკოს)
+: contains mushrooms. depending on where the mushrooms are it could be like an imeruli (if inside) or megruli (if outside).
+
 
 ## sources
 

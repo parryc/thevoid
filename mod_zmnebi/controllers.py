@@ -110,6 +110,14 @@ def rss():
                 2022, 3, 28, 7, 0, 0, tzinfo=timezone(-timedelta(hours=6))
             ),
         },
+        {
+            "title": "Added additional m-class person marker information",
+            "description": "Added information regarding m-class verb forms which take the PRS 'to be' conjugation as the object marker.",
+            "link": f"{_url}#person-markers",
+            "date": datetime(
+                2022, 5, 16, 21, 0, 0, tzinfo=timezone(-timedelta(hours=6))
+            ),
+        },
     ]
 
     for update in updates:
