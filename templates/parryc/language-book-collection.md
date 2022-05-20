@@ -31,7 +31,7 @@ Dutch – 9
 English – 159
 Finnish – 2
 French – 10
-Georgian – 20
+Georgian – 21
 German – 8
 Hawaiian – 1
 Halkomelem – 1
@@ -72,7 +72,7 @@ Norse – 1
 Ojibwe – 3
 Polish – 1
 Romanian – 1
-Russian – 21
+Russian – 22
 Salar – 1
 Scots – 5
 Scottish Gaelic – 4
@@ -101,7 +101,7 @@ Yoruba – 1
 
 Bilingual Texts – 8
 Coursebook – 35
-Dictionary – 75
+Dictionary – 76
 Grammar – 44
 Phrasebook – 20
 Study – 18
@@ -864,6 +864,9 @@ Russian for Reading
 
 Russian-English English-Russian Dictionary
 : M. A. O'brien, Reprint, Dover, 1954. <tag>russian→english</tag> <tag>english→russian</tag> <tag>dictionary</tag>
+
+Русско-Грузинскiй Словарь
+: Давид Чубинов, Тинографiя Императорской Академiн Наукъ, 1846. <tag>russian→georgian</tag> <tag>georgian→french</tag> <tag>dictionary</tag>
 
 ### Kra-Dai
 

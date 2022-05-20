@@ -1,5 +1,16 @@
 {  "reviews": [
     {
+      "location": "Supra, Washington, D.C.",
+      "country": "USA",
+      "price": 3,
+      "taste": 4,
+      "type": "sokos",
+      "date": "2022-05",
+      "rated_by": "vk",
+      "note": "",
+      "img": "khachapuri_supra.jpg"
+    },
+    {
       "location": "Chama Mama, New York City",
       "country": "USA",
       "price": 3,
