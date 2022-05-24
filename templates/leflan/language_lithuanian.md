@@ -12,10 +12,10 @@ NOM
 : This is the default case and marks the subject of the sentence. When learning Lithuanian, it's important to learn the gender of the noun, as the case endings for NOM are not gender specific (cf. _-is_).
 
 GEN
-: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language). When used for posession, the possessor is in GEN, the possessed in NOM. For example, Jonas' book (`Jonas:Jonas` `knyga:book`) becomes _Jono knyga_. In casual speech, some words that are not normally declined, such as `rytoj:tomorrow`, may find themselves with GEN endings. For example, <ex>_Perskaitykit šią knygą iki rytojaus_ ⧸ Read this book for tomorrow</ex>.
+: Used for possession and is seen in compound nouns. Some verbs will mark the object in GEN, rather than ACC. In positive sentences, it indicates "some of" (the partitive) something, rather than all of it. Some things, such as languages, are almost always in the GEN since one can only ever do something to some amount of the object (e.g. one can only learn some of a language). When used for posession, the possessor is in GEN, the possessed in NOM. For example, Jonas' book (`Jonas:Jonas` `knyga:book`) becomes _Jono knyga_. In casual speech, some words that are not normally declined, such as `rytoj:tomorrow`, may find themselves with GEN endings. For example, <ex>_Perskaitykit šią knygą iki rytojaus_ ⧸ Read this book for tomorrow</ex>. Wishes are always expressed in GEN (<ex>_Gero vakaro_ ⧸ Good night</ex>).
 
 DAT
-: Often translated as "for". It may also mark the indirect object of a sentence.
+: Often translated as "for". It may also mark the indirect object of a sentence. Colloquially, 2SG/2PL pronouns are dropped for DAT verbs.
 
 ACC
 : Often marks the object of the sentence.
@@ -341,7 +341,7 @@ _nebe_ - no longer
 _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
 _per_ - across (for verbs of movement)
 _pra_ - past (pratetis)
-_pri_ - a lot; worked a lot at
+_pri_ - a lot; worked a lot at; excessively (often negative)
 _pro_ - through (for verbs of movement)
 _pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
 _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
@@ -849,18 +849,9 @@ kieno - whose
 : Requires [GEN pronoun](#genitive)
 : Kieno sūnus yra tas berniukas?
 
-koks/kokie (m.); kokia/kokios (f.) - how
-: Expects an adjective
-: Koks yra tavo brolis? - Mano brolis yra linksmas
-
 ko - of what
 : Requires GEN
 : Also used when asking a negative question - _Ko nėra...?_
-
-kok - which
-: When _kok_ is paired with a noun, it acts like an adjective, matching the noun in case, gender, and number
-: Kokiomis kalbomis tu kalbi? - Which languages do you speak?
-: kalbomis is in INS
 
 kur - where
 : Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
@@ -872,6 +863,61 @@ kodel - why
 
 o - emphatic question particle
 : O koks tavo vardas? - What is your name?
+
+## Kas and Its Cases
+
+`kas:what` declines based on its location in the sentence. Knowing the form of _kas_ also will let the speaker know in most cases what the case of the response should be. The declined forms are as follows, with additional notes as to their usage underneath.
+
+**kas / NOM**
+
+Often used with DAT verbs (<ex>_Kas tau labiausiai patinka Paryžiuje?_ ⧸ What do you like the most in Paris?</ex>) or the colloquial expression _Kas čia per x?_ (what is this _x_?)
+
+**ko / GEN**
+
+Used with negative questions and verbs taking GEN objects (`norėti:to want`, `ieškoti:to look at`, etc.). May also be an abbreviated form of `kodėl:why`.
+
+**kam / DAT**
+
+May also be an abbreviated form of `kodėl:why`.
+
+**ką / ACC**
+
+**kuo / INS**
+
+Also used with verbs that take INS (`tikėti:to believe`, `groti:to play an instrument`, etc.)
+
+## Koks/kokia
+
+_Koks_ functions much like a question. Or perhaps it is better to say, given its normal translations of "what, what kind of", it is likely to be conflated with a question to English learners, since "what, what kind of" would all be described as question words. Textbooks etc. will mark it as a pronoun, but I don't know if that formal distinction actually helps.
+
+To me, _koks_ and its declensions are best thought of as meaning "what kind of" and thus pair with a noun when used in questions. Note that while in English the question of "what kind of" almost always expects an adjective as a response, Lithuanian will often expect a noun.
+
+ case   | -s  | -ia
+ -------|-----|-----
+ NOM.SG | -s  | -ia
+ GEN.SG | -io | -ios
+ DAT.SG | -iam| -iai
+ ACC.SG | -į  | -ią
+ INS.SG | -iu | -ia
+ LOC.SG |-iame| -ioje
+ VOC.SG | -s  | -ia
+ –––––––|–––––|–––––––
+ NOM.PL | -ie | -ios
+ GEN.PL | -ių | -ių
+ DAT.PL |-iems| -ioms
+ ACC.PL | -ius| -ias
+ INS.PL | -ais| -iomis
+ LOC.PL |-iuose| -iose
+ VOC.PL | -ie | -ios
+
+--EX--
+Kokio obuolio nori? Raudonojo.
+What kind of apple do you want? The red one.
+Kokių sulčių tu negeri? Braškių.
+What kind of juice don't you drink? Strawberry.
+Kokiai progai tu nupirkai šį tortą? Gimtadieniui.
+For what occasion did you buy this cake? For a birthday.
+--END--
 
 # Conjunctions
 
