@@ -831,35 +831,36 @@ kóvas    | biržẽlis  | rugsėjis  | grúodis
 
 # Questions
 
-Questions without question words must start with _Ar_
-: Ar tu gyveni Berkelyje?
+There are four main categories of question words in Lithuanian:
+
+1. Yes-No Questions
+2. Non-Declinable Question Words
+3. Declinable Question Words
+4. Case-Based Question Words
+
+The first section below contains "Yes-No Questions" and "Non-Declinable Question Words", as they are easily listed. Each "Declinable Question Word" has its own section, as do the "Case-Based Question Words".
+
+Generally speaking, the question word, regardless of what type it is, will come first in the question.
+
+**Yes-No Questions (_ar_/_gal_)**
+
+Questions without question words (aka Yes-No questions) must start with _ar_ or _gal_. _Ar_ is for simple yes-no questions:
+ <ex>_Ar tu gyveni Berkelyje?_ ⧸ Do you live in Berkeley?</ex> Whereas `gal:maybe` gives a sense of both a sense of being unsure of the response and moderate politeness (akin to starting a question in English with _perhaps_): <ex>_Gal turi ugnies?_ ⧸ Perhaps you've got a light (for a cigarette)?</ex>
+
+**Non-declinable Question Words**
 
 kaip - how
 : Expects adverbial response
-: Kaip žmones kalba...? - Žmones kalba angliškai
-
-kelintas/kelinta
-: Used with ordinal numbers
-: Kiek dabar valandų? Antras valandų
+: May be better translated as "what", where Lithuanian responds with an adverb, where as in English, one would not: <ex>_Kaip žmones kalba? - Žmones kalba angliškai_ ⧸ What do the people speak? - They speak in English.</ex>
 
 kiek - how much (GEN)
-: Always requires a quantity
+: <ex>_Kiek paukščių tu matai? - _Keturis_ ⧸ How many birds did you see? - Four.</ex>
 
-kieno - whose
-: Requires [GEN pronoun](#genitive)
-: Kieno sūnus yra tas berniukas?
+kieno - whose (GEN)
+: <ex>_Kieno sūnus yra tas berniukas?_ ⧸ Whose son is that boy?</ex>
 
-ko - of what
-: Requires GEN
-: Also used when asking a negative question - _Ko nėra...?_
-
-kur - where
-: Unless a preposition is used, the question word is first: _Iš kur tu esi..._?
-
-kurie - which
-
-kodel - why
-: kadagi - because
+kodėl - why
+: May jokingly be responded with `todėl:just because`.
 
 o - emphatic question particle
 : O koks tavo vardas? - What is your name?
@@ -870,7 +871,7 @@ o - emphatic question particle
 
 **kas / NOM**
 
-Often used with DAT verbs (<ex>_Kas tau labiausiai patinka Paryžiuje?_ ⧸ What do you like the most in Paris?</ex>) or the colloquial expression _Kas čia per x?_ (what is this _x_?)
+Often used with DAT verbs (<ex>_Kas tau labiausiai patinka Paryžiuje?_ ⧸ What do you like the most in Paris?</ex>) or the colloquial expression _Kas čia per x?_ (what is this _x_?).
 
 **ko / GEN**
 
@@ -886,7 +887,13 @@ May also be an abbreviated form of `kodėl:why`.
 
 Also used with verbs that take INS (`tikėti:to believe`, `groti:to play an instrument`, etc.)
 
-## Koks/kokia
+**kur / LOC**
+
+When used with a preposition, _kur_ may not come first in the sentence: <ex>_Iš kur tu esi_? ⧸ Where are you from?</ex>
+
+## Declinable Question Words
+
+### Koks/kokia
 
 _Koks_ functions much like a question. Or perhaps it is better to say, given its normal translations of "what, what kind of", it is likely to be conflated with a question to English learners, since "what, what kind of" would all be described as question words. Textbooks etc. will mark it as a pronoun, but I don't know if that formal distinction actually helps.
 
@@ -918,6 +925,62 @@ What kind of juice don't you drink? Strawberry.
 Kokiai progai tu nupirkai šį tortą? Gimtadieniui.
 For what occasion did you buy this cake? For a birthday.
 --END--
+
+### Kuris/kuri (which one)
+
+ case   | -is | -i
+ -------|-----|-----
+ NOM.SG | -is | -i
+ GEN.SG | -io | -ios
+ DAT.SG | -iam| -iai
+ ACC.SG | -į  | -ią
+ INS.SG | -iuo| -ia
+ LOC.SG |-iame| -ioje
+ VOC.SG | -is | -i
+ –––––––|–––––|–––––––
+ NOM.PL | -ie | -ios
+ GEN.PL | -ių | -ių
+ DAT.PL |-iems| -ioms
+ ACC.PL |-iuos| -ias
+ INS.PL |-iais| -iomis
+ LOC.PL |-iuose| -iose
+ VOC.PL | -ie | -i
+
+--EX--
+Kuri tavo kepuraitė? - Juoda, aš esu juodkepuraitis.
+Which is your cap? - Black, I am Little Black Riding Hood.
+Kuriomis pasakomis tiki? - Pasaka!
+In which fairytales do you believe? - All of them!
+--ENDEX--
+
+### Kelintas/kelinta (at which)
+
+"At which" is kind of a clunky translation. This question asks at which point someone is in a list or row of numbers. That is, the situation must be enumeratable.
+
+For example, in <ex>_Kelintas tu eilėje?_ ⧸ What place are you in line?</ex>, the line is enumeratable – there is a 1st, 2nd, 3rd, etc. place in line – and the answer expects which of those places you are (e.g. `dešimtas:10th`).
+
+ case   | -as | -a
+ -------|-----|-----
+ NOM.SG | -as | -a
+ GEN.SG | -o  | -os
+ DAT.SG | -am | -ai
+ ACC.SG | -ą  | -ą
+ INS.SG | -u  | -a
+ LOC.SG | -ame| -oje
+ VOC.SG | -as | -a
+ –––––––|–––––|–––––––
+ NOM.PL | -i  | -os
+ GEN.PL | -ų  | -ų
+ DAT.PL |-iems| -oms
+ ACC.PL |  -us| -as
+ INS.PL | -ais| -omis
+ LOC.PL |-uose| -ose
+ VOC.PL | -ie | -os
+
+--EX--
+Kelintą valandą prasideda koncertas? - Penktą.
+What time does the concert start? - At five.
+--ENDEX--
 
 # Conjunctions
 
