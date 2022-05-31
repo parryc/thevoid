@@ -521,7 +521,7 @@ See also [DBK, pg293](#DBK).
 * nuõ - from (a surface, outside of - no movement), paired with _iki_ for time expressions like "from... to..."
 * põ - after
 * prie - next to
-    * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vanenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
+    * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vandenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
 * skersai̇̃ - across
 * tarp - between
 * vidury - in the middle of
@@ -856,7 +856,7 @@ kaip - how
 kiek - how much (GEN)
 : <ex>_Kiek paukščių tu matai? - _Keturis_ ⧸ How many birds did you see? - Four.</ex>
 
-kieno - whose (GEN)
+kieno - whose
 : <ex>_Kieno sūnus yra tas berniukas?_ ⧸ Whose son is that boy?</ex>
 
 kodėl - why
