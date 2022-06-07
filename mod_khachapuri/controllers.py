@@ -108,7 +108,9 @@ def bounties(filter_type, filter_value):
     bounties = json.loads(input_file.read())["bounties"]
 
     unique_countries = set([b["country"] for b in bounties])
-    open_bounties = [b for b in bounties if not b.get("fulfilled")]
+    open_bounties = [
+        b for b in bounties if not b.get("fulfilled") and not b.get("closed")
+    ]
     fulfilled_bounties = [b for b in bounties if b.get("fulfilled")]
     if filter_type:
         open_bounties = [

@@ -276,7 +276,8 @@
     {
       "location": "Tasty Dug-Out, Washington, D.C.",
       "country": "USA",
-      "posted": "2019-08"
+      "posted": "2019-08",
+      "closed": true
     },
     {
       "location": "Argo Bakery, Chicago",

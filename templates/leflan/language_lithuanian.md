@@ -515,10 +515,10 @@ See also [DBK, pg293](#DBK).
 * dėl - due to
 * iki - to
 * įstižai - diagonal
-* iš - out of; from (a place); since (movement from in to out)
+* iš - out of; from (a place – see _nuo_); since (movement from in to out)
 * link - towards
 * mažai - a bit of
-* nuõ - from (a surface, outside of - no movement), paired with _iki_ for time expressions like "from... to..."
+* nuõ - from (a surface, outside of - no movement), paired with _iki_ for time or list-like expressions like "from... to..."
 * põ - after
 * prie - next to
     * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vandenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
@@ -556,6 +556,8 @@ For impersonal or state of being statements, use a neuter adjective. Neuter gend
 * Jam yra liūdna - He feels sad
 * Man yra linksma - I feel happy
 * Yra karšta lauke - It is hot outside
+
+Note that colors are used by themselves (e.g. not modifying anything like the phrase "_black and white_"), they are always feminine, thus _juoda ir balta_.
 
 ## Declensions
 
@@ -849,6 +851,9 @@ Questions without question words (aka Yes-No questions) must start with _ar_ or 
 
 **Non-declinable Question Words**
 
+kada - when
+: <ex>_Kada tu gimei?_ ⧸ When were you born?</ex>
+
 kaip - how
 : Expects adverbial response
 : May be better translated as "what", where Lithuanian responds with an adverb, where as in English, one would not: <ex>_Kaip žmones kalba? - Žmones kalba angliškai_ ⧸ What do the people speak? - They speak in English.</ex>
@@ -862,8 +867,8 @@ kieno - whose
 kodėl - why
 : May jokingly be responded with `todėl:just because`.
 
-o - emphatic question particle
-: O koks tavo vardas? - What is your name?
+o - used like English "and" in follow-up questions (e.g. "and you?") – _do not_ use _ir_ or similar words
+: <ex>_O tu?_ ⧸ And you?</ex>
 
 ## Kas and Its Cases
 
