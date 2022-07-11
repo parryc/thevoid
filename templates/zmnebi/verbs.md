@@ -210,7 +210,7 @@ The is the "core" of the verb and is never learned in isolation. It is helpful a
 > Ⓚ: PFSF (Present-Future Stem Formant)
 Ⓗ: PSF, thematic suffix
 
-As mentioned above, the PFSF is a vowel consonant pair that is affixed to the root of the verb in the first screeve (e.g. PRS, FUT, etc. – those marked with ① in this document). However, sometimes there is no consonant (`ჭრის:cuts`) and sometimes there is no PFSF at all (`წერს:eats`). It is not necessary to memorize the below list, but it is helpful to review them to get a feel for what verbs look and sound like in some of the more common tenses.
+As mentioned above, the PFSF is a vowel consonant pair that is affixed to the root of the verb in the first screeve (e.g. PRS, FUT, etc. – those marked with ① in this document). However, sometimes there is no consonant (`ჭრის:cuts`) and sometimes there is no PFSF at all (`წერს:writes`). It is not necessary to memorize the below list, but it is helpful to review them to get a feel for what verbs look and sound like in some of the more common tenses.
 
 * ავ
 * ამ

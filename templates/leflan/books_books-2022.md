@@ -18,3 +18,6 @@
 * _A Profound Waste of Time: Volume 2_ - ed. Caspian Whistler
 * _Tradition and Triumph: Japanese Women Artists_ - ed. Andrew L. Maske
 * _The Book of Tea_ - Okakura Kakuzo
+* _China's Muslims and Japan's Empire_ - Kelly A. Hammond
+* _White Shroud_ - Antanas Škėma
+* _Collectible Hand Tools_ - Dominique Pascal

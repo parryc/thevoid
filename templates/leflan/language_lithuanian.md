@@ -109,6 +109,8 @@ Let's look at the word _peanut butter_ to illustrate this. A single peanut is li
 
 One may find the order reversed (but the meaning the same), when the 2nd noun is a quantity, such as in <ex>_stiklinė sulčių_ ⧸ a glass of juice</ex>.
 
+When compound nouns are paired with adjectives, the adjective comes before the paired nouns.
+
 ### Dimunitives/Hypercoristics
 
 Dimunitives are an important part of the Lithuanian language. They can:
@@ -152,10 +154,10 @@ Numbers match the object in both case and gender.
 
 Teens or numbers ending in 0 (10, 100, etc.) are followed by GEN. Numbers ending in 1-9 are "used as adjectives and agree with the quantified noun in gender, case, and number"<cite>[Ambrazas §3.4](#Ambrazas)</cite>. Numbers ending in 1 are always followed by the singular.
 
-* Dvidešimt viena gėlė (NOM.sg)
-* Dvidešimt gėlių (GEN.pl)
-* Dvidešimt trys gėlės (NOM.pl)
-* Aš matau vieną katę (GEN.sg) (_because katė is in ACC., so is viena_)
+* Dvidešimt viena gėlė (NOM.SG)
+* Dvidešimt gėlių (GEN.PL)
+* Dvidešimt trys gėlės (NOM.PL)
+* Aš matau vieną katę (GEN.SG) (_because katė is in ACC., so is viena_)
 
 Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
 : dvidešimt, trisdešimt
@@ -764,13 +766,7 @@ I am going outside vs. I am outside
 
 # Time
 
-Singular time nouns are in the ACC.
-: vasãra - Vasãrą aš... - In summer I... 
-
-...Except for _rytoj_ and _vakar_
-: DAT - _ryte_ and _vakare_
-
-Repetitive time and plural time expressions use INS.
+Singular time nouns are in the ACC. Repetitive time and plural time expressions use INS. Except for _rytoj_ and _vakar_ which are in LOC: _ryte_ and _vakare_.
 
 ## Telling Time
 

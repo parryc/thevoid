@@ -13,7 +13,7 @@ A count of languages used throughout the books, even if non-primary. For example
 Abkhaz – 1
 Adyge – 1
 Alemmanic – 3
-Arabic – 3
+Arabic – 5
 Avar – 2
 Azeri – 4
 Bosnian-Croatian-Serbian (BCS) – 3
@@ -28,14 +28,14 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 159
+English – 178
 Finnish – 2
-French – 10
+French – 12
 Georgian – 21
 German – 8
 Hawaiian – 1
 Halkomelem – 1
-Hebrew – 2
+Hebrew – 5
 Hindustani – 1
 Hungarian – 4
 Icelandic – 2
@@ -43,7 +43,7 @@ Ilongo – 1
 Inuktitut – 1
 Irish – 1
 Italian – 1
-Japanese – 11
+Japanese – 12
 Kabardian – 5
 Kalaallisut – 5
 Karuk – 1
@@ -61,7 +61,7 @@ Lushootseed – 1
 Malay – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 20
+Mandarin – 28
 Mandarin Sign Language – 1
 Māori – 1
 Middle English – 1
@@ -70,11 +70,12 @@ Mongolian – 6
 Multiple Languages – 10
 Norse – 1
 Ojibwe – 3
+Okanagan – 1
 Polish – 1
 Romanian – 1
-Russian – 22
+Russian – 23
 Salar – 1
-Scots – 5
+Scots – 6
 Scottish Gaelic – 4
 Somali – 8
 Spanish – 4
@@ -90,7 +91,7 @@ Turkish – 3
 Tuvan – 1
 Uyghur – 2
 Visayan – 1
-Welsh – 4
+Welsh – 5
 Wu – 3
 Xhosa – 1
 Yakut – 5
@@ -99,11 +100,11 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 8
-Coursebook – 35
-Dictionary – 76
-Grammar – 44
-Phrasebook – 20
+Bilingual Texts – 9
+Coursebook – 43
+Dictionary – 83
+Grammar – 45
+Phrasebook – 21
 Study – 18
 Verb list – 4
 
@@ -126,13 +127,29 @@ Mastering Arabic 1
 Write it in Arabic
 : Naglaa Ghali, Fun with Arabic, 2004. <tag>arabic→english</tag> <tag>coursebook</tag>
 
+Teach Yourself Arabic
+: Jack Smart and Frances Altorfer, McGraw-Hill, 2003. <tag>arabic→english</tag> <tag>coursebook</tag>
+
+Manuel d'Arabe Algérien Moderne
+: Norbert Tapiéro, Librarie Klincksieck, 2002. <tag>arabic→french</tag> <tag>coursebook</tag>
+
 #### Hebrew
 
 Hebrew Phrasebook and Dictionary
 : Justin Ben-Adam and Ilana Wistinetzki, 3rd edition, Lonely Planet, 2013. <tag>hebrew→english</tag> <tag>phrasebook</tag>
 
 Ben-Yehuda's Pocket English-Hebrew Hebrew-English Dictionary
-: ed. Ehud Ben-Yehuda and David Weinstein, Pocket Books, 1961. <tag>hebrew→english</tag> <tag>hebrewenglish→hebrew</tag> <tag>dictionary</tag>
+: ed. Ehud Ben-Yehuda and David Weinstein, Pocket Books, 1961. <tag>hebrew→english</tag> <tag>english→hebrew</tag> <tag>dictionary</tag>
+
+Berlitz Self-Teacher Hebrew
+: Robert Strumpen-Darrie and Charles Berlitz, Grosset & Dunlap, 1953. <tag>hebrew→english</tag> <tag>coursebook</tag>
+
+Aleph Isn't Tough
+: Linda Motzkin, UAHC Press, 2002. <tag>hebrew→english</tag> <tag>coursebook</tag>
+
+Prayerbook Hebrew the Easy Way
+: Jospeh Anderson et al., Third Edition, EKS Publishing, 2003. <tag>hebrew→english</tag> <tag>coursebook</tag>
+
 
 #### Maltese
 
@@ -261,6 +278,9 @@ English-Welsh Pronuncing Dictionary
 
 Welsh-English English-Welsh (A Phrase-Book)
 : Degwel Owen, Emeralda Ltd., 1985. <tag>welsh→english</tag> <tag>english→welsh</tag> <tag>phrasebook</tag>
+
+Teach Yourself Welsh
+: Julie Brake and Christine Jones, Routledge, 2003. <tag>welsh→english</tag> <tag>coursebook</tag>
 
 ### Cushitic
 
@@ -409,6 +429,9 @@ Sheltand Words: A Dictionary of the Sheltand Dialect
 Orkney and Shetland Weather Words: A Comparative Dictionary
 : John W. Scott, The Shetland Times, 2017. <tag>scots→english</tag> <tag>dictionary</tag>
 
+Scottish-English English-Scottish
+: Mary Kean, Abson Books, 1985. <tag>scots→english</tag> <tag>dictionary</tag>
+
 #### Swedish
 
 Svensk-Englesk Ordbok
@@ -467,7 +490,10 @@ Japanese for Sinologists
 Everyday Japanese Characters
 : Michael Pye, Kokuseido Press, 1977. <tag>japanse→english</tag> <tag>phrasebook</tag>
 
-### Kartvelian 
+総解英文法
+: 高梨健吉, 美誠社, 1970. <tag>english→japanese</tag> <tag>grammar</tag>
+
+### Kartvelian
 
 #### Georgian
 
@@ -693,6 +719,9 @@ Gombo Zhebes: The Dictionary of Creole Proverbs
 Essential French Grammar
 : Seymour Resnick, Dover, 1965. <tag>french→english</tag> <tag>grammar</tag>
 
+Harrap's French and English Pocket Dictionary
+: ed. Isabelle Elkaim and Stuart Fortey, McGraw-Hill, 2004. <tag>french→english</tag> <tag>dictionary</tag>
+
 #### Italian
 
 Collins Italian-English English-Italian Dictionary
@@ -729,6 +758,11 @@ Musqueam Reference Grammar
 
 Lushootseed Texts
 : ed. Crisca Bierwert, University of Nebraska Press, 1996. <tag>lushootseed→english</tag> <tag>bilingual texts</tag>
+
+#### Okanagan
+
+Baby Speaks Salish
+: Emma Noyes, Scablands Books, 2020. <tag>okanagan→english</tag> <tag>phrasebook</tag>
 
 #### Squamish
 
@@ -793,6 +827,29 @@ HSK Strategies Grammar Handbook
 The Chinese Unicorn: Notes from a Chinese Dictionary
 : Anthony Blond, Dông-Nam-A, 1957. <tag>mandarin→english</tag> <tag>dictionary</tag>
 
+The Contemporary Chinese Dictionary
+: ed. Ling Yuan, Foreign Language Teaching and Research Press, 2002. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+Collings Chinese Concise Dictionary
+: ed. Marianne Davidson and Julie Kleeman and Sarah Waldram, 2nd Edition, HarperCollins, 2006. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+Reading & Writing Chinese
+: William McNaughton and Li Ying, Tuttle, Revised Edition, 1999. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+Chinese-English Dictionary
+: Li Dong, Tuttle, 2009. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+An Idiom a Day
+: Wu Yuan, Times Editions, 2005. <tag>mandarin→english</tag> <tag>dictionary</tag>
+
+Short Stories from Lǔ Xùn's Nàhǎn
+: ed. Kevin Nadolny, Capturing Chinese Publications, 2009. <tag>mandarin→english</tag> <tag>bilingual text</tag>
+
+Advanced Chinese: Intention, Strategy, & Communication
+: Yanfang Tang and Qinghai Chen, Yale University Press, 2005. <tag>mandarin→english</tag> <tag>coursebook</tag>
+
+The Routledge Advanced Chinese Multimedia Course: Crossing Cultural Boundaries
+: Kunshan Carolyn Lee et al., Routledge, 2010. <tag>mandarin→english</tag> <tag>coursebook</tag>
 #### Wu
 
 牛康：上海话读本
@@ -867,6 +924,9 @@ Russian-English English-Russian Dictionary
 
 Русско-Грузинскiй Словарь
 : Давид Чубинов, Тинографiя Императорской Академiн Наукъ, 1846. <tag>russian→georgian</tag> <tag>georgian→french</tag> <tag>dictionary</tag>
+
+The Complete Idiot's Guide to Learning Russian
+: Christopher Froehlich, Alpha Books, 2004. <tag>russian→english</tag> <tag>coursebook</tag>
 
 ### Kra-Dai
 
