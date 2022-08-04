@@ -6,6 +6,8 @@
 
 # Nouns
 
+Most nouns decline, though some do not. Those that don't either end in a non-standard vowel (such as _-u_) or end in a non-standard consonant (such as _-t_). Words that don't decline don't change their form regardless of how they are used in a sentence. Some examples include `Peru:Peru`, `taksi:taxi`, and `dešimt:ten`.
+
 ## Grammatical Cases
 
 NOM
@@ -148,16 +150,34 @@ Home sweet home // Note that "home" (namučiai) has a different dimunitive that 
 : = one who does (zh: 者), derived from 3rd person past
 : duoti - davo - davėjas
 
+### Plural Nouns
+
+Plural nouns are nouns that only have a plural form. They are often:
+
+* festivals (ex. funerals, Midsummer, weddings, etc.)
+* sports events
+* clothing in two parts
+* some foods
+
+In "proper" speech, plural numbers are used with plural nouns, but in casual speech, they may not always be used. When plural numbers are used, they are declined as adjectives.
+
+--EX--
+Per dvejus metus mes žaidžiame devynerias rungtynes.
+In two years we play nine matches. // both years and matches are plural nouns, with plural numbers
+--ENDEX--
+
 # Numbers and Quantities
 
-Numbers match the object in both case and gender.
+Numbers can be confusing in Lithuanian. Not all numbers are declined the same way and may take different forms depending on the word that follows.
 
-Teens or numbers ending in 0 (10, 100, etc.) are followed by GEN. Numbers ending in 1-9 are "used as adjectives and agree with the quantified noun in gender, case, and number"<cite>[Ambrazas §3.4](#Ambrazas)</cite>. Numbers ending in 1 are always followed by the singular.
-
-* Dvidešimt viena gėlė (NOM.SG)
-* Dvidešimt gėlių (GEN.PL)
-* Dvidešimt trys gėlės (NOM.PL)
-* Aš matau vieną katę (GEN.SG) (_because katė is in ACC., so is viena_)
+* 1: declined like an adjective. Considered singular for grammatical purposes, except when followed by a plural noun (i.e. a noun that is only ever plural).
+* 2: special forms
+* 3-9: declined like an adjective
+* tens (10, 20, ...): do not decline. Colloquially, `devyniasdešimt:90` is _devyndešimt_ (not sure about other tens forms).
+* teens (11-19): declined like a noun, except ACC is the same as NOM. Note that these numbers are considered as singular for grammar purposes.
+* 100: declined like a noun
+* 1000: declined like a noun
+* all other numbers: each part of the number is declined separately. For example, in <ex>_Mes gavome du tūkstančius šimtą trisdešimt keturis eurus._ ⧸ We got 2134 euros.</ex>, we can see that `tūkstantis:1000` is in plural (because there are two of them) as well as ACC because it is the object of the verb. Similarly, `šimtas:100` and `keturi:4` are in ACC, as well. `Trisdešimt:30` does not decline, so it is the same as the NOM form.
 
 Numbers above 10 are formed by adding the feminine ACC form of the tens place to the number ten (dẽšimt).
 : dvidešimt, trisdešimt
@@ -165,7 +185,9 @@ Numbers above 10 are formed by adding the feminine ACC form of the tens place to
 Quantities are expressed by the quantity word + NOUN.GEN
 : indẽlis grietı̇̀nės, gabaĺiukas pı̇̀cos
 
-#### Nominative
+Colloquially, the DAT form of `dešimt:ten` is _dešimčiai_. All other cases stay undeclined. For example, note the use of _dešimčiai_ here representing "for X": <ex>_DešimČIAI kavos puodelių mums reikia trijų šimtų keturiasdešimt penkių gramų kavos pupelių ir dviejų šimtų vienuolikos mililitrų pieno._ ⧸ For ten cups of coffee, we need 345 grams of coffee beans and 211 ml of milk.</ex>
+
+## Nominative
 
 M      | F
 -------|------
@@ -176,7 +198,7 @@ trys   | trys
 
 e.g. keturi/keturios
 
-#### Accusative
+## Accusative
 
 M      | F
 -------|------
@@ -186,6 +208,24 @@ tris   | tris
 -is    | -ias
 
 e.g. keturis/keturias
+
+## Plural Numbers
+
+Plural numbers are used with plural nouns (see above). They are declined like first declension adjectives.
+
+## Ordinal Numbers
+
+Ordinal numbers are declined like first declension adjectives. In compound ordinal numbers (ex. 145th), only the last number is declined (ex. in GEN, _šimtas keturiasdešimt penkto_).
+
+## Collective Numbers
+
+Collective numbers can be thought of as "# of them" – such as in the concept of a "six pack", e.g. 6 of (beers). These numbers are most often used when discussing scores in school, <ex>_Gavau septynetą iš matematikos._ ⧸ I got a seven in math.</ex>
+
+## Quantity Adverbs (-ese)
+
+Quantity adverbs represent the number of people or things doing an action, such as "the two of us". To differentiate from the English translation of collective numbers above, perhaps it is better to think of it as "as two" or "as three". For example, <ex>_Penkiese važiavome į Lietuvą._ ⧸ We five went to Lithuania.</ex>
+
+These adverbs are formed by adding _-ese_ to the ending of the cardinal number, except three, from two to nine: dviese, trise, keturiese, penkiese, šešiese, septyniese, aštuoniese, devyniese.
 
 # Verbs
 
@@ -772,7 +812,9 @@ Singular time nouns are in the ACC. Repetitive time and plural time expressions 
 
 There are two main ways of telling time: listing all of the components (one thirty seven), or describing the time relatively (seven after half of two).
 
-Relative time uses two prepositions, _be_ for before, and _po_ for after. _Be_ is used from :35 to :00 and _po_ is used from :00 to :25. Both take the genitive.
+Relative time uses two prepositions, _be_ for before, and _po_ for after. _Be_ is used from :31 to :59 and _po_ is used from :01 to :29. Both take the genitive.
+
+Half hours (using 12-hour clock) are with _pusė_, which takes GEN, and should be thought of has "half to", rather than "half of". That is, 12:30 would be _pusė pirmos_ (half to one). Remember that 2-9 are considered plural, and 1, 11, and 12, are considered singular. Thus, 2:30 would be _pusė trijų_ (in GEN.PL).
 
 Exact hours (1:00, 2:00...) use oridnal numbers, ex. 1:00 _yra pirma_, 4:00 _yra ketvirta_.
 
@@ -782,7 +824,7 @@ Do not decline minutes when the time expression should be in ACC (such as in an 
 
 _yra..._
 
-* 4:15 - keturious (valandos) ir penkiolika (minučių)
+* 4:15 - keturios (valandos) ir penkiolika (minučių)
 * 10:25 - dešimt valandų ir dvidešimt penkios minutės
 * 11:11 - vienolika valandų ir vienolika minučių
 * 2:33 - dvi valandos ir trisdešimt trys minutės
@@ -796,6 +838,9 @@ _yra..._
 * 10:30 - pusė vieniolikos
 * 6:26 - be keturių pusė septynių
 * 7:37 - septynios po pusės aštuonių
+* 12:15 -  po dvylikos penkiolika
+* 13:23 - po pirmos dvidešimt trys
+* 7:49 - be vienuolikos (miničių) aštuonios
 
 _kada sustinkame?_, expecting an "at ... o'clock" reply
 
@@ -925,7 +970,7 @@ Kokių sulčių tu negeri? Braškių.
 What kind of juice don't you drink? Strawberry.
 Kokiai progai tu nupirkai šį tortą? Gimtadieniui.
 For what occasion did you buy this cake? For a birthday.
---END--
+--ENDEX--
 
 ### Kuris/kuri (which one)
 
@@ -1149,6 +1194,15 @@ prašo - please
 prašom - you're welcome
 velnią minint - speak of the devil
 
+## Onomatopeia
+
+au au – woof woof
+miau - meow
+kriu kriu – oink oink
+kakariekūūū - cockadoodledoo
+kutkudak - cluck
+yyyyyhaha - neigh
+
 ## Language notes
 
 _Lietuva_ is the sanem root as rain (_lietus_)
@@ -1200,6 +1254,7 @@ Vyriškoji giminė
 *[INS]: Instrumental
 *[LOC]: Locative
 *[VOC]: Vocative
+*[POSS]: Possessive
 *[PRS]: Present
 *[PST]: Past/Preterite
 *[FUT]: Future

@@ -67,7 +67,9 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Printer Paper
 
-* Neenah Recycled 100 Bring White (104gsm, Letter, Long)
+* Navajo Brilliant White (105gsm, A4, Long)
+* Neenah Classic Crest Recycled 100 Bright White (104gsm, Letter, Long)
+* Neenah Classic Crest Classic Natural (104gsm, Letter, Long)
 
 ## Inks 🎨
 
@@ -86,10 +88,11 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Pilot Black
 * Speedball Super Black
 
-### Reds
+### Reds & Pinks
 
 * J. Herbin Cassis
 * J. Herbin Rouge Grenat
+* Kakimori Potari Tototo
 * Kaweco Ruby Red
 * Kyo no Oto Adzukiiro
 * Lennon Tool Bar Watermelon
@@ -102,6 +105,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Cloudy Day
+* Lennon Tool Bar Hobe
 * ⭐️ Lennon Tool Bar Pacific Ocean
 * Nagasawa Kobe Kyomachi Legend Blue
 * Nagasawa Kobe Maya Lapis Lazuli
@@ -111,6 +115,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Greens
 
+* Lennon Tool Bar Dengding Oolong Tea
 * Lennon Tool Bar Fireflies
 * Lennon Tool Bar Firmament
 * Lennon Tool Bar Tieguanyin
@@ -132,6 +137,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Purples
 
 * Lennon Tool Bar Grape
+* ⭐️ Lennon Tool Bar Mesona Tea
 * Nagasawa Kobe Rokko Shichidakka
 * Nagasawa Kobe Sanmomiya Pensée
 * ⭐ Nagasawa Kobe Tamon Purple Grey
@@ -142,7 +148,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Sunset Glow
 * Nagasawa Kobe Ikuta Orange
 
-### Silver and Grey
+### Silver & Grey
 
 * Kaimei Silver Bokujyu
 * Kyo-Iro Soft Snow of Ohara

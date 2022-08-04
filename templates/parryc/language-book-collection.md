@@ -28,7 +28,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 178
+English – 179
 Finnish – 2
 French – 12
 Georgian – 21
@@ -61,7 +61,7 @@ Lushootseed – 1
 Malay – 1
 Maltese – 1
 Manchu – 1
-Mandarin – 28
+Mandarin – 29
 Mandarin Sign Language – 1
 Māori – 1
 Middle English – 1
@@ -101,7 +101,7 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 9
-Coursebook – 43
+Coursebook – 44
 Dictionary – 83
 Grammar – 45
 Phrasebook – 21
@@ -850,6 +850,10 @@ Advanced Chinese: Intention, Strategy, & Communication
 
 The Routledge Advanced Chinese Multimedia Course: Crossing Cultural Boundaries
 : Kunshan Carolyn Lee et al., Routledge, 2010. <tag>mandarin→english</tag> <tag>coursebook</tag>
+
+Modern China: Newspaper Readings on Life, Language, and Culture
+: Yufen Lee Mehta, University of Cornell Press, 2003. <tag>mandarin→english</tag> <tag>coursebook</tag>
+
 #### Wu
 
 牛康：上海话读本

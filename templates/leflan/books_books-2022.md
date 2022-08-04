@@ -21,3 +21,7 @@
 * _China's Muslims and Japan's Empire_ - Kelly A. Hammond
 * _White Shroud_ - Antanas Škėma
 * _Collectible Hand Tools_ - Dominique Pascal
+* _Red Paint_ - Sasha taqʷšəblu LaPointe
+* _Ellery Queen's Champions of Mystery_ - ed. Ellery Queen
+* _Terciel & Elinor_ - Garth Nix
+* _Artisans in Early Imperial China_ - Anthony J. Barbieri-Low
