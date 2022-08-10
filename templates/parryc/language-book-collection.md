@@ -67,7 +67,7 @@ Māori – 1
 Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 10
+Multiple Languages – 11
 Norse – 1
 Ojibwe – 3
 Okanagan – 1
@@ -105,7 +105,7 @@ Coursebook – 44
 Dictionary – 83
 Grammar – 45
 Phrasebook – 21
-Study – 18
+Study – 19
 Verb list – 4
 
 ## Languages
@@ -635,6 +635,9 @@ The Oxford Handbook of Languages of the Caucasus
 
 China Phrasebook
 : Lonely Planet, 2009. <tag>phrasebook</tag>
+
+The Languages of the Seat of War
+: Max Müller, Longman, Brown, Green, and Longmans, 1854. <tag>study</tag>
 
 ### Na-Dene
 

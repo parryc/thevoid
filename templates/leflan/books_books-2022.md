@@ -25,3 +25,5 @@
 * _Ellery Queen's Champions of Mystery_ - ed. Ellery Queen
 * _Terciel & Elinor_ - Garth Nix
 * _Artisans in Early Imperial China_ - Anthony J. Barbieri-Low
+* _Momigami_ - Donald Farnsworth
+* _Lirael_ - Garth Nix

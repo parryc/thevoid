@@ -170,6 +170,8 @@ In two years we play nine matches. // both years and matches are plural nouns, w
 
 Numbers can be confusing in Lithuanian. Not all numbers are declined the same way and may take different forms depending on the word that follows.
 
+One rule that may be helpful (but may be more confusing) is that generally numbers 1-9 will tend towards declining to follow the preposition, whereas teens and tens will tend towards declining as required by the verb. Either way, as a learner, it is important to just speak and listen and get exposed to more forms of native speakers declining numbers.
+
 * 1: declined like an adjective. Considered singular for grammatical purposes, except when followed by a plural noun (i.e. a noun that is only ever plural).
 * 2: special forms
 * 3-9: declined like an adjective
@@ -818,7 +820,8 @@ Half hours (using 12-hour clock) are with _pusė_, which takes GEN, and should b
 
 Exact hours (1:00, 2:00...) use oridnal numbers, ex. 1:00 _yra pirma_, 4:00 _yra ketvirta_.
 
-Do not decline minutes when the time expression should be in ACC (such as in an "at ... o'clock" expression. No reason, just cause. Ex. at 4:35 - penkios po pusės penkių 
+
+Time expressions are in NOM by default (<ex>_Mes turime pamoką be penkiolikos pirma_ ⧸ We have class at 12:45</ex>, `pirma:1 o'clock` is in NOM), except for when a verb may prompt a different case, such as `susitikti:to meet`, in which the time expression will be in ACC.
 
 ### Examples
 
