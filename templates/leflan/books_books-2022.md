@@ -27,3 +27,6 @@
 * _Artisans in Early Imperial China_ - Anthony J. Barbieri-Low
 * _Momigami_ - Donald Farnsworth
 * _Lirael_ - Garth Nix
+* _Stories of Tea_ - Zach Mangan
+* _Murder in Space_ - David V. Reed
+* _Where the Language Lives_ - Janet Yoder

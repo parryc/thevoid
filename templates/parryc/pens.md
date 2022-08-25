@@ -16,6 +16,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Pilot Metropolitan (fine, black)
 * Pilot Metropolitan (fine, red)
 * Pilot Penmanship (extra-fine, clear)
+* Sailor Naginata Fude De Mannen (black)
 * Sen Handmade (fine glass, aluminum)
 
 ### Nibs
@@ -106,6 +107,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Cloudy Day
 * Lennon Tool Bar Hobe
+* Lennon Tool Bar Noshime Hana
 * ⭐️ Lennon Tool Bar Pacific Ocean
 * Nagasawa Kobe Kyomachi Legend Blue
 * Nagasawa Kobe Maya Lapis Lazuli
