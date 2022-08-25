@@ -1,6 +1,61 @@
 {
   "bounties": [
     {
+      "location": "Berikoni, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Georgian House, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Toné Café, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Mtskheta Cafe, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Georgian Dream, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Cheeseboat, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Old Tblisi Garden, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Cafe Delia, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Chito Gvrito, New York City",
+      "country": "USA",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Nevski, Montreal",
+      "country": "Canada",
+      "posted": "2022-08"
+    },
+    {
+      "location": "Georgia Restaurant, Montreal",
+      "country": "Canada",
+      "posted": "2022-08"
+    },
+    {
       "location": "Supra, Washington, D.C.",
       "country": "USA",
       "posted": "2022-05",

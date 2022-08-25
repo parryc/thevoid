@@ -1,5 +1,27 @@
 {  "reviews": [
     {
+      "location": "Chama Mama, New York City",
+      "country": "USA",
+      "price": 5,
+      "taste": 5,
+      "type": "megruli",
+      "date": "2022-08",
+      "rated_by": "cmd",
+      "note": "five enormous hearts, best khachapuri i have ever eaten",
+      "img": "khachapuri_chama_mama_2.jpg"
+    },
+    {
+      "location": "middle brow, Chicago",
+      "country": "USA",
+      "price": 3,
+      "taste": 5,
+      "type": "adjaruli",
+      "date": "2022-07",
+      "rated_by": "wpc",
+      "note": "Carbonara style!",
+      "img": ""
+    },
+    {
       "location": "Supra, Washington, D.C.",
       "country": "USA",
       "price": 3,
