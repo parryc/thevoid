@@ -30,3 +30,6 @@
 * _Stories of Tea_ - Zach Mangan
 * _Murder in Space_ - David V. Reed
 * _Where the Language Lives_ - Janet Yoder
+* _Chinese Traditional Bookbinding_ - Edward Martinique
+* _Kigami and Kami-ito_ - Hiroko Karuno
+* _The Chinese Unicorn: Notes from a Chinese Dictionary_ - Anthony Blond

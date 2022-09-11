@@ -1333,6 +1333,8 @@ It is read as it is written</ex>. Note that the first clause "it is read" is act
 
 As with above, X will be a verbal noun. This means that the English equivalent can be rephrased to use a verbal noun as well. For example, rather than "I like to dance", "I like dancing" would work. Thus, you have <ex>_ცეკვა მომწონს_ ⧸ I like to dance</ex>.
 
+***A more complicated example***
+
 Here is an example worked in more detail.
 
 შემდებ, ვაპირებ გამოცდების ჩაბარებას მაგისტრატურისთვის.
@@ -1343,7 +1345,7 @@ Here is an example worked in more detail.
 This is a good example of how to take a common verb form and make a verbal phrase with the object:
 
 1. Decline the verbal noun in the correct object tense (here, DAT).
-2. Decline the direct object of the verbal noun in GEN – e.g. "the exam's passing".
+2. Decline what would be the direct object of the verbal noun in GEN – e.g. "the exam's passing".
 3. Suffix any indirect objects with `-თვის:for`.
 
 Note that you may also hear the form _რომ {declined verb}_, that is, a sentence like <ex>_მომწონს, სათამაშობს რომ ვაკეთებ_ ⧸ I like to make toys</ex>, rather than _მომწონს, სათამაშობის კეთება_.<cite>[Kurtsikidze, p193](#kurtsikidze)

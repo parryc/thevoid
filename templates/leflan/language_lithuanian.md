@@ -1,7 +1,5 @@
 [TOC]
 
-<attn>Feb 2022: As I have restarted my Lithuanian studies, this document is going to look a bit messy until all the sections have been re-reviewed for accuracy and formatting.</attn>
-
 <attn>A note on _Accentuation_ subheadings: accentuation is complicated in Lithuanian, so it is certainly possible that the general notes here do not cover specific scenarios or exceptions. If they are missing an exception (or are completely wrong!), please send me an email so I can correct them, thank you!</attn>
 
 # Nouns
@@ -265,6 +263,8 @@ Ex. _gyveña_ → stem:_gyven_, vowel:_a_
 1PL    |-ame|-ime|-ome
 2PL    |-ate|-ite|-ote
 3PL    | -a| -i| -o
+
+Colloquially, you may find the final _e_ dropped in 1PL and 2PL, e.g. `galim:we can`.
 
 ### Accentuation
 
