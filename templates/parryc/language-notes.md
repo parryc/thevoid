@@ -12,6 +12,8 @@ these languages are actively being learned and so the notes are more likely to b
 ### extensive
 
 * [georgian](/language/georgian)
+    * [a georgian note](georgian-note)
+    * [a georgian word a day](georgian-word-a-day)
     * [at the busstop](/language/texts/georgian/dialogue_-_at_the_busstop)
     * [a conversation](/language/texts/georgian/dialogue_-_a_conversation)
 * [lithuanian](/language/lithuanian)

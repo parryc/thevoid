@@ -22,7 +22,6 @@ lists of pictures, but no pictures of lists – yet.
 * [language book collection](language-book-collection)
 * [multilingual literature collection](multilingual-literature-collections)
 * [comics i have known and loved](comics-I-have-known-and-loved)
-* [a georgian word a day](georgian-word-a-day)
 * [lupin the IIIrd](lupin)
 
 ### books i've read
