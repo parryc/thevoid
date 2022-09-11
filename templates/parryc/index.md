@@ -33,6 +33,8 @@ hello! welcome to my site – hopefully you'll find something of interest. if yo
 
 💛 [the yelp of khachapuri](https://the-yelp-of-khachapuri.site)
 
+👨‍🎨 [book arts & associated crafts](https://bookartbook.art)
+
 👩‍💻 [github](https://github.com/parryc)
 
 ⛰ [avar.rocks](https://avar.rocks) [under construction]

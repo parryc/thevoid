@@ -77,6 +77,13 @@ bundles = {
         filters="cssmin",
         output="gen/leflan.css",
     ),
+    "bookarts_css": Bundle(
+        "css/marx.min.css",
+        "css/style_bookarts.css",
+        "css/fonts/bookarts/fonts.css",
+        filters="cssmin",
+        output="gen/bookarts.css",
+    ),
 }
 assets.register(bundles)
 
@@ -98,3 +105,6 @@ app.register_blueprint(mod_avar)
 from mod_zmnebi.controllers import mod_zmnebi
 
 app.register_blueprint(mod_zmnebi)
+from mod_bookarts.controllers import mod_bookarts
+
+app.register_blueprint(mod_bookarts)
