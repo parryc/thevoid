@@ -91,7 +91,6 @@ ex {
 }
 
 h1 {
-  padding-top: 20px;
   border-bottom: none;
   font-size: 3.6rem;
   font-style: normal;
@@ -174,6 +173,18 @@ dd > tag {
 .hedera {
   font-family: 'Arlette', serif;
   font-feature-settings: "ss03";
+}
+
+.toc {
+  font-family: 'Arlette', sans-serif;
+}
+
+.toc:before {
+  content: "table of contents";
+}
+
+.toc > ul > li > ul {
+  margin: 0;
 }
 
 #to-top {

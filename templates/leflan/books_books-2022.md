@@ -33,3 +33,4 @@
 * _Chinese Traditional Bookbinding_ - Edward Martinique
 * _Kigami and Kami-ito_ - Hiroko Karuno
 * _The Chinese Unicorn: Notes from a Chinese Dictionary_ - Anthony Blond
+* _A Song of Praise for Shifu_ - Susan J. Byrd

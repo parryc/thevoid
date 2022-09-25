@@ -14,18 +14,19 @@
     {%  if has_toc %}
     <style type="text/css">
         @media (min-width: 800px) {
+            #header {
+                margin-left: 28%;
+                padding-left: 16px;
+            }
             .toc {
                 position: fixed;
                 left: 30px;
-                top: 45px;
+                top: 120px;
                 width: 21%;
                 height: 80%;
                 overflow-y: auto;
                 word-wrap: break-word;
-            }
-
-            .toc::before {
-                content: 'Table of Contents';
+                font-family: 'Arlette', sans-serif;
             }
             article {
                 margin-left: 28%;
@@ -36,11 +37,6 @@
                 overflow-x: scroll;
                 max-width: inherit !important;
                 display: block;
-            }
-            /* for the nested bracket table */
-            .bracket_table {
-                max-width: 100% !important;
-                display: block !important;
             }
             td > table {
                 margin-left: 15px;
@@ -58,27 +54,23 @@
             .toc {
                 left: 5%;
             }
-            .bracket_table {
-                max-width: 100% !important;
-                display: block !important;
-            }
             table {
                 overflow-x: scroll;
                 max-width: inherit !important;
                 display: table;
                 border-right: 1px black dashed;
             }
-            /* for the nested bracket table */
-            td > table {
-                margin-left: 15px;
-                border-right: none;
-            }
          }
     </style>
     {% endif %}
 {% endblock %}
 {% block header %}
-    <span class="header-font" style="font-size: 1.4em;"><span class="hedera">b</span>bookartbook.art · <a href="/">home</a> · <a href="/categories">categories</a></span>
+    <div id="header">
+        <span id="top-link" class="header-font" style="font-size: 1.4em;">
+            <span class="hedera">b</span>bookartbook.art // by parry c.<br/>
+            <a href="/">home</a> · <a href="/posts">posts</a> · <a href="/shop">sales & commissions</a>
+        </span>
+    </div>
 {% endblock %}
 {% block content  %}
     {% if override_title %}<h1>{{ override_title }}</h1>{% endif %}
@@ -87,7 +79,7 @@
     <br/>
     {% if time %}
         <p>
-           <em>Last Updated: {{ time }}</em>
+           <em style="font-feature-settings: 'tnum';">last updated: {{ time }}</em>
         </p>
     {% endif %}
 {% endblock %}
