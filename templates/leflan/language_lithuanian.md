@@ -85,19 +85,43 @@ _savo_ is used when the possessive pronoun is the same as the subject
 
 ## Definite Articles
 
+These declensions are almost exactly the same as for adjectives.
+
 ### This
 
-num. | M  | F 
------|----|------
-SG   | šis| ši
-PL   | šie| šios
+ case   | šis | ši
+ -------|-----|-----
+ NOM.SG | šis | ši
+ GEN.SG | šo  | šos
+ DAT.SG | šam | šai
+ ACC.SG | šą  | šą
+ INS.SG | šuo | ša
+ LOC.SG | šame| šoje
+ –––––––|–––––|–––––––
+ NOM.PL | šie | šos
+ GEN.PL | šų  | šų
+ DAT.PL |šiems| šoms
+ ACC.PL | šuos| šas
+ INS.PL | šais| šomis
+ LOC.PL |šuose| šose
 
 ### That
 
-num. | M   | F 
------|-----|------
-SG   | tas | ta
-PL   | tie | tos
+ case   | tas | ta
+ -------|-----|-----
+ NOM.SG | tas | ta
+ GEN.SG | to  | tos
+ DAT.SG | tam | tai
+ ACC.SG | tą  | tą
+ INS.SG | tuo | ta
+ LOC.SG | tame| toje
+ –––––––|–––––|–––––––
+ NOM.PL | tie | tos
+ GEN.PL | tų  | tų
+ DAT.PL |tiems| toms
+ ACC.PL | tuos| tas
+ INS.PL | tais| tomis
+ LOC.PL |tuose| tose
 
 ## Common Nouns Types
 
@@ -187,39 +211,120 @@ Quantities are expressed by the quantity word + NOUN.GEN
 
 Colloquially, the DAT form of `dešimt:ten` is _dešimčiai_. All other cases stay undeclined. For example, note the use of _dešimčiai_ here representing "for X": <ex>_DešimČIAI kavos puodelių mums reikia trijų šimtų keturiasdešimt penkių gramų kavos pupelių ir dviejų šimtų vienuolikos mililitrų pieno._ ⧸ For ten cups of coffee, we need 345 grams of coffee beans and 211 ml of milk.</ex>
 
-## Nominative
+## Declensions
 
-M      | F
--------|------
-vienas | vienas
-du     | dvi
-trys   | trys
--i     | -ios
+Numbers one, two, and three have non-standard declensions. Numbers four through nine, as well as the teens, have their own standard declensions.
+
+### One
+
+ case | vienas | viena
+ -----|-----|-----
+ NOM  | -as | -a
+ GEN  | -o  | -os
+ DAT  | -am | -ai
+ ACC  | -ą  | -ą
+ INS  | -u  | -a
+ LOC  | -ame| -oje
+
+### Two
+
+ case | du  | dvi
+ -----|-----|-----
+ NOM  | du  | dvi
+ GEN  |dviejų| dviejų
+ DAT  |dviem| dviem
+ ACC  | du  | dvi
+ INS  |dviem|dviem
+ LOC  |dviejuose|dviejose
+
+### Three
+
+All cases are the same for M and F except for LOC.
+
+ case | trys
+ -----|-----
+ NOM  | trys
+ GEN  | trijų
+ DAT  | trims
+ ACC  | tris
+ INS  | trimis
+ LOC  | trijuose (M) / trijose (F)
+
+### Four-Nine
+
+ case | -i  | -ios
+ -----|-----|-----
+ NOM  | -i  | -ios
+ GEN  | -ių | -ių
+ DAT  |-iems| -ioms
+ ACC  | -is | -ias
+ INS  |-iais| -iomis
+ LOC  |-iuose| -iose
 
 e.g. keturi/keturios
 
-## Accusative
+### Teens
 
-M      | F
--------|------
-vieną  | vieną
-du     | dvi
-tris   | tris
--is    | -ias
+ case | -a
+ -----|-----
+ NOM  | -a
+ GEN  | -os
+ DAT  | -ai
+ ACC  | -a
+ INS  | -a
+ LOC  | -oje
 
-e.g. keturis/keturias
+ e.g. vienolika
 
 ## Plural Numbers
 
 Plural numbers are used with plural nouns (see above). They are declined like first declension adjectives.
 
+These forms only exist for numbers one to nine. In NOM (M/F) they are:
+
+* vien(er)i/vien(eri)os
+* dveji/dvejos
+* treji/trejos
+* ketveri/ketverios
+* penkeri/penkerios
+* šešeri/šešerios
+* septyneri/septynerios
+* aštuoneri/aštuonerios
+* devyneri/devynerios
+
 ## Ordinal Numbers
 
-Ordinal numbers are declined like first declension adjectives. In compound ordinal numbers (ex. 145th), only the last number is declined (ex. in GEN, _šimtas keturiasdešimt penkto_).
+Ordinal numbers are declined like first declension adjectives. In compound ordinal numbers (ex. 145th), only the last number is declined (ex. in GEN, _šimtas keturiasdešimt penkto_). Similarly, in compound numbers, only the last number is in the ordinal form (ex. `dvidešimt pirmas:twenty-first`)
+
+The forms for one to nine in NOM.M are below:
+
+* pirmas
+* antras
+* trečias
+* ketvirtas
+* penktas
+* šeštas
+* septintas
+* aštuntas
+* devintas
+
+For other numbers, _-(t)as_ is suffixed (e.g. `dešimtas:tenth`).
 
 ## Collective Numbers
 
-Collective numbers can be thought of as "# of them" – such as in the concept of a "six pack", e.g. 6 of (beers). These numbers are most often used when discussing scores in school, <ex>_Gavau septynetą iš matematikos._ ⧸ I got a seven in math.</ex>
+Collective numbers can be thought of as "# of them" – such as in the concept of a "six pack", e.g. 6 of (beers). These numbers are most often used when discussing scores in school, <ex>_Gavau septynetą iš matematikos._ ⧸ I got a seven in math.</ex> They are declined like first declension adjectives.
+
+This form only exists for numbers one to nine. They are given in NOM below:
+
+* vienetas
+* dvejetas
+* trejetas
+* ketvertas
+* penketas
+* šešetas
+* septynetas
+* aštuonetas
+* devynetas
 
 ## Quantity Adverbs (-ese)
 
@@ -452,15 +557,17 @@ For 1PL and 2PL, the shorter forms are often used in speech, while the longer ma
 
 <attn>Excluding the verbal prefix (when applicable) is often considered rude, so make sure to include it!</attn>
 
-Formed by removing the _-ti_ from the infinitive. This form is easily recognizable due to the _k_ in the affix. Note there is no 1SG or 3P forms.
+Formed by removing the _-ti_ from the infinitive. This form is easily recognizable due to the _k_ in the affix.
 
 &nbsp; | SG   | PL
--------|-------|------
+-------|------|------
       1| n/a  | -kim(e)
       2| -k   | -kit(e)
-      3| n/a  | n/a
+      3| see note | see note
 
-Note that the combination _g+k_ becomes _k_, ex. _raugti_ > _raugk_ > _rauk_!
+<attn>Note that the combination _g+k_ becomes _k_, ex. _raugti_ > _raugk_ > _rauk_</attn>
+
+While there is no declined 3SG or 3PL form, a 3rd person imperative ("let him/her do X") can be formed with `tegu` plus the 3SG.PRS form of the verb. Thus `tegu kalba:let him/her speak`.
 
 Colloquially, the 1PL form (_Let's..._) can also be the 1PL.PRS without the ending _-e_. Thus, `varom:let's go`/`einam:let's go`.
 
