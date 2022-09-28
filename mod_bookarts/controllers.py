@@ -78,7 +78,7 @@ def index():
 @mod_bookarts.route("/posts", methods=["GET"], host=_host)
 def posts():
     def _clean_filename(name):
-        return name.replace("-", " ").replace(".md", "")
+        return name.replace("-", " ")
 
     def _category_description(cat):
         desc = ""
@@ -113,6 +113,7 @@ def posts():
         for tag in file_tags:
             tag_parts = tag.split(">")
             header = tag_parts[0].strip()
+            filename = file.name.replace(".md", "")
             if len(tag_parts) > 1:
                 subheader = tag_parts[1].strip()
             else:
@@ -120,13 +121,13 @@ def posts():
             if header not in categories:
                 categories[header] = {
                     "heading": header,
-                    "subheadings": {subheader: [file.name]},
+                    "subheadings": {subheader: [filename]},
                 }
             else:
                 if subheader not in categories[header]["subheadings"]:
-                    categories[header]["subheadings"][subheader] = [file.name]
+                    categories[header]["subheadings"][subheader] = [filename]
                 else:
-                    categories[header]["subheadings"][subheader].append(file.name)
+                    categories[header]["subheadings"][subheader].append(filename)
 
     _md = ""
     first = True
@@ -140,7 +141,7 @@ def posts():
         if "default" in categories[category]["subheadings"]:
             _md += "\n"
             for post in categories[category]["subheadings"]["default"]:
-                _md += f"* [{_clean_filename(post)}]({post})\n"
+                _md += f"* [{_clean_filename(post)}]({post.replace('?', '%3F')})\n"
             _md += "\n"
         for subheading in categories[category]["subheadings"].keys():
             if subheading == "default":
@@ -148,7 +149,7 @@ def posts():
             else:
                 _md += f"\n## {subheading}\n"
             for post in categories[category]["subheadings"][subheading]:
-                _md += f"* [{_clean_filename(post)}]({post})\n"
+                _md += f"* [{_clean_filename(post)}]({post.replace('?', '%3F')})\n"
     html = get_html("categories.md", md=_md)
     if _md == "<p>404</p>":
         return abort(404)
