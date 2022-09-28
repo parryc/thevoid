@@ -77,45 +77,87 @@ def index():
 
 @mod_bookarts.route("/posts", methods=["GET"], host=_host)
 def posts():
+    def _clean_filename(name):
+        return name.replace("-", " ").replace(".md", "")
+
+    def _category_description(cat):
+        desc = ""
+        if cat == "investigations":
+            desc = (
+                "research into various aspects of the craft. "
+                "may be tedious or might answer questions you have as well."
+            )
+        if cat == "lecture notes":
+            desc = (
+                "notes from lectures either attended in person or watched on line. "
+                "may not actually be a lecture, per se."
+            )
+        if cat == "materials":
+            desc = "dealing with the star stuff of book arts."
+        if cat == "marbling":
+            desc = "all things marbling, mostly acrylic, often about rakes."
+        if cat == "paper":
+            desc = "on my ever growing infatuation with all the varieties of the world."
+
+        return "> " + desc + "\n"
+
     if _host == "bookartbook.art":
         folder = os.path.join("templates", "bookarts", "posts")
     else:
         folder = os.path.join(os.getcwd(), "templates", "bookarts", "posts")
-    raw_tags = []
+    categories = {}
     for file in os.scandir(folder):
         with open(file.path) as f:
             file_tags = f.readlines()[0].strip().split(";")
-            raw_tags.extend(file_tags)
-    categories = {}
-    for tag in raw_tags:
-        tag_parts = tag.split(">")
-        header = tag_parts[0].strip()
-        if len(tag_parts) > 1:
-            subheader = tag_parts[1].strip()
-        else:
-            subheader = ""
-        if header not in categories:
-            categories[header] = {"heading": header, "subheadings": {subheader}}
-        else:
-            categories[header]["subheadings"].add(subheader)
 
-    html = get_html("categories.md")["html"]
+        for tag in file_tags:
+            tag_parts = tag.split(">")
+            header = tag_parts[0].strip()
+            if len(tag_parts) > 1:
+                subheader = tag_parts[1].strip()
+            else:
+                subheader = "default"
+            if header not in categories:
+                categories[header] = {
+                    "heading": header,
+                    "subheadings": {subheader: [file.name]},
+                }
+            else:
+                if subheader not in categories[header]["subheadings"]:
+                    categories[header]["subheadings"][subheader] = [file.name]
+                else:
+                    categories[header]["subheadings"][subheader].append(file.name)
+
+    _md = ""
+    first = True
     for category in sorted(categories.keys()):
-        html += f"<h1>{categories[category]['heading']}</h1>"
-        if categories[category]["subheadings"]:
-            html += "<ul>"
-            for subheading in sorted(categories[category]["subheadings"]):
-                if not subheading:
-                    continue
-                html += f"<li>{subheading}</li>"
-            html += "</ul>"
-    if html == "<p>404</p>":
+        if not first:
+            _md += "\n----\n"
+        if first:
+            first = False
+        _md += f"\n# {categories[category]['heading']}"
+        _md += f"\n{_category_description(categories[category]['heading'])}"
+        if "default" in categories[category]["subheadings"]:
+            _md += "\n"
+            for post in categories[category]["subheadings"]["default"]:
+                _md += f"* [{_clean_filename(post)}]({post})\n"
+            _md += "\n"
+        for subheading in categories[category]["subheadings"].keys():
+            if subheading == "default":
+                continue
+            else:
+                _md += f"\n## {subheading}\n"
+            for post in categories[category]["subheadings"][subheading]:
+                _md += f"* [{_clean_filename(post)}]({post})\n"
+    html = get_html("categories.md", md=_md)
+    if _md == "<p>404</p>":
         return abort(404)
     return render_template(
         "bookarts/post.html",
-        html=html,
+        html=html["html"],
         time="",
         t=_t(f"bookartbook.art"),
+        has_toc=True,
     )
 
 
@@ -134,7 +176,7 @@ def post(title):
     )
 
 
-def get_html(page):
+def get_html(page, md=None):
     top_level_list = ["index.md", "shop.md", "categories.md"]
     if page in top_level_list:
         posts_path = ""  # these pages are at the top level folder
@@ -166,6 +208,8 @@ def get_html(page):
         if page == "index.md":
             text += _recent()
             print(_recent())
+        if md:
+            text += md
     except:
         text = "404"
 

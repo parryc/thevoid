@@ -1,1 +1,3 @@
-click on one of the below links to see all pages tagged with that category.
+[TOC]
+
+a list of all the posts, by category and subcategory. some posts may appear more than once if they are a part of more than one category.
