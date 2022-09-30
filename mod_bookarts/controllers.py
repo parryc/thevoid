@@ -98,6 +98,8 @@ def posts():
             desc = "all things marbling, mostly acrylic, often about rakes."
         if cat == "paper":
             desc = "on my ever growing infatuation with all the varieties of the world."
+        if cat == "projects":
+            desc = "standalone projects with a concrete end result."
 
         return "> " + desc + "\n"
 

@@ -1,4 +1,4 @@
-paper > momigami;paper > clothing;marbling;materials > konnyaku;marbling > rakes
+paper > momigami;paper > clothing;marbling;materials > konnyaku;marbling > rakes;projects
 
 *Make sure to take pictures*
 
