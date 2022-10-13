@@ -1013,7 +1013,7 @@ The root in AOR gets swapped out for _იყო_ and 3SG adds and _-ს_.
 
 The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria, p180](#kiziria)</cite> Kurtsikidze also mentions that the optative plural is used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
 
-It often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. When მოდი is used, the following verb is in 3pl. When used independently in questions, it gives the sense of "should/shall ... ?".
+It often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. When used independently in questions, it gives the sense of "should/shall ... ?".
 
 --EX--
 მინდა ქართული ენა ვისწავლო.

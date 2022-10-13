@@ -34,3 +34,4 @@
 * _Kigami and Kami-ito_ - Hiroko Karuno
 * _The Chinese Unicorn: Notes from a Chinese Dictionary_ - Anthony Blond
 * _A Song of Praise for Shifu_ - Susan J. Byrd
+* _The Aztec and Maya Papermakers_ - Victor Wolfgang von Hagen

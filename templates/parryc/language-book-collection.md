@@ -30,7 +30,7 @@ Danish – 3
 Dutch – 9
 English – 179
 Finnish – 2
-French – 12
+French – 14
 Georgian – 21
 German – 8
 Hawaiian – 1
@@ -40,7 +40,7 @@ Hindustani – 1
 Hungarian – 4
 Icelandic – 2
 Ilongo – 1
-Inuktitut – 1
+Inuktitut – 2
 Irish – 1
 Italian – 1
 Japanese – 12
@@ -67,7 +67,7 @@ Māori – 1
 Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 11
+Multiple Languages – 12
 Norse – 1
 Ojibwe – 3
 Okanagan – 1
@@ -101,8 +101,8 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 9
-Coursebook – 44
-Dictionary – 83
+Coursebook – 46
+Dictionary – 84
 Grammar – 45
 Phrasebook – 21
 Study – 19
@@ -333,6 +333,9 @@ Dictionary of the West Greenland Eskimo Language
 
 English-Eskimo Eskimo-English Dictionary
 : Arthur Thibert, Revised edition, Canadian Reserach Centre for Anthropology, 1970. <tag>inuktitut→english</tag> <tag>dictionary</tag>
+
+Conversation Inuit
+: Dolores Ortiz and Luisa Kanarjuaq, Les Press de l'Université Laval, 1993. <tag>inuktitut→french</tag> <tag>coursebook</tag>
 
 #### Yup'ik
 
@@ -639,6 +642,9 @@ China Phrasebook
 The Languages of the Seat of War
 : Max Müller, Longman, Brown, Green, and Longmans, 1854. <tag>study</tag>
 
+Dictionary of the Queer International
+: ed. Yevgeniy Fiks, P.S. Guelph, 2020. <tag>dictionary</tag>
+
 ### Na-Dene
 
 #### Tlingit
@@ -724,6 +730,9 @@ Essential French Grammar
 
 Harrap's French and English Pocket Dictionary
 : ed. Isabelle Elkaim and Stuart Fortey, McGraw-Hill, 2004. <tag>french→english</tag> <tag>dictionary</tag>
+
+Le Québécois en 10 Leçons
+: Alexandre Coutu, n. p., n.d. <tag>french→french</tag> <tag>coursebook</tag>
 
 #### Italian
 
