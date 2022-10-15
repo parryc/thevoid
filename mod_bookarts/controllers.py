@@ -58,7 +58,7 @@ def image_with_folder(folder, image):
 @mod_bookarts.route("/images/<image>", host=_host)
 def image(image):
     return send_from_directory(
-        os.path.join(current_app.root_path, "static/images"), image
+        os.path.join(current_app.root_path, "static/images/bookarts"), image
     )
 
 
@@ -82,7 +82,7 @@ def posts():
 
     def _category_description(cat):
         desc = ""
-        if cat == "investigations":
+        if cat == "experiments":
             desc = (
                 "research into various aspects of the craft. "
                 "may be tedious or might answer questions you have as well."
