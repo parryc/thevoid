@@ -1,11 +1,10 @@
 {% extends '/base.html' %}
 {% block page_css %}
     <link rel="stylesheet" href="/css/bookarts.css"/>
-    <link rel="preload" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Regular.ttf.woff2" as="font" type="font/woff2" crossorigin/>
-    <link rel="preload" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Medium.ttf.woff2" as="font" type="font/woff2" crossorigin/>
-    <link rel="prefetch" href="/css/fonts/bpg-ingiri/bpg-ingiri-webfont.woff2" as="font" type="font/woff2" crossorigin/>
-    <link rel="prefetch" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-Bold.ttf.woff2" as="font" type="font/woff2" crossorigin/>
-    <link rel="prefetch" href="/css/fonts/source-code-pro/WOFF2/TTF/SourceCodePro-It.ttf.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="/css/fonts/bookarts/EditaSmallText-Regular.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="/css/fonts/bookarts/Arlette-Bold.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/bookarts/EditaSmallText-Regular.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/bookarts/Arlette-Bold.woff2" as="font" type="font/woff2" crossorigin/>
 
     {% assets "bookarts_css" %}
         <!--force assets to compile, while Flask fixes multi-host bug-->

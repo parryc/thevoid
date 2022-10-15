@@ -31,7 +31,7 @@ def _t(title):
 def favicon():
     return send_from_directory(
         os.path.join(current_app.root_path, "static"),
-        "favicon.ico",
+        "favicon_baba.ico",
         mimetype="image/vnd.microsoft.icon",
     )
 

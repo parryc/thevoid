@@ -1,0 +1,23 @@
+@font-face{
+    font-family: 'Edita';
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+    src: url('/css/fonts/bookarts/EditaSmallText-Regular.woff2') format('woff2'),
+         url('/css/fonts/bookarts/EditaSmallText-Regular.woff') format('woff'),
+         url('/css/fonts/bookarts/EditaSmallText-Regular.eot') format('embedded-opentype'),
+         url('/css/fonts/bookarts/EditaSmallText-Regular.svg') format('svg');
+    font-display: swap;
+}
+
+@font-face{
+    font-family: 'Arlette';
+    font-weight: 200;
+    font-style: bold;
+    font-stretch: normal;
+    src: url('/css/fonts/bookarts/Arlette-Bold.woff2') format('woff2'),
+         url('/css/fonts/bookarts/Arlette-Bold.woff') format('woff'),
+         url('/css/fonts/bookarts/Arlette-Bold.eot') format('embedded-opentype'),
+         url('/css/fonts/bookarts/Arlette-Bold.svg') format('svg');
+    font-display: swap;
+}
