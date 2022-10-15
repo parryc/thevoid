@@ -7,9 +7,9 @@ marbling > rakes
 1. square wooden dowel
 2. a drill with appropriate bits
 3. marking tool(s)
-4. welding rods (or other easily cut small diameter rods)
+4. welding rods (or other easily cut small diameter rods) – i have used [these aluminum rods from McMaster-Carr](https://www.mcmaster.com/catalog-128%2f3735/) with success
 
-for a nonpareil, make sure to use tines less than or equal to 5⧸64". i've found that 3⧸32" diameter tines are prone to pushing the carageenan in undesirable ways.
+for a nonpareil, make sure to use tines less than or equal to 1⧸16". i've found that 3⧸32" diameter tines are prone to pushing the carageenan in undesirable ways.
 
 # steps
 

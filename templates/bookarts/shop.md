@@ -17,7 +17,7 @@ i'm open for commissions related to marbling, marbling rake-making, and bookbind
 ## marbling tools
 
 - any length and any spacing and any thickness tine
-- check out [examples of marbling rakes](/posts/marbling/rakes) for ideas!
+- check out [examples of marbling rakes](/posts#rakes) for ideas!
 
 ## bookbinding
 
