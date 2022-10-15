@@ -51,7 +51,7 @@ def css(css):
 @mod_bookarts.route("/images/<folder>/<image>", host=_host)
 def image_with_folder(folder, image):
     return send_from_directory(
-        os.path.join(current_app.root_path, "static/images", folder), image
+        os.path.join(current_app.root_path, "static/images/bookarts", folder), image
     )
 
 

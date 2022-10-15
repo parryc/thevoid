@@ -4,7 +4,7 @@ work is currently done on a commission basis, with the exceptiong of marbling se
 
 # commissions
 
-i'm open for commissions related to marbling, marbling rake-making, and bookbinding. please reach out at `parry`@`bookartbook.art` if you have any questions!
+i'm open for commissions related to [marbling](marbling-examples), [marbling rake-making](/posts#rakes), and bookbinding. please reach out at `parry`@`bookartbook.art` if you have any questions!
 
 ## marbling
 
@@ -17,7 +17,6 @@ i'm open for commissions related to marbling, marbling rake-making, and bookbind
 ## marbling tools
 
 - any length and any spacing and any thickness tine
-- check out [examples of marbling rakes](/posts#rakes) for ideas!
 
 ## bookbinding
 
