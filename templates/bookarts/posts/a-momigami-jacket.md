@@ -31,7 +31,7 @@ this **must** be done before marbling, otherwise the wet konnyaku is likely to r
 
 # ② marble paper
 
-one of the hardest parts of making this jacket was coming up with a marbled pattern that would look OK when invariably goof up the sewing. this ruled out a lot of traditional rake-based pattern, which had the potential to clash if the directions looked weird. 
+one of the hardest parts of making this jacket was coming up with a marbled pattern that would look OK when i invariably goof up the sewing. this ruled out a lot of traditional rake-based pattern, which had the potential to clash if the directions looked weird. 
 
 a pattern like italian veins or some such probably could have worked, but i still wanted something that had a rake in it. to that end, i did a pattern i call "4 corners": ꙮ;→¼;↓¼;←¼;↑¼. this had the benefit of showing some clear rake usage, but also being conducive to mixing and matching marbled sheets since the pattern was quite "loose" (compared to, say, a normal nonpareil pattern).
 
@@ -47,17 +47,17 @@ since the paper we're using has been softened, it'll act more like fabric than p
 
 wash off the excess carageenan from the sheet and let dry. once dry you'll need to crumple the paper again to resoften it enough to sew with. maybe 5-15 minutes per sheet. an alternative, as discussed below, which i have not yet tried is to keep the kyoseishi stiff and then do the softening after marbling. i've crumpled an extra marbled sheet from this project for over an hour with no loss of color, so this might overall be a more efficient path.
 
-![sheets hanging to dry](momigami_jacket_hanging_sheets.jpg)
+![sheets hanging to dry](/images/momigami_jacket_hanging_sheets.jpg)
 
 # ③ making the jacket
 
 i'm definitely not a tailor of any sort, so if you are, i apologize in advance.
 
-i started by tracing out a jacket i had (which i have been informed is... likely to get you a 2D clothing item for your 3D body. which is sort of what happened here). in particular, it was a kendogi, which is a pretty simple short sleve jacket. once traced and the sections of the jacket determined (e.g. sleeves, frong and back pieces, etc.), i overlaid those parts on to my sheets to help determine the best way to divide up the kyoseishi i had.
+i started by tracing out a jacket i had (which i have been informed is... likely to get you a 2D clothing item for your 3D body. which is sort of what happened here). in particular, it was a kendogi, which is a pretty simple short sleeve jacket. once traced and the sections of the jacket determined (e.g. sleeves, front and back pieces, etc.), i overlaid those parts on to my sheets to help determine the best way to divide up the kyoseishi i had.
 
 luckily, at the local art store's sidewalk sale they had really cheap thai-kozo based kyoseishi. very light, easily ripped, but had the same textile-like flop of the kyoseishi. this made for a fantastic paper to use for a test run of my design.
 
-![test run with thai kozo kyoseishi](momigami_jacket_practice.jpg)
+![test run with thai kozo kyoseishi](/images/momigami_jacket_practice.jpg)
 
 my wife helped make some tweaks to the cut and design and i was back downstairs to sew with the actual kyoseishi. as you can tell in the picture at the top, i used some raw kyoseishi (that is, no additional treatment from me) for accent on the shoulders. unfortunately, this was also the weakest area – there's currently a 6" rip in one shoulder where the untreated kyoseishi ripped at the seam.
 

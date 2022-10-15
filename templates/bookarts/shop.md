@@ -4,7 +4,7 @@ work is currently done on a commission basis, with the exceptiong of marbling se
 
 # commissions
 
-i'm open for commissions related to [marbling](marbling-examples), [marbling rake-making](/posts#rakes), and bookbinding. please reach out at `parry`@`bookartbook.art` if you have any questions!
+i'm open for commissions related to [marbling](marbling-examples), [marbling rake-making](/posts#rakes), and bookbinding. please reach out at _parry@bookartbook.art_ if you have any questions!
 
 ## marbling
 

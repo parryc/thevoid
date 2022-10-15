@@ -13,11 +13,11 @@ for a nonpareil, make sure to use tines less than or equal to 1⧸16". i've foun
 
 # steps
 
-i've only used a handdrill and divider to mark out and drill the holes, so if you have fancier tools, you may have a different method. rod length will be determined by the depth of the tray and your personal comfort in how high you want to hold the rod off the edges of the tray. for a 1" deep tray, a 1" - 2" long tine is probably sufficent, not including the depth of the hole in the wood.
+i've only used a handdrill and divider to mark out and drill the holes, so if you have fancier tools, you may have a different method. rod length will be determined by the depth of the tray and your personal comfort in how high you want to hold the rod off the edges of the tray. for a 1" deep tray, a 1" - 2" long tine is probably sufficient, not including the depth of the hole in the wood.
 
 1. find the center line of your dowel
 2. set your divider to the tine width and mark out holes at each interval
-3. set your drill bit to the depth needed (maybe half the depth of the dowl)
+3. set your drill bit to the depth needed (maybe half the depth of the dowel)
 4. drill drill away! it's not super important for everything to be exactly on the centerline, but it looks nicer that way
 5. cut your rods to length
 6. lightly hammer a few tines
@@ -32,7 +32,7 @@ rakes have two main measurements: tine width/frequency (e.g. every 1") and tine 
 
 generally speaking, if the tine width is high and the tine diameter is high enough, the rake functions more like a solid piece, rather than a comb. this is especially prominent in some nonpareil designs, where carageenan is liable to be pushed.
 
-the negative effect of this can be compounded when the rake does not extend the full length of the tray. in this case, when the tines are too frequent and too large of a diameter, the rake will act much like a boat going through water. that is, rather than allowing the water to flow through, as if with a seive, the carageenan is mostly pushed to the side and flows around the rake, making a wake. this is sometimes a desirable effect.
+the negative effect of this can be compounded when the rake does not extend the full length of the tray. in this case, when the tines are too frequent and too large of a diameter, the rake will act much like a boat going through water. that is, rather than allowing the water to flow through, as if with a sieve, the carageenan is mostly pushed to the side and flows around the rake, making a wake. this is sometimes a desirable effect.
 
 # some pictures
 

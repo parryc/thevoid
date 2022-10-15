@@ -6,7 +6,7 @@ kyoseishi (強制紙, きょうせいし, kyōseishi, enforced/strengthened pap
 
 konnyaku is also a foodstuff in japan – something like 99% of its production is for eating (it's pretty good – like fancy jello, i guess). under its "english" name of konjac, it is found in some skin products: yes, using this paste will make your hands super soft afterwards.
 
-why would you want to use kyoseishi, though? if you want stronger paper than normal (and are OK with a crumpled look). it is trivially easy to tear most commerically prepared kyoseishi, which may have only one or two coats of konnyaku on it. however, with up to 4, even the most wood-pulpy kyoseishi can be used [as clothing](a-momigami-jacket). if you have higher quality paper, then your kyoseishi will also be higher quality.
+why would you want to use kyoseishi, though? if you want stronger paper than normal (and are OK with a crumpled look). it is trivially easy to tear most commercially prepared kyoseishi, which may have only one or two coats of konnyaku on it. however, with up to 4, even the most wood-pulpy kyoseishi can be used [as clothing](a-momigami-jacket). if you have higher quality paper, then your kyoseishi will also be higher quality.
 
 # methods of kyoseishi preparation
 
@@ -37,7 +37,7 @@ once dry, crumple into a ball and simmer in a lime bath for 1 to 2 minutes. i re
 ## matsumoto method
 
 Taken from _A Song of Praise for Shifu_ by Susan J. Byrd, pg 227.
-> She [Matsumoto] explained the method of making thick sheets of crumpled paper that she uses in her work as follows. Two sheets of _kōzo_ paper are placed one on top of the other and immersed in water. After the papers have sufficiently absorbed the water, they are removed, the water is squeezed out, then the paper is crumpled and tossed for the duration of two hours. After two hours, the papers adhere to each other. Some of the papers she has used were coated with fermented persmimmon juice, which adds strength and water-resistance.
+> She [Matsumoto] explained the method of making thick sheets of crumpled paper that she uses in her work as follows. Two sheets of _kōzo_ paper are placed one on top of the other and immersed in water. After the papers have sufficiently absorbed the water, they are removed, the water is squeezed out, then the paper is crumpled and tossed for the duration of two hours. After two hours, the papers adhere to each other. Some of the papers she has used were coated with fermented persimmon juice, which adds strength and water-resistance.
 
 i tried this method with two sheets of 100% thai kozo:
 
@@ -66,11 +66,11 @@ momigami is strong, textile-like paper that is the result of repeated crumpling 
 my method for crumpling is a follows:
 
 1. first prepare by rolling in a tube - short wise, flip sides, long wise, flip sides, diagonally, flip sides – scrunching lightly each way. this is my attempt to reduce tearing, which seems to occur when one crumples willy-nilly with a still-stiff sheet.
-2. after loosening up the sheet, the method is to start at a corner, scrunch up by pulling in the paper, then spreading it out and smoothing the creases. repeat until soft enough – shouldn't feel startchy.
+2. after loosening up the sheet, the method is to start at a corner, scrunch up by pulling in the paper, then spreading it out and smoothing the creases. repeat until soft enough – shouldn't feel starchy.
 
 a good indication you are into the "soft" phase of the paper is when, when rolled into a tube, it is easy to squish the tube inwards, that is if there where a tube roller inside the rolled up paper, you could squish inwards along the tube.
 
-other write ups on momigami will mention the importance of rubbing the paper against itself (e.g. folding lightly in half and rubbing the touching parts). i incorporate this too, but since i mostly do the crumpling while walking, it's a bit harder to do consistenly and effectively.
+other write ups on momigami will mention the importance of rubbing the paper against itself (e.g. folding lightly in half and rubbing the touching parts). i incorporate this too, but since i mostly do the crumpling while walking, it's a bit harder to do consistently and effectively.
 
 # quotes on kyoseishi
 

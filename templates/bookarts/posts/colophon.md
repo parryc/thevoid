@@ -1,0 +1,3 @@
+uncategorized
+
+this website is hosted on a Flask server from [gandi.net](https://gandi.net). all pages are written in markdown and displayed to you in 100% all-natural, grade A <abbr>HTML</abbr>. text is in Edita Small Text and headers are in Arlette Bold, both of which are from [TypeTogether](https://type-together.com). there is no javascript anywhere on this site and similarly there are no trackers because i honestly don't really care about knowing anything about your online presence.
