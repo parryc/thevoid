@@ -109,7 +109,7 @@ def posts():
         folder = os.path.join(os.getcwd(), "templates", "bookarts", "posts")
     categories = {}
     for file in os.scandir(folder):
-        with open(file.path) as f:
+        with codecs.open(file.path, mode="r", encoding="utf-8") as f:
             file_tags = f.readlines()[0].strip().split(";")
 
         for tag in file_tags:
