@@ -9,7 +9,7 @@ marbling > rakes
 3. marking tool(s)
 4. welding rods (or other easily cut small diameter rods) – i have used [these aluminum rods from McMaster-Carr](https://www.mcmaster.com/catalog-128%2f3735/) with success
 
-for a nonpareil, make sure to use tines less than or equal to 1⧸16". i've found that 3⧸32" diameter tines are prone to pushing the carageenan in undesirable ways.
+for a nonpareil, make sure to use tines less than or equal to 1⧸16". i've found that 3⧸32" diameter tines are prone to pushing the carrageenan in undesirable ways.
 
 # steps
 
@@ -28,11 +28,11 @@ the tines are pretty easy to remove with a pliers, so don't worry if some tines 
 
 # miscellaneous notes
 
-rakes have two main measurements: tine width/frequency (e.g. every 1") and tine diameter (e.g. 3⧸32" diameter rods). one could consider tine length, but i've found that it doesn't really matter – in theory one could have a rake such that the barest amount of the tine touches the carageenan.
+rakes have two main measurements: tine width/frequency (e.g. every 1") and tine diameter (e.g. 3⧸32" diameter rods). one could consider tine length, but i've found that it doesn't really matter – in theory one could have a rake such that the barest amount of the tine touches the carrageenan.
 
-generally speaking, if the tine width is high and the tine diameter is high enough, the rake functions more like a solid piece, rather than a comb. this is especially prominent in some nonpareil designs, where carageenan is liable to be pushed.
+generally speaking, if the tine width is high and the tine diameter is high enough, the rake functions more like a solid piece, rather than a comb. this is especially prominent in some nonpareil designs, where carrageenan is liable to be pushed.
 
-the negative effect of this can be compounded when the rake does not extend the full length of the tray. in this case, when the tines are too frequent and too large of a diameter, the rake will act much like a boat going through water. that is, rather than allowing the water to flow through, as if with a sieve, the carageenan is mostly pushed to the side and flows around the rake, making a wake. this is sometimes a desirable effect.
+the negative effect of this can be compounded when the rake does not extend the full length of the tray. in this case, when the tines are too frequent and too large of a diameter, the rake will act much like a boat going through water. that is, rather than allowing the water to flow through, as if with a sieve, the carrageenan is mostly pushed to the side and flows around the rake, making a wake. this is sometimes a desirable effect.
 
 # some pictures
 

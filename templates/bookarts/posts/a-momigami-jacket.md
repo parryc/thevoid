@@ -45,7 +45,7 @@ since the paper we're using has been softened, it'll act more like fabric than p
 
 ![rolling a sheet over the tank](/images/momigami_jacket_rolling_sheet.jpg)
 
-wash off the excess carageenan from the sheet and let dry. once dry you'll need to crumple the paper again to resoften it enough to sew with. maybe 5-15 minutes per sheet. an alternative, as discussed below, which i have not yet tried is to keep the kyoseishi stiff and then do the softening after marbling. i've crumpled an extra marbled sheet from this project for over an hour with no loss of color, so this might overall be a more efficient path.
+wash off the excess carrageenan from the sheet and let dry. once dry you'll need to crumple the paper again to resoften it enough to sew with. maybe 5-15 minutes per sheet. an alternative, as discussed below, which i have not yet tried is to keep the kyoseishi stiff and then do the softening after marbling. i've crumpled an extra marbled sheet from this project for over an hour with no loss of color, so this might overall be a more efficient path.
 
 ![sheets hanging to dry](/images/momigami_jacket_hanging_sheets.jpg)
 

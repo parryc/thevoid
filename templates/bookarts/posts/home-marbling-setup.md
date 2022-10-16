@@ -31,8 +31,8 @@ in order of usefulness (in my opinion) of the standard combs:
 
 # additional materials
 
-- carageenan (if you're not buying from an existing marbler, make sure to get lambda carageenan (versus iota or kappa – they will not work))
-  - it is important that the carageenan, after sitting overnight (or however many hours you have for it to sit), it is allowed to warm up to room temperature. cold(ish) carageenan can cause all sorts of weird problems with paint.
+- carrageenan (if you're not buying from an existing marbler, make sure to get lambda carrageenan (versus iota or kappa – they will not work))
+  - it is important that the carrageenan, after sitting overnight (or however many hours you have for it to sit), it is allowed to warm up to room temperature. cold(ish) carrageenan can cause all sorts of weird problems with paint.
 - alum (make sure it's pure alum)
   - some way to spray and spread the alum on the paper. i bought a microfiber mitt and spray bottle from [the chemical guys](https://www.chemicalguys.com), a car detailing supply company
 - some sort of plastic board for washing papers off (i found the corrugated plastic boards in the acrylic section at menards work well)
@@ -40,9 +40,9 @@ in order of usefulness (in my opinion) of the standard combs:
 
 ## soap-less equipment
 
-in a perfect setup the tools here would always be soap free, to prevent carageenan contamination, but i think you could get away with just being really thorough in washing if soap does touch them.
+in a perfect setup the tools here would always be soap free, to prevent carrageenan contamination, but i think you could get away with just being really thorough in washing if soap does touch them.
 
-- bucket for carageenan (unless you're working with large format, 1 or 2 gal is probably enough)
+- bucket for carrageenan (unless you're working with large format, 1 or 2 gal is probably enough)
 - blender
 - liquid measuring cup
 - dry measuring spoons
