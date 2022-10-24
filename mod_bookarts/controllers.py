@@ -82,6 +82,8 @@ def posts():
 
     def _category_description(cat):
         desc = ""
+        if cat == "bookbinding":
+            desc = "creating that delicious sandwich of two covers and a bookblock"
         if cat == "experiments":
             desc = (
                 "research into various aspects of the craft. "
