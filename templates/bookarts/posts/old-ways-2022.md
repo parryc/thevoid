@@ -13,28 +13,28 @@ if there's one thing i hope you take away from the notes below is what Jim was w
 # pictures
 
 * the deer skins, doug and darryl
-![doug and darryl](/images/old-ways/doug-and-darryl.JPG)
+<img loading="lazy" src="/images/old-ways/doug-and-darryl.JPG"/>
 
 * Jim and Melody, on our last day
-![jim and melody](/images/old-ways/jim-and-melody.JPG)
+<img loading="lazy" src="/images/old-ways/jim-and-melody.JPG"/>
 
 * our paper!
-![paper-in-the-workshop](/images/old-ways/paper-in-the-workshop.JPG)
+<img loading="lazy" src="/images/old-ways/paper-in-the-workshop.JPG"/>
 
 * some paper drying
-![some paper drying](/images/old-ways/some-paper-drying.JPG)
+<img loading="lazy" src="/images/old-ways/some-paper-drying.JPG"/>
 
 * the finished book
-![the book](/images/old-ways/the-book.JPG)
+<img loading="lazy" src="/images/old-ways/the-book.JPG"/>
 
 * the house in the morning
-![the house at morning](/images/old-ways/the-house-at-morning.JPG)
+<img loading="lazy" src="/images/old-ways/the-house-at-morning.JPG"/>
 
 * the treehouse i slept in
-![the treehouse](/images/old-ways/the-treehouse.JPG)
+<img loading="lazy" src="/images/old-ways/the-treehouse.JPG"/>
 
 * the view from the outhouse
-![the view from the outhouse](/images/old-ways/the-view-from-the-outhouse.JPG)
+<img loading="lazy" src="/images/old-ways/the-view-from-the-outhouse.JPG"/>
 
 # covers
 
