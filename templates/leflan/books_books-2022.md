@@ -35,3 +35,6 @@
 * _The Chinese Unicorn: Notes from a Chinese Dictionary_ - Anthony Blond
 * _A Song of Praise for Shifu_ - Susan J. Byrd
 * _The Aztec and Maya Papermakers_ - Victor Wolfgang von Hagen
+* _Our America, Nuestra América, Unsere Amerika_ - Claudio Lomnitz
+* _Le Maya Q'atzij / Our Maya World_ - Emil' Keme
+* _The Village of Eight Graves_ - Seishi Yokomizo

@@ -212,7 +212,6 @@ def get_html(page, md=None):
             )  # skip first line, where metadata lies
         if page == "index.md":
             text += _recent()
-            print(_recent())
         if md:
             text += md
     except:
