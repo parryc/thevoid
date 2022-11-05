@@ -1264,7 +1264,7 @@ Change the ending of PSTSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3
 
 **_მ-class_**
 
-Change the ending of PRSSBJV to be _-ეს_, except for _-ეთ_ for 2PL and 3PL.
+Change the ending of PSTSBJV to be _-ეს_, except for _-ეთ_ for 2PL and 3PL.
 
 * გახარებოდა wanted to be happy → გახარდებოდეს may s/he be happy (as in a toast)
 
