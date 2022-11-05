@@ -1013,7 +1013,9 @@ The root in AOR gets swapped out for _იყო_ and 3SG adds and _-ს_.
 
 The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria, p180](#kiziria)</cite> Kurtsikidze also mentions that the optative plural is used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
 
-It often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. When used independently in questions, it gives the sense of "should/shall ... ?".
+The OPT often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. When used independently in questions, it gives the sense of "should/shall ... ?".
+
+It should also be noted that when paired with `უნდა:wants`, motion verbs are left as the masdar. That is, <ex>_მინდოდა წასვლა_ ⧸ I had wanted to go</ex>, rather than _მინდოდა წავიდე_. This construction of _უნდა.AOR_ + _motion verb.masdar_ has a very similar meaning as _უნდა.AOR_ + _motion verb.PSTSBJV_. The difference, however, is that the form with PSTSBJV implies a wish that the action had occurred, but it did not, whereas the non-PSTSBJV form is neutral.
 
 --EX--
 მინდა ქართული ენა ვისწავლო.
@@ -1205,7 +1207,7 @@ As you may guess from the 2nd function and Ⓗ's naming, this could tense could 
 
 These hypothetical conditionals are often formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSUBJ. This type of conditional sentence is always marked with _რომ_ in the second clause.
 
-When not in a conditional sentence, it is often used with `უნდა:want/have to` or `შეიძლება:is able` to indicate it is an action that was supposed to happened, but did not.
+When not in a conditional sentence, it is often used with `უნდა:want/have to` or `შეიძლება:is able` to indicate it is an action that was supposed to happened, but did not. Compare _მინდოდა წავსულიყავი_ and _წავსულიყავი_. Both express a wish that the action had been done (e.g. going), but the addition of `მინდოდა:I had wanted` implies a sense that the action was more desirous than the other formation. One could loosely translated them as _I had wanted to have gone_/_I had wanted to go_ and _If I had gone_.
 
 If the sentence describes an action that occurred in the past, but prior to some established time frame (function 2), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?"
 
@@ -1246,11 +1248,11 @@ This tense named by [Corbin Dewitt](corbindewitt.com).
 
 ### How to Form: DU
 
-<attn>✎ Derived from PRSSBJV, has preverb</attn>
+<attn>✎ Derived from PSTSBJV, has preverb</attn>
 
 **_ვ-class transitive and intransitive_**
 
-Change the ending of PRSSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3PL.
+Change the ending of PSTSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3PL.
 
 * გაეკეთა, wanted to do → გაეკეთოს, may s/he do it (as in a toast)
 
@@ -1579,6 +1581,23 @@ AOR    | წავედი  | მივედი
 Generally speaking, the _წა-_ form is more common and should be the default, especially for the FUT screeve forms (FUT, COND, FUTSBJV) and AOR. It **cannot** be used in the PRS or related screeves, as the form simply does not exist.
 
 The _მი-_ form should be used when emphasizing the destination (<ex>_მივიდა სკოლაში_ ⧸ He went to the store</ex>), in the PRS screeve (PRS, IMPERF, PRSSBJV), or IMP (<ex>_მიდი მიდი მიდი!_ ⧸ go, go, go!</ex>).
+
+## I'm seeing some strange forms of "to be", what are they?
+
+Georgian has two honorific/polite verb forms for "to be". While they are normally used between strangers or colleagues in formal settings (such as a shopkeeper and a customer, or at a conference), they can also be used ironically between friends. Those with the _-ხლ-_ root have a noticable 2nd person object marker (_გ-_) and as such, don't have a 2nd person form. These ones could more closely be translated as "to you I am/she is" etc. Similarly, while a 2SG form exists, it is more often to hear someone use 2PL, as it has a stronger politeness connotation.
+
+To help illustrate, in the table below the neutral form (as listed in the above sections) is also included.
+
+person | neutral | polite
+-------|---------|--------
+1SG    | ვარ     | გახლავართ
+2SG    | ხარ     | ბრძანდები
+3SG    | არის    | გახლავთ/ბრძანდება
+1PL    | ვართ    | გახლავართ
+2PL    | ხართ    | ბრძანდებით
+3PL    | არიან   | გახლავან
+
+The AOR forms are _ახლდა_ and _ბრძანდებოდა_.
 
 # Resources
 

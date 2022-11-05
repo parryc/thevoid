@@ -663,18 +663,22 @@ See also [DBK, pg293](#DBK).
 * àrti - close to
 * bè - without
 * daug - a lot of
+* daugiau - more of
 * dėl - due to
 * iki - to
 * įstižai - diagonal
 * iš - out of; from (a place – see _nuo_); since (movement from in to out)
+* keletas - several of
 * link - towards
 * mažai - a bit of
+* mažiau - fewer of
 * nuõ - from (a surface, outside of - no movement), paired with _iki_ for time or list-like expressions like "from... to..."
 * põ - after
 * prie - next to
     * Some locations use _prie_ rather than _į_ when the physical act of being at the location is next to it, rather than in it. For example, _Aš važiouju prie vandenyno_ vs. _Aš važiouju į vandenyną_ (I traveled [to be] next to the ocean vs. I traveled into the ocean).
 * skersai̇̃ - across
 * tarp - between
+* truputas - a little bit of
 * vidury - in the middle of
 * vietoj - instead of
 
@@ -827,8 +831,10 @@ Pronominal (also known as "definite" or "norminal") adjectives serve two functio
 
 As with normal adjectives, pronominal adjectives also match in case, gender, and number. The declensions for pronominal adjectives are based on the adjectival declension. That is, a first declension adjective follows the first declension list below. Third declension adjectives cannot form pronominal adjectives.
 
+In formal speech, questions that expect a year as an answer (such as when someone was born) will be answered with the final number of the year as a pronominal adjective.
+
 --EX--
-Baltoji Drobulė
+Baltoji Drobulėr
 The White Shroud // by Škėma
 --ENDEX--
 
@@ -888,7 +894,9 @@ Similar to normal adjectives, the 2nd declension often has an _-i-_ at the begin
 ## Comparison
 
 Comparative ends in _-iau_, superlative ends in _-iausia_
-: gerai > geriau > geriausia
+: gerai (well) > geriau (better) > geriausia (the best)
+
+Some words allow for the diminutive to be added, implying a "little X", ex. adding _-ėl-_ to _geriau_ gives _gerėliau_ ("a little better").
 
 ## Formation
 
