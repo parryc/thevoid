@@ -1302,7 +1302,7 @@ An uncommonly used tense, restricted mostly to things a drunk uncle would do: ta
 
 --EX--
 არ მახსოვს, რამე ნორმალურად ეთქვის ან გაეკეთებინოს.
-I didn't remeber what he normally had said or what he had been made to do. // გაეკეთებინოს is in DU as an action not remembered, _მოგზაურობა ყარაბაღში_
+I didn't remember anything normal he had said or had had done. // გაეკეთებინოს is in DU as an action not remembered and "to do" is a causative form. _მოგზაურობა ყარაბაღში_
 --ENDEX--
 
 # Common Sentence Patterns
