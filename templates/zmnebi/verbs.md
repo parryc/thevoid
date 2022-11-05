@@ -1236,7 +1236,7 @@ I was supposed to go (but didn't).
 
 > Ⓚ: 3rd Subjunctive
 Ⓗ: Perfect Subjunctive
-Ⓞ: მესამე კავშირებითი
+Ⓞ: მესამე კავშირებითი, Conjunctive Perfect
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -1302,7 +1302,7 @@ An uncommonly used tense, restricted mostly to things a drunk uncle would do: ta
 
 --EX--
 არ მახსოვს, რამე ნორმალურად ეთქვის ან გაეკეთებინოს.
-I didn't remeber what he normally had said or what he had done. // გაეკეთებინოს is in DU as an action not remembered, მოგზაურობა ყარაბაღში
+I didn't remeber what he normally had said or what he had been made to do. // გაეკეთებინოს is in DU as an action not remembered, _მოგზაურობა ყარაბაღში_
 --ENDEX--
 
 # Common Sentence Patterns
