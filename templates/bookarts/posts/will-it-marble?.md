@@ -22,6 +22,8 @@ when only the product ID is known, or the product's name is generic, the store p
 - stonehenge lw ⭕️
 - arches text wove ⭕️
 - domestic etching ⭕️
+- st. armand hemp ⭕️
+- st. armand sisal ⭕️
 - arturo 🤷‍♀ (can take some practice to place without air bubbles)
 - yupo ❌ (very plasticy)
 
@@ -30,7 +32,8 @@ when only the product ID is known, or the product's name is generic, the store p
 some work, some don't. it tends to be quite easy to get air bubbles due to the stiffness. my own handmade paper says more about who made it (only me, at <abbr>MCBA</abbr> vs. with help from jim croft at _old ways 2022_).
 
 - old ways 2022 ⭕
-- st. armand ❌ (hard to get good coverage, but the colors can really pop on the white)
+- atelier ailles ⭕
+- st. armand ❌ (hard to avoid bubbles due to the non-flat drying, but the colors can really pop on the white)
 - vinczemill ❌
 - <abbr>MCBA</abbr> western papermaking class ❌
 - <abbr>MCBA</abbr> japanese papermaking class ❌

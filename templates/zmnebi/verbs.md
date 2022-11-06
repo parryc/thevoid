@@ -1252,15 +1252,15 @@ This tense named by [Corbin Dewitt](corbindewitt.com).
 
 **_ვ-class transitive and intransitive_**
 
-Change the ending of PSTSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3PL.
+Change the ending of PSTSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3PL. Some verbs ending in _-ებს_ in the 3SG.PRS will include _-ებინ-_ before the person endings. This is marked in parentheses below, as the more common form for _აკეთებს_ is the longer form (as in the example sentence).
 
 * გაეკეთა, wanted to do → გაეკეთოს, may s/he do it (as in a toast)
 
 &nbsp; |SG  |PL
 -|----------|--
-1|**გამ**ეკეთოს|**გაგვ**ეკეთოს
-2|**გაგ**ეკეთოს|**გაგ**ეკეთო**თ**
-3|**გა**ეკეთოს|**გა**ეკეთო**თ**
+1|**გამ**ეკეთ(ებინ)ოს|**გაგვ**ეკეთ(ებინ)ოს
+2|**გაგ**ეკეთ(ებინ)ოს|**გაგ**ეკეთ(ებინ)ო**თ**
+3|**გა**ეკეთ(ებინ)ოს|**გა**ეკეთ(ებინ)ო**თ**
 
 **_მ-class_**
 
@@ -1301,8 +1301,8 @@ The root becomes _ყოფილიყო_ and follows the normal ვ-class end
 An uncommonly used tense, restricted mostly to things a drunk uncle would do: talking about past actions the speaker has no memory of doing and giving toasts.
 
 --EX--
-არ მახსოვს, რამე ნორმალურად ეთქვის ან გაეკეთებინოს.
-I didn't remember anything normal he had said or had had done. // გაეკეთებინოს is in DU as an action not remembered and "to do" is a causative form. _მოგზაურობა ყარაბაღში_
+არ მახსოვს, რამე ნორმალურად ეთქვას ან გაეკეთებინოს.
+I didn't remember anything normal he had said or had done. // Both verbs are in DU as an action not remembered. _მოგზაურობა ყარაბაღში_
 --ENDEX--
 
 # Common Sentence Patterns
