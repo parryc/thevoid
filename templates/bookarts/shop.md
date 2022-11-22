@@ -4,7 +4,7 @@ work is currently done on a commission basis, with the exceptiong of marbling se
 
 # commissions
 
-i'm open for commissions related to [marbling](marbling-examples), [marbling rake-making](/posts#rakes), and bookbinding. please reach out at _parry@bookartbook.art_ if you have any questions!
+i'm open for commissions related to [marbling](marbling-examples), [marbling rake-making](/posts#rakes), and bookbinding. please reach out at _parry@bookartbook.art_ if you have any questions! trade, barter, or collabs preferred over monetary transfer (but i also accept that, too).
 
 ## marbling
 
@@ -12,7 +12,7 @@ i'm open for commissions related to [marbling](marbling-examples), [marbling rak
     - (and honestly just about anything else)
 - currently not accepting work for water-color-only techniques
 - available for edition work
-- marbling firsts are for sale – please reach out if interested 
+- marbling firsts (i.e. the cream i skim off the top of my personal work) are for sale – please reach out if interested
 
 ## marbling tools
 

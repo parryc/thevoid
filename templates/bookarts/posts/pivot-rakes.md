@@ -22,7 +22,7 @@ as you can see in the images of prints below, the ¼" is less complete (the line
 <picture><source srcset='/images/marbling/DSCF3424.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3424.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3424.webp' type='image/webp'/><img src='/images/marbling/DSCF3424.jpg' loading='lazy'/></picture>
 
 ½" rake
-<picture><source srcset='/images/marbling/half_inch_compass.avif' type='image/avif'/><source srcset='/images/marbling/half_inch_compass.jxl' type='image/jxl'/><source srcset='/images/marbling/half_inch_compass.webp' type='image/webp'/><img src='/images/marbling/half_inch_compass.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/half_inch_compass_2.avif' type='image/avif'/><source srcset='/images/marbling/half_inch_compass_2.jxl' type='image/jxl'/><source srcset='/images/marbling/half_inch_compass_2.webp' type='image/webp'/><img src='/images/marbling/half_inch_compass_2.jpg' loading='lazy'/></picture>
 
 ¼" rake
 <picture><source srcset='/images/marbling/quarter_inch_compass.avif' type='image/avif'/><source srcset='/images/marbling/quarter_inch_compass.jxl' type='image/jxl'/><source srcset='/images/marbling/quarter_inch_compass.webp' type='image/webp'/><img src='/images/marbling/quarter_inch_compass.jpg' loading='lazy'/></picture>
