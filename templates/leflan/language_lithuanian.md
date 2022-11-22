@@ -1161,6 +1161,8 @@ Aš nežinójau, kàd jis čià - _I didn't know that he is here_
 
 # Pronunciation
 
+<attn>These are assorted notes that still need some refinement to be generally useful. Perhaps they will aid you somewhat in the meantime!</attn>
+
 * Palatalized /_t_/ always becomes 'č' before a back vowel
 * Palatalized /_d_/ always becomes 'dž' before a back vowel
 * C<em>e</em>C : /e/
@@ -1188,16 +1190,25 @@ au
 : the "real" phonology is obviously much more complex than this, but what's listed is close enough. The main thing to know is that rising (̃) and accentless are pronounced the same.
 
 e
-: _ẽ_ = /æ/
+: _ẽ_ = /eː/
+: _ę_ = /æː/
 : _e_ = /ɛ/
 
 ei
-: _ei̇̃_ = /eɪ/
+: _ei̇̃_ = /ɛɪ/
 : _éi_ = /æɪ/
 
 eC (mixed dipthong)
 : _él_ = /æl/
 : _el̃_ = /ɛl/
+
+i
+: _i_ = /ɪ/
+: _į/y_ = /iː/
+
+u
+: _u_ = /ʊ/
+: _ų/ū_ = /uː/
 
 ### Accent shifting for nouns
 

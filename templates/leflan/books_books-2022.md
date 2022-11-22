@@ -38,3 +38,7 @@
 * _Our America, Nuestra América, Unsere Amerika_ - Claudio Lomnitz
 * _Le Maya Q'atzij / Our Maya World_ - Emil' Keme
 * _The Village of Eight Graves_ - Seishi Yokomizo
+* _Qummut Quikiria! Art, Culture, and Sovereignty Across Inuit Nunaat and Sápmi: Mobilizing the Circumpolar North_ - ed. Anna Hudson, Heather Igloliorte, and Jan-Erik Lundström
+* _Autonomy Is in Our Hearts: Zapatista Autonomous Government through the Lens of the Tsotsil Language_ - Dylan Eldredge Fitzwater
+* _Empire of the Feast_ - Bendi Barrett
+* _The Art of Marbling_ - Franz Weisse tr. Richard Wolfe

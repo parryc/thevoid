@@ -13,28 +13,28 @@ if there's one thing i hope you take away from the notes below is what Jim was w
 # pictures
 
 * the deer skins, doug and darryl
-<img loading="lazy" src="/images/old-ways/doug-and-darryl.JPG"/>
+<picture><source srcset='/images/old-ways/doug-and-darryl.avif' type='image/avif'/><source srcset='/images/old-ways/doug-and-darryl.jxl' type='image/jxl'/><source srcset='/images/old-ways/doug-and-darryl.webp' type='image/webp'/><img src='/images/old-ways/doug-and-darryl.jpg' loading='lazy'/></picture>
 
 * Jim and Melody, on our last day
-<img loading="lazy" src="/images/old-ways/jim-and-melody.JPG"/>
+<picture><source srcset='/images/old-ways/jim-and-melody.avif' type='image/avif'/><source srcset='/images/old-ways/jim-and-melody.jxl' type='image/jxl'/><source srcset='/images/old-ways/jim-and-melody.webp' type='image/webp'/><img src='/images/old-ways/jim-and-melody.jpg' loading='lazy'/></picture>
 
 * our paper!
-<img loading="lazy" src="/images/old-ways/paper-in-the-workshop.JPG"/>
+<picture><source srcset='/images/old-ways/paper-in-the-workshop.avif' type='image/avif'/><source srcset='/images/old-ways/paper-in-the-workshop.jxl' type='image/jxl'/><source srcset='/images/old-ways/paper-in-the-workshop.webp' type='image/webp'/><img src='/images/old-ways/paper-in-the-workshop.jpg' loading='lazy'/></picture>
 
 * some paper drying
-<img loading="lazy" src="/images/old-ways/some-paper-drying.JPG"/>
+<picture><source srcset='/images/old-ways/some-paper-drying.avif' type='image/avif'/><source srcset='/images/old-ways/some-paper-drying.jxl' type='image/jxl'/><source srcset='/images/old-ways/some-paper-drying.webp' type='image/webp'/><img src='/images/old-ways/some-paper-drying.jpg' loading='lazy'/></picture>
 
 * the finished book
-<img loading="lazy" src="/images/old-ways/the-book.JPG"/>
+<picture><source srcset='/images/old-ways/the-book.avif' type='image/avif'/><source srcset='/images/old-ways/the-book.jxl' type='image/jxl'/><source srcset='/images/old-ways/the-book.webp' type='image/webp'/><img src='/images/old-ways/the-book.jpg' loading='lazy'/></picture>
 
 * the house in the morning
-<img loading="lazy" src="/images/old-ways/the-house-at-morning.JPG"/>
+<picture><source srcset='/images/old-ways/the-house-at-morning.avif' type='image/avif'/><source srcset='/images/old-ways/the-house-at-morning.jxl' type='image/jxl'/><source srcset='/images/old-ways/the-house-at-morning.webp' type='image/webp'/><img src='/images/old-ways/the-house-at-morning.jpg' loading='lazy'/></picture>
 
 * the treehouse i slept in
-<img loading="lazy" src="/images/old-ways/the-treehouse.JPG"/>
+<picture><source srcset='/images/old-ways/the-treehouse.avif' type='image/avif'/><source srcset='/images/old-ways/the-treehouse.jxl' type='image/jxl'/><source srcset='/images/old-ways/the-treehouse.webp' type='image/webp'/><img src='/images/old-ways/the-treehouse.jpg' loading='lazy'/></picture>
 
 * the view from the outhouse
-<img loading="lazy" src="/images/old-ways/the-view-from-the-outhouse.JPG"/>
+<picture><source srcset='/images/old-ways/the-view-from-the-outhouse.avif' type='image/avif'/><source srcset='/images/old-ways/the-view-from-the-outhouse.jxl' type='image/jxl'/><source srcset='/images/old-ways/the-view-from-the-outhouse.webp' type='image/webp'/><img src='/images/old-ways/the-view-from-the-outhouse.jpg' loading='lazy'/></picture>
 
 # covers
 

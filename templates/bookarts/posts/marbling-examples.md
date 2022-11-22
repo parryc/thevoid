@@ -2,13 +2,13 @@ marbling
 
 some examples of marbled work. check out the [shop](/shop) if you're interested in acquiring any work! if you'd like a higher resolution or clearer photo, please let me know.
 
-![example of marbled paper](/images/marbling/DSCF3420.jpg)
-![example of marbled paper](/images/marbling/DSCF3421.jpg)
-![example of marbled paper](/images/marbling/DSCF3422.jpg)
-![example of marbled paper](/images/marbling/DSCF3423.jpg)
-![example of marbled paper](/images/marbling/DSCF3424.jpg)
-![example of marbled paper](/images/marbling/DSCF3425.jpg)
-![example of marbled paper](/images/marbling/DSCF3621.jpg)
-![example of marbled paper](/images/marbling/DSCF3622.jpg)
-![example of marbled paper](/images/marbling/DSCF3623.jpg)
-![example of marbled paper](/images/marbling/DSCF3625.jpg)
+<picture><source srcset='/images/marbling/DSCF3420.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3420.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3420.webp' type='image/webp'/><img src='/images/marbling/DSCF3420.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3421.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3421.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3421.webp' type='image/webp'/><img src='/images/marbling/DSCF3421.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3422.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3422.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3422.webp' type='image/webp'/><img src='/images/marbling/DSCF3422.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3423.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3423.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3423.webp' type='image/webp'/><img src='/images/marbling/DSCF3423.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3424.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3424.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3424.webp' type='image/webp'/><img src='/images/marbling/DSCF3424.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3425.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3425.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3425.webp' type='image/webp'/><img src='/images/marbling/DSCF3425.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3621.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3621.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3621.webp' type='image/webp'/><img src='/images/marbling/DSCF3621.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3622.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3622.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3622.webp' type='image/webp'/><img src='/images/marbling/DSCF3622.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3623.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3623.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3623.webp' type='image/webp'/><img src='/images/marbling/DSCF3623.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/DSCF3625.avif' type='image/avif'/><source srcset='/images/marbling/DSCF3625.jxl' type='image/jxl'/><source srcset='/images/marbling/DSCF3625.webp' type='image/webp'/><img src='/images/marbling/DSCF3625.jpg' loading='lazy'/></picture>

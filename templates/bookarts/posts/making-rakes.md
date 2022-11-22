@@ -38,8 +38,8 @@ the negative effect of this can be compounded when the rake does not extend the 
 
 some test holes, when first getting started
 
-![test holes with handdrill](/images/rake_handdrill.jpg)
+<picture><source srcset='/images/rake_handdrill.avif' type='image/avif'/><source srcset='/images/rake_handdrill.jxl' type='image/jxl'/><source srcset='/images/rake_handdrill.webp' type='image/webp'/><img src='/images/rake_handdrill.jpg' loading='lazy'/></picture>
 
 close up of a rod - this was made for a rather deep tray, hence the long length of tines
 
-![close up of marbling rod](/images/rake_closeup.jpg)
+<picture><source srcset='/images/rake_closeup.avif' type='image/avif'/><source srcset='/images/rake_closeup.jxl' type='image/jxl'/><source srcset='/images/rake_closeup.webp' type='image/webp'/><img src='/images/rake_closeup.jpg' loading='lazy'/></picture>

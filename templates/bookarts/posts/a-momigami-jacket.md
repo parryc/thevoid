@@ -10,7 +10,7 @@ this is a write up – of sorts – of making a marbled momigami jacket. what do
 
 the first jacket i made was in spring of 2022 to wear at a friend's wedding.
 
-![momigami jacket](/images/momigami_jacket.jpg)
+<picture><source srcset='/images/momigami_jacket.avif' type='image/avif'/><source srcset='/images/momigami_jacket.jxl' type='image/jxl'/><source srcset='/images/momigami_jacket.webp' type='image/webp'/><img src='/images/momigami_jacket.jpg' loading='lazy'/></picture>
 
 if you're attempting to follow along at home make sure you have a [home marbling setup](home-marbling-setup). feel free to send me an email if you have questions.
 
@@ -35,7 +35,7 @@ one of the hardest parts of making this jacket was coming up with a marbled patt
 
 a pattern like italian veins or some such probably could have worked, but i still wanted something that had a rake in it. to that end, i did a pattern i call "4 corners": ꙮ;→¼;↓¼;←¼;↑¼. this had the benefit of showing some clear rake usage, but also being conducive to mixing and matching marbled sheets since the pattern was quite "loose" (compared to, say, a normal nonpareil pattern).
 
-![pattern closeup](/images/momigami_jacket_closeup.jpg)
+<picture><source srcset='/images/momigami_jacket_closeup.avif' type='image/avif'/><source srcset='/images/momigami_jacket_closeup.jxl' type='image/jxl'/><source srcset='/images/momigami_jacket_closeup.webp' type='image/webp'/><img src='/images/momigami_jacket_closeup.jpg' loading='lazy'/></picture>
 
 the colors i used were: prussian blue with a bit of black (5 drops), pearl, pearl + red mica powder, pearl + gold mica + a little red mica (for a "rose gold" type color). the tank was flooded with prussian blue and the pearl + powder combinations were added as stones around the tank. i think it gives kind of a clouds-at-sunset sort of vibe.
 
@@ -43,11 +43,11 @@ the colors i used were: prussian blue with a bit of black (5 drops), pearl, pear
 
 since the paper we're using has been softened, it'll act more like fabric than paper. as such, it's best to roll the paper around a tube of some sort and then roll the tube over the tank, letting the paper slowly fall off and into the tank
 
-![rolling a sheet over the tank](/images/momigami_jacket_rolling_sheet.jpg)
+<picture><source srcset='/images/momigami_jacket_rolling_sheet.avif' type='image/avif'/><source srcset='/images/momigami_jacket_rolling_sheet.jxl' type='image/jxl'/><source srcset='/images/momigami_jacket_rolling_sheet.webp' type='image/webp'/><img src='/images/momigami_jacket_rolling_sheet.jpg' loading='lazy'/></picture>
 
 wash off the excess carrageenan from the sheet and let dry. once dry you'll need to crumple the paper again to resoften it enough to sew with. maybe 5-15 minutes per sheet. an alternative, as discussed below, which i have not yet tried is to keep the kyoseishi stiff and then do the softening after marbling. i've crumpled an extra marbled sheet from this project for over an hour with no loss of color, so this might overall be a more efficient path.
 
-![sheets hanging to dry](/images/momigami_jacket_hanging_sheets.jpg)
+<picture><source srcset='/images/momigami_jacket_hanging_sheets.avif' type='image/avif'/><source srcset='/images/momigami_jacket_hanging_sheets.jxl' type='image/jxl'/><source srcset='/images/momigami_jacket_hanging_sheets.webp' type='image/webp'/><img src='/images/momigami_jacket_hanging_sheets.jpg' loading='lazy'/></picture>
 
 # ③ making the jacket
 
@@ -57,9 +57,8 @@ i started by tracing out a jacket i had (which i have been informed is... likely
 
 luckily, at the local art store's sidewalk sale they had really cheap thai-kozo based kyoseishi. very light, easily ripped, but had the same textile-like flop of the kyoseishi. this made for a fantastic paper to use for a test run of my design.
 
-![test run with thai kozo kyoseishi](/images/momigami_jacket_practice.jpg)
+<picture><source srcset='/images/momigami_jacket_practice.avif' type='image/avif'/><source srcset='/images/momigami_jacket_practice.jxl' type='image/jxl'/><source srcset='/images/momigami_jacket_practice.webp' type='image/webp'/><img src='/images/momigami_jacket_practice.jpg' loading='lazy'/></picture>
 
 my wife helped make some tweaks to the cut and design and i was back downstairs to sew with the actual kyoseishi. as you can tell in the picture at the top, i used some raw kyoseishi (that is, no additional treatment from me) for accent on the shoulders. unfortunately, this was also the weakest area – there's currently a 6" rip in one shoulder where the untreated kyoseishi ripped at the seam.
-
 
 all told, i think it took maybe 4 hours for me to hand sew each jacket? if/when i do this again, i am definitely investing in a sewing machine.
