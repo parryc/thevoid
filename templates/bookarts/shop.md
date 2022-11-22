@@ -1,6 +1,6 @@
 [TOC]
 
-work is currently done on a commission basis, with the exceptiong of marbling seconds, as detailed below.
+work is currently done on a commission basis, with the exception of marbling seconds, as detailed below.
 
 # commissions
 
