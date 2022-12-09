@@ -1,6 +1,6 @@
 bracket-table==0.1
 Brotli==1.0.9
-certifi==2021.5.30
+certifi==2022.12.7
 charset-normalizer==2.0.6
 click==8.0.1
 cssmin==0.2.0
