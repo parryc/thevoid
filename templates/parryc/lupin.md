@@ -994,6 +994,26 @@ Since they're spread out in the list below, here's my order for the animated ser
                 <td>✅ opening</td>
             </tr>
             <tr>
+                <td>Lupin the 3rd 3DCG</td>
+                <td>2012</td>
+                <td>Episode</td>
+                <td>2022-12-06</td>
+                <td>2</td>
+                <td>Interesting to see the original 3D pilot (preempting the full length movie), but outside of that, nothing of note.
+                </td>
+                <td>Sub</td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>Italian Game</td>
                 <td>2016</td>
                 <td>TV Special</td>

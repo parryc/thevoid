@@ -28,11 +28,11 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 179
+English – 180
 Finnish – 2
 French – 14
 Georgian – 21
-German – 8
+German – 9
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 5
@@ -100,7 +100,7 @@ Yoruba – 1
 
 ## Book Types Represented
 
-Bilingual Texts – 9
+Bilingual Texts – 10
 Coursebook – 46
 Dictionary – 84
 Grammar – 45
@@ -396,6 +396,9 @@ Deutsch als Fremdsprache
 
 Deutsch heute Grundstufe
 : Jack Moeller and Helmut Liedloff, Houghton Mifflin, 1979. <tag>german→english</tag> <tag>coursebook</tag>
+
+Literatur 1
+: ed. Robert Spaethling and Eugene Weber, Oxford University Press, 1972. <tag>german→english</tag> <tag>bilingual reader</tag>
 
 #### Icelandic
 

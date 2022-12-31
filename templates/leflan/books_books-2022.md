@@ -42,3 +42,12 @@
 * _Autonomy Is in Our Hearts: Zapatista Autonomous Government through the Lens of the Tsotsil Language_ - Dylan Eldredge Fitzwater
 * _Empire of the Feast_ - Bendi Barrett
 * _The Art of Marbling_ - Franz Weisse tr. Richard Wolfe
+* _A Gentleman in Moscow_ - Amor Towles
+* _All I Can Do_ - Aya Yuhki
+* _Death on Gokumon Island_ - Seishi Yokomizo
+* _50 Animated Years of Lupin the 3rd_ - ed. Mike Kennedy
+* _Textiles of Japan_ - ed. Thomas Murray and Virginia Soenksen
+* _From Gothic Windows to Peacocks: American Embossed Leather bindings 1825-1855_ - Edwin Wolf 2nd
+* _The Mushroom at the End of the World_ - Anna Lowenhaupt Tsing
+* _Vollkommne Papierfärber • Accomplished Paper Colorer_ - trs. Richard Wolfe
+* _Pattern and Flow_ - Mindell Dubansky

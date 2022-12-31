@@ -204,6 +204,8 @@ How many people does your group consist of? // -გან indicating "from how m
 
 <attn>If the noun ends in an `ი` in NOM, then it is dropped when forming all other cases. If the noun ends in `ა` or `ე`, the final vowel is dropped in GEN and DAT. If the noun ends `უ` or `ო`, the final vowel remains for all cases.</attn>
 
+In formal writing, one may find an _-ა_ affixed to the case marker for all cases except NOM. For example, _-ითა_ for INS. For ERG, when the short form is _-მა_, the long form is the same.
+
 NOM (ი/∅)
 : the nominative case is the default dictionary form. Depending on the verb, it can mark either the subject or object of the clause. If the subject is in NOM, the object will be in DAT.<cite>[Kurtsikidze 27](#kurtsikize)</cite>
 

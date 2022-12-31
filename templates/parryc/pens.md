@@ -92,6 +92,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ### Reds & Pinks
 
 * J. Herbin Cassis
+* J. Herbin Rouge Caroubier
 * J. Herbin Rouge Grenat
 * Kakimori Potari Tototo
 * Kaweco Ruby Red
@@ -104,6 +105,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 
 ### Blues
 
+* J. Herbin Bleu Des Profondeurs
 * Lennon Tool Bar Celastrina Sugitanii Shirozui
 * Lennon Tool Bar Cloudy Day
 * Lennon Tool Bar Hobe
