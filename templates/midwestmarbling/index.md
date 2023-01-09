@@ -2,7 +2,7 @@
 
 # Welcome to the future home of Midwest Marbling
 
-_The mission fo Midwest Marblers is to advance the art of marbling in the Midest and beyond._
+_The mission of Midwest Marbling is to advance the art of marbling in the Midest and beyond._
 
 For questions please email us at `info` @ `midwestmarbling.art`!
 
