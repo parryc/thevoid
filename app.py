@@ -84,6 +84,13 @@ bundles = {
         filters="cssmin",
         output="gen/bookarts.css",
     ),
+    "midwestmarbling_css": Bundle(
+        "css/marx.min.css",
+        "css/style_midwestmarbling.css",
+        "css/fonts/midwestmarbling/fonts.css",
+        filters="cssmin",
+        output="gen/midwestmarbling.css",
+    ),
 }
 assets.register(bundles)
 
@@ -108,3 +115,6 @@ app.register_blueprint(mod_zmnebi)
 from mod_bookarts.controllers import mod_bookarts
 
 app.register_blueprint(mod_bookarts)
+from mod_midwestmarbling.controllers import mod_midwestmarbling
+
+app.register_blueprint(mod_midwestmarbling)

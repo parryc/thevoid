@@ -679,11 +679,10 @@ See also [DBK, pg293](#DBK).
 * skersai̇̃ - across
 * tarp - between
 * truputas - a little bit of
+* už - behind
+    * V + už - take/grab už N. <ex>_Ji pàšmė manè ùž rañkos_ ⧸ She took me by the hand</ex>
 * vidury - in the middle of
 * vietoj - instead of
-
-V + už - take/grab už N.
-: Ji pàšmė manè ùž rañkos - _She took me by the hand_
 
 ## Prepositions in ACC
 
@@ -695,6 +694,7 @@ V + už - take/grab už N.
 * põ - round about; through (through the fence); after (time wise); around (both physically in a circle and metaphorically, like "around the city")
 * prieš - opposite of, across from, before
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
+* už - for
 
 ## Prepositions in INS
 

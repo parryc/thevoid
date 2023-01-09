@@ -1,0 +1,82 @@
+{% extends '/base.html' %}
+{% block page_css %}
+    <link rel="stylesheet" href="/css/midwestmarbling.css"/>
+    <link rel="preload" href="/css/fonts/midwestmarbling/EditaSmallText-Regular.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="preload" href="/css/fonts/midwestmarbling/Arlette-Bold.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/midwestmarbling/EditaSmallText-Regular.woff2" as="font" type="font/woff2" crossorigin/>
+    <link rel="prefetch" href="/css/fonts/midwestmarbling/Arlette-Bold.woff2" as="font" type="font/woff2" crossorigin/>
+
+    {% assets "midwestmarbling_css" %}
+        <!--force assets to compile, while Flask fixes multi-host bug-->
+        <!--<link rel="stylesheet" href="{{ ASSET_URL }}" />-->
+    {% endassets %}
+    {%  if has_toc %}
+    <style type="text/css">
+        @media (min-width: 800px) {
+            #header {
+                margin-left: 28%;
+                padding-left: 16px;
+            }
+            .toc {
+                position: fixed;
+                left: 30px;
+                top: 120px;
+                width: 21%;
+                height: 80%;
+                overflow-y: auto;
+                word-wrap: break-word;
+                font-family: 'Arlette', sans-serif;
+            }
+            article {
+                margin-left: 28%;
+                max-width: inherit;
+                padding: inherit;
+            }
+            table {
+                overflow-x: scroll;
+                max-width: inherit !important;
+                display: block;
+            }
+            td > table {
+                margin-left: 15px;
+                border-right: none;
+                display: table;
+            }
+            main {
+                max-width: 82%;
+            }
+        }
+         @media (min-width: 850px) {
+            main {
+                max-width: 67%;
+            }
+            .toc {
+                left: 5%;
+            }
+            table {
+                overflow-x: scroll;
+                max-width: inherit !important;
+                display: table;
+                border-right: 1px black dashed;
+            }
+         }
+    </style>
+    {% endif %}
+{% endblock %}
+{% block header %}
+    <div id="header">
+        <span id="top-link" class="header-font" style="font-size: 1.4em;">
+            <span class="hedera">b</span>midwestmarbling.art
+        </span>
+    </div>
+{% endblock %}
+{% block content  %}
+    {% if override_title %}<h1>{{ override_title }}</h1>{% endif %}
+    {{html|safe}}
+    <br/>
+    {% if time %}
+        <p>
+           <em style="font-feature-settings: 'tnum';">last updated: {{ time }}</em>
+        </p>
+    {% endif %}
+{% endblock %}

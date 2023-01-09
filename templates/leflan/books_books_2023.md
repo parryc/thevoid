@@ -1,0 +1,1 @@
+* _Maoist Laughter_ - ed. Ping Zhu, Zhuoyi Wang, and Jason McGrath

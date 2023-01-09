@@ -1,0 +1,282 @@
+h1,h2,h3,h4,h5,h6,.header-font {
+  font-family: "Arlette", sans-serif;
+  font-feature-settings: "swsh", "dlig", "ss05";
+}
+
+body {
+  font-family: "Edita", serif;
+}
+
+body {
+  font-size: 20px;
+  line-height: 1.4;
+  background-color: #fffffa;
+}
+
+a {
+  color: rgb(187, 50, 25);
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+abbr {
+  font-variant: small-caps;
+  font-variant-numeric: oldstyle-nums;
+  font-size: 0.8em;
+}
+
+article {
+  width: 80%;
+  max-width: 88ch;/*calc(80% - 1rem)*/;
+}
+
+aside {
+  width: 20%;
+  /*max-width: calc(20% - 1rem);*/
+  padding-top: 25px;
+}
+
+attn {
+  display: block;
+  padding-left: .66em;
+  margin-left: -1.8em;
+  margin-top: -0.3em;
+  background: #fff7f7;
+  padding: 0.33em;
+  border-right: solid #c5c5c5 10px;
+  border-bottom: solid #afafaf 10px;
+  border-radius: 0.4em;
+}
+
+attn:before {
+  content: '☛ ';
+}
+
+blockquote {
+  border-left: .4rem solid rgba(255, 110, 110, 0.65);
+}
+
+blockquote em {
+  font-style: normal;
+}
+
+cite {
+  vertical-align: super;
+  font-size: .6em;
+}
+
+code {
+  color: #444;
+  background: #efefef;
+  font-family: "Source Code Pro", "BPG Ingiri", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  word-break: break-all;
+  word-wrap: break-word;
+  font-size: inherit !important;
+  border-radius: 0.35rem;
+  padding: 0.15rem;
+}
+
+dt:before, note:before {
+  content: '❧';
+  padding-right: 5px;
+}
+
+ex {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  background-color: #ffecec;
+}
+
+h1 {
+  border-bottom: none;
+  font-size: 3.6rem;
+  font-style: normal;
+  line-height: inherit;
+  font-weight: 500;
+  margin-top: 20px;
+}
+
+pt:before {
+  content: '(pt. ';
+  font-variant: small-caps;
+}
+
+pt:after {
+  content: ')';
+}
+
+pt {
+  font-style: italic;
+  padding-left: 0.8em;
+}
+
+rt {
+  font-size: 0.6em;
+}
+
+section {
+  padding-top: 10px;
+  margin-bottom: -5px;
+}
+
+strong em {
+  font-size: 1.1em;
+}
+
+sup {
+  font-size: .5em;
+}
+
+table {
+  white-space: nowrap;
+}
+
+td {
+  text-align: left;
+}
+
+td strong {
+  border: 1px solid black;
+  background-color: #f7f7f7;
+}
+
+/* Don't allow the PDF page splitting to
+   break inside of a table row */
+tr {
+  page-break-inside: avoid !important;
+  background: inherit;
+}
+
+tag:before {
+  content: '#';
+  color: black;
+  /* Shift the :before back up to baseline for middle vertical align*/
+  vertical-align: 0px;
+}
+
+tag {
+  font-style: italic;
+}
+
+dd > tag {
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}
+
+.footnote > ol {
+  margin-left: 1em;
+}
+
+.hedera {
+  font-family: 'Arlette', serif;
+  font-feature-settings: "ss03";
+}
+
+.toc {
+  font-family: 'Arlette', sans-serif;
+}
+
+.toc:before {
+  content: "table of contents";
+}
+
+.toc > ul > li > ul {
+  margin: 0;
+}
+
+#to-top {
+  position: fixed;
+  bottom: 15px;
+  left: 3%;
+}
+
+@media screen and (max-width: 40rem) {
+  article {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  aside {
+    width: inherit;
+    max-width: inherit;
+  }
+
+  table {
+    overflow-x: scroll;
+    max-width: inherit !important;
+    display: block;
+  }
+
+  dd>table {
+    display:none;
+  }
+
+  dt:hover+dd>table {
+    margin-top: .75em;
+    margin-left: -1em;
+    display:table;
+  }
+
+  .headword-info:hover>.declensions table {
+    display: block;
+    max-width: calc(100% - 1rem) !important;
+  }
+
+  .bracket_table table {
+    overflow-x: visible;
+    margin-left: 0.5em !important;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  attn {
+    margin-left: 0em;
+  }
+
+  #to-top {
+    padding: 3px;
+    color: #444;
+    background: #efefef;
+    border: solid black 2px;
+  }
+}
+
+@media print {
+  table {
+    white-space: normal;
+  }
+
+  main {
+    max-width: 100% !important;
+  }
+
+  #to-top {
+    display: none;
+  }
+}
+
+/* TOPURIA */
+
+span:lang('sva') {
+  border: 1px solid black;
+  font-family: "Arial"; /* gotta render the accents correctly */
+}
+
+pre:lang('sva') {
+  background: inherit;
+  font-size: 1.0em;
+  border: 1px solid black;
+  width: max-content;
+}
+
+sup {
+  font-size: 0.6em;
+}
+
+.unknown {
+  color: cyan;
+  background-color: black;
+}
