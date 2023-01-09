@@ -1,6 +1,6 @@
 <h1 style="color: red; font-family: 'Edita', serif;">UNDER CONSTRUCTION!</h1>
 
-# Welcome to the future home of Midwest Marblers
+# Welcome to the future home of Midwest Marbling
 
 _The mission fo Midwest Marblers is to advance the art of marbling in the Midest and beyond._
 
