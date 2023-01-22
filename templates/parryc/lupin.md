@@ -15,6 +15,7 @@ Since they're spread out in the list below, here's my order for the animated ser
 
 * (5) Lupin III: Part 2
 * (5) Lupin III: Part V
+* (5) Lupin ZERO
 * (4) A Woman Called Fujiko Mine
 * (3.5) Lupin III: Part 3
 * (3.5) Lupin III: Part VI
@@ -244,6 +245,26 @@ Since they're spread out in the list below, here's my order for the animated ser
                 <td></td>
                 <td></td>
                 <td></td>
+                <td></td>
+                <td></td>
+                <td>✅</td>
+                <td>✅ fanservice</td>
+            </tr>
+            <tr>
+                <td>Lupin ZERO</td>
+                <td>2023</td>
+                <td>TV Series</td>
+                <td>January 2023</td>
+                <td>5</td>
+                <td>Absolutely banger of a mini-series. The animation, the joie de vivre, the hijinks, the fanservice, the characters – all so good! Even without the other characters, it was great.
+                </td>
+                <td>Sub</td>
+                <td>✅</td>
+                <td>✅</td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>✅</td>
                 <td></td>
                 <td></td>
                 <td>✅</td>

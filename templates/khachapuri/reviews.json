@@ -1,6 +1,17 @@
 {  "reviews": [
     {
-      "location": "Le Georgia, Montreal,",
+      "location": "Cafe Delia, New York City",
+      "country": "USA",
+      "price": 2,
+      "taste": 4,
+      "type": "penovani",
+      "date": "2023-01",
+      "rated_by": "tjg",
+      "note": "fast casual, cheesy with puff pastry",
+      "img": "khachapuri_cafedelia.jpg"
+    },
+    {
+      "location": "Le Georgia, Montreal",
       "country": "Canada",
       "price": 4,
       "taste": 2,

@@ -951,7 +951,7 @@ I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
 <attn>✎ Derived from AOR, has a preverb</attn>
 
-Below, each class has two variations, one with ო and one with a different vowel. This variation is described as "weak" (with ო) or "strong" (without) in Ⓗ.
+Below, each class has two variations on the ending vowel, one with ო and one with a different vowel. This variation is described as "weak" (with ო) or "strong" (without) in Ⓗ.
 
 **_ვ-class transitive and intransitive_**
 
@@ -1007,7 +1007,13 @@ The root in AOR gets swapped out for _იყო_ and 3SG adds and _-ს_.
 -|----------|--
 1|**ვ**იყო|**ვ**იყო**თ**
 2|იყო|იყო**თ**
-3|იყო**ს**|**იყვნენ**
+3|იყო**ს**|**იყვნენ**/იყო**ნ**
+
+Regarding the two 3PL forms, [Wiktionary](https://en.wiktionary.org/wiki/%E1%83%90%E1%83%A0%E1%83%98%E1%83%A1), as well as Ⓗ, list _იყონ_, though Ⓚ does not. Brosset 1837, p73 lists _იყვნენ_ as the colloquial register and _იყონ_ as the literary register. [ვლაპარკობთ ქართულად](https://tbiliselebi.ge/ka/news/vilaparakot-qartulad/vilaparakot-kartulad-1621) explicitly lists _იყვნენ_ as the preferred term:
+
+> იყვნენ და არა იყონ. ([Say] იყვნენ and not იყონ)
+
+Interestingly, as a reverse of _Brosset_ some two hundred odd years later, for some speakers, it appears that _იყონ_ is now the more common spoken form, as opposed to _იყვნენ_. This may be a regional preference – if you know more, please let me know.
 
 ### How to Use: OPT
 
@@ -1048,7 +1054,7 @@ I.OBJ  | თვის   | DAT      | თვის    | (prep.)
 
 **_ვ-class transitive and intransitive_**
 
-The key thing to know with EVD is that even ვ-class verbs will use მ-class subject markers. Thus, from FUT, change the subject markers to be the same as მ-class, though with the addition of _ი_ after the marker and _უ_ for 3SG and 3PL.
+The key thing to know with EVD is that even ვ-class verbs will use მ-class subject markers. Thus, from FUT, change the subject markers to be the same as მ-class, though with the addition of _ი_ after the marker and _უ_ for 3SG and 3PL. For example, შე**მი**ჭამია for 1SG and შე**უ**ჭამია for 3SG.
 
 The vowel of the endings will be _ია_ in all cases, except for when the verb ends in _ავ_ or _ამ_, in which case there are no vowel endings and instead the endings are _-ს_ (and _-თ_ for plural).
 
@@ -1110,7 +1116,7 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 
 Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თურმე:apparently`.
 
-Aronson also contransts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense. Some speakers may not make the distinction between EVD and AOR and will default to AOR negative past events. This lack of distinction may be perceived as "uneducated".
+Aronson also contrasts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense. Some speakers may not make the distinction between EVD and AOR and will default to AOR negative past events. This lack of distinction may be perceived as "uneducated".
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
 
@@ -1250,6 +1256,8 @@ This tense named by [Corbin Dewitt](corbindewitt.com).
 
 <attn>✎ Derived from PSTSBJV, has preverb</attn>
 
+<attn>In my experience, trying to draw out forms of this conjugation from educated native speakers will sometimes result in the PSTSBJV. This is also mentioned by Aronson 1999, p396.</attn>
+
 **_ვ-class transitive and intransitive_**
 
 Change the ending of PSTSBJV to be _-ოს_, except for _-ოთ_ for 2PL and 3PL. Some verbs ending in _-ებს_ in the 3SG.PRS will include _-ებინ-_ before the person endings. This is marked in parentheses below, as the more common form for _აკეთებს_ is the longer form (as in the example sentence).
@@ -1288,7 +1296,7 @@ The root becomes _სულიყო_ and follows the standard ვ-class person 
 
 **_to be_**
 
-The root becomes _ყოფილიყო_ and follows the normal ვ-class endings, varying slightly for 3PL with _-ნ_.. As this is an infrequent tense, there may be some variation in its form, such as _-ნეთ_ as the 1PL and 2PL ending.
+The root becomes _ყოფილიყო_ and follows the normal ვ-class endings, varying slightly for 3PL with _-ნ_. As this is an infrequent tense, there may be some variation in its form, such as _-ნეთ_ as the 1PL and 2PL ending.
 
 &nbsp; |SG  |PL
 -|----------|--
