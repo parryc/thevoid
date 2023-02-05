@@ -694,7 +694,7 @@ See also [DBK, pg293](#DBK).
 * põ - round about; through (through the fence); after (time wise); around (both physically in a circle and metaphorically, like "around the city")
 * prieš - opposite of, across from, before
     * with time it means _ago_, such as _prieš savaitė_, a week ago. _Prieš dvi valandos aš valgau jogurtą su serbentais_.
-* už - for
+* už - for (e.g. prices)
 
 ## Prepositions in INS
 
@@ -923,7 +923,11 @@ I am going outside vs. I am outside
 
 # Time
 
-Singular time nouns are in the ACC. Repetitive time and plural time expressions use INS. Except for _rytoj_ and _vakar_ which are in LOC: _ryte_ and _vakare_.
+When used as a time expression – that is, independent of the rest of the grammar of the sentence – singular time nouns are in the ACC. Repetitive time and plural time expressions use INS. Except for _rytoj_ and _vakar_ which are in LOC: _ryte_ and _vakare_.
+
+For example, compare `šią savaitę:this week`, a singular period of time, versus `ateinančiomis savaitėmis:the following weeks`, a plural expression. _This week_ is in ACC, whereas _the following weeks_ is in INS.
+
+However, when the time expression functions as a noun in the sentence (e.g "On Tuesdays, I eat falafel" vs. "Tuesdays do not exist"), the time expression takes the expected grammatical declension for its place in the sentence (such as NOM in the example given).
 
 ## Telling Time
 
@@ -1251,9 +1255,9 @@ Expressing age
 benè - is it really.../could it be...?
 jùk - but (interchangeable with gi̇)
 
-## Conditional sentences
+## Conditional sentences (jei)
 
-Conditional sentences use the same tense in both clauses
+Conditional sentences use the same tense in both clauses. It is important to note that _jei_ is used only when there is a possibility that the condition won't happen. It cannot be used like the English word "if" as a connector – in those situations, use _ar_.
 
 Jei rytoj lis, reikos skėčio
 : If tomorrow rain+FUT, need+FUT umbrellas

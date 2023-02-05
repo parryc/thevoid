@@ -6,16 +6,18 @@ _The mission of Midwest Marbling is to advance the art of marbling in the Midest
 
 For questions please email us at `info` @ `midwestmarbling.art`!
 
+## Sign up slots for Homewood Studios
+
+Marbling at Homewood Studios will be the second weekend of each month. See below for information on what equipment will be available and expectations for participation. If you have any questions, please don't hesitate to reach out at `info` @ `midwestmarbling.art`.
+
+- February: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood1)
+- March: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood2)
+
 ## Information on Marbling at Homewood Studios
 
 Happy New Year Midwest Marblers!
 
-As many of you already know, we have found space to marble this year at Homewood Studios in Minneapolis. We are pleased to announce that our first weekend is rapidly approaching – January 14th and January 15th. I hope you're excited as I am – a new year means new possibilities and what better place to explore those new possibilities than with some like-minded individuals and a tray filled with carrageenan!
-
-Marbling at Homewood Studios will be the second weekend of each month. If you would like to sign up now, slots for January and February are open:
-
-- January: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood)
-- February: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood1)
+As many you know, we have found space to marble in 2023 at Homewood Studios in Minneapolis. I hope you're excited as I am – a new year means new possibilities and what better place to explore those new possibilities than with some like-minded individuals and a tray filled with carrageenan!
 
 Some pertinent information on signing up below (more information can be found on the signup page):
 
@@ -39,6 +41,3 @@ Participants are expected to bring:
 While extra trays are available, access to a specific tray cannot be guaranteed. As such, you are encouraged to bring your own. Space is available if you would like to leave a tray at Homewood Studios for future use.
 
 We want to keep this as flexible and as inviting as possible, so if you have any questions, comments, or concerns, don't hesitate to reach out.
-
-Sincerely,
-Scheduling @ Midwest Marbling

@@ -6,6 +6,7 @@ lists of pictures, but no pictures of lists – yet.
 
 (click images for full sized)
 
+* [october 2022 // montreal, canada](2022-montreal)
 * [march 2022 // casper, wyoming](2022-casper)
 * [october 2021 // sweden & åland](2021-sweden)
 * [february 2020 // switzerland & liechtenstein](2020-switzerland)

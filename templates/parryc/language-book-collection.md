@@ -574,6 +574,11 @@ Magic Korean
 
 ### Kra-Dai
 
+#### Lao
+
+Lao Basics
+: Sam Brier and Phouphnomlack Sangkhampone, Tuttle, 2010. <tag>lao→english</tag> <tag>coursebook</tag>
+
 #### Then
 
 Notes on the T'en or Yanghuang Language: Glossary
@@ -946,13 +951,6 @@ Russian-English English-Russian Dictionary
 
 The Complete Idiot's Guide to Learning Russian
 : Christopher Froehlich, Alpha Books, 2004. <tag>russian→english</tag> <tag>coursebook</tag>
-
-### Kra-Dai
-
-#### Lao
-
-Lao Basics
-: Sam Brier and Phouphnomlack Sangkhampone, Tuttle, 2010. <tag>lao→english</tag> <tag>coursebook</tag>
 
 ### Tungusic
 

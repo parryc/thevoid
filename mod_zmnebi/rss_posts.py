@@ -29,7 +29,7 @@ updates = [
     {
         "title": "Add FAQ item on formal variations on 'to be'",
         "description": "Added information on different variations one might encounter in formal writing or speech for the verb 'to be'.",
-        "link": f"{_url}#person-markers",
+        "link": f"{_url}?2#person-markers",
         "date": datetime(2022, 11, 5, 8, 30, 0, tzinfo=timezone(-timedelta(hours=5))),
     },
     {
