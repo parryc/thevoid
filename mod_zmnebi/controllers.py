@@ -11,6 +11,7 @@ from git import Repo
 from bracket_table.bracket_table import BracketTable
 from app import testing_site
 from feedgen.feed import FeedGenerator
+from rss_posts import updates as rss_updates
 import os
 import markdown
 import codecs
@@ -78,8 +79,6 @@ def index():
 
 @mod_zmnebi.route("/rss", methods=["GET"], host=_host)
 def rss():
-    from rss_posts import updates
-
     _url = "https://zmnebi.com"
     _author = "Parry"
     _email = "parry@parryc.com"
@@ -88,7 +87,7 @@ def rss():
     fg.description("All about Georgian verbs and how to use them")
     fg.link(href=_url)
 
-    for update in updates:
+    for update in rss_updates:
         fe = fg.add_entry()
         fe.title(update["title"])
         fe.link(href=update["link"])
