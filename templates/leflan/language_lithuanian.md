@@ -1224,6 +1224,8 @@ _Tvirtapradė_ ("firm beginning") means that the accent is on the first part of 
 
 _Tvirtagalė_ ("firm ending") means that the accent is on the second part of a dipthong. Patterns ② and ④ deal with tvirtagalė accentuation.
 
+Compound words usually have rising stress in the joining vowel (when it's _not_ a dipthong), eg. antrãdienis vs. savàitgalis
+
 ### Tips
 
 Per [HJ](#HJ).
@@ -1252,8 +1254,8 @@ Expressing age
 : NOM yra NUM.GEN, _Mano sesė yra 22-ių_
 : DAT yra NUM.NOM, _Mano sesei yra 22 metai_
 
-benè - is it really.../could it be...?
-jùk - but (interchangeable with gi̇)
+- benè - is it really.../could it be...?
+- jùk - but (interchangeable with gi̇)
 
 ## Conditional sentences (jei)
 
@@ -1270,10 +1272,17 @@ ir
 : Closest to a neutral "and" in English, implies that the two clauses are similar in tone or idea. For example, <ex>_Mano draugui/draugei ir man patinka valgyti cepelinus_ ⧸ My friend and I like to eat cepelinai</ex>. Note that `bei:and` is used between similar words, rather than between clauses, especially as a way to avoid repeating _ir_.
 
 o
-: Could be translated by "and" or "but", _o_ is used to indicate contrasting clauses. <ex>_Man patinka valgyti cepelinus, o mano draugui - sumuštinius_ ⧸ I like to eat cepelinai, but my friend (like to eat) sandwiches</ex>.
+: Could be translated by "and" or "but", _o_ is used to indicate contrasting clauses. <ex>_Man patinka valgyti cepelinus, o mano draugui - sumuštinius_ ⧸ I like to eat cepelinai, but my friend (likes to eat) sandwiches</ex>.
 
 bet
 : More strongly contrastive than _o_. <ex>_Kasdien einu į biurą bet, man nepatinka dirbti ten_ ⧸ Everyday I go to the office, but I don't like working there</ex>.
+
+## That/which (kad vs. kuris)
+
+Both _kad_ and _kuris_ can be translated as "that" or "which". Which one to use, though, depends on which part of speech is being modified:
+
+- if it's a noun, use _kuris_. Kuris will accord with the expected case of the verb and number/gender with the noun.
+- if it's a verb, use _kad_.
 
 ## Passive Voice
 
@@ -1293,13 +1302,7 @@ Uses _būti_ as auxiliary verb
 àš buvaũ mùštas - I was beaten
 : I PST PST.PT
 
-## Fixed Phrases
-
-{DAT pronoun} patinka + NOM
-: Man patinka... - I like... 
-: Can also use _mėgti_ - to like
-
-Man tas pats - 无所谓
+This can also be represented by modifying sentence structure, especially given a preference for verbs over adjectives while speaking. For example, consider the English sentence "they fired me". Directly, this would be _jie atleido mane_, following the English sentence structure exactly. However, many English speakers would tend towards saying "I was fired" and try to say something modelled off the above examples. Rather than using an adjective, "fired", this passive meaning can be expressed by dropping the pronoun and moving the object to the front of the sentence. Thus, _mane atleido_. The declensions are the same, but the structure provides the same impersonal sentiment that the English passive voice implies.
 
 # Miscellaneous
 
@@ -1315,33 +1318,26 @@ Native Lithuanian words do not contain double "e", whereas international words m
 
 ## Interjections
 
-begėdis - shame on him!
-eik velniop - go to hell!
-_(niop is an older form of 'home')_
-eik, eik - wow!
-eik tu sau - no kidding!
-màt tavè dievai̇̃ - may the gods take you!
-nėra už ką - you're welcome, don't mention it
-puiku! - great
-prašo - please
-prašom - you're welcome
-velnią minint - speak of the devil
+- begėdis - shame on him!
+- eik velniop - go to hell!
+- _(niop is an older form of 'home')_
+- eik, eik - wow!
+- eik tu sau - no kidding!
+- màt tavè dievai̇̃ - may the gods take you!
+- nėra už ką - you're welcome, don't mention it
+- puiku! - great
+- prašo - please
+- prašom - you're welcome
+- velnią minint - speak of the devil
 
 ## Onomatopeia
 
-au au – woof woof
-miau - meow
-kriu kriu – oink oink
-kakariekūūū - cockadoodledoo
-kutkudak - cluck
-yyyyyhaha - neigh
-
-## Language notes
-
-_Lietuva_ is the sanem root as rain (_lietus_)
-báltas - white; bal̃tas - Baltic tribe
-
-Compound words usually have rising stress in the joining vowel (when it's _not_ a dipthong), eg. antrãdienis vs. savàitgalis
+- au au – woof woof
+- miau - meow
+- kriu kriu – oink oink
+- kakariekūūū - cockadoodledoo
+- kutkudak - cluck
+- yyyyyhaha - neigh
 
 ## Grammatical terminology
 

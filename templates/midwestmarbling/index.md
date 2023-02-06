@@ -2,7 +2,7 @@
 
 # Welcome to the future home of Midwest Marbling
 
-_The mission of Midwest Marbling is to advance the art of marbling in the Midest and beyond._
+_The mission of Midwest Marbling is to advance the art of marbling in the Midwest and beyond._
 
 For questions please email us at `info` @ `midwestmarbling.art`!
 
@@ -13,9 +13,22 @@ Marbling at Homewood Studios will be the second weekend of each month. See below
 - February: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood1)
 - March: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood2)
 
-## Information on Marbling at Homewood Studios
+### Dates
 
-Happy New Year Midwest Marblers!
+- January 14th & 15th
+- February 11th & 12th
+- March 11th & 12th
+- April 8th & 9th
+- May 13th & 14th
+- June 10th & 11th
+- July 8th & 9th
+- August 12th & 13th
+- September 9th & 10th
+- October 7th & 8th
+- November 11th & 12th
+- December 9th & 10th
+
+## Information on Marbling at Homewood Studios
 
 As many you know, we have found space to marble in 2023 at Homewood Studios in Minneapolis. I hope you're excited as I am – a new year means new possibilities and what better place to explore those new possibilities than with some like-minded individuals and a tray filled with carrageenan!
 
