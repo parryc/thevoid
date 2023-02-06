@@ -1,5 +1,3 @@
-from datetime import datetime, timezone, timedelta
-
 from flask import (
     Blueprint,
     render_template,
@@ -11,7 +9,7 @@ from git import Repo
 from bracket_table.bracket_table import BracketTable
 from app import testing_site
 from feedgen.feed import FeedGenerator
-from rss_posts import updates as rss_updates
+from .rss_posts import updates as rss_updates
 import os
 import markdown
 import codecs
