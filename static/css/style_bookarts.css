@@ -52,7 +52,8 @@ attn {
 }
 
 attn:before {
-  content: '☛ ';
+  content: 'p ';
+  font-feature-settings: "ss01";
 }
 
 blockquote {

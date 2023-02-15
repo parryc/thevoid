@@ -6,3 +6,4 @@
 * _Land of Flowers / თავისუფლების თეოლოგია_ - Irakli Kakabadze
 * _Mann Family and Marbling_ - Richard Wolfe
 * _The Making of Fancy Papers_ - tr. Richard Wolfe
+* _Josef Halfer_ - tr. Richard Wolfe

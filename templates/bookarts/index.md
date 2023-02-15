@@ -2,6 +2,8 @@ hello! my name is parry – i'm a marbler and bookbinder based in minnesota. thi
 
 unsure of where to look first? take a peep at some [marbling examples](marbling-examples), learn about one of [my cross-discipline projects](a-momigami-jacket), or read up on [kyoseishi](kyoseishi). 
 
+<attn>[kyoseishi](kyoseishi) now available for sale in the [shop](shop)!</attn>
+
 ## recent updates
 
 _all posts are evergreen, meaning they may updated at any point as i return to the topic at hand_
