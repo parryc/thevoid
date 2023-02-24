@@ -7,3 +7,5 @@
 * _Mann Family and Marbling_ - Richard Wolfe
 * _The Making of Fancy Papers_ - tr. Richard Wolfe
 * _Josef Halfer_ - tr. Richard Wolfe
+* _Japanese Woodworking Tools: Their Tradition, Spirit and Use_ - Toshio Ōdate
+* _With the Grain: A Craftsman’s Guide to Understanding Wood_ - Christian Becksvoort

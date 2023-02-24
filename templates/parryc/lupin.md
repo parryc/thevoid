@@ -845,6 +845,25 @@ Since they're spread out in the list below, here's my order for the animated ser
                 <td></td>
             </tr>
             <tr>
+                <td>Lupin III vs. Cat's Eye</td>
+                <td>2023</td>
+                <td>OVA</td>
+                <td>2023-02-17</td>
+                <td>3</td>
+                <td>The 3D animation was definitely worse than Lupin III: The First. Very dead eyes and stiff movement. That said, I'm a fan of Cat's Eye, and Zenigata + Toshio was fun. Ai annoyed me to <em>no end</em> though. A shame there wasn't more Rui. Tony Oliver and Richard Epicar though, what more could you want? (A not fugly Goemon, that's what.)</td>
+                <td>Dub</td>
+                <td></td>
+                <td></td>
+                <td>❌</td>
+                <td>✅</td>
+                <td>❌</td>
+                <td></td>
+                <td></td>
+                <td>✅/❌</td>
+                <td>✅</td>
+                <td></td>
+            </tr>
+            <tr>
                 <td>Dead or Alive</td>
                 <td>1996</td>
                 <td>Film</td>

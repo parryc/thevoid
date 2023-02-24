@@ -502,7 +502,7 @@ Dictionary entries
 
 /* TOPURIA */
 
-span:lang('sva') {
+span:lang('sva'), p:lang('sva') {
   border: 1px solid black;
   font-family: "Arial"; /* gotta render the accents correctly */
 }

@@ -4,7 +4,7 @@ This is a digitization of [_სვანური ენის სახელ�
 
 **Why does it need to be digitized?**
 
-It doesn't, but I thought it would be useful to have more resources on the web in a searchable format. The PDF version is encoded strangely to support the additionaly characters Svan requires.
+It doesn't, but I thought it would be useful to have more resources on the web in a searchable format. The PDF version is encoded strangely to support the additional characters Svan requires.
 
 **What has been done so far?**
 
@@ -24,28 +24,28 @@ The original PDF mapped Russian letters to different Georgian characters. I've r
 
 ## Table of Contents
 
-* [სვანური ენის სახელმძღვანელო](/svan/title)
-* ნაკვეთი I – მოკლე გრამატიკული მიმოხილვა
-    * [ზოგადი ცნობები](/svan/part1/intro)
-    * [ფონეტიკა](/svan/part1/phonetics)
-    * [მორფოლოგია](/svan/part1/morphology)
-    * [ზმნა](/svan/part1/verbs)
-        * [მოქმედებითი გვარი](/svan/part1/active_voice)
-        * [ვნებითი გვარი](/svan/part1/passive_voice)
-        * [საშუალი ზმნები](/svan/part1/middle_verbs)
-    * [ნაზმნარი სახელები](/svan/part1/verbal_nouns)
-    * [ფორმაუცვლელი და დამხმარე სიტყვები](/svan/part1/fixed_and_helper_words)
-    * [სინტაქსი](/svan/part1/syntax)
-    * [ლექსიკა](/svan/part1/vocabulary)
-    * [მოკლე ცნობები დიალექტთა შესახებ](/svan/part1/brief_report_on_dialects)
-* ნაკლეთი II - სასაუბრო მასალები, საუბრები და მათი თარგმანები
-    * [ბგერითი შედგენილობა](/svan/part2/sonic_structure)
-    * [სასაუბრო მასალა](/svan/part2/lessons)
-* ნაკეთი III - ტექსტები
-    * პროზა
-        * [წეს-ჩვეულებანი](/svan/part3/traditional_stories)
-        * [რწმენა-წარმოდგენები](/svan/part3/fables)
-        * [თავგადასავლები](/svan/part3/adventure_stories)
-        * [ზღაპრები](/svan/part3/fairytales)
-    * [ხალხური პოეზია](/svan/part3/poems)
-    * [ანდაზები](/svan/part3/proverbs)
+* [სვანური ენის სახელმძღვანელო](/svan/title) (A Textbook of the Svan Language)
+* ნაკვეთი I – მოკლე გრამატიკული მიმოხილვა (Part 1: A Short Review of Grammar)
+    * [ზოგადი ცნობები](/svan/part1/intro) (General Knowledge)
+    * [ფონეტიკა](/svan/part1/phonetics) (Phonetics)
+    * [მორფოლოგია](/svan/part1/morphology) (Morphology)
+    * [ზმნა](/svan/part1/verbs) (Verbs)
+        * [მოქმედებითი გვარი](/svan/part1/active_voice) (Active Voice)
+        * [ვნებითი გვარი](/svan/part1/passive_voice) (Passive Voice)
+        * [საშუალი ზმნები](/svan/part1/middle_verbs) (Middle Voice)
+    * [ნაზმნარი სახელები](/svan/part1/verbal_nouns) (Verbal Nouns)
+    * [ფორმაუცვლელი და დამხმარე სიტყვები](/svan/part1/fixed_and_helper_words) (Fixed and Helper Words)
+    * [სინტაქსი](/svan/part1/syntax) (Syntax)
+    * [ლექსიკა](/svan/part1/vocabulary) (Vocabulary)
+    * [მოკლე ცნობები დიალექტთა შესახებ](/svan/part1/brief_report_on_dialects) (Brief Report on Dialects)
+* ნაკლეთი II - სასაუბრო მასალები, საუბრები და მათი თარგმანები (Part II: Spoken Material, Conversations, and Their Translations)
+    * [ბგერითი შედგენილობა](/svan/part2/sonic_structure) (Sonic Structure)
+    * [სასაუბრო მასალა](/svan/part2/lessons) (Spoken Material)
+* ნაკეთი III - ტექსტები (Part III: Texts)
+    * პროზა (Prose)
+        * [წეს-ჩვეულებანი](/svan/part3/traditional_stories) (Traditional Stories)
+        * [რწმენა-წარმოდგენები](/svan/part3/fables) (Fables)
+        * [თავგადასავლები](/svan/part3/adventure_stories) (Adventure Stories)
+        * [ზღაპრები](/svan/part3/fairytales) (Fairytales)
+    * [ხალხური პოეზია](/svan/part3/poems) (Poems)
+    * [ანდაზები](/svan/part3/proverbs) (Proverbs)
