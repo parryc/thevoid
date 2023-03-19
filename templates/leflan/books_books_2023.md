@@ -9,3 +9,8 @@
 * _Josef Halfer_ - tr. Richard Wolfe
 * _Japanese Woodworking Tools: Their Tradition, Spirit and Use_ - Toshio Ōdate
 * _With the Grain: A Craftsman’s Guide to Understanding Wood_ - Christian Becksvoort
+* _The Anarchist's Toolchest_ - Christopher Schwarz
+* _The Private Library_ - Reid Byers
+* _Comment J'ai Fait Mon Dictionnaire_ - Émile Littré
+* _Twenty-One Years of Bird & Bull_ - W. Thomas Taylor & Henry Morris
+* _Thirty Years of Bird & Bull_ - Howell J. Heany & Henry Morris

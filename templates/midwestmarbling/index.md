@@ -10,14 +10,11 @@ For questions please email us at `info` @ `midwestmarbling.art`!
 
 Marbling at Homewood Studios will be the second weekend of each month. See below for information on what equipment will be available and expectations for participation. If you have any questions, please don't hesitate to reach out at `info` @ `midwestmarbling.art`.
 
-- March: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood2)
 - April: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood3)
+- May: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood4)
 
-### Dates
+### Upcoming Dates
 
-- January 14th & 15th
-- February 11th & 12th
-- March 11th & 12th
 - April 8th & 9th
 - May 13th & 14th
 - June 10th & 11th

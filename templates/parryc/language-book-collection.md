@@ -28,7 +28,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 180
+English – 181
 Finnish – 2
 French – 14
 Georgian – 21
@@ -56,7 +56,7 @@ Lakota – 1
 Lao – 1
 Latin – 1
 Laz – 1
-Lithuanian – 7
+Lithuanian – 9
 Lushootseed – 1
 Malay – 1
 Maltese – 1
@@ -102,7 +102,7 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 46
-Dictionary – 84
+Dictionary – 86
 Grammar – 45
 Phrasebook – 21
 Study – 19
@@ -238,6 +238,11 @@ A Dictionary of the English and Lithuanian Languages, First Part: Lithuanian-Eng
 A Dictionary of the English and Lithuanian Languages, Part Second: English-Lithuanian
 : Anthony Lalis, Lietuva, 1915. <tag>english→lithuanian</tag> <tag>dictionary</tag>
 
+Lithuanian Pictorial Dictionary
+: Zofija Babickienė and Aušrinė Bareikytė, baltos lankos, 1999. <tag>lithuanian→lithuanian</tag> <tag>dictionary</tag>
+
+Anglų-Lietuvių Kalbu Žodynas / English-Lithuanian Dictionary
+: Bronius Svecevičius, Žodynas, 1997. <tag>english→lithuanian</tag> <tag>dictionary</tag>
 
 ### Celtic
 
