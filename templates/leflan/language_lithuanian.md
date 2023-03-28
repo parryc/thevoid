@@ -648,6 +648,55 @@ Add endings to non-reflexive stem.
 -------|-----|------
  all # | -is | -ės
 
+# Participles
+
+Participles are commonly used in Lithuanian. At their most basic, they are adjectival forms of verbs (and indeed, colloquially most Lithuanians think of them as adjectives). E.g. "working" in phrase "the working man". Here "working" is derived from the verb "to work". In much the same way, Lithuanian participles are derived from verbs. Note that because participles are derived from verbs, there is often a "verbal" way of meaning the same thing. For example "the working man" and "the man who works" mean the same thing, however, in Lithuanian, the participle form ("the working man") is preferred.
+
+Due to the fact that participles come from verbs, they are also accorded like verbs. Imagine this rather abstract sentence with 4 parts:
+
+VERB OBJ<sub>part.</sub> PARTICIPLE SUB<sub>part.</sub>
+
+- The SUB<sub>part.</sub> will accord with the requirements of VERB.
+- The PARTICIPLE will accord with the number, gender, and case of SUB<sub>part.</sub>
+- The OBJ<sub>part.</sub> will accord with the requirements of PARTICIPLE.
+
+For example, let's take _Spektaklį žiūrintiems žmonėms buvo nuobodu_ (The people watching the show were bored). The parts are:
+
+- `būti nuobodu:to be bord` – VERB
+- `žiūrinti:watching` – PARTICIPLE
+- `žmonės:people` – SUB<sub>part.</sub>
+- `spektaklis:show` – OBJ<sub>part.</sub>
+
+_buvo nuobodu_ takes a DAT subject, so  _žmonės_ will be DAT. _žiūrinti_ accords with _žmonės_, so it will be PL, DAT, and M. _spektaklis_ accords with the verbal requirements of _žiūrinti_, so it will be ACC.
+
+----
+
+The list below does not include all of the various participles (at least until this message is removed).
+
+----
+
+## Present Active Participle
+
+How to form: remove the final vowel of the 3SG.PRS form of the verb and add the following endings for NOM:
+
+verb ending|SG M | SG F | PL M | PL F
+-----------|-----|------|------|-------
+-a         | -ąs/antis| -anti| -ą/antys | -ančios
+-i         | -įs/intis| -inti| -į/intys | -inčios
+-o         | -ąs/antis| -anti| -ą/antys | -ančios
+
+Other cases are declined like [first declension adjectives](#first-declension), with the exception that in ACC, the SG M ending is -į. Note that the _t_ in the endings, except for ACC.SG and DAT.PL, will be _č_, such as DAT _perkančiam_.
+
+The two forms for SG M/PL M differ in 3 ways (with the A-form below standing in for the I-form, as well):
+
+* -ąs is only in the nominative, whereas -antis takes all cases
+* -ąs is more formal than -antis, which is more colloquial
+* -ąs tends to describe the process of the action, whereas -antis tends to describe the result
+
+### Reflexive Form
+
+Add _besi_ to the above form. For example: kalbėtis would be besikalbantis/besikalbanti.
+
 # Prepositions
 
 Most prepositions require the GEN.
@@ -891,6 +940,34 @@ Similar to normal adjectives, the 2nd declension often has an _-i-_ at the begin
 * kol - while
 * kol kas - so far (kol kas jam klasė labai patinka - so far he likes the class)
 
+## Vis vs. Dar vs. Vis Dar
+
+_Vis_, _dar_, and _vis dar_ all have overlapping English translations. For example, _vis_ and _dar_ can both be "more" and _vis dar_ and _dar_ can both be "still". However, there are some distinctions between the three that need to be called out:
+
+_dar_ can indicate more of a quanity
+: Jei būčiau alkanas, tai valgyčiau dar.
+: _If I were hungry, I would eat more._
+
+_vis_ can indicate more of a process, doing something over and over
+: Vasara ateinant, dienos vis fainesnės ir fainesnės tampa.
+: _As summer comes, the days are becoming nicer and nicer._
+
+_vis dar_ usually just means "still"
+: Mes vis dar planuojame mūsų kelionę į Lietuvą.
+: _We are still planning our trip to Lithuania._
+
+All together now!
+: Aš noriu tau dar duoti, bet jaučiuosi vis liūdnesnis ir liūdnesis, nes vis dar negaunu, kad pakankamai duočiau.
+: _I want to give you more, but I feel sadder and sadder, because I still do not have enough to give._
+
+**Usage Notes**
+
+- _vis daugiau_ is used with quanties of things, whereas _vis labiau_ is used with actions.
+- in _vis X ir X_, the following word accords with X.
+- _dar_, when meaning "more", often occurs at the end of the sentence, such as <ex>_Kalbėk dar_ ⧸ Say more</ex>.
+
+n.b. some old dictionaries will also show an abbreviated _da_ form for _dar_.
+
 ## Comparison
 
 Comparative ends in _-iau_, superlative ends in _-iausia_
@@ -1095,6 +1172,8 @@ For what occasion did you buy this cake? For a birthday.
 --ENDEX--
 
 ### Kuris/kuri (which one)
+
+_Kuris_ accords with the preceding, not following, noun.
 
  case   | -is | -i
  -------|-----|-----
@@ -1367,6 +1446,14 @@ Moteriškoji giminė
 
 Vyriškoji giminė
 : Masculine gender (_v._)
+
+## To think – Manyti vs. Galvoti vs. Mąstyti
+
+All three verbs mean "to think", but they are not all used in the same way. In the list below, the verbs go from thinking about the least important topic to the most important topic.
+
+- manyti (expresses an opinion, a single thought)
+- galvoti (the result of thinking recurrently on something, e.g. a thought about something that was more than the spur of the moment)
+- mąstyti (philosophical, expresses the long process of thinking/mulling over a problem)
 
 # Bibliography
 * <source id="Ambrazas">Vytautas Ambrazas and E. Geniušienė and A. Girdenis and N. Sližienė and D. Tekorienė and A. Valeckienė and E. Valiulytė. _Lithuanian Grammar_. Baltos Lankos, 1997</source>
