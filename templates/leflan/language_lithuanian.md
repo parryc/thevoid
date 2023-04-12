@@ -695,7 +695,7 @@ The two forms for SG M/PL M differ in 3 ways (with the A-form below standing in 
 
 ### Reflexive Form
 
-Add _besi_ to the above form. For example: kalbėtis would be besikalbantis/besikalbanti.
+Add _besi_ to the above form. For example: kalbėtis would be besikalbantis/besikalbanti. There is no additional _be-_ added to indicate "no longer".
 
 # Prepositions
 

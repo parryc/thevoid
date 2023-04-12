@@ -2,6 +2,12 @@ hello! my name is parry – i'm a marbler and bookbinder based in minnesota. thi
 
 unsure of where to look first? take a peep at some [marbling examples](marbling-examples), learn about one of [my cross-discipline projects](a-momigami-jacket), or read up on [kyoseishi](kyoseishi). 
 
+## announcements
+
+<attn>i will be teaching a class on marbling combs on may 20th at [MCBA](https://www.mnbookarts.org/custom-combs-for-paper-marbling/) – spots are still available!</attn>
+
+<attn>my work on [kyoseishi](kyoseishi), _teach me about kyoseishi so i don't have to research it by myself_ is on display at [Friedli Gallery](https://www.friedliartsgallery.com/exhibitions) until the end of may – post coming when it's finished!</attn>
+
 <attn>[kyoseishi](kyoseishi) now available for sale in the [shop](shop)!</attn>
 
 ## recent updates
