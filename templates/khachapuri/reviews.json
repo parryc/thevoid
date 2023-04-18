@@ -1,5 +1,15 @@
 {  "reviews": [
     {
+      "location": "Chito Gvrito, New York City",
+      "country": "USA",
+      "price": 4,
+      "taste": 3,
+      "type": "shampurze",
+      "date": "2023-04",
+      "rated_by": "wpc",
+      "note": "very good other georgian food, but the khachapuri was pricey"
+    },
+    {
       "location": "Cafe Delia, New York City",
       "country": "USA",
       "price": 2,

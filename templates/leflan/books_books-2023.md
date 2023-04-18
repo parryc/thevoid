@@ -14,3 +14,4 @@
 * _Comment J'ai Fait Mon Dictionnaire_ - Émile Littré
 * _Twenty-One Years of Bird & Bull_ - W. Thomas Taylor & Henry Morris
 * _Thirty Years of Bird & Bull_ - Howell J. Heany & Henry Morris
+* _Lettering: A Reference Manual of Techniques_ - Andrew Haslam

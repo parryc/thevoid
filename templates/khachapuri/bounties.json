@@ -1,6 +1,11 @@
 {
   "bounties": [
     {
+      "location": "Cheeseboat, San Francisco",
+      "country": "USA",
+      "posted": "2023-04"
+    },
+    {
       "location": "Berikoni, New York City",
       "country": "USA",
       "posted": "2022-08"
@@ -44,7 +49,8 @@
     {
       "location": "Chito Gvrito, New York City",
       "country": "USA",
-      "posted": "2022-08"
+      "posted": "2022-08",
+      "fulfilled": "2023-04"
     },
     {
       "location": "Supra, Washington, D.C.",
