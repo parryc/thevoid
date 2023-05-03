@@ -15,3 +15,6 @@
 * _Twenty-One Years of Bird & Bull_ - W. Thomas Taylor & Henry Morris
 * _Thirty Years of Bird & Bull_ - Howell J. Heany & Henry Morris
 * _Lettering: A Reference Manual of Techniques_ - Andrew Haslam
+* _A Trip to Paris in July and August 1792_ - Robert Twiss
+* _The Mysterious Marbler_ - James Sumner
+* _Naturally Brewed, Naturally Better_ - Tony Dierckins and Pete Clure

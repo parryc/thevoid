@@ -171,6 +171,22 @@ dd > tag {
   margin-left: 1em;
 }
 
+.addenda:before {
+  content: 'f ';
+  font-feature-settings: "ss02";
+}
+
+.addenda:after {
+  content: ' e';
+  font-feature-settings: "ss02";
+}
+
+.addenda {
+  font-feature-settings: "smcp";
+  font-size: 0.65em;
+  display: block;
+}
+
 .hedera {
   font-family: 'Arlette', serif;
   font-feature-settings: "ss03";

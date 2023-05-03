@@ -211,6 +211,8 @@ Quantities are expressed by the quantity word + NOUN.GEN
 
 Colloquially, the DAT form of `dešimt:ten` is _dešimčiai_. All other cases stay undeclined. For example, note the use of _dešimčiai_ here representing "for X": <ex>_DešimČIAI kavos puodelių mums reikia trijų šimtų keturiasdešimt penkių gramų kavos pupelių ir dviejų šimtų vienuolikos mililitrų pieno._ ⧸ For ten cups of coffee, we need 345 grams of coffee beans and 211 ml of milk.</ex>
 
+One may also hear shortened versions of the 10s in colloquial speech: (from 20 upwards) dvim, trim, kem, pem, šem, septym, aštuon, devyn.
+
 ## Declensions
 
 Numbers one, two, and three have non-standard declensions. Numbers four through nine, as well as the teens, have their own standard declensions.
@@ -1055,13 +1057,13 @@ Colloquially, the number may be in GEN, ex <ex>_pusę dešimtos vakare_ ⧸ 9:30
 
 Cardinal number + _dienis_
 
-* Primà (Monday)
-* Antrà
-* Trečià
-* Ketvirtà
-* Penktà
-* Šeštà
-* Septinskà
+* primà (Monday)
+* antrà
+* trečià
+* ketvirtà
+* penktà
+* šeštà
+* sekma (an archaic for of seven)
 
 ## Months
 
@@ -1070,6 +1072,12 @@ Cardinal number + _dienis_
 saũsis   | balañdis  | lı̇́epa     | spãlis
 vasãris  | gegužė    | rugpjūtis | lãpkritis
 kóvas    | biržẽlis  | rugsėjis  | grúodis
+
+## Decades
+
+Decades are referred to as 1st to 10th decade of a century and start on the "1" year. For example, 1901-1910 is the 1st decade, so on to 1991-2000 is the 10th decade of the 1900s. There is a chance that a Lithuanian speaker will therefore be off one decade when hearing a decade in English – e.g. the 70s would potentially be misconstrued as the 7th decade or last year of the 7th decade, and thus assume 1961-1970.
+
+The decade form is made with the oridnal number + _dešimtmetis_, so literally "the Xth decade". For example `aštuntas dešimtmetis:the 8th decade/1971-1980`.
 
 # Questions
 
