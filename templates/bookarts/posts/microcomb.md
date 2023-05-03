@@ -12,9 +12,9 @@ mmm... sort of?
 
 while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" brass pins.
 
-<picture><source srcset='/images/one_sixteenth_comb_1.avif' type='image/avif'/><source srcset='/images/one_sixteenth_comb_1.jxl' type='image/jxl'/><source srcset='/images/one_sixteenth_comb_1.webp' type='image/webp'/><img src='/images/one_sixteenth_comb_1.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/one_sixteenth_comb_1.avif' type='image/avif'/><source srcset='/images/marbling/one_sixteenth_comb_1.jxl' type='image/jxl'/><source srcset='/images/marbling/one_sixteenth_comb_1.webp' type='image/webp'/><img src='/images/marbling/one_sixteenth_comb_1.jpg' loading='lazy'/></picture>
 
-<picture><source srcset='/images/one_sixteenth_comb_2.avif' type='image/avif'/><source srcset='/images/one_sixteenth_comb_2.jxl' type='image/jxl'/><source srcset='/images/one_sixteenth_comb_2.webp' type='image/webp'/><img src='/images/one_sixteenth_comb_2.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/one_sixteenth_comb_2.avif' type='image/avif'/><source srcset='/images/marbling/one_sixteenth_comb_2.jxl' type='image/jxl'/><source srcset='/images/marbling/one_sixteenth_comb_2.webp' type='image/webp'/><img src='/images/marbling/one_sixteenth_comb_2.jpg' loading='lazy'/></picture>
 
 this comb is admittedly shoddily made and is definitely more of a proof of concept than anything else. but it works! and has held up over multiple sessions, so that's saying something, i guess.
 
