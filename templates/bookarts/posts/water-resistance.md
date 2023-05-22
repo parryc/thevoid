@@ -30,7 +30,7 @@ even without kakishibu, though, 4 or more coats seems to be the minimum necessar
 
 # <span class="addenda">addendum</span>
 
-i had been looking to get my kyoseishi formally tested (what's more fun than a formal certificate!) and a paper company near me, Anchor Papers, recommended i try the folks at [NPA Testing](npatest.com). i sent one sheet of untreated washi and one sheet of 4x coats of washi.
+i had been looking to get my kyoseishi formally tested (what's more fun than a formal certificate!) and a paper company near me, Anchor Papers, recommended i try the folks at [NPA Testing](https://npatest.com). i sent one sheet of untreated washi and one sheet of 4x coats of washi and am very appreciative of the time they took on this silly question of mine.
 
 the people at NPA Testing were really kind and gave it their best shot, however, due to the nature of the paper, none of the standard industrial tests worked out. two tests were tried, the Cobb test and a drip test. the Cobb test failed due to the paper not being smooth enough to keep the testing aparatus from leaking water. the drip test failed because of the huge discrepancy (as seen above) between the two sheets. it's much larger than the smaller differences usually seen in industrially coated paper.
 

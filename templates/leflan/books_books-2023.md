@@ -18,3 +18,6 @@
 * _A Trip to Paris in July and August 1792_ - Robert Twiss
 * _The Mysterious Marbler_ - James Sumner
 * _Naturally Brewed, Naturally Better_ - Tony Dierckins and Pete Clure
+* _Louis Herman Kinder and Fine Bookbinding in America_ - Richard Wolfe and Paul McKenna
+* _The Anarchist's Design Book_ - Christopher Schwarz
+* _Nagashizuki_ - Timothy Barrett

@@ -10,12 +10,12 @@ For questions please email us at `info` @ `midwestmarbling.art`!
 
 Marbling at Homewood Studios will be the second weekend of each month. See below for information on what equipment will be available and expectations for participation. If you have any questions, please don't hesitate to reach out at `info` @ `midwestmarbling.art`.
 
-- May: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood4)
 - June: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood5)
+- July: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood6)
+
 
 ### Upcoming Dates
 
-- May 13th & 14th
 - June 10th & 11th
 - July 8th & 9th
 - August 12th & 13th
@@ -47,6 +47,6 @@ Participants are expected to bring:
 - Eye droppers
 - Combs/Rakes
 
-While extra trays are available, access to a specific tray cannot be guaranteed. As such, you are encouraged to bring your own. Space is available if you would like to leave a tray at Homewood Studios for future use.
+While extra trays & combs are available, access to a specific tray or comb cannot be guaranteed. As such, you are encouraged to bring your own. Space is available if you would like to leave a tray at Homewood Studios for future use.
 
 We want to keep this as flexible and as inviting as possible, so if you have any questions, comments, or concerns, don't hesitate to reach out.
