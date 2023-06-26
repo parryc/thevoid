@@ -1,5 +1,15 @@
 {  "reviews": [
     {
+      "location": "Skalka, Seattle",
+      "country": "USA",
+      "price": 4,
+      "taste": 5,
+      "type": "adjaruli",
+      "date": "2023-06",
+      "rated_by": "yy",
+      "note": "got the strogonoff version"
+    },
+    {
       "location": "Chito Gvrito, New York City",
       "country": "USA",
       "price": 4,

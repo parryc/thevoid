@@ -21,3 +21,7 @@
 * _Louis Herman Kinder and Fine Bookbinding in America_ - Richard Wolfe and Paul McKenna
 * _The Anarchist's Design Book_ - Christopher Schwarz
 * _Nagashizuki_ - Timothy Barrett
+* _Being Mortal_ - Atul Gawande
+* _Stand Still, Stay Silent: Volume 4_ - Minna Sundberg
+* _Babel_ - R. F. Kuang
+* _Chinese Classical Furniture_ - Hu Desheng and Song Yongji

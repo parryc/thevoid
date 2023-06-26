@@ -147,11 +147,12 @@ For example:
 5. გ-ხედავ-ს _She sees you_
 6. მ-ხედავ _You see me_
 7. გ-ხედავ _I see you_
+8. გ-ხედავ-თ _We see you_
 
 It is clear for when both of the მ/ვ-class markers are used, such as in example 4 (ex. `მ-` is always 1SG and `-ს` is always 3SG), but when the person is marked with `∅`, it is more difficult. Two few things to keep in mind:
 
 1. If the subject marker does not conflict with the object marker for place (i.e. before the root or after the root), it will be used. Otherwise, the object marker is the only one used. Thus, `გ-ხედავ-ს` (ex. 5) but not `გ-ვ-ხედავ` (ex. 7) (which would be interpreted as `გვ-` which is for 1PL მ-class verbs).
-2. The object cannot be the same as the subject, meaning `გ-ხედავ` cannot be "you saw yourself". Reflexiveness is indicated in other ways, such as with `თავი:head` or the _ი_ version (see below).
+2. The object cannot be the same as or inclusive of the subject, meaning `გ-ხედავ` cannot be "you saw yourself" and `გ-ხედავ-თ` cannot be "you all saw you" (since "you" is a part of "you all"). Reflexiveness is indicated in other ways, such as with `თავი:head` or the _ი_ version (see below).
 
 Therefore, the strangely ambiguous `გ-ხედავ` would be analyzed as _I see you_, because of the two principals above: there is no overt subject marker (so it can be either 1SG – before-root person marker and thus obfuscated by the object – or 2SG, which is ∅) and the subject and object can never match. Thus, the subject must be 1SG.
 
@@ -967,7 +968,7 @@ Change the -ე/-ა ending of the AOR to -ო. 3PL person marker is -ნ. If 1S
 
 * დაუკრა, played (an instrument) → დაუკრას, must play
 
-Note here the ending vowel has been changed to _ა_.
+Note that the ending vowel has been changed to _ა_. Here we also see another difference in 1SG and 2SG as compared to their AOR forms. Namely, the 1SG/2SG.AOR is და(ვ)უკარი and the 1SG/2SG.OPT is და(ვ)უკრა (missing an _ა_). This is because the OPT forms derive from the 3SG.OPT.
 
 &nbsp; |SG  |PL
 -|----------|--
@@ -1013,7 +1014,7 @@ Regarding the two 3PL forms, [Wiktionary](https://en.wiktionary.org/wiki/%E1%83%
 
 > იყვნენ და არა იყონ. ([Say] იყვნენ and not იყონ)
 
-Interestingly, as a reverse of _Brosset_ some two hundred odd years later, for some speakers, it appears that _იყონ_ is now the more common spoken form, as opposed to _იყვნენ_. This may be a regional preference – if you know more, please let me know.
+Interestingly, as a reverse of _Brosset_ some two hundred odd years later, for some speakers, it appears that _იყონ_ is now the more common spoken form, as opposed to _იყვნენ_. This may be a regional preference and appears that western dialects prefer _იყონ_. If you know more, please let me know.
 
 ### How to Use: OPT
 
@@ -1324,7 +1325,11 @@ Verbs can be negated in Georgian in two ways, with `არ` and `ვერ`. `�
 * ვერ მოვდივარ:I'm not able to come
 * არ მოვდივარ:I'm not coming
 
-Imparatives are negated with `ნუ:don't`. 
+Note also that involuntary/unconscious actions must be negated with _ვერ_. Thus, <ex>_ვერ შევამჩნიე_ ⧸ I didn't notice it</ex>, as "to notice something" is an unconscious action (you cannot deliberately not notice something).
+
+There are two modified versions of _არ_ and _ვერ_, _აღარ_ and _ვეღარ_ respectively, which add the meaning of "any longer" to the negative. For example, <ex>_მე აღარ ვტირი_ ⧸ I no longer cry</ex>.
+
+Imparatives are negated with `ნუ:don't`.
 
 ## Using the Verbal Noun
 
@@ -1435,6 +1440,8 @@ OPT    | მქონდეს| ჰქონდეს
 EVD    | მქონია| ჰქონია
 PSTSBJV| მქონოდა| ჰქონოდა
 DU     | მქონოდეს| ჰქონოდეს
+
+Note that you may hear shortened versions of the PRS in casual speech, such as _მე მაქ_, where the `-ვს` at the end is dropped.
 
 ## To have (a person) - ჰყავს
 

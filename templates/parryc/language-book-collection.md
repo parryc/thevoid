@@ -67,7 +67,7 @@ Māori – 1
 Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 12
+Multiple Languages – 13
 Norse – 1
 Ojibwe – 3
 Okanagan – 1
@@ -104,7 +104,7 @@ Bilingual Texts – 10
 Coursebook – 46
 Dictionary – 86
 Grammar – 45
-Phrasebook – 21
+Phrasebook – 22
 Study – 19
 Verb list – 4
 
@@ -657,6 +657,9 @@ The Languages of the Seat of War
 
 Dictionary of the Queer International
 : ed. Yevgeniy Fiks, P.S. Guelph, 2020. <tag>dictionary</tag>
+
+Eastern Europe
+: ed. Zara Sekhavati, Apa Publications, 2019. <tag>phrasebook</tag>
 
 ### Na-Dene
 

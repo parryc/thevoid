@@ -107,6 +107,12 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 დან (INST)
 : from (a location, for a direct use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
 
+დან, ...ად
+: from X, to Y, but for conversions or translations. For example, between languages, or from Celsius to Fahrenheit. See also, _დან, ...ენაზე_.
+
+დან, ... ენაზე
+: from X, to Y, but where both X and Y are languages and Y is a language that is of the form "abc ენა", e.g. <ex>_ქართულიდან ოსურ ენაზე_ ⧸ from Georgian to Ossetian</ex>.
+
 მდე (ADV)
 : up to, till, until, before doing X. The დ from ADV is dropped. Often used when driving to a place that you won't go into, such as when dropping off people (e.g. `სადგურამდა:to the station`). Commonly heard with time phrases, for example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 
