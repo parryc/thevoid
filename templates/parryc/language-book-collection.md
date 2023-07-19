@@ -21,6 +21,7 @@ Cantonese – 2
 Cebuano – 1
 Chaghatay – 1
 Chinuk Wawa – 1
+Chiwere – 1
 Chuvash – 1
 Classical Chinese – 2
 Cornish – 1
@@ -28,11 +29,11 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 181
+English – 183
 Finnish – 2
 French – 14
 Georgian – 21
-German – 9
+German – 10
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 5
@@ -101,7 +102,7 @@ Yoruba – 1
 ## Book Types Represented
 
 Bilingual Texts – 10
-Coursebook – 46
+Coursebook – 48
 Dictionary – 86
 Grammar – 45
 Phrasebook – 22
@@ -404,6 +405,10 @@ Deutsch heute Grundstufe
 
 Literatur 1
 : ed. Robert Spaethling and Eugene Weber, Oxford University Press, 1972. <tag>german→english</tag> <tag>bilingual reader</tag>
+
+German Reading Grammar
+: Stanely L. Sharp and Friedrich W. Strothmann, Revised Edition, Ginn and Company, 1955. <tag>german→english</tag> <tag>coursebook</tag>
+
 
 #### Icelandic
 
@@ -894,6 +899,11 @@ Modern China: Newspaper Readings on Life, Language, and Culture
 : 吕蕾 and 牛振芳, 天津大学出版社, 2007. <tag>wu→mandarin</tag> <tag>phrasebook</tag>
 
 ### Siouan
+
+#### Chiwere
+
+Jiwele-Baxoje / Otoe-Iowa Indian Language (Books I and II)
+: Otoe and Iowa Language Speakers and Lila Wistrand-Robinson, Jiwere-Baxoje Language Project, 1977. <tag>chiwere→english</tag> <tag>coursebook</tag>
 
 #### Crow
 

@@ -25,3 +25,5 @@
 * _Stand Still, Stay Silent: Volume 4_ - Minna Sundberg
 * _Babel_ - R. F. Kuang
 * _Chinese Classical Furniture_ - Hu Desheng and Song Yongji
+* _Morris' Marbles_ - Alan Isaac
+* _Cheap Copies_ - Rich Dana

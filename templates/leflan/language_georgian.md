@@ -113,6 +113,9 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 დან, ... ენაზე
 : from X, to Y, but where both X and Y are languages and Y is a language that is of the form "abc ენა", e.g. <ex>_ქართულიდან ოსურ ენაზე_ ⧸ from Georgian to Ossetian</ex>.
 
+X გავლით (GEN)
+: through X, via X.
+
 მდე (ADV)
 : up to, till, until, before doing X. The დ from ADV is dropped. Often used when driving to a place that you won't go into, such as when dropping off people (e.g. `სადგურამდა:to the station`). Commonly heard with time phrases, for example, <ex>_8 საათიდან 5 საათამდე_ ⧸ From 8 until 5</ex>.
 

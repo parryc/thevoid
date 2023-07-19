@@ -1421,6 +1421,10 @@ An exception to this is "had been doing", which corresponds to IMPERF or AOR (wi
 
 There are two ways of saying "to keep doing something", depending on the meaning. If it is for encouragement, such as "keep going!", it is `მიდი:go` plus the imperative form of the action (same as AOR). For the other meaning of "to continue doing something", then it is the verb `გააგრძელებს:will continue` (FUT form) with the verbal noun of the action.
 
+## Redoing something (თავიდან + verb)
+
+As you might have noticed, Georgian does not have prefixes that correspond to many of the verbal prefixes in English. One common one is doing an action again. This is indicated with the word `თავიდან:from the beginning`, such as in <ex>_თავიდან დაწერა_ ⧸ S/he rewrote it</ex>.
+
 # Common Irregular Verbs
 
 To save on typing, only 1SG and 3SG are provided, as the remaining forms can be derived from those. If you would like to provide more irregular forms, please contact me at `parry (ათ) parryc.com`.
