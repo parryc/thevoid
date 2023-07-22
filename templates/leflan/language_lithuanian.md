@@ -39,7 +39,7 @@ VOC
  ACC.SG | -ą  | -į      | -į  | -ų  | -ą  | -ę  | -į  | -į
  INS.SG | -u  | -iu     | -iu | -imi| -a  | -e  | -iu | -imi
  LOC.SG | -e  | -yje    | -yje| -uje| -oje| -ėje| -yje| -yje
- VOC.SG | -e  | -i      | -y  | -au | -a  | -e  | -ie | -ie
+ VOC.SG |-e/ai| -i/y    | -y  | -au | -a  | -e  | -ie | -ie
  –––––––|–––––|–––––––––|–––––|–––––|–––––|–––––|–––––|–––––|
  NOM.PL | -ai | -iai    | -iai| -ūs | -os | -ės | -ys | -ys
  GEN.PL | -ų  | -ių     | -ių | -ų  | -ų  | -ių | -ų  | -ų
@@ -188,6 +188,11 @@ Per dvejus metus mes žaidžiame devynerias rungtynes.
 In two years we play nine matches. // both years and matches are plural nouns, with plural numbers
 --ENDEX--
 
+### Other Word Formation Techniques
+
+-šva
+: -ish, for colors. E.g. `pilkšva:greyish`. It does not appear that `jaudšva` exists.
+
 # Numbers and Quantities
 
 Numbers can be confusing in Lithuanian. Not all numbers are declined the same way and may take different forms depending on the word that follows.
@@ -294,6 +299,8 @@ These forms only exist for numbers one to nine. In NOM (M/F) they are:
 * aštuoneri/aštuonerios
 * devyneri/devynerios
 
+One often hears these in formal contexts, such as on the radio.
+
 ## Ordinal Numbers
 
 Ordinal numbers are declined like first declension adjectives. In compound ordinal numbers (ex. 145th), only the last number is declined (ex. in GEN, _šimtas keturiasdešimt penkto_). Similarly, in compound numbers, only the last number is in the ordinal form (ex. `dvidešimt pirmas:twenty-first`)
@@ -348,7 +355,9 @@ If there is a dipthong (pure or mixed) in a multi-syllabic root, add an _i_ to t
 
 Some verbs of quantity can either take ACC or GEN objects. When it the object is in GEN then the verb is an uncertain amount. For example, <ex>_Aš valgau obuolių_ ⧸ I ate some apples</ex> vs. <ex>_Aš valgau obuolį_ ⧸ I ate an apple</ex>. Note that this does not happen when the action (e.g. the verb) is the focus of the sentence, rather than the result (e.g. the object). In that case, the direct object will always be whatever the verb requires (most often ACC).
 
-Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition (_-io-_ form), or enjoyment (_-inė-_ form), especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`. A verb will usually have one preferred form over the other 
+Verbs with _-io-_ or _-inė_ often involve or give the sense of process, repetition (_-io-_ form), or enjoyment (_-inė-_ form), especially when involving movement. Compare `bėgti:to run` and `bėgioti:to run around`. A verb will usually have one preferred form over the other.
+
+When a verb takes DAT as the subject case (such as `man patinka:I like`), if the subject is dropped, it indicates "in general". That is _patinka xyz_ would mean "People, in genearl, like xyz".
 
 ## Infinitive (INF)
 
@@ -484,20 +493,22 @@ As a result, the subsequent verbs in sequential strings of verbs often have a pr
 
 For verbs that do not take a verbal prefix, it should be assumed that there is a different form that expresses continous action, e.g. `grįžti:to come back` and `grįžinėti:to be coming back`.
 
-_at_ - coming (from there to here), e.g. *at*eiga, to come
-_į_ - outward prefix, e.g. *į*sakyti, to command
-_iš_ - leaving (from here to there)
-_ne_ - not/NEG marker. May cause PERF prefix (whichever it may be for a verb) to be dropped.
-_nebe_ - no longer
-_pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit
-_per_ - across (for verbs of movement)
-_pra_ - past (pratetis)
-_pri_ - a lot; worked a lot at; excessively (often negative)
-_pro_ - through (for verbs of movement)
-_pu_ - 'somewhat', e.g. *pa*kalba, spoke a little
-_si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
-_su_ - all together (PERF)
-_tebe_ - still
+* _at_ - coming (from there to here with the intention to return to the original destination), e.g. *at*eiga, to come*
+* _ap_ - around; compared with _pra_, implies a location that is circular or haphazard in layout
+* _į_ - into a place or away from a place, e.g. *į*sakyti, to command*
+* _iš_ - leaving (from here to there) or out of a place
+* _ne_ - not/NEG marker. May cause PERF prefix (whichever it may be for a verb) to be dropped.
+* _nebe_ - no longer
+* _nu_ - often just a resultative prefix, makes IMP more polite
+* _pa_ - a little bit (for verbs of movement), e.g. *pa*lipti, climb a little bit; under
+* _par_ - returning to a place (home, hotel, some place you stay)
+* _per_ - across (for verbs of movement); re/redo an action
+* _pra_ - passing by/through some place (cf. preposition _pro_); as compared with _ap_, it implies a location that is arranged in rows and columns
+* _pri_ - a lot; worked a lot at; excessively (often negative); for verbs of movement, it implies reaching or getting closer to a destination
+* _si_ - reflexive, e.g. ap*si*gyventi, to settle oneself in (to a place)
+* _su_ - all together (PERF)
+* _tebe_ - still
+* _už_ - come to a place (often spontaneously) for a short while
 
 ## Moods
 
@@ -564,14 +575,14 @@ Formed by removing the _-ti_ from the infinitive. This form is easily recognizab
 &nbsp; | SG   | PL
 -------|------|------
       1| n/a  | -kim(e)
-      2| -k   | -kit(e)
+      2| -k(i)| -kit(e)
       3| see note | see note
 
 <attn>Note that the combination _g+k_ becomes _k_, ex. _raugti_ > _raugk_ > _rauk_</attn>
 
 While there is no declined 3SG or 3PL form, a 3rd person imperative ("let him/her do X") can be formed with `tegu` plus the 3SG.PRS form of the verb. Thus `tegu kalba:let him/her speak`.
 
-Colloquially, the 1PL form (_Let's..._) can also be the 1PL.PRS without the ending _-e_. Thus, `varom:let's go`/`einam:let's go`.
+Colloquially, the 1PL form (_Let's..._) can also be the 1PL.PRS without the ending _-e_. Thus, `varom:let's go`/`einam:let's go`. Similarly, the 2SG form may be heard as _-ki_ in casual speech.
 
 In terms of politness, IMP is less polite than SBJV and IMP without a verbal prefix is less polite than IMP with a verbal prefix, as noted at the top of this section.
 
@@ -594,7 +605,7 @@ There are 5 types of reflexive verbs:
 
 Reflexive forms are formed like non-reflexive verb, but with an additional suffix, as listed below. For plural forms, drop the final _-e_, ex. _dirbame_ → _dirbamės_.
 
-One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others. If no reflexive form of the verb exists, than using the reflexive pronoun is sufficient.
+One may use the reflexive pronoun to emphasize the action being done is for oneself, in exclusion to others, or to indicate more personal engagement with the action at hand. If no reflexive form of the verb exists, than using the reflexive pronoun is sufficient.
 
 ### Present Tense (PRS)
 
@@ -718,7 +729,7 @@ See also [DBK, pg293](#DBK).
 * dėl - due to
 * iki - to
 * įstižai - diagonal
-* iš - out of; from (a place – see _nuo_); since (movement from in to out)
+* iš - out of; from (a place – see _nuo_); since (movement from in to out); out of a vehicle
 * keletas - several of
 * link - towards
 * mažai - a bit of
@@ -739,7 +750,7 @@ See also [DBK, pg293](#DBK).
 
 * apiẽ - around, about (e.g. when referring to time)
 * apliñk - around by (physical location only)
-* į̇̃ - in (location/place); into (will often cause the verb to take the same prefix)
+* į̇̃ - in (location/place); into (will often cause the verb to take the same prefix) a place or vehicle
 * pas - to a person
 * per̃ - through; across; during; throughout; over (over the fence); for the duration of; via/on (for technology, e.g. via Skype, on TV)
 * põ - round about; through (through the fence); after (time wise); around (both physically in a circle and metaphorically, like "around the city")
