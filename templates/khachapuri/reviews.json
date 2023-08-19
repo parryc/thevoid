@@ -1,5 +1,44 @@
 {  "reviews": [
     {
+      "location": "Sheki, Riga",
+      "country": "Latvia",
+      "price": 1,
+      "taste": 1,
+      "type": "imeruli",
+      "date": "2023-08",
+      "rated_by": "wpc",
+      "note": "perhaps khachapuri in name only"
+    },
+    {
+      "location": "Kmyninė, Vilnius",
+      "country": "Lithuania",
+      "price": 1,
+      "taste": 3,
+      "type": "penovani",
+      "date": "2023-08",
+      "rated_by": "eml"
+    },
+    {
+      "location": "Chačapuri, Vilnius",
+      "country": "Lithuania",
+      "price": 1,
+      "taste": 2,
+      "type": "penovani",
+      "date": "2023-07",
+      "rated_by": "wpc",
+      "note": "unfortunately quite lukewarm"
+    },
+    {
+      "location": "Argo, Warsaw",
+      "country": "Poland",
+      "price": 2,
+      "taste": 4,
+      "type": "imeruli",
+      "date": "2023-07",
+      "rated_by": "wpc",
+      "note": "the 'argo' version is made with filo dough"
+    },
+    {
       "location": "Skalka, Seattle",
       "country": "USA",
       "price": 4,

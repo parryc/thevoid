@@ -340,7 +340,7 @@ Compare `უწერს:(vo) writes something for someone`, `იწერს:(v
 Ⓗ: S1 Present, S2 Aorist, S3 Perfect
 Ⓞ: სერია (series), მწკრივი (screeve)
 
-A screeve, from the word _მწკრივი_, meaning "row", is the traditional way naming a verbal tense for Georgian verbs. This document will use tense, since it is a term a learner is more likely to be familiar with. Of the 11 tenses listed below, there are 3 series, denoted by ①, ②, or ③ before the tense name. Tenses in the same series are often clearly derived from each other (e.g. adding a preverb) and share the same case declensions.
+A screeve, from the word _მწკრივი_, meaning "row", is the traditional way of naming a verbal tense for Georgian verbs. This document will use tense, since it is a term a learner is more likely to be familiar with. Of the 11 tenses listed below, there are 3 series, denoted by ①, ②, or ③ before the tense name. Tenses in the same series are often clearly derived from each other (e.g. adding a preverb) and share the same case declensions.
 
 Since as a rule each series' base form cannot be derived by knowing a form in a different series, it is in theory necessary to memorize three different forms when learning a new verb. That is, one form from the 1st series, one from the 2nd series, and one from from the 3rd series. However, the 3rd series, as you will read below, is not very commonly used and no one would fault you for not specifically memorizing a 3rd series form, especially when just starting out. Note that entries from CGED will list the two additional necessary forms after the FUT and PRS entries (in order, ② AOR and ③ EVD).
 

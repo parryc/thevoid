@@ -12,7 +12,7 @@ A count of languages used throughout the books, even if non-primary. For example
 
 Abkhaz – 1
 Adyge – 1
-Alemmanic – 3
+Alemmanic – 4
 Arabic – 5
 Avar – 2
 Azeri – 4
@@ -29,7 +29,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 183
+English – 184
 Finnish – 2
 French – 14
 Georgian – 21
@@ -57,7 +57,7 @@ Lakota – 1
 Lao – 1
 Latin – 1
 Laz – 1
-Lithuanian – 9
+Lithuanian – 12
 Lushootseed – 1
 Malay – 1
 Maltese – 1
@@ -72,7 +72,7 @@ Multiple Languages – 13
 Norse – 1
 Ojibwe – 3
 Okanagan – 1
-Polish – 1
+Polish – 3
 Romanian – 1
 Russian – 23
 Salar – 1
@@ -103,10 +103,10 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 86
+Dictionary – 90
 Grammar – 45
 Phrasebook – 22
-Study – 19
+Study – 20
 Verb list – 4
 
 ## Languages
@@ -245,6 +245,12 @@ Lithuanian Pictorial Dictionary
 Anglų-Lietuvių Kalbu Žodynas / English-Lithuanian Dictionary
 : Bronius Svecevičius, Žodynas, 1997. <tag>english→lithuanian</tag> <tag>dictionary</tag>
 
+Rytų aukštaičiai širvintiškiai
+: ed. Ilona Čiužauskaitė, Lietuvių kalbos institutas, 2018. <tag>lithuanian→lithuanian</tag> <tag>study</tag>
+
+Lietuvių etnografijos enciklopedinis žodynas
+: ed. Marytė Slušinskaitė, Lietuvos Nacionalinis Muziejus, 2015.
+
 ### Celtic
 
 #### Cornish
@@ -360,6 +366,9 @@ Langenscheidt Lilliput Schweizerdeutsch
 
 Schweizer-hochdeutsch
 : Hans Bickel and Christoph Landolt, Duden, 2018. <tag>alemmanic→german</tag> <tag>dictionary</tag>
+
+Mer lehre Ënglisch
+: Paul Adolf, Jérôme Do. Bentzinger Editeur, 2002. <tag>alemmanic→english</tag> <tag>dictionary</tag>
 
 #### Danish
 
@@ -937,6 +946,15 @@ Czech Phrasebook
 
 The Slavonic Languages
 : ed. Bernard Comrie and Greville G. Corbett, Routledge, 2002. <tag>multiple languages</tag> <tag>study</tag>
+
+#### Polish
+
+Lenkiškai Lietuviškas Žodynas / Słownik Polsko-Litewski
+: Henrikas Radauskas, Spaudos Fondas, 1932. <tag>polish→lithuanian</tag> <tag>dictionary</tag>
+
+A co to takiego? Słownik
+: Anna Seretny, Universitas, 2022. <tag>polish→polish</tag> <tag>dictionary</tag>
+
 
 #### Russian
 

@@ -27,3 +27,5 @@
 * _Chinese Classical Furniture_ - Hu Desheng and Song Yongji
 * _Morris' Marbles_ - Alan Isaac
 * _Cheap Copies_ - Rich Dana
+* _Allô, Hercule Poirot..._ - Agatha Christie
+* _All the Devils are Here_ - Louise Penny

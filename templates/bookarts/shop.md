@@ -10,9 +10,8 @@ i'm open for commissions related to [marbling](marbling-examples), [marbling rak
 
 ## marbling
 
-- support for full sized sheets up to 20 x 26, fabric, and leather
-    - (and honestly just about anything else)
-- currently not accepting work for water-color-only techniques
+- support for full sized sheets up to 20 x 26
+    - open to working with non-paper materials, too!
 - available for edition work
 - marbling firsts (i.e. the cream i skim off the top of my personal work) are for sale – please reach out if interested
 

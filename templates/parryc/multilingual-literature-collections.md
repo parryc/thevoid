@@ -21,9 +21,10 @@ Over the years, I've found myself drawn to a few different books that are always
 * Kabardian – 1
 * Ladino – 1
 * Latin – 1
-* Lithuanian – 1
+* Lithuanian – 2
 * Multiple languages – 1
 * Norwegian – 1
+* Polish – 1
 * Russian – 1
 * Scottish Gaelic – 1
 * Swedish – 1
@@ -66,7 +67,13 @@ _Nalle Puhs hörna_
 : translated by Brita af Geijerstam. Published by Bonnier Carlsen, 2016. <tag>swedish</tag>
 
 _Winnie Ille Pu_
-: translated by Alexaner Lenard, Dutton, 1961. <tag>latin</tag>
+: translated by Alexaner Lenard. Published by Dutton, 1961. <tag>latin</tag>
+
+_Kubuś Puchatek_
+: translated by Irena Tuwim. Published by Prószyński i S-ka, 2021. <tag>polish</tag>
+
+_Pūkuotuko Pasaulis_
+: Virgilijus Čepaitis. Published by Garnelis, 2018. <tag>lithuanian</tag>
 
 ## Le Petit Prince by Antione de Saint-Exupéry
 

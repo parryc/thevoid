@@ -65,7 +65,7 @@ When suffixed with `-მე`, the interrogative pronouns function as the prefix 
 --EX--
 ა: რა აკიღოთ? ბ: რაც შენ გინდა.
 A: What shall we have? B: Whatever you like.
-როგორც შენ დარეკე, (მე ...)
+როცა შენ დარეკე, (მე ...)
 When you called, (I ...)
 როგორც გინდა
 As you wish
