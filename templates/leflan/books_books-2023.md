@@ -29,3 +29,7 @@
 * _Cheap Copies_ - Rich Dana
 * _Allô, Hercule Poirot..._ - Agatha Christie
 * _All the Devils are Here_ - Louise Penny
+* _Geheimen der Boekbinderij_ - tr. Richard Wolfe
+* _Ingenious Mechanicks_ - Christopher Schwarz
+* _Sharpen This_ - Christopher Schwarz
+* _The Whole art of Bookbinding, the Whole Process of Marbling Paper_ - ed. Bernard Comrie

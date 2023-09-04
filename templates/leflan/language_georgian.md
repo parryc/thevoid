@@ -123,7 +123,7 @@ X გავლით (GEN)
 : on, about. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ზე`. For example,`მაგიდაზე:on the table` and `პირველი საათზე:at 1 o'clock`. When used with a verb of motion, it indicates the purpose of the motion. For example, <ex>_პურზე მივდივარ_ ⧸ I'm going to get bread.</ex>
 
 ში
-: to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`.
+: to, in, into. Traditionally regarded as a DAT suffix, in modern Georgian, it is unmarked.<cite>[Kurtsikidze 84](#kurtsikidze)</cite> `ი` is dropped before `ში`. For example, `მანქანა:car` → `მანქანაში:in a/the car` and `ოფისი:office` → `ოფისში:to/in the office`. When listing multiple items ending in _-ში_, the 2nd to last one will be _-ისა_ rather than _-ში_. For example, _-ში, -ში, -ში, -ისა, და -ში_.
 
 კენ (GEN)
 : towards. For example, <ex>_შინისაკენ გაემართა_ ⧸ He hurried homeward.</ex>
