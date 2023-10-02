@@ -2,6 +2,8 @@ marbling > rakes
 
 [TOC]
 
+> this page is a bit out of date! more pictures and a better description coming soon.
+
 # materials needed
 
 1. square wooden dowel
@@ -13,7 +15,7 @@ for a nonpareil, make sure to use tines less than or equal to 1⧸16". i've foun
 
 # steps
 
-i've only used a handdrill and divider to mark out and drill the holes, so if you have fancier tools, you may have a different method. rod length will be determined by the depth of the tray and your personal comfort in how high you want to hold the rod off the edges of the tray. for a 1" deep tray, a 1" - 2" long tine is probably sufficient, not including the depth of the hole in the wood.
+i mostly use a handdrill and divider to mark out and drill the holes, so if you have fancier tools, you may have a different method. rod length will be determined by the depth of the tray and your personal comfort in how high you want to hold the rod off the edges of the tray. for a 1" deep tray, a 1" - 2" long tine is probably sufficient, not including the depth of the hole in the wood.
 
 1. find the center line of your dowel
 2. set your divider to the tine width and mark out holes at each interval

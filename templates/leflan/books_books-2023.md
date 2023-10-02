@@ -33,3 +33,5 @@
 * _Ingenious Mechanicks_ - Christopher Schwarz
 * _Sharpen This_ - Christopher Schwarz
 * _The Whole art of Bookbinding, the Whole Process of Marbling Paper_ - ed. Bernard Comrie
+* _103 Not Out. David Gentleman's Stamps._ - Brian Webb
+* _Scattered All Over the Earth_ - Yoko Tawada

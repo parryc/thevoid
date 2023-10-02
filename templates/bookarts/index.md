@@ -4,11 +4,9 @@ unsure of where to look first? take a peep at some [marbling examples](marbling-
 
 ## announcements
 
-<attn>i will be teaching a class on bradel bindings on september 30th at [MCBA](https://www.mnbookarts.org/bradel-binding/) – registration closes 9/25 at midnight.</attn>
+<attn>i will be teaching a class on bradel bindings on january 27th at [MCBA](https://www.mnbookarts.org) – registration opens october 7th.</attn>
 
-<attn>my work on [kyoseishi](kyoseishi), _teach me about kyoseishi so i don't have to research it by myself_ was on display at [Friedli Gallery](https://www.friedliartsgallery.com/exhibitions) – post coming soon!</attn>
-
-<attn>[kyoseishi](kyoseishi) now available for sale in the [shop](shop)!</attn>
+<attn>a bunch of updates coming soon! keep your eyes peeled and your RSS readers on.</attn>
 
 ## recent updates
 

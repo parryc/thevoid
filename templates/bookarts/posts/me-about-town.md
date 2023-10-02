@@ -1,0 +1,28 @@
+projects
+
+[TOC]
+
+i have been fortunate to have my work included in a variety of places and some places have been kind enough to let me speak in front of a classroom and share my experience on different topics. most are in person, but a few are online. ordered chronologically.
+
+## works
+
+### 2023
+
+- "modern renaissance", midwest chapter of the guild of bookworkers, [online](https://midwestgbw.wordpress.com/exhibits/modern-renaissance/)
+- [friedli gallery](/friedli-gallery-2023), st paul, mn - april 7th to may 26th
+
+### 2022
+
+- wayzata public library, wayzata, mn - october
+
+## teaching experience
+
+### MCBA
+
+- september, 2023, bradel bindings
+- may, 2023, making marbling combs
+
+## organizations
+
+- co-chair, [midwest chapter of the guild of book workers](https://midwestgbw.wordpress.com/), october 2023 - present
+- treasurer/membership secretary, [midwest marbling](https://midwestmarbling.art), september 2022 - present

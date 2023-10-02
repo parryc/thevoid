@@ -2,15 +2,58 @@ marbling > rakes
 
 [TOC]
 
-# the quest for the microcomb
+what is a microcomb? generally speaking, any comb with more than 4 tines per inch is considered a microcomb. thus, 5-dent or higher. the most common sizes in the microcomb family are 1/8" and 1/16". indeed, 1/16" (16-dent) combs have been available throughout most of the history of marbling, as they used to be readily available as modified weaver's reeds. these are significantly less common and available today, so alternative approaches are needed.
 
-what is a microcomb? an enigma? an illusion? a dream within a dream? perhaps one day i'll find out, but for now, maybe it's what i've written below.
+## making a 1/16" rake
 
-## can you make a 1/16" rake?
+while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" brass pins. Dan St. John of the Chena River Marblers has a method for making single-row high-dent combs (i've used up to his 10-dent comb), using .015 diameter wire.
 
-mmm... sort of?
+> pictures of the new method of construction coming soon! see [attempt #2](#how-to-make-one) for a prior write-up
 
-while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" brass pins.
+## use as a free-standing rake
+
+due to the small size of my test rake and the large size of the vat i was using (19 x 16), the next test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
+
+i have been quite inspired by Norma Rubovits' "vignettes" (an example below) and endeavor to reproduce the technique to the extent i am able and it seems like a microcomb may have been used.
+
+<picture><source srcset='/images/marbling/norma_rubovits_example.avif' type='image/avif'/><source srcset='/images/marbling/norma_rubovits_example.jxl' type='image/jxl'/><source srcset='/images/marbling/norma_rubovits_example.webp' type='image/webp'/><img src='/images/marbling/norma_rubovits_example.jpg' loading='lazy'/></picture>
+
+my own personal experiments have used the above rake as well as this tiny 5-tiner that i made while at studio.
+
+<picture><source srcset='/images/marbling/microcomb_mini.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_mini.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_mini.webp' type='image/webp'/><img src='/images/marbling/microcomb_mini.jpg' loading='lazy'/></picture>
+
+for example, an attempt at a "vignette" with the 5-tiner.
+
+<picture><source srcset='/images/marbling/IMG_20221121_204952.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_204952.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_204952.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_204952.jpg' loading='lazy'/></picture>
+
+some of the examples have worked better than others – it does seem like the 5-tiner would work well as a skip comb.
+
+<picture><source srcset='/images/marbling/5_tine_skip.avif' type='image/avif'/><source srcset='/images/marbling/5_tine_skip.jxl' type='image/jxl'/><source srcset='/images/marbling/5_tine_skip.webp' type='image/webp'/><img src='/images/marbling/5_tine_skip.jpg' loading='lazy'/></picture>
+
+here some additional "fantasy-esque" attempts with both the 5-tiner and the 5" rake. with the 5" rake i attempted to have the tines in the size as little as possible to avoid streaks, but that means that the wonky length of the various tines was much more obvious.
+
+<picture><source srcset='/images/marbling/IMG_20221121_205030.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205030.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205030.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205030.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/IMG_20221121_205004.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205004.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205004.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205004.jpg' loading='lazy'/></picture>
+
+# an archive of prior attempts
+
+## attempt one
+
+<picture><source srcset='/images/marbling/microcomb_attempt_1.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_attempt_1.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_attempt_1.webp' type='image/webp'/><img src='/images/marbling/microcomb_attempt_1.jpg' loading='lazy'/></picture>
+
+that is my first attempt: a 5" wide comb, with 1/16" spaced tines. the tines are [70-gauge stainless steel wire](https://www.mcmaster.com/catalog/128/4149). holes were hand-drilled with a [needle-nosed handdrill](https://www.micromark.com/Spiral-Push-Drill) – the chuck slipped occasionally, hence why the tines are of uneven length.
+
+there are a few things at play here that leave me unfulfilled:
+
+1) something about the tines are causing what appears to be too much paint being lapped up by the tines and causing streaks of carrageenan. i welcome any additional theories: currently my mitigating strategy is to try to put as little of the comb in the size as possible
+
+<picture><source srcset='/images/marbling/sixteenth_inch_streaks.avif' type='image/avif'/><source srcset='/images/marbling/sixteenth_inch_streaks.jxl' type='image/jxl'/><source srcset='/images/marbling/sixteenth_inch_streaks.webp' type='image/webp'/><img src='/images/marbling/sixteenth_inch_streaks.jpg' loading='lazy'/></picture>
+
+2) as you can see, it is _very_ obvious where i deviated from the sixteenth of an inch progression
+
+thus as a "standard" comb used like a non-pareil comb, there is still some experimentation to do. i'd like to try with 80 gauge wire – i've since gotten better at using the micro handdrill, so the uneven nature of the comb should be mitigated in the next go around.
+
+## attempt two
 
 <picture><source srcset='/images/marbling/one_sixteenth_comb_1.avif' type='image/avif'/><source srcset='/images/marbling/one_sixteenth_comb_1.jxl' type='image/jxl'/><source srcset='/images/marbling/one_sixteenth_comb_1.webp' type='image/webp'/><img src='/images/marbling/one_sixteenth_comb_1.jpg' loading='lazy'/></picture>
 
@@ -40,48 +83,3 @@ i don't have any fancy power tools, so this how you'd make it with hand tools.
 8. once the glue is dried, fill the groove with water so that the paper gets drenched. now you can pull the paper off easily (minus any parts that got covered in glue).
 
 it's important to make sure the pins are offset from each other (like a miniature bouquet comb), otherwise, you've just made a weird 1/8" comb – which is totally fair, but you probably didn't need to use two rows of pins for that.
-
-## use as a free-standing rake
-
-due to the small size of my test rake and the large size of the vat i was using (19 x 16), the next test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
-
-i have been quite inspired by Norma Rubovits' "vignettes" (an example below) and endeavor to reproduce the technique to the extent i am able and it seems like a microcomb may have been used.
-
-<picture><source srcset='/images/marbling/norma_rubovits_example.avif' type='image/avif'/><source srcset='/images/marbling/norma_rubovits_example.jxl' type='image/jxl'/><source srcset='/images/marbling/norma_rubovits_example.webp' type='image/webp'/><img src='/images/marbling/norma_rubovits_example.jpg' loading='lazy'/></picture>
-
-my own personal experiments have used the above rake as well as this tiny 5-tiner that i made while at studio.
-
-<picture><source srcset='/images/marbling/microcomb_mini.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_mini.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_mini.webp' type='image/webp'/><img src='/images/marbling/microcomb_mini.jpg' loading='lazy'/></picture>
-
-for example, an attempt at a "vignette" with the 5-tiner.
-
-<picture><source srcset='/images/marbling/IMG_20221121_204952.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_204952.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_204952.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_204952.jpg' loading='lazy'/></picture>
-
-some of the examples have worked better than others – it does seem like the 5-tiner would work well as a skip comb.
-
-<picture><source srcset='/images/marbling/5_tine_skip.avif' type='image/avif'/><source srcset='/images/marbling/5_tine_skip.jxl' type='image/jxl'/><source srcset='/images/marbling/5_tine_skip.webp' type='image/webp'/><img src='/images/marbling/5_tine_skip.jpg' loading='lazy'/></picture>
-
-here some additional "fantasy-esque" attempts with both the 5-tiner and the 5" rake. with the 5" rake i attempted to have the tines in the size as little as possible to avoid streaks, but that means that the wonky length of the various tines was much more obvious.
-
-<picture><source srcset='/images/marbling/IMG_20221121_205030.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205030.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205030.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205030.jpg' loading='lazy'/></picture>
-<picture><source srcset='/images/marbling/IMG_20221121_205004.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205004.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205004.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205004.jpg' loading='lazy'/></picture>
-
-
-# an archive of prior attempts
-
-## attempt one
-
-<picture><source srcset='/images/marbling/microcomb_attempt_1.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_attempt_1.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_attempt_1.webp' type='image/webp'/><img src='/images/marbling/microcomb_attempt_1.jpg' loading='lazy'/></picture>
-
-that is my first attempt: a 5" wide comb, with 1/16" spaced tines. the tines are [70-gauge stainless steel wire](https://www.mcmaster.com/catalog/128/4149). holes were hand-drilled with a [needle-nosed handdrill](https://www.micromark.com/Spiral-Push-Drill) – the chuck slipped occasionally, hence why the tines are of uneven length.
-
-there are a few things at play here that leave me unfulfilled:
-
-1) something about the tines are causing what appears to be too much paint being lapped up by the tines and causing streaks of carrageenan. i welcome any additional theories: currently my mitigating strategy is to try to put as little of the comb in the size as possible
-
-<picture><source srcset='/images/marbling/sixteenth_inch_streaks.avif' type='image/avif'/><source srcset='/images/marbling/sixteenth_inch_streaks.jxl' type='image/jxl'/><source srcset='/images/marbling/sixteenth_inch_streaks.webp' type='image/webp'/><img src='/images/marbling/sixteenth_inch_streaks.jpg' loading='lazy'/></picture>
-
-2) as you can see, it is _very_ obvious where i deviated from the sixteenth of an inch progression
-
-thus as a "standard" comb used like a non-pareil comb, there is still some experimentation to do. i'd like to try with 80 gauge wire – i've since gotten better at using the micro handdrill, so the uneven nature of the comb should be mitigated in the next go around.
-
