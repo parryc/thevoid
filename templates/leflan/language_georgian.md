@@ -236,7 +236,7 @@ ADV (ა)დ
 : the adverbial case, often fixed phrases, it is the equivalent of "as an X". For example, "As a student-`დ`, I dislike homework".
 
 VOC (ო/ვ)
-: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ო/ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms.
+: the vocative case, it's uncommon now, used to call to a person, or poetically, to a noun ("oh spring-`ვ`!). The final `-ო/ვ` is optional. Words like `ბატონო:sir` or `ქალბატონო:ma'am` function as vocative forms. One common example of using `ვ` instead of `ო` is with `father.OPT:მამავ`, so as not to confuse with `მამაო:priest`.
 
 # Verbs
 
