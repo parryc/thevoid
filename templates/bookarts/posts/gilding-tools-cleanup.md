@@ -8,7 +8,7 @@ you'll need:
 
 1. 220 grit sanding block
 3. 320 grit sanding paper
-4. 600/1000 grind polishing pad
+4. 600/1000 grit polishing pad
 5. leather (horse butt or other good strop leather)
 6. some <abbr>wd</abbr>-40 if desired
 
