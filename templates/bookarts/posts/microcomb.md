@@ -1,4 +1,4 @@
-marbling > rakes
+marbling > rakes;experiments
 
 [TOC]
 
@@ -8,11 +8,44 @@ what is a microcomb? generally speaking, any comb with more than 4 tines per inc
 
 while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" brass pins. Dan St. John of the Chena River Marblers has a method for making single-row high-dent combs (i've used up to his 10-dent comb), using .015 diameter wire.
 
-> pictures of the new method of construction coming soon! see [attempt #2](#how-to-make-one) for a prior write-up
+this method is _significantly_ less professional than Dan St. John's method, but can be done at home with minimal tools. why is it less professional? hot glue is messy and lumpy, but it is both fast and cheap, which is great for experimentation. to follow along at home you'll need:
+
+- ¼" x ¼" x 1ft wooden dowels
+- ¾" x ¾" x desired length wooden dowel
+- ⅛" spaced roll of pins
+- a glue gun
+- painters tape
+- a cutting mat or some carboard – something about ⅛" thick to raise the pins off the table
+
+1. tape a roll of pins the desired length on to a cutting mat or piece of cardboard. the roll of pins is not very flat, which makes it quite hard to manipulate. to do this, tape a long strip of painters tape _face up_ on your cutting mat. i tape the top edge and the left and right edge of the strip. this allows me to press the paper part of the roll of pins onto the tape, which keps it both flat and unmoving. the pointy part of the pins should face away from you and there should be a significant overhang of the pins off of the cutting mat.
+
+2. fold the paper up away from the flat part of the pins so that you have clear gap between the paper and the flat part of the pins. if you forget to do this, you're liable to glue the paper to the wooden dowels, wrecking your work.
+
+<picture><source srcset='/images/microcomb-pins-1.avif' type='image/avif'/><source srcset='/images/microcomb-pins-1.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-1.webp' type='image/webp'/><img src='/images/microcomb-pins-1.jpg' loading='lazy'/></picture>
+
+3. add a bead of glue on your ¼" wooden dowel and stick to the flat part of the pins. you may need to add glue to the dowel after it's already aligned – be careful to make sure the glue surrounds the end of the pin, otherwise they are likely to fall off. repeat this for the length of your comb. here you can see how obvious it is that it's hard to get a consistent bead size. repeat this for the desired length of your comb.
+
+<picture><source srcset='/images/microcomb-pins-2.avif' type='image/avif'/><source srcset='/images/microcomb-pins-2.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-2.webp' type='image/webp'/><img src='/images/microcomb-pins-2.jpg' loading='lazy'/></picture>
+
+4. one set, carefully remove the strip of pins from the tape
+
+<picture><source srcset='/images/microcomb-pins-3.avif' type='image/avif'/><source srcset='/images/microcomb-pins-3.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-3.webp' type='image/webp'/><img src='/images/microcomb-pins-3.jpg' loading='lazy'/></picture>
+
+5. rip the folded up piece of paper off the paper holding the pins in place. now, remove the paper off the pins: huzzah, you have a ⅛" comb! (even if a bit flimsy).
+
+<picture><source srcset='/images/microcomb-pins-4.avif' type='image/avif'/><source srcset='/images/microcomb-pins-4.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-4.webp' type='image/webp'/><img src='/images/microcomb-pins-4.jpg' loading='lazy'/></picture>
+
+6. repeat steps ① - ⑤ for the 2nd dowel you'll need.
+
+7. to finish your comb, glue one of the length of ¼" dowels to the edge of the ¾" dowel. then, offset ⅛" laterally and glue the 2nd dowel down. voila! you now have a mostly servicable 1/16" comb!
+
+<picture><source srcset='/images/microcomb-pins-5.avif' type='image/avif'/><source srcset='/images/microcomb-pins-5.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-5.webp' type='image/webp'/><img src='/images/microcomb-pins-5.jpg' loading='lazy'/></picture>
+
+let me know how it goes :)
 
 ## use as a free-standing rake
 
-due to the small size of my test rake and the large size of the vat i was using (19 x 16), the next test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
+due to the small size of my test rake and the large size of the vat i was using (19 x 16), the first free-standing rake test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
 
 i have been quite inspired by Norma Rubovits' "vignettes" (an example below) and endeavor to reproduce the technique to the extent i am able and it seems like a microcomb may have been used.
 
