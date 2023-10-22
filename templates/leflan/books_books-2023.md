@@ -36,3 +36,5 @@
 * _103 Not Out. David Gentleman's Stamps._ - Brian Webb
 * _Scattered All Over the Earth_ - Yoko Tawada
 * _Dard Hunter & Son_ - ed. Henry Morris
+* _The Book of the People: Popol Vuh_ - tr. Adrián Recinos
+* _The Punchcutting_ - Christian Paput

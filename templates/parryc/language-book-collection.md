@@ -29,10 +29,10 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 184
+English – 185
 Finnish – 2
 French – 14
-Georgian – 21
+Georgian – 22
 German – 10
 Hawaiian – 1
 Halkomelem – 1
@@ -104,7 +104,7 @@ Yoruba – 1
 Bilingual Texts – 10
 Coursebook – 48
 Dictionary – 90
-Grammar – 45
+Grammar – 46
 Phrasebook – 22
 Study – 20
 Verb list – 4
@@ -575,6 +575,9 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 
 ქართულ-რუსულ-ჶრანციცული ლექსიკონი
 : დავით ჩუბინაშვილი, Тинографiя Императорской Академiн Наукъ, 1840. <tag>georgian→russian</tag> <tag>georgian→french</tag> <tag>dictionary</tag>
+
+Georgian: A Comprehensive Grammar
+: Tinatin Bolkvadze and Dodona Kiziria, Routledge, 2023. <tag>georgian→english</tag> <tag>grammar</tag>
 
 #### Svan
 
