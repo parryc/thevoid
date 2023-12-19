@@ -76,7 +76,7 @@ This can be further seen in the following dialogues. Pretend your are meeting a 
 * Friend: სალამი, მე ვარ რესტორანში. სად ხარ შენ? (Hello, I'm at the restaurant, where are you?)
 * You: მე ახლა შე*მო*ვდივარ რესტორანში. (Hello, I'm going into the restaurant now.)
 
-Notice the _-მო-_ infixed in `შევდივარ:I'm going in`. The _-მო-_ here is necessary since you are going in towards where your friend is, aka the restaurant.
+Notice the _-მო-_ infixed above in `შევდივარ:I'm going in`. The _-მო-_ here is necessary since you are going in towards where your friend is, aka the restaurant.
 
 Compare this 2nd scenario, where your friend is running late.
 

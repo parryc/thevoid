@@ -10,17 +10,14 @@ For questions please email us at `info` @ `midwestmarbling.art`!
 
 Marbling at Homewood Studios will be the second weekend of each month. See below for information on what equipment will be available and expectations for participation. If you have any questions, please don't hesitate to reach out at `info` @ `midwestmarbling.art`.
 
-- October: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-homewood9)
-- November: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-45126843-homewood)
-- December: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-45126842-homewood)
-
+- January 2024: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-46939896-homewood)
+- February 2024: [click here](https://www.signupgenius.com/go/10C0948AEAF29A5F9C25-46939903-homewood)
 
 
 ### Upcoming Dates
 
-- October 14th & 15th
-- November 11th & 12th
-- December 9th & 10th
+- January 13th & 14th
+- February 10th & 11th
 
 ## Information on Marbling at Homewood Studios
 
@@ -29,7 +26,7 @@ As many you know, we have found space to marble in 2023 at Homewood Studios in M
 Some pertinent information on signing up below (more information can be found on the signup page):
 
 - Marbling slots are on a first-come first-served basis.
-- There are 6 slots per day – 6 on Saturday, 6 on Sunday, for a total of 12 slots.
+- There are 4 slots per day – 4 on Saturday, 4 on Sunday, for a total of 12 slots.
 - Each slot is $30, which includes 1 gallon of carrageenan – enough to fill a 16x20 tray.
 - If you require additional size, please indicate as such in the signup
 form. An extra gallon is $5.

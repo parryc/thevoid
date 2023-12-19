@@ -38,3 +38,8 @@
 * _Dard Hunter & Son_ - ed. Henry Morris
 * _The Book of the People: Popol Vuh_ - tr. Adrián Recinos
 * _The Punchcutting_ - Christian Paput
+* _Estonian Woodworking_ - Ants Viires
+* _Paper Maker's Tears, vol. 1_- ed. Tatiana Ginsberg
+* _False Scent_ - Ngaio Marsh
+* _Think of it as a Poster_ - Brian Webb
+* _Drawing the Movement_ - Nelly Gable & Annie Bocel

@@ -439,6 +439,12 @@ A few example:
 * 2.05, ორი მთელი ხუთი მეასედი (2 and 5 thousandths)
 * 7.23, შვიდი მთელი ოცდასამი მეასედი (7 and 23 thousandths)
 
+## Sets of X -ეული
+
+The size of a set or group of something is marked with the number, minus the ending `-ი`, plus `-ეული`. A group of three would be `სამეული`, a set of ten would be `ათეული`.
+
+This is the same form found when discussing the "top X of something". For example, <ex>_ტოპ ათეულშია_ / She is in the top 10</ex>. Yes, "top" here is colloquially just `ტოპ`.
+
 # Time
 
 ## Time Vocabulary
