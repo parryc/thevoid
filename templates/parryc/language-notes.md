@@ -16,8 +16,13 @@ these languages are actively being learned and so the notes are more likely to b
     * [a georgian word a day](georgian-word-a-day)
     * [at the busstop](/language/texts/georgian/dialogue_-_at_the_busstop)
     * [a conversation](/language/texts/georgian/dialogue_-_a_conversation)
-* [lithuanian](/language/lithuanian)
-    * [ronja, the robber's daughter, chp 1](/language/texts/lithuanian/ronja_chapter_1)
+
+### getting there
+
+still some base topics that need to be covered, but may be helpful, nevertheless.
+
+* [bavarian german](/langauge/bavarian_german) – with an austrian focus
+
 
 ## on the shelf
 
@@ -28,6 +33,8 @@ language studies that are gone, but not forgotten. except all the rules, vocabul
 robust notes that cover a lot of topics.
 
 * [azeri](/language/azeri)
+* [lithuanian](/language/lithuanian)
+    * [ronja, the robber's daughter, chp 1](/language/texts/lithuanian/ronja_chapter_1)
 
 ### haphazard
 

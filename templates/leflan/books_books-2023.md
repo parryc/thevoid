@@ -43,3 +43,7 @@
 * _False Scent_ - Ngaio Marsh
 * _Think of it as a Poster_ - Brian Webb
 * _Drawing the Movement_ - Nelly Gable & Annie Bocel
+* _Fantasies & Hard Knocks_ - Richard-Gabriel Rummonds
+* _Old Ream Wrappers_ - Henk Voorn
+* _A Profound Waste of Time: Volume 3_ - ed. Caspian Whistler
+* _Three Essays on Marbling_ - tr. Richard Wolfe

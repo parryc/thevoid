@@ -14,7 +14,7 @@ Abkhaz – 1
 Adyge – 1
 Alemmanic – 4
 Arabic – 5
-Avar – 2
+Avar – 3
 Azeri – 4
 Bosnian-Croatian-Serbian (BCS) – 3
 Cantonese – 2
@@ -32,7 +32,7 @@ Dutch – 9
 English – 185
 Finnish – 2
 French – 14
-Georgian – 22
+Georgian – 24
 German – 10
 Hawaiian – 1
 Halkomelem – 1
@@ -55,8 +55,9 @@ K'iche' – 4
 Ladino – 1
 Lakota – 1
 Lao – 1
-Latin – 1
+Latin – 2
 Laz – 1
+Lezgin – 1
 Lithuanian – 12
 Lushootseed – 1
 Malay – 1
@@ -68,13 +69,13 @@ Māori – 1
 Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 13
+Multiple Languages – 14
 Norse – 1
 Ojibwe – 3
 Okanagan – 1
 Polish – 3
 Romanian – 1
-Russian – 23
+Russian – 25
 Salar – 1
 Scots – 6
 Scottish Gaelic – 4
@@ -88,7 +89,7 @@ Tahitian – 1
 Tlingit – 2
 Then – 1
 Tsakhur – 1
-Turkish – 3
+Turkish – 4
 Tuvan – 1
 Uyghur – 2
 Visayan – 1
@@ -103,10 +104,10 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 90
-Grammar – 46
+Dictionary – 91
+Grammar – 47
 Phrasebook – 22
-Study – 20
+Study – 23
 Verb list – 4
 
 ## Languages
@@ -579,6 +580,12 @@ Vocabulaire et Grammaire de la Langue Géorgienne
 Georgian: A Comprehensive Grammar
 : Tinatin Bolkvadze and Dodona Kiziria, Routledge, 2023. <tag>georgian→english</tag> <tag>grammar</tag>
 
+დავით და იოანე ბაგრატიონების ლექსიკონგრაფიული ნაწრომები
+: ლილი ქუთათელაძე, ბამომცემლობა "მეცნიერება", 1967. <tag>georgian</tag> <tag>dictionary</tag>
+
+Syntagmaton linguarum orientalium quae in Georgiae regionibus audiuntur
+: Francesco Maria Maggio, 2e, Propaganda Fide, 1670. <tag>latin→georgian</tag> <tag>latin→turkish</tag> <tag>grammar</tag>
+
 #### Svan
 
 Svan
@@ -586,6 +593,11 @@ Svan
 
 Svan-English Dictionary
 : Chato Gudjedjiani and Letas Palmaitis, Caravan Books, 1985. <tag>svan→english</tag> <tag>dictionary</tag>
+
+#### Multiple Families
+
+Overview on the History of the Kartvelian Languages
+: Alice Harris, n.p., 1985?. <tag>study</tag>
 
 ### Koreanic
 
@@ -709,6 +721,14 @@ A Grammar of Yoruba
 
 Grammaire de la Langue Avar
 : Georges Charachidzé, Editions Jean-Favard, 1981. <tag>avar→french</tag> <tag>grammar</tag>
+
+Очерки Аварской Диалектологий
+: Ш. И. Микаилов, Издалтельство Академии Наук, 1959. <tag>avar→russian</tag> <tag>study</tag>
+
+#### Lezgin
+
+Лезгинский Язык
+: М. Е. Алексеев and Э. М. Шейхов, Academia, 1997. <tag>russian→lezgin</tag> <tag>study</tag>
 
 #### Tsakhur
 
