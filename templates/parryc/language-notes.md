@@ -21,7 +21,7 @@ these languages are actively being learned and so the notes are more likely to b
 
 still some base topics that need to be covered, but may be helpful, nevertheless.
 
-* [bavarian german](/langauge/bavarian_german) – with an austrian focus
+* [bavarian german](/language/bavarian-german) – with an austrian focus
 
 
 ## on the shelf
