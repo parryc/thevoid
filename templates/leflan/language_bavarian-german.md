@@ -14,6 +14,14 @@ As an informally or colloquially written language, there are almost as many ways
 
 # Nouns
 
+## Gender
+
+There are three genders: masculine, feminine, and neutral. These are represented as M, F, and N in the tables below. Outside of natural gender (e.g. that is a female chicken, that is a male scorpion), it is not always possible to identify the gender of a noun based on spelling.
+
+There are a few rules to help, though:
+
+- those ending in _-ung_ are always female
+
 ## Plural Pronouns
 
 There a number of different ways the plural can be formed:
@@ -26,18 +34,43 @@ There a number of different ways the plural can be formed:
 
 ## Personal Pronouns
 
-Number | NOM    | ACC   | DAT   | POSS 
--------|--------|-------|-------|------
-1SG    | i      |       | ma    | mei
-2SG    | du     |       | da    |
-3SG.M  | ea     |       | eam   |
-3SG.F  | sie    |       | ia    |
-3SG.N  | es     |       | ?     |
-1PL    | mia/wia|       | uns   |
-2PL    | és/eß/iah |    | eich  |
-3PL    | sé/sie |       | eana  |
+Number | NOM    | ACC   | DAT   
+-------|--------|-------|-------
+1SG    | i      |       | ma    
+2SG    | du     |       | da    
+3SG.M  | ea     |       | eam   
+3SG.F  | sie    |       | ia    
+3SG.N  | es     |       | ?     
+1PL    | mia/wia|       | uns   
+2PL    | és/eß/iah |    | eich  
+3PL    | sé/sie |       | eana  
 
 * some speakers will use wir/ihr as in standard German for 1PL and 2PL.
+
+## Posessive Pronouns
+
+TODO: actually needs to be per case, per person
+1SG: NOM - mei/mei/?/meine / DAT (mit?) meim/meina/?/?
+
+Number | NOM    | ACC   | DAT   
+-------|--------|-------|-------
+1SG    |        |       |       
+2SG    |        |       |      
+3SG.M  |        |       |     
+3SG.F  |        |       |     
+3SG.N  |        |       |      
+1PL    |        |       |    
+2PL    |        |       |   
+3PL    |        |       |   
+
+
+## Relative Pronouns
+
+"who/which"
+
+NOM | dea | die |des
+ACC | dem 
+DAT | dem
 
 ## Articles
 
@@ -79,12 +112,12 @@ keinen/keinem = kan
 keiner = kana
 kaines = von kan
 
-# Nouns
+# Adjectives
 
 ## Comparatives
+
 müd – müda – am müdestn
 mild – milder – mildest
-
 schee – scheena – am scheenstn
 
 # Verbs
@@ -97,6 +130,8 @@ There are four tenses in Bavarian German which are formed by the base verb plus 
 4. future – an action that will occur at a future time
 
 When learning new verbs it is helpful to learn the 3SG, 3PL, perfect participle. The first two, 3SG and 3PL help you know the singular and plural roots for the present tense. The perfect participle will be used for other tenses.
+
+The general rule is that the conjugated verb goes in the "2nd position" in the sentence. "I hob...", for example. The participle often goes at the end. In relative clauses (nobensätze, lit. side clauses), the verb often goes at the end.
 
 ## Present Tense
 
@@ -174,6 +209,7 @@ _samma_ is the emphatic form of "we are", commonly heard in the song "Bayern, de
 
 # Question Words
 
+- wea: who
 - wenn: when
 - wie: how
 - wos: what
@@ -189,6 +225,16 @@ There's a lot going on with modal particles, so this section is going to be quit
 - scho: already (and...)
 
 # Prepositions
+
+The noun that follows a preposition will be one of the cases listed below.
+
+Prepositions can have a lot of meanings and equivalencies, which will be updated as they are encountered.
+
+## With DAT
+
+- bei: at (e.g. a party)
+- vo: of, from
+- vor: before
 
 - noch: after, to a destination
 - vo: from
@@ -248,6 +294,35 @@ TODO
 - ned: not, kane: none (or any, in a negative sense)
 - to not be = to be + KA, _I bi ka Aungsthos_, I am not a coward.
 
+## Possession
+
+There is no GEN in Bavarian German. Rather, there are two structures which are used to express possession.
+
+The first is rather simple, with `vo:of`. The structure is "(possessed) vo(m) (possessor)". _vom_ is used when the possessor is M or N, as contraction of "vo" and "dem". For example, _da Hund vom Kind_ is the kid's dog.
+
+The second is more complicated and is generally considered to be more Austrian. It is of the form "(DAT definite article) possessor (POSS article, declined) possessed". Thus, _im Kind sei Hund_ is also "the kid's dog". Using this example, the two "grammatical" parts of this structure are:
+
+- DAT definite article: _im_ is the DAT.N definite article and is the same gender as the possessor
+- POSS article: _sei_ is the POSS.M.NOM article. The POSS article will decline based on location in the sentence and the gender of the possessor. Thus there will be two pairs: for M and N – `im ... sei/sein/seim` and for F - `da ... ia/ian/iara`. For PL, it is `im ... seine` and `da ... iare` for all cases.
+
+The gender of the possessed has no bearing on the formation of this structure.
+
+Thus, put all together:
+
+&nbsp; | M  | F | N | PL.M | PL.F
+NOM    | im...sei | da...ia | im...sei | im...seine | da...iare
+ACC    | im...sein | da...ian | im...sein | im...seine | da...iare
+DAT    | im...seim | da...iara | im...seim | im...seine | da...iare
+
+--EX--
+im Hons sei Bruada und im Hons sei Schwesta,
+the brother of Hans and the sister of Hans // NOM
+da Klara ia Schwesta
+the sister of Klara // NOM
+im Kind sei Spüzeig
+the toy of the child // NOM
+--ENDEX--
+
 # Numbers
 
 1 - ans / oans
@@ -297,6 +372,7 @@ There are two exceptions:
 ### Austrian
 
 - [So geht österreichisches Deutsch / Austrian dialect 101](https://www.youtube.com/watch?v=hw8SD8tW4qg)
+- [Bavarian skit, with transcription](https://german.stackexchange.com/questions/59318/was-wird-in-diesem-sketch-auf-bairisch-gesagt)
 
 ### German
 
