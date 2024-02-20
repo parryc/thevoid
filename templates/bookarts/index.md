@@ -4,7 +4,7 @@ unsure of where to look first? take a peep at some [marbling examples](marbling-
 
 ## announcements
 
-<attn>i will be teaching a class on bradel bindings on january 27th at [MCBA](https://www.mnbookarts.org/bradel-binding-january/) – registration is open!</attn>
+<attn>i will be teaching a class on comb-based marbling patterns on march 30th at [MCBA](https://www.mnbookarts.org/marbling-focus-combs-and-patterns/) – registration is open!</attn>
 
 ## recent updates
 
