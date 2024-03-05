@@ -28,7 +28,6 @@ There a number of different ways the plural can be formed:
 
 1. +a: `kind:child` -> `kinda:children`
 2. umlaut (changing of the vowel): `haus:house` -> `heisa:houses`
-3. 
 
 # Pronouns
 
@@ -49,20 +48,35 @@ Number | NOM    | ACC   | DAT
 
 ## Posessive Pronouns
 
-TODO: actually needs to be per case, per person
-1SG: NOM - mei/mei/?/meine / DAT (mit?) meim/meina/?/?
+Possessive pronouns change based on the possessor, the gender of the thing being possessed, and the part of speech (NOM, ACC, or DAT). Each possessor has a base form and a standard suffix is appended based on the case.
 
-Number | NOM    | ACC   | DAT   
--------|--------|-------|-------
-1SG    |        |       |       
-2SG    |        |       |      
-3SG.M  |        |       |     
-3SG.F  |        |       |     
-3SG.N  |        |       |      
-1PL    |        |       |    
-2PL    |        |       |   
-3PL    |        |       |   
+Part of speech is on the left side and the gender of the possessed is along the top
 
+&nbsp; | M  | F  | N
+-------|----|----|-----
+NOM    | ∅  | ∅  | ∅
+ACC    | -n | ∅  | ∅
+DAT    | -m | -na/ra| -m
+
+The base forms are as follows:
+
+- 1SG: mei
+- 2SG: dei
+- 3SG.M/3SG.N: sei
+- 3SG.F: ia
+- 1PL: unsa
+- 2PL: eicha
+- 3PL: eana
+
+The DAT.F form is _-ra_ for PL possesors, as well as 3SG.F and the formal you. For example _iara_ (3SG.DAT.F).
+
+Thus we get for 3SG.F:
+
+&nbsp; | M  | F  | N
+-------|----|----|-----
+NOM    | ia | ia | ia
+ACC    | ian| ia | ia
+DAT    | iam| iara| iam
 
 ## Relative Pronouns
 
@@ -98,6 +112,16 @@ M      | da    | in  | im
 F      | de/d' | de/d'| da
 N      | des/s'| des/s'| im
 PL     | de/d' | de/d' | de/d'
+
+#### This and That
+
+This and that are the same as the definite article, meaning that there is some ambiguity by default (e.g. the car, this car, and that car would all be _des Auto_). However, there are three emphasizers that can be used to help disambiguate which one is meant: _do_ (here), _doat_ (there), _ane_ (one).
+
+Thus we get:
+
+- _de Frau do_, the woman here (this woman)
+- _de Frau doat_, the woman there (that woman)
+- _de ane Frau_, the one woman (that woman)
 
 ### Indefinite Articles
 
@@ -368,6 +392,10 @@ I foa in da Stodt.
 I'm driving in the city.
 --ENDED--
 
+## Da- prepositions
+
+_Da-_ plus a preposition is the "it" form of the preposition. That is, when one wants to say "with it", "before it", or any other preposition and "it", rather than the form "preposition _es_", it is _da_ plus the preposition. Therefore, `davoa:before it`, `damit:with it`, etc. If the preposition begins with a vowel, there is a linking _-r-_, such as in `darüba:about it`.
+
 # Pronunciation
 
 A lot of Bavarian is presented as regular phonetic transformations of Standard German. And for the most part, especially with uncommon nouns, etc. it seems to be. Between dialects, of course, there is also variation, which I will attempt to distinguish below, as well.
@@ -375,6 +403,7 @@ A lot of Bavarian is presented as regular phonetic transformations of Standard G
 In the descriptions below V is any vowel, while C is any consonant.
 
 - gs is pronounced /ks/ and is sometimes written as "x", as as `xund:health`
+- gh is pronounced /k/, such as in _ghobt_ (/kobt/)
 - ending Ns may be dropped and nasalize the final vowel such as in `i konn:I am able` => `i kõ`
 - final `-el` is kind of an ö or i sound, such as in `eadopfi:potato`, often when "el" is in the middle of a word, it is written as "ö"
 - "r" is pronounced as "a" after vowels and before consonants, but not after consonants
@@ -392,7 +421,7 @@ Umlaut is the changing of a vowel to change the form of a word. To better illust
 ## Dialect Variations
 
 - `VbV` == `VwV`
-  - ex. oba/owa
+  - ex. oba/owa, saubara/sauwara
   - speaker preference, may change based on word
 - a/oa is often in free variation between speakers, even amongst the same family
   - ex. ans/oans, zwa/zwoa

@@ -29,7 +29,7 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 185
+English – 186
 Finnish – 2
 French – 14
 Georgian – 24
@@ -71,7 +71,7 @@ Mingrelian – 1
 Mongolian – 6
 Multiple Languages – 14
 Norse – 1
-Ojibwe – 3
+Ojibwe – 4
 Okanagan – 1
 Polish – 3
 Romanian – 1
@@ -104,7 +104,7 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 91
+Dictionary – 92
 Grammar – 47
 Phrasebook – 22
 Study – 23
@@ -175,6 +175,9 @@ A Concise Dictionary of Minnesota Ojibwe
 
 A Dictionary of the Chippewa Indian Language
 : Harry Hill, The Patterson Press, 1943. <tag>ojibwe→english</tag> <tag>dictionary</tag>
+
+An Ojibwe Word Resource Book
+: ed. John Nichols and Earl Nyholm, Minnesota Archeaological Society, 1979. <tag>ojibwe→english</tag> <tag>english→ojibwe</tag> <tag>dictionary</tag>
 
 ### Austronesian
 

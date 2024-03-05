@@ -8,6 +8,7 @@ i have been fortunate to have my work included in a variety of places and some p
 
 ### 2023
 
+- "the magic of marbling" as part of _midwest marbling_, st. matthew's episcopal church, st paul, mn – december 10 to february 7
 - "modern renaissance", midwest chapter of the guild of bookworkers, [online](https://midwestgbw.wordpress.com/exhibits/modern-renaissance/)
 - [friedli gallery](/friedli-gallery-2023), st paul, mn - april 7th to may 26th
 
@@ -19,8 +20,9 @@ i have been fortunate to have my work included in a variety of places and some p
 
 ### MCBA
 
-- september, 2023, bradel bindings
-- may, 2023, making marbling combs
+- marbling focus, combs and patterns: march 2024
+- making marbling combs: may 2023, feb 2024
+- bradel bindings: sep 2023, jan 2024
 
 ## organizations
 
