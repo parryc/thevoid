@@ -45,6 +45,7 @@ Number | NOM    | ACC   | DAT
 3PL    | sé/sie |  eana | eana  
 
 * some speakers will use wir/ihr as in standard German for 1PL and 2PL.
+* 3SG.M is occasionally reduced to _-a_, as in _hod-a_ (does he have...).
 
 ## Posessive Pronouns
 
@@ -127,30 +128,38 @@ Thus we get:
 
 **Positive forms**
 
-Gender | NOM | ACC | DAT | GEN
--------|-----|-----|-----|-----
-M      | a   | an  | an  | von an
-F      | a   | a   | ana | ana
-N      | a   | a   | an  | von an
-PL     | ∅   | ∅   | ∅   | ∅
+Gender | NOM | ACC | DAT 
+-------|-----|-----|-----
+M      | a   | an  | an  
+F      | a   | a   | ana 
+N      | a   | a   | an  
+PL     | ∅   | ∅   | ∅   
 
 **Negative forms**
 
 Similar to if one declined "no" in an English sentence such as "I have no money". That is, _i hob ka göd_, or another example <ex>_i hob kan Cent_ / I have not a cent</ex>.
 
-Gender | NOM  | ACC | DAT | GEN
--------|------|-----|-----|-----
-M      | ka   | kan | kam | von kan
-F      | ka   | ka  | kana| kana
-N      | ka   | ka  | kam | von kan
-PL     | kane | kane| kane| kana
-
-kein/keine = ka
-keinen/keinem = kan
-keiner = kana
-kaines = von kan
+Gender | NOM  | ACC | DAT 
+-------|------|-----|-----
+M      | ka   | kan | kam 
+F      | ka   | ka  | kana
+N      | ka   | ka  | kam 
+PL     | kane | kane| kane
 
 # Adjectives
+
+Adjectives decline based on the gender and case of the described word. Each adjective has a base form with is suffixed by an ending letter corresponding to the gender and case combination.
+
+Gender | NOM  | ACC | DAT 
+-------|------|-----|-----
+M      | -a   | -n  | -n 
+F      | -e   | -e  | -n 
+N      | -s   | -s  | -n 
+PL     | -s   | -s  | -s 
+
+Thus, for NOM, we'd have: _a neicha Plotz_ (a new place, M), _a neiche Stodt_ (a new city), and _a neichs Haus_ (a new house).
+
+(TODO: I'm actually not sure on the PL, need to double check)
 
 ## Comparatives
 
@@ -174,6 +183,8 @@ When learning new verbs it is helpful to learn the 3SG, 3PL, perfect participle.
 The general rule is that the conjugated verb goes in the "2nd position" in the sentence. "I hob...", for example. The participle often goes at the end. In relative clauses (nobensätze, lit. side clauses), the verb often goes at the end.
 
 ### Present Tense
+
+Generally speaking, conjugating a verb in the present tense is uncommon, with the exception of some common verbs, especially relative to standard German. A more cmomon way of constructing the sentence is to use the verb `duan:to do` with the action in the infinitive. For example, <ex>_I dua mit meine Zähnd knischn_ / I grind my teeth</ex>, or literally, "I do with my teeth to grind". A brief list of some of these common verbs are _geh_, _kumma_, _seng_, _schaun_, _wissn_, _hean_, _hoachn_, _sei_, _hom_.
 
 From the stem, add the following suffixes. The 1SG suffix is a `'`, indicating there is no ending. This is often written, hence differentiating from ∅ (or nothing at all).
 
@@ -333,6 +344,19 @@ Past participle: _woan_
 
 <ex>_Des letzte Buach is kauft woan_ / The last book has been boughten (by someone)</ex>.
 
+## Directional Prefixes
+
+There are 4 pairs of directional prefixes that add both a direction (up, down, in, out) and an orientation (towards the speaker, away from the speaker).
+
+They are (towards / away):
+
+- out: ausa / ausi
+- in: eina / eini
+- up: aufa / aufi
+- down: oba / obi
+
+As you can see, towards ends with "a" and away ends with "i".
+
 # Question Words
 
 - wea: who
@@ -423,6 +447,7 @@ Umlaut is the changing of a vowel to change the form of a word. To better illust
 - `VbV` == `VwV`
   - ex. oba/owa, saubara/sauwara
   - speaker preference, may change based on word
+  - one important note is that verbs ending in _-b_ in 1SG will often be heard as ending in a _-w_, such as with `hom:to have`: _hob/how i_
 - a/oa is often in free variation between speakers, even amongst the same family
   - ex. ans/oans, zwa/zwoa
 
@@ -565,6 +590,20 @@ There are two exceptions:
 - 21, 31, etc. drops the _-s_ in "ans", thus, `anazwanzg:21`.
 - numbers ending in _a_ join with _ra_ instead of _a_, thus `viarazwanzg:24`.
 
+# Time
+
+## Days of the Week
+
+On a specific day, is _am_ + the day. Thus, _am Montog_, on Monday.
+
+- Monday: Montog
+- Tuesday: Dienstog
+- Wednesday: Mittwoch
+- Thursday: Dunnastog
+- Friday: Freitog
+- Saturday: Somstog
+- Sunday: Sonntog
+
 # Resources
 
 - [Dialekt Academy](https://urldefense.com/v3/__https://dialekt.academy__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3TOVEF2jQ$ ) – a very detailed look at the Austrian dialect, with the caveat that due to the way the website currently is, Google may block access to the audio after 1 lesson, which will be restored the next day. Costs $20.
@@ -593,3 +632,34 @@ There are two exceptions:
 
 - [Easy German: Bavarian Dialect vs. Standard German](https://urldefense.com/v3/__https://www.youtube.com/watch?v=9YwwDQCr7fk__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3QQyh2BlQ$ )
 
+<!-- Abbreviations -->
+*[NOM]: Nominative
+*[ACC]: Accusative
+*[DAT]: Dative
+*[GEN]: Genitive
+*[INST]: Instrumental
+*[ERG]: Ergative
+*[LOC]: Locative
+*[VOC]: Vocative
+*[POSS]: Possesive
+*[ADV]: Adverbial
+*[PRS]: Present
+*[PST]: Past/Preterite
+*[FUT]: Future
+*[INF]: Infinite
+*[IMPF]: Imperfect
+*[OPT]: Optative
+*[C]: Consonant
+*[V]: Vowel
+*[DEF]: Definitive
+*[REFL]: Reflexive
+*[PT]: Participle
+*[NOUN]: Noun
+*[1SG]: 1st Person Singular
+*[2SG]: 2nd Person Singular
+*[3SG]: 3rd Person Singular
+*[1PL]: 1st Person Plural
+*[2PL]: 2nd Person Plural
+*[3PL]: 3rd Person Plural
+*[SG]: Singular
+*[PL]: Plural

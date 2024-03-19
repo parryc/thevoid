@@ -350,6 +350,9 @@ In what are you an expert? // i.e. what are you good at?
 შორის
 : among, between.
 
+შედეგარდ (GEN)
+: except for, apart from.
+
 წინ (GEN)
 : before, in front of.
 
@@ -410,6 +413,8 @@ Cardinal numbers can be emphasized with the suffix `-ვე` to mean "all X", th
 Halves are formed with `ნახევარი:half` and the number, minus -ი. If greater than 1.5, then the amount is unconnected to the noun, ex. `სამ-ნახევარი ხაჭაპური:3.5 khachapuris`. Otherwise, ნახევარი is simply attached to the noun, ex. `ლარ-ნახევარი:1.5 lari`.
 
 The phrase "X x X" (such as 3x3) is indicated by affixing _-ზე_ to the 2nd number. The common phrase designator "4x4" for cars would thus be _ოთხი ოთხზე_.
+
+Structures like "1 in 5" are formed with suffix `-დან:from` on the "in X" number. For example, <ex>_ხუდითიდან ერთი_ ⧸ 1 in 5</ex>.
 
 ## Ordinal Numbers
 
