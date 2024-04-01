@@ -385,8 +385,10 @@ Prepositions can have a lot of meanings and equivalencies, which will be updated
 ## With ACC
 
 - an: towards close to a location
+- auf: on (both physical and abstract, such as on a business trip), in (a language)
 - hinta: to behind someplace
-- in (M. _indn_): to (a place, regularly)
+- in (M _indn_): to (a place, regularly)
+- pro: per
 - üba/üwa/iwa: about, over (motion), for a period of time
 - unta: under (motion)
 - voa/vua: in front of (motion)
@@ -396,6 +398,7 @@ Prepositions can have a lot of meanings and equivalencies, which will be updated
 
 - an: near a location, close to
 - aus: out of, leaving from a place
+- auf: on top of
 - bei: at (e.g. a party), chez
 - hinta: behind
 - in: in a place
@@ -414,7 +417,7 @@ I foa ind Stodt.
 I'm driving to the city.
 I foa in da Stodt.
 I'm driving in the city.
---ENDED--
+--ENDEX--
 
 ## Da- prepositions
 
@@ -519,6 +522,15 @@ When I'm on vacation, I always turn off my cell phone.
 Wenn i hamkumm, schau i ma an Füm o.
 When I come home, I watch a movie.
 --ENDEX--
+
+### Wenn vs. Wie/ois
+
+Both pairs translate roughly to the Englis word "when", but in the sense of "When I was"/"While I was", rather than the question word "when". The differ in, well, when the thing took place.
+
+- wenn: used for the present and future
+- wie/ois: used for the past
+
+For example, in the past, <ex>_Wie I hamkumma bin, hob I fuchzehn Stund gschlofm_ / When I came home, I slept for 15 hours</ex>. Note too, as mentioned above, that the following clause has the verb (_hob_) at the beginning. 
 
 ## Conditional Sentences (fois/wenn/ob)
 
