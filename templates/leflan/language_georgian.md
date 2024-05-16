@@ -426,6 +426,8 @@ Structures like "1 in 5" are formed with suffix `-დან:from` on the "in X" 
 
 Phrases such as "xth from the beginning/end" are `თავიდანვე მე-x` and `ბოლოდან მე-x`, respectively.
 
+One may form adverbal forms (firstly, secondly) with `-ში`. Thus, _პირველში_, _მეორადში_, etc.
+
 ## Fractions and Decimals
 
 Fractions are formed by adding `-დი` to ordinal numbers. Ex. `1/4th:მეოთხედი`. 1/2 is more commonly `ნახევარი`.

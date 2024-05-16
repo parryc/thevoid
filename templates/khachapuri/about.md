@@ -47,6 +47,9 @@ pkhlovani (ფხლოვანი)
 sokos (სოკოს)
 : contains mushrooms. depending on where the mushrooms are it could be like an imeruli (if inside) or megruli (if outside).
 
+chaabilgish
+: a kist/chechen version of khachapuri with pumpkin, found in the Pankisi Gorge area.
+
 
 ## sources
 

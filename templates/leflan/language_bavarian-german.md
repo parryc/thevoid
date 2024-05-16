@@ -148,7 +148,7 @@ PL     | kane | kane| kane
 
 # Adjectives
 
-Adjectives decline based on the gender and case of the described word. Each adjective has a base form with is suffixed by an ending letter corresponding to the gender and case combination.
+Adjectives decline based on the gender and case of the described word. Each adjective has a base form with is suffixed by an ending letter corresponding to the gender and case combination. When an adjective is used with a verb, it is not declined, e.g. _guad_ in <ex>_es is guad_ / it is good</ex>.
 
 Gender | NOM  | ACC | DAT 
 -------|------|-----|-----
@@ -602,6 +602,22 @@ There are two exceptions:
 - 21, 31, etc. drops the _-s_ in "ans", thus, `anazwanzg:21`.
 - numbers ending in _a_ join with _ra_ instead of _a_, thus `viarazwanzg:24`.
 
+## Halves (-adhoib)
+
+Halves are expressed with `-adhoib` affixed to the base number. If the number ends with a vowel, add an `-r-` between the number and the suffix. Thus, two and a half would be `zwa:two` + `r` + `adhoib`, or `zwaradhoib:2.5`.
+
+The halves, 1 through 9, are as follows:
+
+* anadhoib
+* zwaradhoib
+* dreiadhoib
+* viaradhoib
+* fünfadhoib
+* sechsadhoib
+* siemadhoib
+* ochtadhoib
+* neinadhoib
+
 # Time
 
 ## Days of the Week
@@ -615,6 +631,11 @@ On a specific day, is _am_ + the day. Thus, _am Montog_, on Monday.
 - Friday: Freitog
 - Saturday: Somstog
 - Sunday: Sonntog
+
+## Telling Time
+
+* at X o'clock: uma X-i
+  * at ten o'clock: uma zehni
 
 # Resources
 

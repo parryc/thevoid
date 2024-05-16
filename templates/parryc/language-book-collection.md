@@ -422,6 +422,11 @@ Literatur 1
 German Reading Grammar
 : Stanely L. Sharp and Friedrich W. Strothmann, Revised Edition, Ginn and Company, 1955. <tag>german→english</tag> <tag>coursebook</tag>
 
+Langenscheidt Lilliput Bairisch
+: Karl Georg Kleinmayer, Langenscheidt, 2023. <tag>german→german</tag> <tag>dictionary</tag>
+
+Redt er Bairisch oder is er a Breiß?
+: Johann Rottmeir, Volk, 2023. <tag>german→german</tag> <tag>dictionary</tag>
 
 #### Icelandic
 

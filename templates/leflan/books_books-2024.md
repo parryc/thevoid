@@ -13,3 +13,6 @@
 * _My Log & Diary_ - Henry Morris
 * _Henk Voorn to Henry Morris_ - Henry Morris
 * _Jacob Bigelow's American Medical Botany_ - Richard Wolfe
+* _Vintage Murder_ - Ngaio Marsh
+* _Lupin IIIrd: Thick as Thieves_ - Monkey Punch
+* _The Dead Mountaineer's Inn_ - Boris and Arkady Strugatsky

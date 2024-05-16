@@ -30,7 +30,9 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 ## Paper 🗒
 
 * Conifer Yoseka Notebook v1
+* Fabriano Ecoqua Original
 * Hanaduri Hanji A5
+* Iroful A4
 * Kamiterior Siccocu Sumi
 * Kleid 中村印刷所×kleid 2mm flat notes A5
     * Uses OK Fools paper
@@ -127,6 +129,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Lennon Tool Bar Tsháu-á-kué
 * Lennon Tool Bar Verdant
 * Noodler's Polar Green
+* Sulekha Green
 
 ### Browns
 
@@ -134,6 +137,7 @@ A collection of various writing tools that I have used over the years. ⭐️ me
 * Nagasawa Kobe Goshikiyama Ocher
 * Nagasawa Kobe Shidya Vintage Sepia
 * Pilot Brown
+* Sulekha Brown
 
 ### Yellows
 
