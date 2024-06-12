@@ -1,16 +1,18 @@
 [TOC]
 
-> I'm only a few lessons in, hopefully nothing is egregiously wrong, but if it is, let me know!
-
 # On Dialect
 
-The notes below are in the context of the Austrian dialect. Pronunciation, spelling, word choice, etc. will as such be slightly different than if you are coming from a more Munich/German focus. Additionally, between ages, urban vs. rural, city vs. city, there will be variation, not just in dialect versions, but the use of dialect vs. standard German. Please let me know if your regional variation is missing and I will gladly add it.
+The notes below are in the context of the Austrian dialect, in particular what is spoken in Upper Austria. Pronunciation, spelling, word choice, etc. will as such be slightly different than if you are coming from a more Munich/German focus or if you are in Vienna. Additionally, between ages, urban vs. rural, city vs. city, there will be variation, not just in dialect versions, but the use of dialect vs. standard German. Please let me know if your regional variation is missing and I will gladly add it.
 
-Often the first way that I encountered it will be written as the "definitive" version. Variations will be indicated with "𝕯".
+Often the first way that I encountered it will be written as the "definitive" version. Variations, if known, will be indicated with "𝕯".
 
 # On Spelling
 
 As an informally or colloquially written language, there are almost as many ways of writing as there are speakers. As many of the spellings for grammatical items I know of are listed as appropriate. These will often be indicated with "𝕯", unless originally taught to me as a free variation.
+
+# On the Name
+
+Ideally, I would call this page "Austrian German" as it is the autochthonous German of most of Austria. However, "Austrian German" connotes the regional variation of Standard German, rather than a dialetical version of it, much like the difference between American and British English. As such, to avoid saying "Austrian Dialect", I've opted to call it "Bavarian German", as that is the term most often used in the literature in English (cf. Wikipedia).
 
 # Nouns
 
@@ -28,7 +30,7 @@ There a number of different ways the plural can be formed:
 
 1. +a: `kind:child` -> `kinda:children`
 2. +s: `cousin:cousin` -> `cousins:cousins`
-3. +n: `soch:thing` -> `sochn:things
+3. +n: `soch:thing` -> `sochn:things`
 4. umlaut (changing of the vowel): `haus:house` -> `heisa:houses`
 
 # Pronouns
