@@ -79,6 +79,9 @@ It is not read as it is written.
 
 Prefixes are mostly used with verbs to indicate direction, but may appear elsewhere, especially if derived from verbs which contain them. In many cases, their meaning is not obvious (or perhaps, never had a directional component at all). See the list of [preverbs](https://zmnebi.com/#preverb) here for more information.
 
+ვაი
+: so-called, implies something is worse than bad, used with nouns
+
 ## Suffixes
 
 In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთილი:lesson` → `გაკვეთილები:lessons`.
@@ -105,7 +108,7 @@ In many cases, the final _ი_ in the NOM are removed, ex. `გაკვეთ�
 : for, around/about, by. This is mutually exclusive with object markings on verbs (ex. `-უ-`). Can be used with POSS pronouns. For example, `ჩემთვის:for me`. When used with time phrases, it indicates "by TIME", ex. `კვირისთვის:by Sunday`.
 
 დან (INST)
-: from (a location, for a direct use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case.
+: from (a location, for a direction use გან). For example, `გერმანია:Germany` → `გერმანიიდან:from Germany`. Note the double `იი` from the removal of the final -ა and the `-ი` from the INST case. When used with something living, it indicates that the thing came physically out of the living thing. Thus, _ძროკიდან_ would indicate something akin to manure. Compare this with _-გან_.
 
 დან, ...ად
 : from X, to Y, but for conversions or translations. For example, between languages, or from Celsius to Fahrenheit. See also, _დან, ...ენაზე_.
@@ -144,7 +147,7 @@ X გავლით (GEN)
 : between.
 
 გან (GEN)
-: from how many parts, from (a direction/something, when from a location, use -დან).
+: from how many parts, from (a direction/something, when from a location, use -დან). It is almost exclusively used over _-დან_ for living things. When used with something living that is also used when dead (such as animal), it indicates "derived/made from". Thus, _ძროკიგან_, (made) from a cow, e.g. meat/cheese/leather.
 
 გან შორს (GEN)
 : far (away) from.

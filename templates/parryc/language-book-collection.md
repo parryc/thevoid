@@ -29,14 +29,14 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 186
+English – 187
 Finnish – 2
 French – 14
-Georgian – 24
-German – 10
+Georgian – 25
+German – 12
 Hawaiian – 1
 Halkomelem – 1
-Hebrew – 5
+Hebrew – 6
 Hindustani – 1
 Hungarian – 4
 Icelandic – 2
@@ -104,7 +104,7 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 92
+Dictionary – 95
 Grammar – 47
 Phrasebook – 22
 Study – 23
@@ -428,6 +428,13 @@ Langenscheidt Lilliput Bairisch
 Redt er Bairisch oder is er a Breiß?
 : Johann Rottmeir, Volk, 2023. <tag>german→german</tag> <tag>dictionary</tag>
 
+Sprechen Sie Österreichisch?
+: Thomas Zauner and Alfred Schierer, Ueberreuter, 2022. <tag>german→german</tag> <tag>dictionary</tag>
+
+Sprechen Sie Salzburgerisch?
+: Wolfgang Straub, Ueberreuter, 2022. <tag>german→german</tag> <tag>dictionary</tag>
+
+
 #### Icelandic
 
 Íslensk-Ensk Orðabók
@@ -593,6 +600,9 @@ Georgian: A Comprehensive Grammar
 
 Syntagmaton linguarum orientalium quae in Georgiae regionibus audiuntur
 : Francesco Maria Maggio, 2e, Propaganda Fide, 1670. <tag>latin→georgian</tag> <tag>latin→turkish</tag> <tag>grammar</tag>
+
+A Dictionary of Judeo-Georgian
+: Reuven Enoch, Magna Press, 2020. <tag>georgian→hebrew</tag> <tag>georgian→english</tag> <tag>georgian→georgian</tag>
 
 #### Svan
 

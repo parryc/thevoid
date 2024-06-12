@@ -104,7 +104,7 @@ There are two sets of person markers for Georgian verbs, ვ-class or მ-class.
       2|_stem_   |_stem_+თ
       3|_stem_+ს |_stem_+ენ/ან
 
-(`+ენ` is `+ან` after stems that end in `ი`)
+(`+ენ` becomes `+ან` after stems that end in `ი`)
 
 An example, with `აკეთებს:does` in PRS:
 

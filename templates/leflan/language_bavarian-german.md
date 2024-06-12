@@ -27,7 +27,9 @@ There are a few rules to help, though:
 There a number of different ways the plural can be formed:
 
 1. +a: `kind:child` -> `kinda:children`
-2. umlaut (changing of the vowel): `haus:house` -> `heisa:houses`
+2. +s: `cousin:cousin` -> `cousins:cousins`
+3. +n: `soch:thing` -> `sochn:things
+4. umlaut (changing of the vowel): `haus:house` -> `heisa:houses`
 
 # Pronouns
 
@@ -81,11 +83,15 @@ DAT    | iam| iara| iam
 
 ## Relative Pronouns
 
+(This section needs more work.)
+
 "who/which"
 
-NOM | dea | die |des
-ACC | dem 
-DAT | dem
+&nbsp; | M  | F  | N
+-------|----|----|-----
+NOM    | dea | die |des
+ACC    | dem 
+DAT    | dem
 
 --EX--
 I hob docht, dass mei Kolleg, dea in München wohnt, a echta Bayer is.
@@ -123,6 +129,8 @@ Thus we get:
 - _de Frau do_, the woman here (this woman)
 - _de Frau doat_, the woman there (that woman)
 - _de ane Frau_, the one woman (that woman)
+
+_Dea_ can also be used to emphasize between two different options, e.g. not that one, but _this_ one. _This_ here would be "dea".
 
 ### Indefinite Articles
 
@@ -163,9 +171,24 @@ Thus, for NOM, we'd have: _a neicha Plotz_ (a new place, M), _a neiche Stodt_ (a
 
 ## Comparatives
 
-müd – müda – am müdestn
-mild – milder – mildest
-schee – scheena – am scheenstn
+Comparatives, or "more"/"most", are formed off of the base adjective:
+
+- more (comparative): `+a`
+- most (superlative): `am` `+(e)stn`
+
+When the adject ends in alveleor consonants (s/z, sch, t/d), an _e_ is inserted between the last consonant and _stn_.
+
+For example, with `müd:mild`, we have:
+
+- müd: mild
+- müda: milder
+- am müdestn: mildest
+
+Compare, with out the inserted _e_ for `schee:pretty`:
+
+- schee: pretty
+– scheena: prettier
+– am scheenstn: prettiest
 
 # Verbs
 
@@ -182,7 +205,7 @@ When learning new verbs it is helpful to learn the 3SG, 3PL, perfect participle.
 
 The general rule is that the conjugated verb goes in the "2nd position" in the sentence. "I hob...", for example. The participle often goes at the end. In relative clauses (nobensätze, lit. side clauses), the verb often goes at the end.
 
-### Present Tense
+### Present
 
 Generally speaking, conjugating a verb in the present tense is uncommon, with the exception of some common verbs, especially relative to standard German. A more cmomon way of constructing the sentence is to use the verb `duan:to do` with the action in the infinitive. For example, <ex>_I dua mit meine Zähnd knischn_ / I grind my teeth</ex>, or literally, "I do with my teeth to grind". A brief list of some of these common verbs are _geh_, _kumma_, _seng_, _schaun_, _wissn_, _hean_, _hoachn_, _sei_, _hom_.
 
@@ -208,7 +231,7 @@ This tense describes an action that has occurred in the past, prior to the prese
 
 It is most often formed with `hom:to have` in the present tense, plus the perfect participle. Ex. <ex>_I hob gsogt_ / I said</ex>, where _hob_ is 1SG form of _hom_ and _gsogt_ is the past participle of `sogn:to say`.
 
-Some verbs, however, take `sei:to be` as their auxiliary verb. These verbs are verbs of movement or state, such as to jump, to swim, to stay (movement without movevement), to be. This list does not differ (at least as I've been told) from Standard German. For example, <ex>_I bin ghupft_ / I jumped</ex>.
+Some verbs, however, take `sei:to be` as their auxiliary verb. These verbs are verbs of movement or state, such as to jump, to swim, to stay (movement without movevement), to be. This list does not differ (at least as I've been told) from Standard German. For example, <ex>_I bi ghupft_ / I jumped</ex>.
 
 ### Past Pefect/Pluperfect
 
@@ -229,6 +252,72 @@ Formed with `wean:to become` in the present tense and the verb in the infinitive
 1|wead/wea/wia/wer|wean/wian/wern
 2|wiast/werst     |weats/wiats/werds
 3|wiad/wiat/werd  |wean/wian/wern
+
+## Mood
+
+Mood is very similar to tense, but rather than expressing the time when something happen, it describes how it happened. There are 3 main moods in Bavarian German:
+
+- imperative (commands, etc.)
+- subjunctive (would)
+- past subjunctive (would have liked)
+
+### Imperative
+
+The imperative is used to form commands, such as "look!". It is formed by removing or modifying the last letter of the infinitive.
+
+**2nd Person singular (you, informal)**
+
+There are 4 final "letters" for infinitives and they have standard transformations. ∅ indicates that the letter is removed:
+
+- `n` → ∅, ex. _schaun_ → _schau!_
+- `ng` → `g`, ex. _schlong_ → _schlog!_
+- `m` → `b`, ex. _lem_ → _leb!_
+- `a` → ∅, ex, _springa_ → _spring!_
+
+**2nd person singular (you, formal)**
+
+When making a polite request, it is the same as the PRS form. For example, <ex>_Bringan'S ma bitte an Löffi, san'S so liab_ / Please bring be a spoon, if you would</ex>.
+
+### Present Subjunctive
+
+Also known as Konjunktiv II, this indicates that the subject would like to do something. This is commonly used for polite request (_I hätt gean_, I would like) and expressing desired actions.
+
+It is formed from the 1SG.PRS form, plus endings, and often accompanied by _gean:like_ as an intensifier. For more common verbs, the stem is slightly irregular.
+
+&nbsp; |SG  |PL
+-|----------|--
+1|-at/∅|-atn
+2|-atst|-ats
+3|-at|-atn
+
+Note that for 1SG, the ending may be dropped entirely, which occurs quite commonly. For example `warat:I would be` → `waa` or `hättat:I would have` → `hätt`.
+
+When the ending causes two vowels to be next together, a _-r-_ is inserted, such as in `foarat:I would drive` or `darat:I would do`.
+
+Some of the common irregular verbs and their stems:
+
+- to be, sei: _war_
+- to go, geh: _gang_
+- to come, kumma: _kam_
+- to see, seng: _sag_
+- to say, sogn: _sog_
+- to do, dua: _da_
+
+--EX--
+I hätt gean an kebap mit alles.
+I would like a kebob/döner with everything. // "mit alles" has become a stock phrase when ordering döner
+--ENDEX--
+
+### Past Subjunctive
+
+The past subjunctive is for actions you would have done, but did not do, such as learning to study Bavarian German earlier. This is formed with the present subjunctive of "to have" (or "to be" if it would use "to be" in the past tense) and the past participle of the action one would have liked to have done. As with the present subjunctive, _gean:like_ is often used.
+
+--EX--
+I hätt ois Kind gean an Werkunterricht ghobt.
+I would have liked to have had an industrial arts class.
+I warat gean ois Kind scho a Hondweaka gwesn.
+I would have liked to have already been a craftsperson as a child.
+--ENDEX--
 
 ## Verb Types
 
@@ -251,7 +340,7 @@ I'm opening the door
 
 𝕯: _da_ is often used instead of _va_ or _ea_.
 
-There are a limited set of prefixes that are considered inseparable: b (or be), ent, g, da, va, ea. _da_, in addition to a "generic prefix" meaning, can also have a "till death meaning". For example, `schiaßn:to shoot` vs `daschiaßn:to shoot someone to death`. This can also take on metaphorical meaning, with `lem: to live` vs. `dalem: to live to see the death (of something)`, or more figuratively, "to live to see change in the world". 
+There are a limited set of prefixes that are considered inseparable: b (or be), ent, g, da, va, ea. _da_, in addition to a "generic prefix" meaning, can also have a "till death" meaning. For example, `schiaßn:to shoot` vs `daschiaßn:to shoot someone to death`. This can also take on metaphorical meaning, with `lem: to live` vs. `dalem: to live to see the death (of something)`, or more figuratively, "to live to see change in the world". 
 
 - Does not contain a _g-_ in the past participle (unless of course the prefix is _g_ itself)
 
@@ -270,7 +359,7 @@ I am really happy for your.
 
 ### To Be (sei)
 
-The past tense is regular, with a stem of _woa_, one of two verbs that still has a declinable past tense. See below for more info.
+The past tense is regular, with a stem of _woa_, one of two verbs that still has a declinable past tense. The past participle is _gwesn_. See below for more info.
 
 #### Present Tense
 
@@ -295,6 +384,22 @@ _samma_ is the emphatic form of "we are", commonly heard in the song "Bayern, de
 3|hod|hom
 
 Like _samma_ above, _homma_ is the emphatic form of "to have" for 1PL.
+
+You will also likely hear the conjunctive form, expressing "would like to have", especially when ordering food. For example, <ex>_Wos hättn'S gean zum Essn?_ / What would you like to eat?</ex>. Note the `'S` indicating the polite form of "You".
+
+&nbsp; |SG  |PL
+-|----------|--
+1|hätt|hättn
+2|hättst|hätts
+3|hätt|hättn
+
+One may also see and hear a version with "d", rather than "tt", thus <ex>_i hätt/häd gean..._ / I would like to have...</ex>.
+
+### Common Verbs That Change Vowels Between Singular and Plural
+
+Some verbs in the present change verbs between singular and plural. If you only hear one of these forms, it is not always possible to guess what the other vowel should be. Presumably, after enough time, an unconscious pattern will emerge (and perhaps there is a conscious one that could be applied, but I don't know what it is).
+
+* to want (woin): wü/wüst/wü | woin/woits/woin
 
 ### The Simple Past
 
@@ -367,6 +472,16 @@ As you can see, towards ends with "a" and away ends with "i".
 
 Speakers often drop the pronoun when asking a question, but should include it, when asking with emphasis on rejoiner question.
 
+## Question Particles
+
+Particles, in this sense, being something that is added to a question that does necessarily add any additional meaning to the sentence, rather, it reinforces that a question is being asked (in case it wasn't already obvious).
+
+Using _wos mochst?_ (what are you doing?), the below illustrates 3 additional emphatic forms for asking a question:
+
+- wos mochst denn?
+- wos mochst'n? (a shortening of the above _denn_)
+- wos mochst leicht?
+
 # Modals
 
 There's a lot going on with modal particles, so this section is going to be quite bare for a while, I expect.
@@ -376,7 +491,7 @@ There's a lot going on with modal particles, so this section is going to be quit
 
 # Prepositions
 
-The noun that follows a preposition will be one of the cases listed below. Most prepositions can take either ACC or DAT. The difference lies mostly in stative versus active senses. In DAT, it desscribes where you are and what you're doing ("I'm _at_ the restaurant") versus in ACC, it describes where you're going ("I'm going _to_ the restaurant").
+The noun that follows a preposition will be one of the cases listed below. Most prepositions can take either ACC or DAT. The difference lies mostly in stative versus active senses. In DAT, it describes where you are and what you're doing ("I'm _at_ the restaurant") versus in ACC, it describes where you're going ("I'm going _to_ the restaurant").
 
 Each preposition is combined with an implied article for the noun that follows the preposition. Generally speaking, in DAT, the combined form is the preposition plus _-m_ for M and N and _-a_ for F (occasionally the standalone article _da_). In ACC, it would be _-n_, _-d_, _-s_, respectively for the genders. When deviations are known, they are listed below.
 
@@ -402,6 +517,7 @@ Prepositions can have a lot of meanings and equivalencies, which will be updated
 - bei: at (e.g. a party), chez
 - hinta: behind
 - in: in a place
+- nem: next to
 - noch: after, to a destination
 - üba/üwa/iwa: over (static)
 - unta: under (static)
@@ -525,7 +641,7 @@ When I come home, I watch a movie.
 
 ### Wenn vs. Wie/ois
 
-Both pairs translate roughly to the Englis word "when", but in the sense of "When I was"/"While I was", rather than the question word "when". The differ in, well, when the thing took place.
+Both pairs translate roughly to the English word "when", but in the sense of "When I was"/"While I was", rather than the question word "when". The differ in, well, when the thing took place.
 
 - wenn: used for the present and future
 - wie/ois: used for the past
@@ -618,6 +734,10 @@ The halves, 1 through 9, are as follows:
 * ochtadhoib
 * neinadhoib
 
+## Fractions (-el)
+
+Fractions of the form 1/X are expressed with `-el`. Thus, `drittel:one third`, `viertel:one quarter`, etc. You will hear also `achterl:one eigth`, with an _-r-_, especially when ordering wine, as this is the standard measurement for a class of wine (1/8th of a liter).
+
 # Time
 
 ## Days of the Week
@@ -639,31 +759,32 @@ On a specific day, is _am_ + the day. Thus, _am Montog_, on Monday.
 
 # Resources
 
-- [Dialekt Academy](https://urldefense.com/v3/__https://dialekt.academy__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3TOVEF2jQ$ ) – a very detailed look at the Austrian dialect, with the caveat that due to the way the website currently is, Google may block access to the audio after 1 lesson, which will be restored the next day. Costs $20.
+- [Dialekt Academy](https://dialekt.academy) – a very detailed look at the Austrian dialect, with the caveat that due to the way the website currently is, Google may block access to the audio after 1 lesson, which will be restored the next day. Costs $20.
+- [OöTon](https://www.stifterhaus.at/index.php?id=181&tab=dialekte) - can listen to different pronunciations of words in Upper Austria.
 
 ## Dictionaries
 
 ### Austrian
 
-- [Österreichisch](https://urldefense.com/v3/__https://www.ostarrichi.org__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3Sugf1uzA$ )
-- [Österreichisches Wörterbuch](https://urldefense.com/v3/__https://www.**Awb.at/__;w7Y!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3S45aBaYg$ ) – iirc, this one may sometimes ask for a code. I entered `1111` and it worked.
-- [Trilingual dictionary](https://urldefense.com/v3/__http://www.fim.uni-linz.ac.at/Woerterbuch_oesterr_deut_englisch.htm*abc__;Iw!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3SlZRQRuw$ ) – this is nice because it clearly says if it is a positive, negative, or neutral word.
+- [Österreichisch](https://www.ostarrichi.org)
+- [Österreichisches Wörterbuch](https://www.oewb.at/ ) – iirc, this one may sometimes ask for a code. I entered `1111` and it worked.
+- [Trilingual dictionary](http://www.fim.uni-linz.ac.at/Woerterbuch_oesterr_deut_englisch.htm) – this is nice because it clearly says if it is a positive, negative, or neutral word.
 
 ### German
 
-- [Bairisches Wörterbuch](https://urldefense.com/v3/__https://www.bayrisches-woerterbuch.de/bairisch-lernen/aussprache-bayrisch/__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3TCvz2qAA$ ) – has a good section on grammar, phonology, etc. in addition to the dictionary part.
-- Bairisches Deutsch Zehetner, published by [Edition Vulpes](https://urldefense.com/v3/__https://www.edition-vulpes.de/programm/dialektologie-allgemein__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3Towp4DRw$ )
+- [Bairisches Wörterbuch](https://www.bayrisches-woerterbuch.de/bairisch-lernen/aussprache-bayrisch/) – has a good section on grammar, phonology, etc. in addition to the dictionary part.
+- Bairisches Deutsch Zehetner, published by [Edition Vulpes](https://www.edition-vulpes.de/programm/dialektologie-allgemein)
 
 ## Videos
 
 ### Austrian
 
-- [So geht österreichisches Deutsch / Austrian dialect 101](https://urldefense.com/v3/__https://www.youtube.com/watch?v=hw8SD8tW4qg__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3TZg95qtA$ )
-- [Bavarian skit, with transcription](https://urldefense.com/v3/__https://german.stackexchange.com/questions/59318/was-wird-in-diesem-sketch-auf-bairisch-gesagt__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3TRbXvodA$ )
+- [So geht österreichisches Deutsch / Austrian dialect 101](https://www.youtube.com/watch?v=hw8SD8tW4qg)
+- [Bavarian skit, with transcription](https://german.stackexchange.com/questions/59318/was-wird-in-diesem-sketch-auf-bairisch-gesagt)
 
 ### German
 
-- [Easy German: Bavarian Dialect vs. Standard German](https://urldefense.com/v3/__https://www.youtube.com/watch?v=9YwwDQCr7fk__;!!Iz9xO38YGHZK!8sR7OtwbG4y0sevbrjaIDweur-RLgnWTjOgp36_03yTI_aOevgorantI0Qk63GGUGm8XYtMmZXYlZ3QQyh2BlQ$ )
+- [Easy German: Bavarian Dialect vs. Standard German](https://www.youtube.com/watch?v=9YwwDQCr7fk)
 
 <!-- Abbreviations -->
 *[NOM]: Nominative

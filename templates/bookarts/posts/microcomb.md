@@ -2,13 +2,94 @@ marbling > rakes;experiments
 
 [TOC]
 
-what is a microcomb? generally speaking, any comb with more than 4 tines per inch is considered a microcomb. thus, 5-dent or higher. the most common sizes in the microcomb family are 1/8" and 1/16". indeed, 1/16" (16-dent) combs have been available throughout most of the history of marbling, as they used to be readily available as modified weaver's reeds. these are significantly less common and available today, so alternative approaches are needed.
+what is a microcomb? generally speaking, any comb with more than 4 tines per inch is considered a microcomb. thus, 5-dent or higher. the most common sizes in the microcomb family are 1/8" and 1/16". indeed, 1/16" (16-dent) combs have been available throughout most of the history of marbling, as they used to be readily available as modified weaver's reeds. weaver's reeds are significantly less common and available today, so alternative approaches are needed.
 
-## making a 1/16" rake
+## making a microcomb at home
 
-while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" brass pins. Dan St. John of the Chena River Marblers has a method for making single-row high-dent combs (i've used up to his 10-dent comb), using .015 diameter wire.
+while ideally i'd like an option that is a single set of tines, the most useful comb i've created that achieves a 1/16" pattern is with two sets of 1/8" tines. Dan St. John of the Chena River Marblers has a method for making single-row high-dent combs (i've used up to his 10-dent comb), using .015 diameter wire, which i've adapted for a sparsely equipped studio.
 
-this method is _significantly_ less professional than Dan St. John's method, but can be done at home with minimal tools. why is it less professional? hot glue is messy and lumpy, but it is both fast and cheap, which is great for experimentation. to follow along at home you'll need:
+this method is _significantly_ less professional than Dan St. John's method, but can be done at home with minimal tools. why is it less professional? simply because i'm not a cabinet maker :) there is, however, one piece of equipment that requires professional assistance, which i will elaborate on below.
+
+materials:
+
+1. 16-dent spacing jig
+2. 0.015" wire, cut to length
+3. JB Weld plastic bonder
+4. 2x basswood strips
+5. a lot of hand clamps
+
+the jig is the most difficult to come by: it is laser cut out of two pieces of wood that form together to make a 0.015" cylinder for you to place the wires into. each half-cylinder is spaced 1/16" apart. from what Dan says, it took a number of tries to get the depth, spacing, and alignment correct. if you are interested in acquiring one, please let me know.
+
+here is the inside of one half. 
+
+<picture><source srcset='/images/2024-microcomb/jig.avif' type='image/avif'/><source srcset='/images/2024-microcomb/jig.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/jig.webp' type='image/webp'/><img src='/images/2024-microcomb/jig.jpg' loading='lazy'/></picture>
+
+and here is what it looks like in a press with some pins in it – you can use any sort of clamping device you have, but a press is very easy to unclamp and usually quite stable.
+
+<picture><source srcset='/images/2024-microcomb/pins-in-jig.avif' type='image/avif'/><source srcset='/images/2024-microcomb/pins-in-jig.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/pins-in-jig.webp' type='image/webp'/><img src='/images/2024-microcomb/pins-in-jig.jpg' loading='lazy'/></picture>
+
+wire can be acquired from [Stainless Wires](stainlesswires.com) or Malin Co. the minimum order is about 2lbs or 10,000 wires. please please please let me know if you would like any wires – i have more than enough for you and all of your friends.
+
+the plastic bonder is used to rapidly join the basswood boards that make your final comb together. i have tried a variety of different adhesives (wood glue, gorilla glue, quick tack wood glue, PVA) and the JB Weld just seems to work the best.
+
+the steps, then:
+
+1. assemble your jig and start placing pins in it until you reach your desired length.
+2. as far as i understand it, wire is cut from straightened coils, meaning that some wires are prone to returning to their loosely curved state. before getting ready to glue, check to make sure as many of your tines are stick straight as possible and replace those that aren't. you can see an example of an overly curved tine in the right of the image below.
+
+<picture><source srcset='/images/2024-microcomb/checking-for-curved-wires.avif' type='image/avif'/><source srcset='/images/2024-microcomb/checking-for-curved-wires.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/checking-for-curved-wires.webp' type='image/webp'/><img src='/images/2024-microcomb/checking-for-curved-wires.jpg' loading='lazy'/></picture>
+
+3. i recommend adding a half inch support above the jig to add length to the final comb's tines. by default, this method i'm using will result in only 1" long tines in the final product, since that's how long the jig's wire depth is. i've tried other methods to get different lengths, but they are quite unwieldy, require a lot of clamps, and have some risky movements. an additionaly half inch is about where i've found the sweet spot to be in making sure the tines are straight.
+
+<picture><source srcset='/images/2024-microcomb/half-inch-support.avif' type='image/avif'/><source srcset='/images/2024-microcomb/half-inch-support.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/half-inch-support.webp' type='image/webp'/><img src='/images/2024-microcomb/half-inch-support.jpg' loading='lazy'/></picture>
+
+4. glue up one piece of basswood, leaving a small strip at the bottom (i.e. towards the jig) where there is no glue: this helps avoid any glue squirting out and getting glue on your jig. in the image below, i'm jusing the black JB Weld plastic bonder.
+
+<picture><source srcset='/images/2024-microcomb/jb-weld.avif' type='image/avif'/><source srcset='/images/2024-microcomb/jb-weld.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/jb-weld.webp' type='image/webp'/><img src='/images/2024-microcomb/jb-weld.jpg' loading='lazy'/></picture>
+
+
+5. now comes the tricky part: place your two pieces of basswood together, sandwiching the tines in the middle. while holding it tight, start using handclamps to clamp the basswood together. **ACHTUNG!** you will need to hold the handclamps that you've added with one hand while putting new ones on with another – i recommend a hand clamp about every 2 inches.
+
+6. once clamped, loosen the press & jig and delicately move the clamped wood up and then out of the jig, flipping it upside down so the handclamps are resting on the table and the tines are in the air. i highly recommend doing the manipulations from the ends of the comb so you have the most control and can prevent it from warping or tipping.
+
+7. let cure, maybe about 30 minutes, trim to the size of your tank and you're good to go!
+
+<picture><source srcset='/images/2024-microcomb/comb-final.avif' type='image/avif'/><source srcset='/images/2024-microcomb/comb-final.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/comb-final.webp' type='image/webp'/><img src='/images/2024-microcomb/comb-final.jpg' loading='lazy'/></picture>
+
+an example of the 8D comb in action (sorry for the bad color palette, i only had white, neon yellow, neon pink, and gold at the time).
+
+<picture><source srcset='/images/2024-microcomb/new-8d-test.avif' type='image/avif'/><source srcset='/images/2024-microcomb/new-8d-test.jxl' type='image/jxl'/><source srcset='/images/2024-microcomb/new-8d-test.webp' type='image/webp'/><img src='/images/2024-microcomb/new-8d-test.jpg' loading='lazy'/></picture>
+
+## use as a free-standing rake
+
+due to the small size of my test rake and the large size of the vat i was using (19 x 16), the first free-standing rake test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
+
+i have been quite inspired by Norma Rubovits' "vignettes" (an example below) and endeavor to reproduce the technique to the extent i am able and it seems like a microcomb may have been used.
+
+<picture><source srcset='/images/marbling/norma_rubovits_example.avif' type='image/avif'/><source srcset='/images/marbling/norma_rubovits_example.jxl' type='image/jxl'/><source srcset='/images/marbling/norma_rubovits_example.webp' type='image/webp'/><img src='/images/marbling/norma_rubovits_example.jpg' loading='lazy'/></picture>
+
+my own personal experiments have used the above rake as well as this tiny 5-tiner that i made while at studio.
+
+<picture><source srcset='/images/marbling/microcomb_mini.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_mini.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_mini.webp' type='image/webp'/><img src='/images/marbling/microcomb_mini.jpg' loading='lazy'/></picture>
+
+for example, an attempt at a "vignette" with the 5-tiner.
+
+<picture><source srcset='/images/marbling/IMG_20221121_204952.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_204952.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_204952.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_204952.jpg' loading='lazy'/></picture>
+
+some of the examples have worked better than others – it does seem like the 5-tiner would work well as a skip comb.
+
+<picture><source srcset='/images/marbling/5_tine_skip.avif' type='image/avif'/><source srcset='/images/marbling/5_tine_skip.jxl' type='image/jxl'/><source srcset='/images/marbling/5_tine_skip.webp' type='image/webp'/><img src='/images/marbling/5_tine_skip.jpg' loading='lazy'/></picture>
+
+here some additional "fantasy-esque" attempts with both the 5-tiner and the 5" rake. with the 5" rake i attempted to have the tines in the size as little as possible to avoid streaks, but that means that the wonky length of the various tines was much more obvious.
+
+<picture><source srcset='/images/marbling/IMG_20221121_205030.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205030.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205030.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205030.jpg' loading='lazy'/></picture>
+<picture><source srcset='/images/marbling/IMG_20221121_205004.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205004.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205004.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205004.jpg' loading='lazy'/></picture>
+
+# an archive of prior attempts
+
+## hot glue summer
+
+hot glue is messy and lumpy, but it is both fast and cheap, which is great for experimentation. to follow along at home you'll need:
 
 - ¼" x ¼" x 1ft wooden dowels
 - ¾" x ¾" x desired length wooden dowel
@@ -42,33 +123,6 @@ this method is _significantly_ less professional than Dan St. John's method, but
 <picture><source srcset='/images/microcomb-pins-5.avif' type='image/avif'/><source srcset='/images/microcomb-pins-5.jxl' type='image/jxl'/><source srcset='/images/microcomb-pins-5.webp' type='image/webp'/><img src='/images/microcomb-pins-5.jpg' loading='lazy'/></picture>
 
 let me know how it goes :)
-
-## use as a free-standing rake
-
-due to the small size of my test rake and the large size of the vat i was using (19 x 16), the first free-standing rake test i did was to use it like a stylus while making "fantasy" patterns. that is, free-form, not anchored to the sides of the tray.
-
-i have been quite inspired by Norma Rubovits' "vignettes" (an example below) and endeavor to reproduce the technique to the extent i am able and it seems like a microcomb may have been used.
-
-<picture><source srcset='/images/marbling/norma_rubovits_example.avif' type='image/avif'/><source srcset='/images/marbling/norma_rubovits_example.jxl' type='image/jxl'/><source srcset='/images/marbling/norma_rubovits_example.webp' type='image/webp'/><img src='/images/marbling/norma_rubovits_example.jpg' loading='lazy'/></picture>
-
-my own personal experiments have used the above rake as well as this tiny 5-tiner that i made while at studio.
-
-<picture><source srcset='/images/marbling/microcomb_mini.avif' type='image/avif'/><source srcset='/images/marbling/microcomb_mini.jxl' type='image/jxl'/><source srcset='/images/marbling/microcomb_mini.webp' type='image/webp'/><img src='/images/marbling/microcomb_mini.jpg' loading='lazy'/></picture>
-
-for example, an attempt at a "vignette" with the 5-tiner.
-
-<picture><source srcset='/images/marbling/IMG_20221121_204952.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_204952.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_204952.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_204952.jpg' loading='lazy'/></picture>
-
-some of the examples have worked better than others – it does seem like the 5-tiner would work well as a skip comb.
-
-<picture><source srcset='/images/marbling/5_tine_skip.avif' type='image/avif'/><source srcset='/images/marbling/5_tine_skip.jxl' type='image/jxl'/><source srcset='/images/marbling/5_tine_skip.webp' type='image/webp'/><img src='/images/marbling/5_tine_skip.jpg' loading='lazy'/></picture>
-
-here some additional "fantasy-esque" attempts with both the 5-tiner and the 5" rake. with the 5" rake i attempted to have the tines in the size as little as possible to avoid streaks, but that means that the wonky length of the various tines was much more obvious.
-
-<picture><source srcset='/images/marbling/IMG_20221121_205030.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205030.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205030.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205030.jpg' loading='lazy'/></picture>
-<picture><source srcset='/images/marbling/IMG_20221121_205004.avif' type='image/avif'/><source srcset='/images/marbling/IMG_20221121_205004.jxl' type='image/jxl'/><source srcset='/images/marbling/IMG_20221121_205004.webp' type='image/webp'/><img src='/images/marbling/IMG_20221121_205004.jpg' loading='lazy'/></picture>
-
-# an archive of prior attempts
 
 ## attempt one
 
