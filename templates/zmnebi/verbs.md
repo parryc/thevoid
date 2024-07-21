@@ -1024,7 +1024,7 @@ When used independently in questions, it gives the sense of "should/shall ... ?"
 
 The optative plural is also used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
 
-For express past desires, for more information [see below](#having-wanted-to-do-something-verb).
+When expressing past desires, rather than current desires, please [see below](#having-wanted-to-do-something-verb) for more information.
 
 --EX--
 მინდა ქართული ენა ვისწავლო.
