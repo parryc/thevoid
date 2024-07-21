@@ -12,7 +12,7 @@ When I say systematically, though, I don't mean scholarly or exhaustively. Both 
 4. Document the various cases of Georgian verbs with examples
 5. Provide references for those wishing to know more
 
-Much of what I have written below is based off of Shorena Kurtsikidze's _Essentials of Georgian Grammar, 2nd ed._ and P. J. Hillery's [Georgian Language](https://home.richw.org/armazi/georgian/) website. I will use Ⓚ and Ⓗ respectively to mark how something is referenced in those materials. Ⓞ will be used if I have come across other terms for the same phenomenon. It is not always a one-to-one match, but that's just the fun of Georgian verbs!
+Much of what I have written below is based off of Shorena Kurtsikidze's _Essentials of Georgian Grammar, 2nd ed._ and P. J. Hillery's [Georgian Language](https://home.richw.org/armazi/georgian/) website ([backup link](https://web.archive.org/web/20230107010249/https://home.richw.org/armazi/georgian/)). I will use Ⓚ and Ⓗ respectively to mark how something is referenced in those materials. Ⓞ will be used if I have come across other terms for the same phenomenon. It is not always a one-to-one match, but that's just the fun of Georgian verbs!
 
 The path to learning, understanding, and internalizing Georgian verbs is not linear. It's a winding path: much what is written below will be written in multiple places. Hopefully this serves to reinforce your understanding, rather than to confuse you.
 
@@ -407,7 +407,7 @@ There are more examples about how and when to use the verbal noun below, in the 
 
 > Ⓚ: Present
 Ⓗ: Present
-Ⓞ: აწმყო დრო
+Ⓞ: აწმყო დრო, Präsens (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -484,7 +484,7 @@ As with FUT, the negative imparative (don't!) may be formed with `ნუ:don't` 
 
 > Ⓚ: Past Continuous
 Ⓗ: Imperfect
-Ⓞ: წარსული უწყვეტელი დრო, განგრძობითი დრო, [Kiziria] Imperfect
+Ⓞ: წარსული უწყვეტელი დრო, განგრძობითი დრო, [Kiziria] Imperfect, Imperfekt (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -552,7 +552,7 @@ As this tense does not have a preverb, it has imperfective aspect.
 
 > Ⓚ: Present Subjunctive
 Ⓗ: Present Subjunctive
-Ⓞ: აწმყოს კავშირებითი, Present Conjunctive
+Ⓞ: აწმყოს კავშირებითი, Present Conjunctive, Konjunktiv Präsens (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -622,7 +622,7 @@ When paired with COND, PRSSBJV is often the first clause in the condition, and a
 
 > Ⓚ: Future
 Ⓗ: Future
-Ⓞ: მყოფადი დრო, მომავალი დრო
+Ⓞ: მყოფადი დრო, მომავალი დრო, Futur (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -705,7 +705,7 @@ A polite suggestion can be formed with _ხომ_ and FUT. For example, <ex>_�
 
 > Ⓚ: Past Frequentive
 Ⓗ: Conditional
-Ⓞ: ხოლმეობითი დრო
+Ⓞ: ხოლმეობითი დრო, Konditional (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -784,7 +784,7 @@ She would glance at him with a theivish look. // dictionary.ge
 
 > Ⓚ: Future Subjunctive
 Ⓗ: Future Subjunctive
-Ⓞ: მყოფადის კავშირებითი
+Ⓞ: მყოფადის კავშირებითი, Konjunktiv Futur (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -857,7 +857,7 @@ When paired with COND, FUTSBJV is often the first clause in the condition, and a
 
 > Ⓚ: Aorist
 Ⓗ: Aorist
-Ⓞ: წარსული დრო, წყვეტილი დრო
+Ⓞ: წარსული დრო, წყვეტილი დრო, Aorist (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -928,7 +928,7 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 
 ### How to Use: AOR
 
-The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). When expressing a negative past action (e.g. "I didn't see her"), often EVD is used instead. If used with `უნდა:wants`, it implies that the desired action is the past and was achieved. Compare this to when OPT is used, which implies that the action is the past, but did not happen, although you wished it. For example, <ex>_მე მინდოდა მენახა_ ⧸ I wanted to see it (and I did)</ex> (AOR) vs. <ex>_მე მინდოდა მენახოს_ ⧸ I wanted to see it (and I did not)</ex> (OPT).
+The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). When expressing a negative past action (e.g. "I didn't see her"), often [EVD](#how-to-use-evd) is used instead.
 
 There is an uncommon form without the preverb that indicates the action took place in the past and was incomplete, similar to "had been doing" in English. It occurs often in the form of "{AOR without prefix}, {AOR without prefix}, და {AOR with prefix}" to mean that someone or something "did and did and (finally) completed it". This is illustrated in the saying <ex>_თაგვმა თხარა, თხარაო, კატა გამოთახრაო_ ⧸ (They say) the mouse dug and dug, and dug up a cat</ex>. `თხარა:dug` is unprefixed and implies that the action of digging was not completed. `გადათხარა:dug (up)`, with the prefix, indicates the action of digging was done and compeleted – in this case because the mouse dug up a cat. The saying is used to warn someone they might get in trouble if they keep doing what they're doing.
 
@@ -940,7 +940,7 @@ Note that `იყო:was` may be affixed to past participles, eliding the last _
 
 > Ⓚ: 2nd Subjunctive
 Ⓗ: Optative
-Ⓞ: ოპტატივი, მეორე კავშირებითი, Aorist Subjunctive, Aorist Conjunctive, [Kiziria] Optative
+Ⓞ: ოპტატივი, მეორე კავშირებითი, Aorist Subjunctive, Aorist Conjunctive, [Kiziria] Optative, Optativ (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -1018,11 +1018,13 @@ Interestingly, as a reverse of _Brosset_ some two hundred odd years later, for s
 
 ### How to Use: OPT
 
-The optative "conveys a modality of action", that is, whether done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria, p180](#kiziria)</cite> Kurtsikidze also mentions that the optative plural is used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
+The optative is a very common (and thus, important!) tense as it follows many common verbs: `უნდა:wants/should`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. It is broadly used to describe action that is done with intention, necessity, possibility, desirability, etc.<cite>[Kiziria, p180](#kiziria)</cite>
 
-The OPT often follows forms of `უნდა:wants`, `შეუძლია:is able`, `მოდი:let's`, `საჭიროა:it is necessary`. When used independently in questions, it gives the sense of "should/shall ... ?". If used with `უნდა:wants`, it implies that the desired action is the past, but was not achieved. Compare this to when AOR is used, which implies that the action is the past, but did happen,. For example,  <ex>_მე მინდოდა მენახოს_ ⧸ I wanted to see it (and I did not)</ex> (OPT) vs. <ex>_მე მინდოდა მენახა_ ⧸ I wanted to see it (and I did)</ex> (AOR).
+When used independently in questions, it gives the sense of "should/shall ... ?".
 
-It should also be noted that when paired with `უნდა:wants`, motion verbs are left as the masdar. That is, <ex>_მინდოდა წასვლა_ ⧸ I had wanted to go</ex>, rather than _მინდოდა წავიდე_. This construction of _უნდა.AOR_ + _motion verb.masdar_ has a very similar meaning as _უნდა.AOR_ + _motion verb.PSTSBJV_. The difference, however, is that the form with PSTSBJV implies a wish that the action had occurred, but it did not, whereas the non-PSTSBJV form is neutral.
+The optative plural is also used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
+
+For express past desires, for more information [see below](#having-wanted-to-do-something-verb).
 
 --EX--
 მინდა ქართული ენა ვისწავლო.
@@ -1041,7 +1043,7 @@ Shall we have tea?
 
 > Ⓚ: 1st Resultant
 Ⓗ: Perfect
-Ⓞ: პირველი თურმეობითი
+Ⓞ: პირველი თურმეობითი, Perfekt (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -1061,7 +1063,9 @@ The vowel of the endings will be _ია_ in all cases, except for when the verb
 
 Since the object markers have switched, this begs the question, how does one mark the object on the verb? In almost all cases, the object will not be marked on the verb, but rather the standalone pronoun will be used. If the object is an indirect object, then it will have _-თვის_ suffixed.
 
-However, in some rare cases, where the direct object can be a person, the PRS form of _to be_ is suffixed to the verb. Thus, <ex>_გამიგზავნიხარ_ ⧸ I had sent you (to the store, etc.)</ex>, where `-მი-:1SG.SUBJ` and `-ხარ:2SG.DO`. As well as, <ex>_მინახავხარ_ ⧸ I have seen you</ex>. Compare the first example with <ex>_გამიგზავნია შენთვის_ ⧸ I sent to you (a letter)</ex>, where _შენ_ is standalone, since it is not the direct object of the verb.
+However, in some cases, where the direct object can be a person, the PRS form of _to be_ is suffixed to the verb (dropping the final _-ა_). Thus, <ex>_გამიგზავნიხარ_ ⧸ I had sent you (to the store, etc.)</ex>, where `-მი-:1SG.SUBJ` and `-ხარ:2SG.DO`. As well as, <ex>_მინახავხარ_ ⧸ I have seen you</ex>. Compare the first example with <ex>_გამიგზავნია შენთვის_ ⧸ I sent to you (a letter)</ex>, where _შენ_ is standalone, since it is not the direct object of the verb.
+
+Note that Aronson specifies that this occurs with verbs that have a PFSF of _ავ_ or _ამ_.<cite>[Aronson, p391](#aronson)</cite> However, Bolkvadze & Kiziria do not make such a distinction, specifying that this occurs with any "bipersonal" verbs.<cite>[Bolkvadze & Kiziria, p274](#comprehensive)</cite> This is most obvious in _დამიპატიჟებიხარ_, which does not have an _ავ_ or _ამ_ PFSF, but clearly has _-ხარ_ suffixed. This form is also referenced on [tbiliselebi.ge](https://tbiliselebi.ge/ka/news/vilaparakot-qartulad/vilaparakot-kartulad-7590), further lending credence to it being a valid and expected form.
 
 * გააკეთებს, will do → გაუკეთებია, had (apparently) done
 
@@ -1115,9 +1119,11 @@ This is a novel root, _ყოფილ_, that must be memorized. It follows the 
 
 ### How to Use: EVD
 
+> The most common use of EVD for a beginner, especially in common speech, is expressing a "neutral" negative past action. See the 2nd paragraph for more information.
+
 Ⓗ calls this the Perfect form. Perfect here, contrasted with Perfective, means that the action took place in the past, before the present action which is occurring. This is true, but more importantly, there is a sense that the speaker did not experience the past event first hand. It is akin to English expressions such as "apparently", "evidently", or "it seems s/he has", but without the sense of doubt that is often conveyed in such English suggestions. As such, one often finds this tense paired with `თურმე:apparently`.
 
-Aronson also contrasts EVD in the negative versus AOR in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense. Some speakers may not make the distinction between EVD and AOR and will default to AOR negative past events. This lack of distinction may be perceived as "uneducated".
+As mentioned above, EVD in the negative is contrasted in everyday speech with [AOR](#how-to-use-aor) in the negative. EVD with the negative would indicate a past action that didn't happen, with a neutral reason. AOR in the negative, however, would imply that the action intentionally did not happen. Compare <ex>_ის პერანგი არ მიყიდია_ ⧸ I didn't buy the shirt (EVD)</ex> and <ex>_ის პერანგი არ ვიყიდე_ ⧸ I didn't buy the shirt (AOR) [because I didn't feel like it]</ex>.<cite>[Aronson, p276](#aronson)</cite> Thus, when answering questions about the past, one is more likely to hear EVD as a negative answer to a question and AOR as the positive answer, because in these cases, each has a neutral sense. Some speakers may not make the distinction between EVD and AOR and will default to AOR negative past events. This lack of distinction may be perceived as "uneducated".
 
 It may also be used to express surprise, mirroring loosely the English expression "what a xyz".<cite>[Aronson and Kiziria, p392](#aronsonkiziria)</cite> In <ex>_ფერად შვინდი ბაგე გქონია_ ⧸ You had lips the color cherries</ex>, it's not a neutral statement of fact, but an expression of surprise/admiration/unexpectedness of the fact.
 
@@ -1136,7 +1142,7 @@ I didn't forget her // Compared with AOR, this is a more neutral "not forget", a
 
 > Ⓚ: 2nd Resultant
 Ⓗ: Pluperfect
-Ⓞ: მეორე თურმეობითი
+Ⓞ: მეორე თურმეობითი, Plusquamperfekt (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -1207,16 +1213,14 @@ Rather than use the PRS form of _to be_, instead use the AOR form of _to be_ as 
 
 The PSTSBJV has two main functions:
 
-1. Expressing wishes of a hypothetical past that cannot be achieved (e.g. I was supposed to do it)
-2. Describing an action that occurs in the past, but prior to a past timeframe already established
+1. Describing an action that occurs in the past, but prior to a past timeframe already established
+2. Expressing wishes of a hypothetical past that cannot be achieved (e.g. I was supposed to do it)
 
-As you may guess from the 2nd function and Ⓗ's naming, this could tense could also be called the pluperfect. However, since hypothetical past conditionals is the main place this is used, for the purpose of this document, PSTSBJV will take precedence in naming. Plus, it has nice parallelism with the other subjunctive tenses.
+As you may guess from the 1st function and Ⓗ's naming, this could tense could also be called the pluperfect. However, since hypothetical past conditionals is the main place this is used, for the purpose of this document, PSTSBJV will take precedence in naming. Plus, it has nice parallelism with the other subjunctive tenses.
 
-These hypothetical conditionals are often formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSUBJ. This type of conditional sentence is always marked with _რომ_ in the second clause.
+These hypothetical conditionals are often formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSBJV. This type of conditional sentence is always marked with _რომ_ in the second clause. More information on expressing past desires can be found [below](#having-wanted-to-do-something-verb).
 
-When not in a conditional sentence, it is often used with `უნდა:want/have to` or `შეიძლება:is able` to indicate it is an action that was supposed to happened, but did not. Compare _მინდოდა წავსულიყავი_ and _წავსულიყავი_. Both express a wish that the action had been done (e.g. going), but the addition of `მინდოდა:I had wanted` implies a sense that the action was more desirous than the other formation. One could loosely translated them as _I had wanted to have gone_/_I had wanted to go_ and _If I had gone_.
-
-If the sentence describes an action that occurred in the past, but prior to some established time frame (function 2), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?"
+If the sentence describes an action that occurred in the past, but prior to some established time frame (function 2), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?" In general, though, this requires some context and as such, sentences with single clause and a bare verb in PSTSBJV are uncommon.
 
 --EX--
 მე არ გამოვაცხობდი, შენ რომ არ გამოგეცხო.
@@ -1243,7 +1247,7 @@ I was supposed to go (but didn't).
 
 > Ⓚ: 3rd Subjunctive
 Ⓗ: Perfect Subjunctive
-Ⓞ: მესამე კავშირებითი, Conjunctive Perfect
+Ⓞ: მესამე კავშირებითი, Conjunctive Perfect, Konjunctiv Perfect (de)
 
 &nbsp; | trans. | intrans. | მ-class | motion 
 -------|--------|----------|---------|--------
@@ -1308,6 +1312,8 @@ The root becomes _ყოფილიყო_ and follows the normal ვ-class end
 ### How to Use: DU
 
 An uncommonly used tense, restricted mostly to things a drunk uncle would do: talking about past actions the speaker has no memory of doing and giving toasts.
+
+DU is also contrasted with PSTSBJV when talking about [past desired actions](#having-wanted-to-do-something-verb).
 
 --EX--
 არ მახსოვს, რამე ნორმალურად ეთქვას ან გაეკეთებინოს.
@@ -1425,6 +1431,35 @@ There are two ways of saying "to keep doing something", depending on the meaning
 
 As you might have noticed, Georgian does not have prefixes that correspond to many of the verbal prefixes in English. One common one is doing an action again. This is indicated with the word `თავიდან:from the beginning`, such as in <ex>_თავიდან დაწერა_ ⧸ S/he rewrote it</ex>.
 
+## Having wanted to do something (უნდოდა/ნეტავ + verb)
+
+When expressing wanting to have done something in the past there are three situations, depending on the nuance you wish to express.
+
+1. should have: უნდა + PSTSBJV
+2. wanted to: უნდოდა + PSTSBJV or masdar
+3. if only I had: ნეტავ + DU
+
+**should have**
+
+When expressing if something should have happened (but didn't), use the bare, undeclined _უნდა_, paired with PSTSBJV. That is, <ex>_მე უნდა წავსულიყავი._ ⧸ I should have left.</ex>
+
+**wanted to**
+
+First, decline _უნდა_ in AOR. Whether or not you use the masdar of the verb or PSTSBJV appears to be a matter of either dialect or personal preference. I have been told that the masdar form may be considered "colloquial" (or perhaps even grammatically incorrect), whereas others have have insisted the declined form is incorrect.
+
+This form implies that the past action was desired in the past, but did not occur. There is less of an implication that the action was compelled by some external force (e.g. obligation, necessity, etc.) than as implied with _უნდა_ above.
+
+**if only I had**
+
+The form using DU and `ნეტავ:if only` implies a certain level of regret or wistfulness that is not implied with either of the two above forms. Thus, _ნეტავ მე წავსულიყო_ would be "If only I had left (sooner, later, on Monday, etc.)". As one might expect, this form is often seen in poetry.
+
+--EX--
+მინდოდა მეთქვა, რომ ღვინოსთან ერთად შენც ვერ განებებ თავს
+I had wanted to say that you can no longer stop yourself with wine // from სიყვარული დროა by 33ა
+ნეტავ მეღირსოს ტრფობა იმ ქალის,
+If only I were worth of Aphrodite, that woman, // from ნეტავ მეღირსოს ... by ელიბარ გაბუნი
+--ENDEX--
+
 # Common Irregular Verbs
 
 To save on typing, only 1SG and 3SG are provided, as the remaining forms can be derived from those. If you would like to provide more irregular forms, please contact me at `parry (ათ) parryc.com`.
@@ -1446,6 +1481,8 @@ PSTSBJV| მქონოდა| ჰქონოდა
 DU     | მქონოდეს| ჰქონოდეს
 
 Note that you may hear shortened versions of the PRS in casual speech, such as _მე მაქ_, where the `-ვს` at the end is dropped.
+
+When a prefix is used, the conjugations are different, see below for more information.
 
 ## To have (a person) - ჰყავს
 
@@ -1479,6 +1516,26 @@ EVD    | მითქვამს| უთქვამს
 PSTSBJV| მეთქვა| ეთქვა
 DU     | მეთქვას| ეთქვას
 
+## To tell someone something — ეუბნება
+
+&nbsp; | 1SG | 3SG
+-------|-----|------
+PRS    | ვეუბნები| ეუბნება
+IMPERF | ვეუბნებოდი| ეუბნებოდი
+PRSSBJV| ვეუბნებოდე| ეუბნებოდეს
+FUT    | ვეტყვი| ეტყვის
+COND   | ვეტყოდი| ეტყვოდა
+FUTSBJV| ვეტყვოდე| ეტყვოდეს
+AOR    | ვუთხარი| უთხრა
+OPT    | ვუთხრა| უთხარას
+EVD    | მითქვამს| უთქვამს
+PSTSBJV| მეთქვა| ეთქვა
+DU     | მეთქვას| ეთქვას
+
+For IMPERF, you may also (rarely?) see/hear a version where the _-ო-_ is dropped, thus, _ვეუბნებდი_. I have not seen this alteration attested for PRSSBJV.
+
+Note that one may encounter a form _იამბობს_, such as in [_მოდი გიამბობ_](https://www.youtube.com/watch?v=A828Q0wLeD8) by Hamlet Gonashvili or in [The Knight in the Panther's Skin](http://www.nplg.gov.ge/saskolo/index.php?a=term&d=18&t=8780) that also means "I tell you", but it has a more specific sense of telling a story (or similar). You can see this contrasted in the first two lines of the above linked song — the second line does not use the FUT of _ამბობს_, rather the FUT of _ეუბნება_: გიამბობ... ამბავს (I am telling you... a story) vs. გეტყვი... განათებას (I will tell you... at dawn).
+
 ## To give someone something – აძლევს
 
 &nbsp; | 1SG | 3SG
@@ -1495,9 +1552,27 @@ EVD    | მიმიცია| მიუიცია
 PSTSBJV| მიმეცა| მიეცა
 DU     | მიმეცეს| მიეცეს
 
+## To bring something to someone - მოაქვს/მიაქვს
+
+მოაქვს and მიაქვს differ in where the "something" is being brought. To help present the differences, assume there are two speakers. With _მო-_, the object is being brought to the location of the 1st speaker and with _მი-_ the object is being brought to a location different from where either of the speakers are. In the case where the object is being brought is to where the 2nd speaker is, either prefixed form works. If the object is a person or a car, then _მოჰყავს_ and _მიჰყავს_ is used.
+
+&nbsp; | 1SG | 3SG
+-------|-----|------
+PRS    | მომაქვს| მოაქვს
+IMPERF | მომქონდა| მოჰქონდა
+PRSSBJV| მომქონდეს| მოჰქონდეს
+FUT    | მოვიტან| მოიტანს
+COND   | მოვიტანდი| მოიტანდა
+FUTSBJV| მოვიტანდე| მოიტანდეს
+AOR    | მოვიტანე| მოიტანა
+OPT    | მოვიტანო| მოიტანოს
+EVD    | მომიტანია| მოუტანია
+PSTSBJV| მომეტანა| მოეტანა
+DU     | მომეტანოს| მოეტანოს
+
 ## To know – იცის
 
-Note that in all tenses except for EVD, PRSSBJV, and DU, the subjec is ERG. For EVD, PRSSBJV, and DU, the subject is DAT.
+Note that in all tenses except for EVD, PRSSBJV, and DU, the subject is ERG. For EVD, PRSSBJV, and DU, the subject is DAT.
 
 &nbsp; | 1SG | 3SG
 -------|-----|------
@@ -1625,7 +1700,7 @@ If you know of additional resources that contain good information on Georgian ve
 ## General Access
 
 * <source id="kurtsikidze">_Elements of Georgian Grammar_, Shorena Kurtsikidze, 2nd edition, LINCOM Europa, 2014.</source>
-* <source id="hillery">[_THE GEORGIAN LANGUAGE_](https://home.richw.org/armazi/georgian/), PJ Hillery</source>
+* <source id="hillery">[_THE GEORGIAN LANGUAGE_](https://home.richw.org/armazi/georgian/) ([backup](https://web.archive.org/web/20230107010249/https://home.richw.org/armazi/georgian/)), PJ Hillery</source>
 * <source id="kiziria">_Beginner's Georgian_, Dodona Kiziria, Hippocrene Books, 2009.</source>
 * <source id="aronson">_Georgian: A Reading Grammar_, Howard I. Aronson, Corrected Edition, Slavica, 1990.</source>
 * <source id="aronsonkiziria">_Georgian Language and Culture: A Continuing Course_, Howard I. Aronson & Dodona Kiziria, Slavica, 1999</source>
@@ -1636,6 +1711,7 @@ If you know of additional resources that contain good information on Georgian ve
 * [Georgian: A Structural Reference Grammar](https://books.google.com/books?id=YVhCAAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) by B. G. Hewitt, John Benjamins Publishing Company, 1995.
 * [Georgian Syntax: A Study in Relational Grammar](https://www.worldcat.org/title/georgian-syntax-a-study-in-relational-grammar/oclc/848443519&referer=brief_results) by Alice Harris, Cambridge University Press, 1981.
 * <source id="comrie">Comrie in _Endangered Languages of the Caucasus and Beyond_, ed. Ramazan Korkmaz and Gürkan Doğan, Brill, 2017.</source>
+* <source id="comprehensive">Georgian: A Comprehensive Grammar by Tinatin Bolkvadze and Dodona Kiziria, Routledge, 2023.</source>
 
 ## Dictionaries
 
@@ -1647,6 +1723,8 @@ If you know of additional resources that contain good information on Georgian ve
 # Acknowledgements
 
 I would like to thank all of my Georgian teachers throughout the years. You have all been kind, patient, and enthusiastic – there's nothing more someone could want in a mentor. You've helped the flower of my interest in the language, culture, and country bloom!
+
+Furthermore, it goes without saying that this page would not be what it is without you, dear reader. Your comments, questions, and suggestions whether to me directly or elsewhere on the internet have been invaluable.
 
 A special and heartfelt thanks to ვესი, for agreeing on a whim to start this crazy journey. დიდი მადლობა, მეგობარო!
 

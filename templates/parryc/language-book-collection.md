@@ -16,6 +16,7 @@ Alemmanic – 4
 Arabic – 5
 Avar – 3
 Azeri – 4
+Bats – 1
 Bosnian-Croatian-Serbian (BCS) – 3
 Cantonese – 2
 Cebuano – 1
@@ -32,8 +33,8 @@ Dutch – 9
 English – 187
 Finnish – 2
 French – 14
-Georgian – 25
-German – 12
+Georgian – 30
+German – 18
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 6
@@ -75,7 +76,7 @@ Ojibwe – 4
 Okanagan – 1
 Polish – 3
 Romanian – 1
-Russian – 25
+Russian – 26
 Salar – 1
 Scots – 6
 Scottish Gaelic – 4
@@ -104,10 +105,10 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 95
-Grammar – 47
+Dictionary – 100
+Grammar – 48
 Phrasebook – 22
-Study – 23
+Study – 24
 Verb list – 4
 
 ## Languages
@@ -434,6 +435,15 @@ Sprechen Sie Österreichisch?
 Sprechen Sie Salzburgerisch?
 : Wolfgang Straub, Ueberreuter, 2022. <tag>german→german</tag> <tag>dictionary</tag>
 
+Langenscheidt Lilliput Wienerisch
+: Susanne Finsterl-Lindlar Dank and Oswald Finsterl, Langenscheidt, 2023. <tag>german→german</tag> <tag>dictionary</tag>
+
+Der Kleine Wappler
+: Astrid Wintersberger, Residenz Verlag, 2021. <tag>german→german</tag> <tag>dictionary</tag>
+
+Deutsch-Georgisches Wörterbuch
+: Yolanda Marchev, Kaukasus-Verlag, 1999
+<tag>german→georgian</tag> <tag>dictionary</tag>
 
 #### Icelandic
 
@@ -602,7 +612,17 @@ Syntagmaton linguarum orientalium quae in Georgiae regionibus audiuntur
 : Francesco Maria Maggio, 2e, Propaganda Fide, 1670. <tag>latin→georgian</tag> <tag>latin→turkish</tag> <tag>grammar</tag>
 
 A Dictionary of Judeo-Georgian
-: Reuven Enoch, Magna Press, 2020. <tag>georgian→hebrew</tag> <tag>georgian→english</tag> <tag>georgian→georgian</tag>
+: Reuven Enoch, Magna Press, 2020. <tag>georgian→hebrew</tag> <tag>georgian→english</tag> <tag>georgian→georgian</tag> <tag>dictionary</tag>
+
+Die Morpheme der Georgischen Sprache
+: Yolanda Marchev, Amirani Verlag, 1986.
+<tag>georgian→german</tag> <tag>study</tag>
+
+Georgisch-Deutsches Wörterbuch
+: Kita Tschenkéli, Amirani Verlag, 1960. <tag>georgian→german</tag> <tag>dictionary</tag>
+
+Einführung in die Georgische Sprache
+: Kita Tschenkéli, Amirani Verlag, 1958. <tag>georgian→german</tag> <tag>grammar</tag>
 
 #### Svan
 
@@ -742,6 +762,12 @@ Grammaire de la Langue Avar
 
 Очерки Аварской Диалектологий
 : Ш. И. Микаилов, Издалтельство Академии Наук, 1959. <tag>avar→russian</tag> <tag>study</tag>
+
+#### Bats
+
+წოვა-თუშურ-ქართულ-რუსული ლექსიკონი
+: დავით ქადაგიძე and ნიკო ქადაგიძე, მეცნიერება, 1984.
+<tag>bats→georgian</tag> <tag>bats→russian</tag> <tag>dictionary</tag>
 
 #### Lezgin
 

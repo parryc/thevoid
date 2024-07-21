@@ -38,4 +38,10 @@ updates = [
         "link": f"{_url}#how-to-form-opt",
         "date": datetime(2023, 1, 22, 15, 30, 0, tzinfo=timezone(-timedelta(hours=5))),
     },
+    {
+        "title": "Added new irregular verb charts and information on expressing past desired actions",
+        "description": "Added new irregular verb charts, information on expressing past desired actions, and general clean up and organization of usage information.",
+        "link": f"{_url}#having-wanted-to-do-something-verb",
+        "date": datetime(2024, 7, 20, 9, 50, 0, tzinfo=timezone(-timedelta(hours=5)))
+    },
 ]

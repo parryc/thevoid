@@ -20,6 +20,7 @@ i have been fortunate to have my work included in a variety of places and some p
 
 ### MCBA
 
+- miniature marbling: july 2024
 - marbling focus, combs and patterns: march 2024
 - making marbling combs: may 2023, feb 2024
 - bradel bindings: sep 2023, jan 2024

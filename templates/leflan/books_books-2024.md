@@ -17,3 +17,11 @@
 * _Lupin IIIrd: Thick as Thieves_ - Monkey Punch
 * _The Dead Mountaineer's Inn_ - Boris and Arkady Strugatsky
 * _Matrix 36_ - ed. John Randle
+* _The Nursing Home Murder_ - Ngai Marsh
+* _New Writing in Czechoslovakia_ - ed. George Theiner
+* _Melting Metal_ - Plantin Institute of Typography class of 2022-2023
+* _A Conservatory for My Prospectus_ - Henry Morris
+* _Reynolds Stone_ - Michael Harvey
+* _The Private Press-Man's Tale_ - Henry Morris
+* _Fleischman on Punchcutting_ - Frans A. Janssen
+* _Matrix 35_- ed. John Randle
