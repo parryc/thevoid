@@ -24,8 +24,8 @@ when only the product ID is known, or the product's name is generic, the store p
 - domestic etching ⭕️
 - st. armand hemp ⭕️
 - st. armand sisal ⭕️
+- schmedt vorsatzpapier ⭕️
 - arturo 🤷‍♀ (can take some practice to place without air bubbles)
-- yupo ❌ (very plasticy)
 
 ## handmade papers
 
@@ -33,6 +33,7 @@ some work, some don't. it tends to be quite easy to get air bubbles due to the s
 
 - old ways 2022 ⭕
 - atelier ailles ⭕
+- de schoolmeester 🤷‍♀ (depending on the thickness, it might work, but it is generally very stiff handmade paper)
 - st. armand ❌ (hard to avoid bubbles due to the non-flat drying, but the colors can really pop on the white)
 - vinczemill ❌
 - <abbr>MCBA</abbr> western papermaking class ❌
@@ -51,6 +52,8 @@ some work, some don't. it tends to be quite easy to get air bubbles due to the s
 
 - icelandic poppy ⭕️
 - balls of pulp - kozo / abaca ⭕️
+- yupo ⭕ (alum it, let it dry, and then alum again, h/t Barbara Hodgson)
+- a marbling comb ⭕ (not really recommended, but doesn't need alum to mark up your tools!)
 - bookcloth 🤷 (does marble, but gets really curly - can it be ironed out? yes, sort of)
 - legion cork paper ❌ (some curl dramaticallly – best to just use with the wood texture, rather than marble it)
 - crash/super ❌

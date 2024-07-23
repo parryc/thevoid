@@ -19,9 +19,10 @@ my passion lies in making marbling tools to help the beginner and experienced ma
 
 interested in a set or individual combs? write to me with the specifications for your tank (width and depth) and we'll get the show on the road!
 
-- beginner sets (3", 2", 1", 1/2", 1/4") are available for $100
-- microcombs (1/8" and 1/16") and bouquet combs are available for $35 each
-- interested in something non-standard? let me know!
+- base combs (3", 2", 1", 1/2", 1/4") are available at $1/in
+- microcombs (1/8", student grade) and bouquet combs are available at $2/in 
+- microcombs (1/16", student grade) are available at $4/in
+- interested in something non-standard or the above prices don't fit your budget? let me know!
 
 ## kyoseishi
 

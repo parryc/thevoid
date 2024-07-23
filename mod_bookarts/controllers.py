@@ -104,6 +104,8 @@ def posts():
             desc = "standalone projects with a concrete end result."
         if cat == "letterpress":
             desc = "all the posts that are fit to print."
+        if cat == "photo reel":
+            desc = "pictures of the various books and arts of the bookarts."
         return "> " + desc + "\n"
 
     if _host == "bookartbook.art":

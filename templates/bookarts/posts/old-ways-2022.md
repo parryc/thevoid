@@ -1,4 +1,4 @@
-projects;bookbinding > sewn boards;bookbinding > leather;paper > paper making;bookbinding > bone tools
+projects;bookbinding > sewn boards;bookbinding > leather;paper > papermaking;bookbinding > bone tools
 
 [TOC]
 

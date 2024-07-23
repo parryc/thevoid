@@ -1,4 +1,4 @@
-uncategorized
+photo reel;bookbinding > designs
 
 as some of you may know, Jana Pullman, a bookbinder of some reknown and unimpeachable skill, has recently had to stop binding. in the course of her cessation, i had an opportunity to visit her studio here in minneapolis and took pictures of one of her bookbinding journals. as you'll see below, there are wonderful drawings of tooling designs, as well as assorted notes, allowing one to delve deeper in the mind of a consumate professional. i apologies for the quality – they were of course taken on my phone and i had to do some work to crop my thumbs out of a bunch of them, hence the strange sizes.
 
