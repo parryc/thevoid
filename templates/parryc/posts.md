@@ -6,6 +6,7 @@ lists of pictures, but no pictures of lists – yet.
 
 (click images for full sized)
 
+* [june 2024 // austria & the netherlands](2024-europe)
 * [july-august 2023 // france, poland, lithuania](2023-europe)
 * [october 2022 // montreal, canada](2022-montreal)
 * [march 2022 // casper, wyoming](2022-casper)
