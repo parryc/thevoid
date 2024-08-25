@@ -33,7 +33,7 @@ Dutch – 9
 English – 187
 Finnish – 2
 French – 14
-Georgian – 30
+Georgian – 32
 German – 18
 Hawaiian – 1
 Halkomelem – 1
@@ -76,7 +76,7 @@ Ojibwe – 4
 Okanagan – 1
 Polish – 3
 Romanian – 1
-Russian – 26
+Russian – 28
 Salar – 1
 Scots – 6
 Scottish Gaelic – 4
@@ -105,7 +105,7 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 100
+Dictionary – 102
 Grammar – 48
 Phrasebook – 22
 Study – 24
@@ -624,6 +624,9 @@ Georgisch-Deutsches Wörterbuch
 Einführung in die Georgische Sprache
 : Kita Tschenkéli, Amirani Verlag, 1958. <tag>georgian→german</tag> <tag>grammar</tag>
 
+საბა-სულხან ორბელიანის და დავით ჩუბინაშვილის ლექსიკონებში გამოტოვებული სიტყვები
+: ილია ჭუოანია, Материалы по яфетическому языкознанию, 1910. <tag>georgian→russian</tag> <tag>dictionary</tag>
+
 #### Svan
 
 Svan
@@ -1054,6 +1057,9 @@ Russian-English English-Russian Dictionary
 
 The Complete Idiot's Guide to Learning Russian
 : Christopher Froehlich, Alpha Books, 2004. <tag>russian→english</tag> <tag>coursebook</tag>
+
+Русско-Грузинскiй Словарь
+: Давид Чубинов, Общество распространения грамотности среди грузин, 1901. <tag>russian→georgian</tag> <tag>dictionary</tag>
 
 ### Tungusic
 

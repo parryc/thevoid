@@ -794,7 +794,7 @@ I.OBJ  | DAT    | DAT      | თვის    | (prep.)
 
 ### How to Form: FUTSBJV
 
-<attn>✎ Derived from COND with ending changes or derived from PRSSBJV with a preverb or </attn>
+<attn>✎ Derived from COND with ending changes or derived from PRSSBJV with a preverb</attn>
 
 **_ვ-class transitive and intransitive_**
 
@@ -928,7 +928,7 @@ With the exception of 3SG, the forms are based off a root of _იყავი_.
 
 ### How to Use: AOR
 
-The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"). When expressing a negative past action (e.g. "I didn't see her"), often [EVD](#how-to-use-evd) is used instead.
+The AOR is very similar to what is called the past tense in English. Generally speaking, as it has a preverb, it will indicate a past completed action. Depending on context, it may function similarly to the English past perfect (e.g. "I had done" versus "I did"), often with `უკვე:already`. When expressing a negative past action (e.g. "I didn't see her"), often [EVD](#how-to-use-evd) is used instead.
 
 There is an uncommon form without the preverb that indicates the action took place in the past and was incomplete, similar to "had been doing" in English. It occurs often in the form of "{AOR without prefix}, {AOR without prefix}, და {AOR with prefix}" to mean that someone or something "did and did and (finally) completed it". This is illustrated in the saying <ex>_თაგვმა თხარა, თხარაო, კატა გამოთახრაო_ ⧸ (They say) the mouse dug and dug, and dug up a cat</ex>. `თხარა:dug` is unprefixed and implies that the action of digging was not completed. `გადათხარა:dug (up)`, with the prefix, indicates the action of digging was done and compeleted – in this case because the mouse dug up a cat. The saying is used to warn someone they might get in trouble if they keep doing what they're doing.
 
@@ -1024,7 +1024,7 @@ When used independently in questions, it gives the sense of "should/shall ... ?"
 
 The optative plural is also used in recipes, for example <ex>_მოვხარშოთ ცოტა ბრინჯი_ ⧸ Cook a small amount of rice.</ex><cite>[Kurtsikidze, p147](#kurtsikidze)</cite>
 
-When expressing past desires, rather than current desires, please [see below](#having-wanted-to-do-something-verb) for more information.
+When expressing past desires, rather than current desires, please [see below](#having-wanted-to-do-something-verb) for more information. OPT is only used after non-past verbs.<cite>[Aronson, p285](#aronson)</cite>
 
 --EX--
 მინდა ქართული ენა ვისწავლო.
@@ -1220,7 +1220,9 @@ As you may guess from the 1st function and Ⓗ's naming, this could tense could 
 
 These hypothetical conditionals are often formed with the first clause in IMPERF (hypothetical past result) and the second clause (hypothetical past action) in PSTSBJV. This type of conditional sentence is always marked with _რომ_ in the second clause. More information on expressing past desires can be found [below](#having-wanted-to-do-something-verb).
 
-If the sentence describes an action that occurred in the past, but prior to some established time frame (function 2), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?" In general, though, this requires some context and as such, sentences with single clause and a bare verb in PSTSBJV are uncommon.
+If the sentence describes an action that occurred in the past, but prior to some established time frame (function 1 above), it can appear standalone as the only verb in the sentence. You can think of the sentence as the answer to the question _რა მექნა?_, which can be thought of as "What had you done (before then)?" or "What did you do (before then)?" In general, though, this requires some context and as such, sentences with single clause and a bare verb in PSTSBJV are uncommon.
+
+Most sentences that would be expressed in the pluperfect in English ("had done") would be expressed with `უკვე` + AOR. For example, from Aronson (p278), <ex>_თქვენ უკვე გნზხეთ, როცა ადვოკატი მოვიდა_ ⧸ I had already seen you all when the lawyer came</ex>.
 
 --EX--
 მე არ გამოვაცხობდი, შენ რომ არ გამოგეცხო.
@@ -1458,6 +1460,8 @@ The form using DU and `ნეტავ:if only` implies a certain level of regre
 I had wanted to say that you can no longer stop yourself with wine // from სიყვარული დროა by 33ა
 ნეტავ მეღირსოს ტრფობა იმ ქალის,
 If only I were worth of Aphrodite, that woman, // from ნეტავ მეღირსოს ... by ელიბარ გაბუნი
+გამოცდა კალმით უნდა დაგეწერა, და არა ფანქრით!
+You should have written the examination with a pen, not with a pencil! // from Aronson, p277 
 --ENDEX--
 
 # Common Irregular Verbs
@@ -1675,6 +1679,10 @@ AOR    | წავედი  | მივედი
 Generally speaking, the _წა-_ form is more common and should be the default, especially for the FUT screeve forms (FUT, COND, FUTSBJV) and AOR. It **cannot** be used in the PRS or related screeves, as the form simply does not exist.
 
 The _მი-_ form should be used when emphasizing the destination (<ex>_მივიდა სკოლაში_ ⧸ He went to the store</ex>), in the PRS screeve (PRS, IMPERF, PRSSBJV), or IMP (<ex>_მიდი მიდი მიდი!_ ⧸ go, go, go!</ex>).
+
+## Which motion verb should be use for "to arrive" or "to come"?
+
+Like expressing "to go", above, "to arrive"/"to come"/"to get somewhere" also has two different verb forms: _მო-_ and _ჩა-_. However, rather than differing based on tense, they differ based on where the arrival occurred, relative to the speaker. When the place arrived at is "here", use _მო-_ and when the place arrived at is "there", use _ჩა-_.
 
 ## I'm seeing some strange forms of "to be", what are they?
 

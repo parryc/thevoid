@@ -25,3 +25,4 @@
 * _The Private Press-Man's Tale_ - Henry Morris
 * _Fleischman on Punchcutting_ - Frans A. Janssen
 * _Matrix 35_- ed. John Randle
+* _Sir Hereward and Mister Fitz_ - Garth Nix
