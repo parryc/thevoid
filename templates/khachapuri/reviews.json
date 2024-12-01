@@ -1,6 +1,42 @@
 {  "reviews": [
     {
-      "location": "San Francisco, CA",
+      "location": "Dediko, Vancouver, WA",
+      "country": "USA",
+      "price": 4,
+      "taste": 5,
+      "type": "adjaruli",
+      "date": "2024-10",
+      "rated_by": "cy"
+    },
+    {
+      "location": "Jibek Jolu, Glenview",
+      "country": "USA",
+      "price": 4,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2024-09",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Crazy Khinkali, Vienna",
+      "country": "Austria",
+      "price": 3,
+      "taste": 4,
+      "type": "megruli",
+      "date": "2024-06",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Royal Healthy, Munich",
+      "country": "Germany",
+      "price": 2,
+      "taste": 4,
+      "type": "lobiani",
+      "date": "2024-03",
+      "rated_by": "wpc"
+    },
+    {
+      "location": "Cheese Boat, San Francisco",
       "country": "USA",
       "price": 5,
       "taste": 5,

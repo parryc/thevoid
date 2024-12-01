@@ -876,11 +876,11 @@ This form should be memorized. In general, though, _-ებ_ will be removed if 
 1. ე-ა
 2. ი-ო
 3. ი-ა
-4. იე-ა
+4. იე-ია
 
-That is, 1SG, 1PL, 2SG, 2PL, 3PL will have the same vowel (such as _ე_) and 3SG will have a different one (_ა_). _ე-ა_ is more common with transitive verbs and _ი-ო_ is more common with instransitive verbs. _ი-ა_ is most likely with verbs ending in _-ავ_ or _-ამ_.<cite>[Kurtsikidze, p137](#kurtsikidze)</cite> Verbs ending in _-ევ_ will take the 4th pattern, _იე-ა_.
+That is, 1SG, 1PL, 2SG, 2PL, 3PL will have the same vowel (such as _ე_) and 3SG will have a different one (_ა_). _ე-ა_ is more common with transitive verbs and _ი-ო_ is more common with instransitive verbs. _ი-ა_ is most likely with verbs ending in _-ავ_ or _-ამ_.<cite>[Kurtsikidze, p137](#kurtsikidze)</cite> Verbs ending in _-ევ_ will take the 4th pattern, _იე-ია_.
 
-Some verbs may change roots in AOR (and those OPT, as well). A common change is the addition of a an _ა_ before a _ლ_. When this occurs, it almost always only impacts the 1st and 2nd person forms.
+Some verbs may change roots in AOR (and thus in OPT, as well). A common change is the addition of an _ა_ before letters such as _ლ_ or _რ_. When this occurs, it almost always only impacts the 1st and 2nd person forms. For example, with the verb `ასწრებს:has time to do something`, we have in 3SG _მოასწრო_, but in 1SG _მოვასწარი_ with an `-ა-` before _რ_.
 
 * გააკეთა, did
 
@@ -1723,7 +1723,7 @@ If you know of additional resources that contain good information on Georgian ve
 
 ## Dictionaries
 
-* [Comprehensive English-Georgian Dictionary](https://dictionary.ge/en/), requires subscription, 25₾ per year.
+* [Comprehensive English-Georgian Dictionary](https://dictionary.ge/en/), now free (previously required a subscription at 25₾ per year).
 * [translate.ge](https://translate.ge/), contains CGED, among other dictionaries of dubious quality.
 * [Georgian Explanatory Dictionary](http://www.ena.ge/), Georgian only, but very thorough.
 * [National Parlimentary Library of Georgia's Dictionary Website](http://www.nplg.gov.ge/gwdict/index.php), over 50 individual dictionaries, with 600,000+ terms.

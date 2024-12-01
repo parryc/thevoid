@@ -26,3 +26,16 @@
 * _Fleischman on Punchcutting_ - Frans A. Janssen
 * _Matrix 35_- ed. John Randle
 * _Sir Hereward and Mister Fitz_ - Garth Nix
+* _Ōtsu-e: Japanese Folk Paintings_ - Matthew Welch
+* _A Treasury of Hercule Poirot Mysteries_ - Agatha Christie
+* _A Collection of Pressmarks_ - James Weygand
+* _Finter Points in the Spacing and Arrangement of Type_ - Geoffrey Dowding
+* _Matrix 34_ - ed. John Randle
+* _Bookseller Tokens_ - Henry Morris
+* _The Dead Cat Tails Assassins_ - P. Djèlí Clark
+* _The Technology of Hand Printing_ - Harry Duncan
+* _Jewel Rivers: Japanese Art from the Burke Collection_ - Miyeko Murase
+* _Works of Ralph Green_ - Ralph Green
+* _A Field Guide to North American Hand Presses and Their Manufacturers_ - Robert Oldham
+* _The Bird & Bull Commonplace Book_ - ed. Henry Morris
+* _American Iron Hand Presses_ - Stephen O. Saxe

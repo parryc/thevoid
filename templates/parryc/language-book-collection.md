@@ -30,10 +30,10 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 187
+English – 188
 Finnish – 2
 French – 14
-Georgian – 32
+Georgian – 33
 German – 18
 Hawaiian – 1
 Halkomelem – 1
@@ -72,11 +72,11 @@ Mingrelian – 1
 Mongolian – 6
 Multiple Languages – 14
 Norse – 1
-Ojibwe – 4
+Ojibwe – 5
 Okanagan – 1
 Polish – 3
 Romanian – 1
-Russian – 28
+Russian – 29
 Salar – 1
 Scots – 6
 Scottish Gaelic – 4
@@ -105,9 +105,9 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 102
+Dictionary – 103
 Grammar – 48
-Phrasebook – 22
+Phrasebook – 23
 Study – 24
 Verb list – 4
 
@@ -179,6 +179,9 @@ A Dictionary of the Chippewa Indian Language
 
 An Ojibwe Word Resource Book
 : ed. John Nichols and Earl Nyholm, Minnesota Archeaological Society, 1979. <tag>ojibwe→english</tag> <tag>english→ojibwe</tag> <tag>dictionary</tag>
+
+Pocket Ojibwe
+: Patricia M. Ningewance, Mazinaate, 2009. <tag>ojibwe→english</tag> <tag>phrasebook</tag>
 
 ### Austronesian
 
@@ -627,6 +630,9 @@ Einführung in die Georgische Sprache
 საბა-სულხან ორბელიანის და დავით ჩუბინაშვილის ლექსიკონებში გამოტოვებული სიტყვები
 : ილია ჭუოანია, Материалы по яфетическому языкознанию, 1910. <tag>georgian→russian</tag> <tag>dictionary</tag>
 
+Georgian-English English-Georgian Dictionary
+: John J. Torikashvili, Hippocrene, 1992. <tag>georgian→english</tag> <tag>phrasebook</tag> <tag>dictionary</tag>
+
 #### Svan
 
 Svan
@@ -1060,6 +1066,9 @@ The Complete Idiot's Guide to Learning Russian
 
 Русско-Грузинскiй Словарь
 : Давид Чубинов, Общество распространения грамотности среди грузин, 1901. <tag>russian→georgian</tag> <tag>dictionary</tag>
+
+Русско-Грузинскiй Словарь
+: Давид Чубинов, Тинографiя Императорской Академiн Наукъ, 1886. <tag>russian→georgian</tag> <tag>dictionary</tag>
 
 ### Tungusic
 

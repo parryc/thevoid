@@ -187,6 +187,11 @@ dd > tag {
   display: block;
 }
 
+.hands {
+  font-family: 'Arlette', serif;
+  font-feature-settings: "ss02";
+}
+
 .hedera {
   font-family: 'Arlette', serif;
   font-feature-settings: "ss03";

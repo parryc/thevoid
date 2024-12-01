@@ -710,6 +710,27 @@ When the object of the verb is one's self, e.g. "made for oneself", there are tw
 
 If indicating that one did an action themself, it is done with _მარტო_. When used in this way, it is declined like the SUBJ of the sentence. <ex>_მე მარტომ გავაკეთე პიცა ჩემთვის_ ⧸ I made the pizza by myself for myself</ex>. Note _-მ_ on _მარტო_, indicating it is the SUBJ of a sentence in the past.
 
+## X more than / more than X (x-ით/ზე მეტი)
+
+"More than" can have two slightly different meanings. One is "X is more than Y", for example, 3 is more than 1. In this case, we use _-ზე_, thus "3 მეტია 1-ზე". The second case is when we want to express _how_ much more something is, such as "3 is 2 more than 1". In this case, we use _-ით_: "3 2-ით მეტია ვიდრე 1-ზე".
+
+You can see examples of this used in Khan Academy videos: [case 1](https://youtu.be/3h5KHgBw3vc?t=140) and [case 2](https://youtu.be/Zyx6Bd-nQyM?t=129).
+
+The opposite, less than, is _ნაკლები_, rather than _მეტი_.
+
+## So as to / in order to (რათა)
+
+It is common when trying to translate complex English sentences into Georgian that you run into the problem where you have too many infinitives in a row. Georgian infrequently has this many verbal nouns (which is the most often translation target to an English infinitive), which can cause stumbling blocks when speaking. One way to avoid that is to structure sentences with _რათა_, meaning something like "so as to" or "in order to".
+
+Take the sentence "I want to write a book to use Georgian music to study the Georgian language". Here, the second "to study the Georgian language" is more like "in order to"/"for the purpose of". We can thus translate the sentence as such:
+
+- მე მინდა დავწერო წიგნი ქართული მუსიკის გამოყენებაზე...
+  - I want to write a book about using Georgian language...
+- რათა, ისწავლოდ ქართული ენას.
+  - in order to study the Georgian language.
+
+Here the "in order to" implies "for the purpose of" since since ისწავლება is in ADV. Without `-დ`, it would be 2SG.OPT which implies more "so that _you_ can study the Georgian language".
+
 # Adjectives
 
 Adjectives generally precede the noun in Georgian (`დიდი ტყე:a big tree`). As might be expected for a language with a case system, adjectives in Georgian decline, both when standalone (following normal case rules) and when paired with a noun.
