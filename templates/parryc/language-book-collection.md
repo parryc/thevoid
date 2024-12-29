@@ -70,7 +70,7 @@ Māori – 1
 Middle English – 1
 Mingrelian – 1
 Mongolian – 6
-Multiple Languages – 14
+Multiple Languages – 16
 Norse – 1
 Ojibwe – 5
 Okanagan – 1
@@ -107,8 +107,8 @@ Bilingual Texts – 10
 Coursebook – 48
 Dictionary – 103
 Grammar – 48
-Phrasebook – 23
-Study – 24
+Phrasebook – 24
+Study – 25
 Verb list – 4
 
 ## Languages
@@ -736,6 +736,12 @@ Dictionary of the Queer International
 
 Eastern Europe
 : ed. Zara Sekhavati, Apa Publications, 2019. <tag>phrasebook</tag>
+
+Memoir of a Map of the Countries Comprehended Between the Black Sea and the Caspian; with an Account of the Caucasian Nations, and Vocabularies of their Languages.
+: attrib. George Ellis, J. Edwards, 1788. <tag>study</tag>
+
+Kaukasische Sprachen
+: Julius von Klaproth, Halle und Berlin, 1814. <tag>phrasebook</tag>
 
 ### Na-Dene
 

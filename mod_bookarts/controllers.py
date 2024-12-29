@@ -55,6 +55,13 @@ def image_with_folder(folder, image):
     )
 
 
+@mod_bookarts.route("/images/<folder>/<folder2>/<image>", host=_host)
+def image_with_two_folders(folder, folder2, image):
+    return send_from_directory(
+        os.path.join(current_app.root_path, "static/images/bookarts", folder, folder2), image
+    )
+
+
 @mod_bookarts.route("/images/<image>", host=_host)
 def image(image):
     return send_from_directory(

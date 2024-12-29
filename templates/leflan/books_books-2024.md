@@ -17,7 +17,7 @@
 * _Lupin IIIrd: Thick as Thieves_ - Monkey Punch
 * _The Dead Mountaineer's Inn_ - Boris and Arkady Strugatsky
 * _Matrix 36_ - ed. John Randle
-* _The Nursing Home Murder_ - Ngai Marsh
+* _The Nursing Home Murder_ - Ngaio Marsh
 * _New Writing in Czechoslovakia_ - ed. George Theiner
 * _Melting Metal_ - Plantin Institute of Typography class of 2022-2023
 * _A Conservatory for My Prospectus_ - Henry Morris
@@ -39,3 +39,9 @@
 * _A Field Guide to North American Hand Presses and Their Manufacturers_ - Robert Oldham
 * _The Bird & Bull Commonplace Book_ - ed. Henry Morris
 * _American Iron Hand Presses_ - Stephen O. Saxe
+* _Mr Gladstone's Washi_ - Hans Schmoller
+* _Niwaki Field Report No. 1_ - ed. Jake Hobson
+* _A Profound Waste of Time: Volume 4_ - ed. Caspian Whistler
+* _Matrix 35_- ed. John Randle
+* _The Bird & Bull Commemorative 100 Coronas_ - Henry Morris
+* _A Pretty Mysterious Art_ - Charles W. Woolnaugh

@@ -18,7 +18,7 @@ i have been fortunate to have my work included in a variety of places and some p
 
 ## teaching experience
 
-### MCBA
+### MCBA (2023 – present)
 
 - miniature marbling: july 2024
 - marbling focus, combs and patterns: march 2024

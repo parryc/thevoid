@@ -17,7 +17,7 @@ hello! welcome to my site – hopefully you'll find something of interest. if yo
 
 🖼 [posts & pictures](posts)
 
-🈲 [playing 《谜宫》](migong) [in progress]
+🈲 [playing 《谜宫》](migong) [permanent hiatus]
 
 🌄 [varlam topuria's a course of the svan language](svan) [under construction]
 

@@ -4,7 +4,6 @@ unsure of where to look first? take a peep at some [marbling examples](marbling-
 
 ## upcoming workshops
 
-- Saturday, December 14th, 2024: Introduction to Marbling @ MCBA
 - Saturday, January 25th, 2025: Miniature Marbling @ MCBA
 
 ## recent updates
