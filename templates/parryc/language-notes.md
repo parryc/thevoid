@@ -21,8 +21,7 @@ these languages are actively being learned and so the notes are more likely to b
 
 still some base topics that need to be covered, but may be helpful, nevertheless.
 
-* [bavarian german](/language/bavarian-german) – with an austrian focus
-
+* [yucatec maya](/language/yucatec-maya)
 
 ## on the shelf
 
@@ -35,6 +34,7 @@ robust notes that cover a lot of topics.
 * [azeri](/language/azeri)
 * [lithuanian](/language/lithuanian)
     * [ronja, the robber's daughter, chp 1](/language/texts/lithuanian/ronja_chapter_1)
+* [bavarian german](/language/bavarian-german) – with an austrian focus
 
 ### haphazard
 
