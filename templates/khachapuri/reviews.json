@@ -1,5 +1,14 @@
 {  "reviews": [
     {
+      "location": "Der Blaue Fuchs, Berlin",
+      "country": "Germany",
+      "price": 3,
+      "taste": 4,
+      "type": "adjaruli",
+      "date": "2025-01",
+      "rated_by": "sg"
+    },
+    {
       "location": "Dediko, Vancouver, WA",
       "country": "USA",
       "price": 4,

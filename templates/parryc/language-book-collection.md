@@ -30,11 +30,11 @@ Crow – 1
 Czech – 1
 Danish – 3
 Dutch – 9
-English – 188
+English – 189
 Finnish – 2
 French – 14
 Georgian – 33
-German – 18
+German – 19
 Hawaiian – 1
 Halkomelem – 1
 Hebrew – 6
@@ -105,7 +105,7 @@ Yoruba – 1
 
 Bilingual Texts – 10
 Coursebook – 48
-Dictionary – 103
+Dictionary – 104
 Grammar – 48
 Phrasebook – 24
 Study – 25
@@ -447,6 +447,9 @@ Der Kleine Wappler
 Deutsch-Georgisches Wörterbuch
 : Yolanda Marchev, Kaukasus-Verlag, 1999
 <tag>german→georgian</tag> <tag>dictionary</tag>
+
+The Anagnostakis Pocket Guide to Austrian German and Swiss Antiquarian Bookdealers Terminology
+: Christopher Anagnostakis, Incline Press, 2012. <tag>german→english</tag> <tag>dictionary</tag>
 
 #### Icelandic
 

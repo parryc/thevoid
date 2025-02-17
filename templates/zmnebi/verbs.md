@@ -1373,6 +1373,12 @@ This is a good example of how to take a common verb form and make a verbal phras
 
 Note that you may also hear the form _რომ {declined verb}_, that is, a sentence like <ex>_მომწონს, სათამაშობს რომ ვაკეთებ_ ⧸ I like to make toys</ex>, rather than _მომწონს, სათამაშობის კეთება_.<cite>[Kurtsikidze, p193](#kurtsikidze)
 
+## Conditionals
+
+Forming conditional sentences (_If I were a rich man,_ _If you go,_ etc.) is covered in bits and pieces above, but given the variety of forms that it can take, it is worth putting into a single section. In particular, since it is not always obvious the connection between the tenses and the type of conditional that one may want to express.
+
+
+
 ## On the verge of doing something (ე- -ებოდეს)
 
 An alternative form of the PRSSBJV which indicates that the subject is on the verge of doing something, it is formed by wrapping the root in _ე- -ებოდეს_. It can also be though of as "about to" or "going to", i.e. "about to cry". It is only used with emotions or feelings.

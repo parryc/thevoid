@@ -10,6 +10,10 @@ library;letterpress
 
 neglected to write down the edition, i think 3rd? i expect this is useful as a workshop reference if you are looking at your form and aren't sure why it looks off. less useful if you have to get it via interlibrary loan, unless you take copious notes/photographs of the examples.
 
+<span class="hedera">b</span> <span class="hands">f</span> _When a Printer Plays_ by Richard J. Hoffman, 1987.
+
+a very beautiful and – dare i say it – inspiring book. the inking leaves a bit to be desired, but in terms of just sheer number of examples of how you can put together ornaments, it's fantastic. it's great to be able to see how ornaments can be used at scale, as so often, the examples one sees online (e.g. when buying them) rarely do much to make the ornaments exciting.
+
 
 ## MATRIX: a review for printers
 
@@ -31,7 +35,13 @@ got this rec from Rollin Milroy's blog. this essay (speech?) tries to get at a c
 
 <span class="hedera">b</span> <span class="hands">f</span> _American Iron Hand Presses_ by Stephen O. Saxe, The Yellow Barn Press, 1991.
 
-in terms of quality, the letterpress version certainly takes the cake of books on hand presses. it's just a joy to hold and to read – not gripping, like a thriller, but it is eminently readable. plus, i have a soft spot for engravings of hand presses, and John DePol's are nonpareil.
+in terms of quality, the letterpress version certainly takes the cake of books on models of hand presses. it's just a joy to hold and to read – not gripping, like a thriller, but it is eminently readable. plus, i have a soft spot for engravings of hand presses, and John DePol's are nonpareil.
+
+<span class="hedera">b</span> _On Printing_ by William Everson, The Book Club of California, 1992.
+
+the book is boring, the binding & printing lackluster (bordering on bad), and i find William Everson altogether too full of himself. my main takeaway from reading this collection is that i don't want to be a catholic monk.
+
+the beginning _2 Letters from William Everson_ (Anacapa Books, 1980) are fine and the pamphlet it was originally issued in is reasonable. plus, you can find the pamphlet for much cheaper than the collected book.
 
 <span class="hedera">b</span> _A Field Guide to North American Hand Presses and Their Manufacturers_ by Robert Oldham, Ad Lib Press, 2006.
 
