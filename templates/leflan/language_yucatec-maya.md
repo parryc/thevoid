@@ -67,7 +67,7 @@ Independent pronouns answer the question "who", provide emphasis of the person (
 -|----------|--
 1|teen|to'on
 2|teech|te'ex
-3|leti'|letio'ob
+3|leti'|leti'ob
 
 ## Articles
 
@@ -122,14 +122,68 @@ _Aal_ is a variant of `paal:child`, normally used by women to jokingly(?) refer 
 
 # Verbs
 
-todo
+<attn>Note: many of the examples below are taken from [Briceño Chel's](#briceño-chel) book on Yucatec Maya verbs. They predominantly use `janal:to eat`.</attn>
 
-- xáanchajen: I am late: `xáan:slow` - `chaj:irregular suffix for turn an adjective into a verb? i.e. to become` - `1SG`  Isaac says that -chaj- is "pasado"
+## Copular Sentences
 
-Simple sentences
+There is no copula in Yucatec Maya, but one still needs to express simple sentences such as "I am X". This is done with the suffixal pronoun attached to the thing that you/he/she is. For modifying copular sentences with different aspects, see [Verbalized Adjectives](#verbalized-adjectives) below.
 
-- jach wi'ijen: I am very hungry
+--EX--
+Jach wi'ijen.
+I am very hungry.
+--ENDEX--
 
+## Intransitive Verbs
+
+Intransitive verbs are verbs with an actor (i.e. the person doing the verb-ing) and no object upon which they are doing an action. In English, that might be "I eat", which has no object, versus "I eat pasta", which does.
+
+Intransitive verbs, barring the special forms below, use the dependent pronoun. The dependent pronoun is either combined with the aspectual marker listed below, or used standalone. When the aspect marker below is followed by a `-`, it means that the aspect marker is prefixed to the dependent pronoun. Some markers also have `-e'`, which is suffixed to the verb. In the case where a verb begins with a vowel, the appropriate w/y consonant is prefixed to the verb (_kin wok'ol_).
+
+Habitual/Indefinite Present (_k-_)
+: Common actions with no explicit temporality. <ex>_Kin janal_ ⧸ I eat</ex>.
+
+Progressive Present (_t(áan)_)
+: Action is occurring as the speaker is saying it. Some speakers will drop _áan_ and append the dependent pronoun to _t_. Thus, _tin_ versus _táan in_. <ex>_Tin janal_ ⧸ I am eating</ex>.
+
+Compulsive Present (_yaan_)
+: Mandatory actions. <ex>_Yaan in janal_ ⧸ I must eat</ex>.
+
+Terminative Perfective (_ts'(o'ok)_)
+: Finished actions that are not yet considered "past" actions, i.e. still exist within the present context. This is referred to in Andrade, §2.12, as a perfective form. These actions occur further in the past that the immediate perfective below. Some spekers will drop _o'ok_ and append the dependent pronoun to _ts'_. Thus, _ts'in_ versus _ts'o'ok in_. <ex>_Ts'in janal_ ⧸ I (already) ate</ex>.
+
+Immediate Perfective (_táant -e'_)
+: Actions that have just completed. These actions occur closer to the present than the terminative, above. <ex>_Táant in janale'_ ⧸ I just ate</ex>.
+
+Assurative Future (_je'(el) -e'_)
+: Implies that the action will be carried out in the future. Since the abbreviated form, _je'_ ends in a glottal stop, there is no need to suffix the dependent pronoun to it and is not normally done so. <ex>_Je' in janale'_ ⧸ I must eat</ex>.
+
+Immediate Future (_n- -ka'aj_)
+: Actions that will be carried out in the future. Note that for 1SG, the _n_ in _in_ is dropped. <ex>_Nika'aj janal_ ⧸ I will eat</ex>.
+
+Emphatic Immediate Future (_k- -n_)
+: Actions that will be carried out in the future. This form, compared to the immediate future above, places an emphasis on the actor carrying on the action. Note that for 1SG, the _n_ in _in_ is dropped. <ex>_Kin janal_ ⧸ It is _I_ who will eat</ex>.
+
+
+### Special Forms
+
+There are two special forms for intransitive verbs. These forms do not apply to verbs of motion, stative verbs, or verbalized adjectivs.<cite>[Briceño Chel, p24](#briceño-chel)</cite>
+
+Both forms are infixed between the verb and the suffixal pronoun.
+
+Completetive (_-naj-_)
+: Used for totally completed actions in the past. For example, with `janal:to eat`, <ex>_Janalnajen_ ⧸ I ate.</ex>
+
+Indefinite Future (_bíin -nak-_)
+: Also known as the "prophetic future", it is used for distant, uncertain future events. Again, with `janal:to eat`, <ex>_Bíin janalnaken_ ⧸ One day, I will eat.</ex>
+
+## Verbalized Adjectives
+
+Similar to languages such as Chinese, adjectives can become verbs, which often change their meaning from "I am (adjective)" to "I acting in an (adjective) way", replete with the aspectual variations, such as "I was (adjective). Thought of another way, because there is no copula, one must conjugate the adjective, in lieu of conjugating the copula.
+
+Verbalized adjectives, in addition to the suffix indicated aspect, use the suffixal pronouns.
+
+Completetive (_-chaj_)
+: Indicates that the speaker has completely become the adjective, in the past. Using the above, `xáan:slow`, <ex>_xáanchajen_ ⧸ I was late</ex>, or literally "I was slow".
 
 # Possession
 
@@ -197,11 +251,15 @@ u ts'o'omel u pool
 his brain
 Yaj in xiich'el.
 My muscles hurt.
+Uts tin chi' u bak'el k'éenk'en.
+I like (to eat) pork. // lit. the flesh of a pig
 --ENDEX--
 
 # Adjectives
 
-Adjectives come before the noun, ex. <ex>_le chak abala' jats'uts_ ⧸ this red plum is beautiful</ex>, where `chak:red` comes before `abal:plum`.
+Adjectives come before the noun, ex. <ex>_le chak abala' jats'uts_ ⧸ this red plum is beautiful</ex>, where `chak:red` comes before `abal:plum`. To make a copular sentence (i.e "is") with an adjective, it comes after the noun: <ex>_abale' chak_ ⧸ the plum is red</ex>.
+
+Adjectives can be made intense by reduplication: `k'an:yellow` → `k'ank'an:very yellow`.
 
 ## Plurality
 
@@ -217,6 +275,28 @@ When an adjective is used with _-il_ (see below), it uses the plural form of the
 ## Adjectives with -il
 
 Adjectives can be suffixed with _-il_ to indicate a "selective quality", which could be loosely translated as "of all" the nouns in the current speaking context, this is the "adjective" one. For example, <ex>_u chakil abal jats'uts_ ⧸ (of all the plums) the _red_ plum is beautiful</ex>. It is not clear at present if this also indicates superlative nature (e.g it is reddest), or if it is just emphatic.
+
+## Colors
+
+There are 6 primary colors from which all other colors are derived.
+
+- boox: black
+- k'an: yellow
+- chak: red
+- ya'ax: green
+- ch'ooj: blue
+- sak: white
+
+Some example combinations:
+
+- sakboox: grey (white + black)
+- chakch'ooj: purple (red + blue)
+- chakk'an: orange (red + yellow)
+
+There are 2 semi-primary colors that do not create additional colors:
+
+- chakwa', which is also the word for chocolate, and is used for brown
+- chúukin, which is also the word for coal, and is used for grey
 
 # Prepositions
 
@@ -246,13 +326,22 @@ How old are you?
 - mixtu'ux: nowhere
 - mina'an: there is nothing / I have nothing, etc.
 
+Simple negation with _ma'_ requires the _-i'_ sentence/clausal suffix on the last word being negated, unless there is already a suffix on the word.
+
+For example: _Ma' ke'elen_ doesn't have _-i'_ because `ke'el:cold` already has the suffixal pronoun `-en:1SG`. _Ma' ke'eli'_ does require the _-i'_ suffix, since there is no other suffix on _ke'el_. This is only applicable to very simple sentences. In the case of longer sentences, where the negation is only a single clause in the sentence, _-i'_ would be required, regardless. You can see that in the beginning of the sentence _Ma' wi'ijeni' táan in janal le ka'aj luk'en tin wotoche'_.
+
+--EX--
+Ma' wi'ijeni' ts'o'ok in janal.
+I'm not hungry, I finished eating.
+--ENDEX--
+
 ## Clausal Suffixes
 
 e'
 : Clausal terminator. It is affixed to the last word in a clause to indicate that it is complete. <ex>_In na'e' ki'ichpam_ ⧸ My mom is pretty</ex>.
 
 i'
-: Sentence terminator. Andrade (§3.7) notes that sentences almost invariably end with `-i'` when the final "construction" of the stentence requires a suffixal pronoun.
+: Sentence terminator. Andrade (§3.7) notes that sentences almost invariably end with `-i'` when the final "construction" of the stentence requires a suffixal pronoun. This will dominate other suffixal particles – i.e. in cases where there could be multiple, _-i'_ will be used.
 
 ## Common Structures
 
@@ -279,6 +368,8 @@ uts|to + dependent pronoun|classifier|what you like
 **uts**|**tin**|**chi'**|**tamales**
 good|to-{1SG}|food.CL|tamales
 {/}
+
+You may also hear, for _chi'_ and _xikin_, the use of `ki':rich` (as in "rich food") instead of _uts_.
 
 --EX--
 Uts tin t'aan in kanik maaya.
@@ -323,6 +414,8 @@ Similar to other Mayan languages, the work for 20 comes from the word for person
 400: baak' (<span class="maya">𝋡𝋠𝋠</span>)
 8,000: p'íik (<span class="maya">𝋡𝋠𝋠𝋠</span>)
 
+Numbers are combined with _tu_. Thus, 53 is _óoxlajun tu ka'ak'aal_ (13 and 2 x 20).
+
 Of the symbols themselves, <span class="maya">𝋡</span> are called _ch'aaj_ and <span class="maya">𝋥</span> are called either _jarat'_ or _jilib_. _Juub_ (<span class="maya">𝋠</span>) is the name for zero and the symbol.
 
 ## Numeric Classifiers
@@ -345,6 +438,7 @@ In our house there are 3 buildings. // "house" here being used to mean complex w
 # Bibliography
 
 * <source id="andrade">_A Grammar of Modern Yucatec_ by Manuel J. Andrade, University of Chicago, 1955.</source>
+* <source id="briceño-chel">_Los Verbos del Maya Yucateco Actual_ by Fidencio Briceño Chel, Instituto Nacional de Lenguas Indigenas, 2e, 2021.</source>
 * <source id="hofling">_Comparative Maya (Yucatec, Lacandon, Itzaj, And Mopan Mayan)_ by Charles Andrew Hofling, in _The Mayan Langauges_, ed. Aissen, England, and Maldonado, Routledge, 2017.</source>
 * <source id="jorge">_Jorge et. al_ YouTube</source>
 * <source id="lehmann_possession">_Possession in Yucatec Maya_ by Christopher Lehmann, Arbeitspapiere des Seminars für Sprachwissenschaft der Universität Erfurt, Nr. 10, 2003.</source>
